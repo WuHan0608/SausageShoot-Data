@@ -654,7 +654,7 @@
             "value": ""
         },
         "target1OriginDir": {
-            "value": 2
+            "value": ""
         },
         "target1RotationDirect": {
             "value": ""
@@ -678,7 +678,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-1.7,0,70,9@0,0,0,0.5,2@4.3,0,70,18@0,180,0,0.5,2@1.3,0,70,9"
+            "value": "1#-1.7,0,70,9@0,180,0,0.5,2@4.3,0,70,18@0,0,0,0.5,2@1.3,0,70,9"
         },
         "target1VanishTime": {
             "value": ""
