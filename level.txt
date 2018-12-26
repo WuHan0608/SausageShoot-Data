@@ -3350,7 +3350,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-0,0,0,0,60,2"
+            "value": "1###-0,0,0,0,60,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -3371,7 +3371,7 @@
             "value": [
                 3.3,
                 0,
-                83
+                80
             ]
         },
         "target2Scale": {
@@ -3422,7 +3422,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###-2,0.5,2,0.5,60,2"
+            "value": "1###-2,0.5,2,0.5,60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -3494,7 +3494,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1###0,0,0,0,60,2"
+            "value": "1###0,0,0,0,60,0.5"
         },
         "target3VanishTime": {
             "value": ""
@@ -13758,7 +13758,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-0,0,0,0,60,2"
+            "value": "1###-0,0,0,0,60,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -13779,7 +13779,7 @@
             "value": [
                 3.3,
                 0,
-                83
+                80
             ]
         },
         "target2Scale": {
@@ -13830,7 +13830,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###-2,0.5,2,0.5,60,2"
+            "value": "1###-2,0.5,2,0.5,60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -13902,7 +13902,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1###0,0,0,0,60,2"
+            "value": "1###0,0,0,0,60,0.5"
         },
         "target3VanishTime": {
             "value": ""
