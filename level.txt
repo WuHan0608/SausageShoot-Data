@@ -3350,7 +3350,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1,1,1,1@0,0@60,2"
+            "value": "1###-1,1,1,1,60,2"
         },
         "target1VanishTime": {
             "value": ""
@@ -5126,7 +5126,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-2,1,2,2,50,2"
+            "value": "1###-2,1,2,2@@50,2"
         },
         "target1VanishTime": {
             "value": ""
@@ -13758,7 +13758,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1,1,1,1@0,0@60,2"
+            "value": "1###-1,1,1,1,60,2"
         },
         "target1VanishTime": {
             "value": ""
