@@ -16254,7 +16254,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1#0.51,0,75.1,4#1,2,4"
+            "value": "1#0.5,0,75.2,4@0.5,0,75.1,4#1,2,4"
         },
         "target2VanishTime": {
             "value": ""
