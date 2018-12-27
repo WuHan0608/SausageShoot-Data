@@ -8374,7 +8374,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###0.3,0.5,2.3,0.5@@60,0.5"
+            "value": "1###2.3,0.5,3.3,0.5@@60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -8446,7 +8446,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1###-1.7,0.5,0.3,0.5@@60,0.5"
+            "value": "1###-1.7,0.5,-0.7,0.5@@60,0.5"
         },
         "target3VanishTime": {
             "value": ""
