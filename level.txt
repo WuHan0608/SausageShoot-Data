@@ -4990,7 +4990,7 @@
             "value": 2
         },
         "missionCoef": {
-            "value": 50
+            "value": 30
         },
         "enduranceCost": {
             "value": 1
@@ -4999,7 +4999,7 @@
             "value": 0
         },
         "missionDescription": {
-            "value": "50秒内达成目标！"
+            "value": "30秒内达成目标！"
         },
         "achieveOneStarGold": {
             "value": 280
@@ -5020,13 +5020,13 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 20
+            "value": 45
         },
         "achieveTwoStarCondition": {
-            "value": 25
+            "value": 50
         },
         "achieveThreeStarCondition": {
-            "value": 30
+            "value": 55
         },
         "achieveOneStarExperience": {
             "value": 5
@@ -8302,7 +8302,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-2,0.5,2,0.5@@60,0.5"
+            "value": "1###-0,0,0,0@@60,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -8374,7 +8374,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###-0,0,0,0@@60,0.5"
+            "value": "1###-2,0.5,2,0.5@@60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -17677,13 +17677,13 @@
             "value": 10
         },
         "target1PoleRotationDirect": {
-            "value": 2
+            "value": ""
         },
         "target1PoleRotationRange": {
-            "value": 0
+            "value": ""
         },
         "target1PoleRotationPeriod": {
-            "value": 0
+            "value": ""
         },
         "target1PathTime": {
             "value": ""
@@ -17829,13 +17829,13 @@
             "value": 10
         },
         "target1PoleRotationDirect": {
-            "value": ""
+            "value": 2
         },
         "target1PoleRotationRange": {
-            "value": ""
+            "value": 180
         },
         "target1PoleRotationPeriod": {
-            "value": ""
+            "value": 15
         },
         "target1PathTime": {
             "value": ""
@@ -17999,7 +17999,7 @@
             "value": ""
         },
         "target1Euler": {
-            "value": "0,-90,90"
+            "value": ""
         },
         "target1MaskPole": {
             "value": "0.15,-0.15,-0.15#1,1,1"
