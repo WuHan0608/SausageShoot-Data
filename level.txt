@@ -17698,7 +17698,7 @@
             "value": ""
         },
         "target1MaskPole": {
-            "value": ""
+            "value": "0.175,-0.175,-0.175#1,1,1"
         },
         "targetArr": {
             "value": "1044"
@@ -17850,7 +17850,7 @@
             "value": ""
         },
         "target1MaskPole": {
-            "value": ""
+            "value": "0.175,-0.175,-0.175#1,1,1"
         },
         "targetArr": {
             "value": "1045"
@@ -18002,7 +18002,7 @@
             "value": "0,-90,90"
         },
         "target1MaskPole": {
-            "value": ""
+            "value": "0.15,-0.15,-0.15#1,1,1"
         },
         "targetArr": {
             "value": "1046"
