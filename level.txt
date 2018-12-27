@@ -626,7 +626,7 @@
         "target1Pos": {
             "value": [
                 1.3,
-                0,
+                -1,
                 70
             ]
         },
@@ -678,7 +678,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-1.7,0,70,9@0,180,0,1,2@4.3,0,70,18@0,0,0,1,2@1.3,0,70,9"
+            "value": "1#-1.7,-1,70,9@0,180,0,1,2@4.3,-1,70,18@0,0,0,1,2@1.3,-1,70,9"
         },
         "target1VanishTime": {
             "value": ""
@@ -3810,7 +3810,7 @@
         "target1Pos": {
             "value": [
                 1.3,
-                0,
+                -1,
                 70
             ]
         },
@@ -3862,7 +3862,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-1.7,0,70,9@0,180,0,1,2@4.3,0,70,18@0,0,0,1,2@1.3,0,70,9"
+            "value": "1#-1.7,-1,70,9@0,180,0,1,2@4.3,-1,70,18@0,0,0,1,2@1.3,-1,70,9"
         },
         "target1VanishTime": {
             "value": ""
@@ -3907,7 +3907,7 @@
             "value": 3
         },
         "target2FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target2OriginDir": {
             "value": 2
@@ -3979,7 +3979,7 @@
             "value": 3
         },
         "target3FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target3OriginDir": {
             "value": ""
@@ -4051,7 +4051,7 @@
             "value": 3
         },
         "target4FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target4OriginDir": {
             "value": 2
@@ -4347,7 +4347,7 @@
             "value": 3
         },
         "target3FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target3OriginDir": {
             "value": 2
@@ -4419,7 +4419,7 @@
             "value": 3
         },
         "target4FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target4OriginDir": {
             "value": ""
@@ -4491,7 +4491,7 @@
             "value": 3
         },
         "target5FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target5OriginDir": {
             "value": 2
@@ -8374,7 +8374,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###-2,0.5,2,0.5@@60,0.5"
+            "value": "1###0.3,0.5,2.3,0.5@@60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -8446,7 +8446,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1###-2,0.5,2,0.5@@60,0.5"
+            "value": "1###-1.7,0.5,0.3,0.5@@60,0.5"
         },
         "target3VanishTime": {
             "value": ""
@@ -17087,7 +17087,7 @@
             "value": ""
         },
         "target1Euler": {
-            "value": "0,-90,90"
+            "value": "0,-90,-270"
         },
         "target1MaskPole": {
             "value": ""
@@ -17391,7 +17391,7 @@
             "value": ""
         },
         "target1Euler": {
-            "value": "0,-90,-90"
+            "value": "0,-90,-270"
         },
         "target1MaskPole": {
             "value": ""
@@ -18619,7 +18619,7 @@
             "value": [
                 1.3,
                 -1,
-                75
+                100
             ]
         },
         "target2Scale": {
@@ -18792,7 +18792,7 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 3
+            "value": 2
         },
         "target1FallDownPeriod": {
             "value": 5
@@ -18876,7 +18876,7 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 30
+            "value": 15
         },
         "achieveTwoStarCondition": {
             "value": 40
@@ -18944,7 +18944,7 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 3
+            "value": 2
         },
         "target1FallDownPeriod": {
             "value": 4
@@ -19240,7 +19240,7 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 3
+            "value": 2
         },
         "target1FallDownPeriod": {
             "value": 4
@@ -19536,7 +19536,7 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 3
+            "value": 2
         },
         "target1FallDownPeriod": {
             "value": 3
@@ -19832,7 +19832,7 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 3
+            "value": 2
         },
         "target1FallDownPeriod": {
             "value": 3
