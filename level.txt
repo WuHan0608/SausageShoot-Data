@@ -5514,168 +5514,16 @@
             "value": 1
         },
         "UiShowDistance": {
-            "value": 25
-        },
-        "Target1Type": {
-            "value": "Target-1"
-        },
-        "target1Pos": {
-            "value": [
-                3.8,
-                0,
-                70
-            ]
-        },
-        "target1Scale": {
-            "value": [
-                1
-            ]
-        },
-        "target1MoveType": {
-            "value": 3
-        },
-        "target1MovePeriod": {
-            "value": 27
-        },
-        "target1MoveDistance1": {
-            "value": 3
-        },
-        "target1MoveDistance2": {
-            "value": 6
-        },
-        "target1FallDownType": {
-            "value": 1
-        },
-        "target1FallDownPeriod": {
-            "value": ""
-        },
-        "target1OriginDir": {
-            "value": ""
-        },
-        "target1RotationDirect": {
-            "value": ""
-        },
-        "target1RotationPeriod": {
-            "value": ""
-        },
-        "target1IniPosInPole": {
-            "value": ""
-        },
-        "target1MovePeriodInPole": {
-            "value": ""
-        },
-        "target1PoleRotationDirect": {
-            "value": ""
-        },
-        "target1PoleRotationRange": {
-            "value": ""
-        },
-        "target1PoleRotationPeriod": {
-            "value": ""
-        },
-        "target1PathTime": {
-            "value": ""
-        },
-        "target1VanishTime": {
-            "value": ""
-        },
-        "target1Hp": {
-            "value": ""
-        },
-        "target1Euler": {
-            "value": ""
-        },
-        "target1MaskPole": {
-            "value": ""
-        },
-        "targetArr": {
-            "value": "41"
-        },
-        "gravity": {
-            "value": 20
-        },
-        "missionType": {
-            "value": 1
-        },
-        "missionCoef": {
-            "value": 5
-        },
-        "enduranceCost": {
-            "value": 1
-        },
-        "missionDifficulty": {
-            "value": 0
-        },
-        "missionDescription": {
-            "value": "关卡描述"
-        },
-        "achieveOneStarGold": {
-            "value": 320
-        },
-        "achieveTwoStarGold": {
-            "value": 480
-        },
-        "achieveThreeStarGold": {
-            "value": 640
-        },
-        "achieveOneStarDiamond": {
-            "value": 0
-        },
-        "achieveTwoStarDiamond": {
-            "value": 0
-        },
-        "achieveThreeStarDiamond": {
-            "value": 0
-        },
-        "achieveOneStarCondition": {
             "value": 30
         },
-        "achieveTwoStarCondition": {
-            "value": 40
-        },
-        "achieveThreeStarCondition": {
-            "value": 50
-        },
-        "achieveOneStarExperience": {
-            "value": 9
-        },
-        "achieveTwoStarExperience": {
-            "value": 9
-        },
-        "achieveThreeStarExperience": {
-            "value": 9
-        },
-        "achieveOneStarEndurance": {
-            "value": 0
-        },
-        "achieveTwoStarEndurance": {
-            "value": 0
-        },
-        "achieveThreeStarEndurance": {
-            "value": 0
-        }
-    },
-    "Mission-1-24": {
-        "level": {
-            "value": "Mission-1-24"
-        },
-        "id": {
-            "value": 24
-        },
-        "scene": {
-            "value": 1
-        },
-        "UiShowDistance": {
-            "value": 45
-        },
         "Target1Type": {
-            "value": "Target-1"
+            "value": "Target-19"
         },
         "target1Pos": {
             "value": [
                 1.3,
-                0,
-                90
+                -1,
+                75
             ]
         },
         "target1Scale": {
@@ -5741,7 +5589,7 @@
             "value": ""
         },
         "targetArr": {
-            "value": "42"
+            "value": "131"
         },
         "gravity": {
             "value": 20
@@ -5759,16 +5607,16 @@
             "value": 0
         },
         "missionDescription": {
-            "value": "关卡描述"
+            "value": "用5颗子弹达成目标！"
         },
         "achieveOneStarGold": {
-            "value": 330
+            "value": 320
         },
         "achieveTwoStarGold": {
-            "value": 495
+            "value": 480
         },
         "achieveThreeStarGold": {
-            "value": 660
+            "value": 640
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -5780,10 +5628,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 30
+            "value": 40
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 45
         },
         "achieveThreeStarCondition": {
             "value": 50
@@ -5807,27 +5655,27 @@
             "value": 0
         }
     },
-    "Mission-1-25": {
+    "Mission-1-24": {
         "level": {
-            "value": "Mission-1-25"
+            "value": "Mission-1-24"
         },
         "id": {
-            "value": 25
+            "value": 24
         },
         "scene": {
             "value": 1
         },
         "UiShowDistance": {
-            "value": 45
+            "value": 38
         },
         "Target1Type": {
-            "value": "Target-1"
+            "value": "Target-19"
         },
         "target1Pos": {
             "value": [
                 1.3,
-                0,
-                90
+                -1,
+                83
             ]
         },
         "target1Scale": {
@@ -5836,16 +5684,16 @@
             ]
         },
         "target1MoveType": {
-            "value": 3
+            "value": 0
         },
         "target1MovePeriod": {
-            "value": 30
+            "value": -1
         },
         "target1MoveDistance1": {
-            "value": 5
+            "value": 0
         },
         "target1MoveDistance2": {
-            "value": 10
+            "value": 0
         },
         "target1FallDownType": {
             "value": 1
@@ -5893,7 +5741,159 @@
             "value": ""
         },
         "targetArr": {
-            "value": "43"
+            "value": "132"
+        },
+        "gravity": {
+            "value": 20
+        },
+        "missionType": {
+            "value": 1
+        },
+        "missionCoef": {
+            "value": 5
+        },
+        "enduranceCost": {
+            "value": 1
+        },
+        "missionDifficulty": {
+            "value": 0
+        },
+        "missionDescription": {
+            "value": "用5颗子弹达成目标！"
+        },
+        "achieveOneStarGold": {
+            "value": 330
+        },
+        "achieveTwoStarGold": {
+            "value": 495
+        },
+        "achieveThreeStarGold": {
+            "value": 660
+        },
+        "achieveOneStarDiamond": {
+            "value": 0
+        },
+        "achieveTwoStarDiamond": {
+            "value": 0
+        },
+        "achieveThreeStarDiamond": {
+            "value": 0
+        },
+        "achieveOneStarCondition": {
+            "value": 40
+        },
+        "achieveTwoStarCondition": {
+            "value": 45
+        },
+        "achieveThreeStarCondition": {
+            "value": 50
+        },
+        "achieveOneStarExperience": {
+            "value": 9
+        },
+        "achieveTwoStarExperience": {
+            "value": 9
+        },
+        "achieveThreeStarExperience": {
+            "value": 9
+        },
+        "achieveOneStarEndurance": {
+            "value": 0
+        },
+        "achieveTwoStarEndurance": {
+            "value": 0
+        },
+        "achieveThreeStarEndurance": {
+            "value": 0
+        }
+    },
+    "Mission-1-25": {
+        "level": {
+            "value": "Mission-1-25"
+        },
+        "id": {
+            "value": 25
+        },
+        "scene": {
+            "value": 1
+        },
+        "UiShowDistance": {
+            "value": 35
+        },
+        "Target1Type": {
+            "value": "Target-20"
+        },
+        "target1Pos": {
+            "value": [
+                1.3,
+                -1,
+                80
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": ""
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "targetArr": {
+            "value": "133"
         },
         "gravity": {
             "value": 20
@@ -5932,10 +5932,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 30
+            "value": 40
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 45
         },
         "achieveThreeStarCondition": {
             "value": 50
@@ -15860,7 +15860,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 6
+            "value": 8
         },
         "target1IniPosInPole": {
             "value": ""
@@ -15979,7 +15979,7 @@
             "value": [
                 6.3,
                 0,
-                85
+                95
             ]
         },
         "target1Scale": {
@@ -16012,7 +16012,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 6
+            "value": 8
         },
         "target1IniPosInPole": {
             "value": ""
@@ -16030,7 +16030,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-3.7,0,95,8@6.3,0,95,8"
+            "value": "1#-3.7,0,95,10@6.3,0,95,10"
         },
         "target1VanishTime": {
             "value": ""
@@ -17980,7 +17980,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 6
+            "value": 8
         },
         "target1IniPosInPole": {
             "value": ""
@@ -18099,7 +18099,7 @@
             "value": [
                 6.3,
                 0,
-                85
+                95
             ]
         },
         "target1Scale": {
@@ -18132,7 +18132,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 6
+            "value": 8
         },
         "target1IniPosInPole": {
             "value": ""
@@ -18150,7 +18150,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-3.7,0,95,8@6.3,0,95,8"
+            "value": "1#-3.7,0,95,10@6.3,0,95,10"
         },
         "target1VanishTime": {
             "value": ""
@@ -18302,7 +18302,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-3.7,0,95,10@6.3,0,95,10"
+            "value": "1#-3.7,0,105,10@6.3,0,105,10"
         },
         "target1VanishTime": {
             "value": ""
@@ -18454,7 +18454,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#-3.7,0,95,10@6.3,0,95,10"
+            "value": "1#-3.7,0,125,10@6.3,0,125,10"
         },
         "target1VanishTime": {
             "value": ""
