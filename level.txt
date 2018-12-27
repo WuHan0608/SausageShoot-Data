@@ -2875,7 +2875,7 @@
             "value": 1
         },
         "target5FallDownPeriod": {
-            "value": 8
+            "value": "8,4"
         },
         "target5OriginDir": {
             "value": ""
@@ -2947,7 +2947,7 @@
             "value": 1
         },
         "target6FallDownPeriod": {
-            "value": 10
+            "value": "10,4"
         },
         "target6OriginDir": {
             "value": ""
@@ -3019,7 +3019,7 @@
             "value": 1
         },
         "target7FallDownPeriod": {
-            "value": 10
+            "value": "10,4"
         },
         "target7OriginDir": {
             "value": ""
@@ -3091,7 +3091,7 @@
             "value": 1
         },
         "target8FallDownPeriod": {
-            "value": 12
+            "value": "12,4"
         },
         "target8OriginDir": {
             "value": ""
