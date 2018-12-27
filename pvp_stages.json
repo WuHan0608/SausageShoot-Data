@@ -1,0 +1,1985 @@
+{
+    "1": {
+        "id": 1,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 1,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 60,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-14"
+        },
+        "target1Pos": {
+            "value": [
+                5.3,
+                0,
+                76
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 10
+        },
+        "target1MoveDistance2": {
+            "value": 1.5
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": "1#-1.2,0,76,8@3.8,0,76,8#1,2,7"
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "Target2Type": {
+            "value": "Target-18"
+        },
+        "target2Pos": {
+            "value": [
+                -1.2,
+                -1,
+                75
+            ]
+        },
+        "target2Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target2MoveType": {
+            "value": 0
+        },
+        "target2MovePeriod": {
+            "value": -1
+        },
+        "target2MoveDistance1": {
+            "value": 0
+        },
+        "target2MoveDistance2": {
+            "value": 0
+        },
+        "target2FallDownType": {
+            "value": 1
+        },
+        "target2FallDownPeriod": {
+            "value": ""
+        },
+        "target2OriginDir": {
+            "value": ""
+        },
+        "target2RotationDirect": {
+            "value": ""
+        },
+        "target2RotationPeriod": {
+            "value": ""
+        },
+        "target2IniPosInPole": {
+            "value": ""
+        },
+        "target2MovePeriodInPole": {
+            "value": ""
+        },
+        "target2PoleRotationDirect": {
+            "value": ""
+        },
+        "target2PoleRotationRange": {
+            "value": ""
+        },
+        "target2PoleRotationPeriod": {
+            "value": ""
+        },
+        "target2PathTime": {
+            "value": ""
+        },
+        "target2VanishTime": {
+            "value": ""
+        },
+        "target2Hp": {
+            "value": ""
+        },
+        "target2Euler": {
+            "value": ""
+        },
+        "target2MaskPole": {
+            "value": ""
+        },
+        "Target3Type": {
+            "value": "Target-18"
+        },
+        "target3Pos": {
+            "value": [
+                3.8,
+                -1,
+                75
+            ]
+        },
+        "target3Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target3MoveType": {
+            "value": 0
+        },
+        "target3MovePeriod": {
+            "value": -1
+        },
+        "target3MoveDistance1": {
+            "value": 0
+        },
+        "target3MoveDistance2": {
+            "value": 0
+        },
+        "target3FallDownType": {
+            "value": 1
+        },
+        "target3FallDownPeriod": {
+            "value": ""
+        },
+        "target3OriginDir": {
+            "value": ""
+        },
+        "target3RotationDirect": {
+            "value": ""
+        },
+        "target3RotationPeriod": {
+            "value": ""
+        },
+        "target3IniPosInPole": {
+            "value": ""
+        },
+        "target3MovePeriodInPole": {
+            "value": ""
+        },
+        "target3PoleRotationDirect": {
+            "value": ""
+        },
+        "target3PoleRotationRange": {
+            "value": ""
+        },
+        "target3PoleRotationPeriod": {
+            "value": ""
+        },
+        "target3PathTime": {
+            "value": ""
+        },
+        "target3VanishTime": {
+            "value": ""
+        },
+        "target3Hp": {
+            "value": ""
+        },
+        "target3Euler": {
+            "value": ""
+        },
+        "target3MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    },
+    "2": {
+        "id": 2,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 2,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-14"
+        },
+        "target1Pos": {
+            "value": [
+                5.3,
+                0,
+                76
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 10
+        },
+        "target1MoveDistance2": {
+            "value": 1.5
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": "1#-1.2,0,76,8@3.8,0,76,8#1,2,7"
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "Target2Type": {
+            "value": "Target-18"
+        },
+        "target2Pos": {
+            "value": [
+                -1.2,
+                -1,
+                75
+            ]
+        },
+        "target2Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target2MoveType": {
+            "value": 0
+        },
+        "target2MovePeriod": {
+            "value": -1
+        },
+        "target2MoveDistance1": {
+            "value": 0
+        },
+        "target2MoveDistance2": {
+            "value": 0
+        },
+        "target2FallDownType": {
+            "value": 1
+        },
+        "target2FallDownPeriod": {
+            "value": ""
+        },
+        "target2OriginDir": {
+            "value": ""
+        },
+        "target2RotationDirect": {
+            "value": ""
+        },
+        "target2RotationPeriod": {
+            "value": ""
+        },
+        "target2IniPosInPole": {
+            "value": ""
+        },
+        "target2MovePeriodInPole": {
+            "value": ""
+        },
+        "target2PoleRotationDirect": {
+            "value": ""
+        },
+        "target2PoleRotationRange": {
+            "value": ""
+        },
+        "target2PoleRotationPeriod": {
+            "value": ""
+        },
+        "target2PathTime": {
+            "value": ""
+        },
+        "target2VanishTime": {
+            "value": ""
+        },
+        "target2Hp": {
+            "value": ""
+        },
+        "target2Euler": {
+            "value": ""
+        },
+        "target2MaskPole": {
+            "value": ""
+        },
+        "Target3Type": {
+            "value": "Target-18"
+        },
+        "target3Pos": {
+            "value": [
+                3.8,
+                -1,
+                75
+            ]
+        },
+        "target3Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target3MoveType": {
+            "value": 0
+        },
+        "target3MovePeriod": {
+            "value": -1
+        },
+        "target3MoveDistance1": {
+            "value": 0
+        },
+        "target3MoveDistance2": {
+            "value": 0
+        },
+        "target3FallDownType": {
+            "value": 1
+        },
+        "target3FallDownPeriod": {
+            "value": ""
+        },
+        "target3OriginDir": {
+            "value": ""
+        },
+        "target3RotationDirect": {
+            "value": ""
+        },
+        "target3RotationPeriod": {
+            "value": ""
+        },
+        "target3IniPosInPole": {
+            "value": ""
+        },
+        "target3MovePeriodInPole": {
+            "value": ""
+        },
+        "target3PoleRotationDirect": {
+            "value": ""
+        },
+        "target3PoleRotationRange": {
+            "value": ""
+        },
+        "target3PoleRotationPeriod": {
+            "value": ""
+        },
+        "target3PathTime": {
+            "value": ""
+        },
+        "target3VanishTime": {
+            "value": ""
+        },
+        "target3Hp": {
+            "value": ""
+        },
+        "target3Euler": {
+            "value": ""
+        },
+        "target3MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    },
+    "999": {
+        "id": 999,
+        "level": [
+            1
+        ],
+        "shootScore": 8,
+        "missionDescription": 999,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 2,
+        "pvpMissionTypeDetail": 1,
+        "pvpExtraTimeId": 0,
+        "Target1Type": {
+            "value": "Target-1"
+        },
+        "target1Pos": {
+            "value": [
+                0,
+                0,
+                70
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": "1###-2,1,2,2@@50,2"
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    },
+    "3": {
+        "id": 3,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 3,
+        "UiShowDistance": 25,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 3,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-17"
+        },
+        "target1Pos": {
+            "value": [
+                9.3,
+                30,
+                75
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": ""
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "Target2Type": {
+            "value": "Target-17"
+        },
+        "target2Pos": {
+            "value": [
+                -4.7,
+                30,
+                80
+            ]
+        },
+        "target2Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target2MoveType": {
+            "value": 0
+        },
+        "target2MovePeriod": {
+            "value": -1
+        },
+        "target2MoveDistance1": {
+            "value": 0
+        },
+        "target2MoveDistance2": {
+            "value": 0
+        },
+        "target2FallDownType": {
+            "value": 1
+        },
+        "target2FallDownPeriod": {
+            "value": ""
+        },
+        "target2OriginDir": {
+            "value": ""
+        },
+        "target2RotationDirect": {
+            "value": ""
+        },
+        "target2RotationPeriod": {
+            "value": ""
+        },
+        "target2IniPosInPole": {
+            "value": ""
+        },
+        "target2MovePeriodInPole": {
+            "value": ""
+        },
+        "target2PoleRotationDirect": {
+            "value": ""
+        },
+        "target2PoleRotationRange": {
+            "value": ""
+        },
+        "target2PoleRotationPeriod": {
+            "value": ""
+        },
+        "target2PathTime": {
+            "value": ""
+        },
+        "target2VanishTime": {
+            "value": ""
+        },
+        "target2Hp": {
+            "value": ""
+        },
+        "target2Euler": {
+            "value": ""
+        },
+        "target2MaskPole": {
+            "value": ""
+        },
+        "Target3Type": {
+            "value": "Target-17"
+        },
+        "target3Pos": {
+            "value": [
+                -0.7,
+                20,
+                66
+            ]
+        },
+        "target3Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target3MoveType": {
+            "value": 0
+        },
+        "target3MovePeriod": {
+            "value": -1
+        },
+        "target3MoveDistance1": {
+            "value": 0
+        },
+        "target3MoveDistance2": {
+            "value": 0
+        },
+        "target3FallDownType": {
+            "value": 1
+        },
+        "target3FallDownPeriod": {
+            "value": ""
+        },
+        "target3OriginDir": {
+            "value": ""
+        },
+        "target3RotationDirect": {
+            "value": ""
+        },
+        "target3RotationPeriod": {
+            "value": ""
+        },
+        "target3IniPosInPole": {
+            "value": ""
+        },
+        "target3MovePeriodInPole": {
+            "value": ""
+        },
+        "target3PoleRotationDirect": {
+            "value": ""
+        },
+        "target3PoleRotationRange": {
+            "value": ""
+        },
+        "target3PoleRotationPeriod": {
+            "value": ""
+        },
+        "target3PathTime": {
+            "value": ""
+        },
+        "target3VanishTime": {
+            "value": ""
+        },
+        "target3Hp": {
+            "value": ""
+        },
+        "target3Euler": {
+            "value": ""
+        },
+        "target3MaskPole": {
+            "value": ""
+        },
+        "Target4Type": {
+            "value": "Target-17"
+        },
+        "target4Pos": {
+            "value": [
+                5.3,
+                -20,
+                65
+            ]
+        },
+        "target4Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target4MoveType": {
+            "value": 0
+        },
+        "target4MovePeriod": {
+            "value": -1
+        },
+        "target4MoveDistance1": {
+            "value": 0
+        },
+        "target4MoveDistance2": {
+            "value": 0
+        },
+        "target4FallDownType": {
+            "value": 1
+        },
+        "target4FallDownPeriod": {
+            "value": ""
+        },
+        "target4OriginDir": {
+            "value": ""
+        },
+        "target4RotationDirect": {
+            "value": ""
+        },
+        "target4RotationPeriod": {
+            "value": ""
+        },
+        "target4IniPosInPole": {
+            "value": ""
+        },
+        "target4MovePeriodInPole": {
+            "value": ""
+        },
+        "target4PoleRotationDirect": {
+            "value": ""
+        },
+        "target4PoleRotationRange": {
+            "value": ""
+        },
+        "target4PoleRotationPeriod": {
+            "value": ""
+        },
+        "target4PathTime": {
+            "value": ""
+        },
+        "target4VanishTime": {
+            "value": ""
+        },
+        "target4Hp": {
+            "value": ""
+        },
+        "target4Euler": {
+            "value": ""
+        },
+        "target4MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    },
+    "4": {
+        "id": 4,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 4,
+        "UiShowDistance": 25,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-17"
+        },
+        "target1Pos": {
+            "value": [
+                9.3,
+                30,
+                75
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": ""
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "Target2Type": {
+            "value": "Target-17"
+        },
+        "target2Pos": {
+            "value": [
+                -4.7,
+                30,
+                80
+            ]
+        },
+        "target2Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target2MoveType": {
+            "value": 0
+        },
+        "target2MovePeriod": {
+            "value": -1
+        },
+        "target2MoveDistance1": {
+            "value": 0
+        },
+        "target2MoveDistance2": {
+            "value": 0
+        },
+        "target2FallDownType": {
+            "value": 1
+        },
+        "target2FallDownPeriod": {
+            "value": ""
+        },
+        "target2OriginDir": {
+            "value": ""
+        },
+        "target2RotationDirect": {
+            "value": ""
+        },
+        "target2RotationPeriod": {
+            "value": ""
+        },
+        "target2IniPosInPole": {
+            "value": ""
+        },
+        "target2MovePeriodInPole": {
+            "value": ""
+        },
+        "target2PoleRotationDirect": {
+            "value": ""
+        },
+        "target2PoleRotationRange": {
+            "value": ""
+        },
+        "target2PoleRotationPeriod": {
+            "value": ""
+        },
+        "target2PathTime": {
+            "value": ""
+        },
+        "target2VanishTime": {
+            "value": ""
+        },
+        "target2Hp": {
+            "value": ""
+        },
+        "target2Euler": {
+            "value": ""
+        },
+        "target2MaskPole": {
+            "value": ""
+        },
+        "Target3Type": {
+            "value": "Target-17"
+        },
+        "target3Pos": {
+            "value": [
+                -0.7,
+                20,
+                66
+            ]
+        },
+        "target3Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target3MoveType": {
+            "value": 0
+        },
+        "target3MovePeriod": {
+            "value": -1
+        },
+        "target3MoveDistance1": {
+            "value": 0
+        },
+        "target3MoveDistance2": {
+            "value": 0
+        },
+        "target3FallDownType": {
+            "value": 1
+        },
+        "target3FallDownPeriod": {
+            "value": ""
+        },
+        "target3OriginDir": {
+            "value": ""
+        },
+        "target3RotationDirect": {
+            "value": ""
+        },
+        "target3RotationPeriod": {
+            "value": ""
+        },
+        "target3IniPosInPole": {
+            "value": ""
+        },
+        "target3MovePeriodInPole": {
+            "value": ""
+        },
+        "target3PoleRotationDirect": {
+            "value": ""
+        },
+        "target3PoleRotationRange": {
+            "value": ""
+        },
+        "target3PoleRotationPeriod": {
+            "value": ""
+        },
+        "target3PathTime": {
+            "value": ""
+        },
+        "target3VanishTime": {
+            "value": ""
+        },
+        "target3Hp": {
+            "value": ""
+        },
+        "target3Euler": {
+            "value": ""
+        },
+        "target3MaskPole": {
+            "value": ""
+        },
+        "Target4Type": {
+            "value": "Target-17"
+        },
+        "target4Pos": {
+            "value": [
+                5.3,
+                -20,
+                65
+            ]
+        },
+        "target4Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target4MoveType": {
+            "value": 0
+        },
+        "target4MovePeriod": {
+            "value": -1
+        },
+        "target4MoveDistance1": {
+            "value": 0
+        },
+        "target4MoveDistance2": {
+            "value": 0
+        },
+        "target4FallDownType": {
+            "value": 1
+        },
+        "target4FallDownPeriod": {
+            "value": ""
+        },
+        "target4OriginDir": {
+            "value": ""
+        },
+        "target4RotationDirect": {
+            "value": ""
+        },
+        "target4RotationPeriod": {
+            "value": ""
+        },
+        "target4IniPosInPole": {
+            "value": ""
+        },
+        "target4MovePeriodInPole": {
+            "value": ""
+        },
+        "target4PoleRotationDirect": {
+            "value": ""
+        },
+        "target4PoleRotationRange": {
+            "value": ""
+        },
+        "target4PoleRotationPeriod": {
+            "value": ""
+        },
+        "target4PathTime": {
+            "value": ""
+        },
+        "target4VanishTime": {
+            "value": ""
+        },
+        "target4Hp": {
+            "value": ""
+        },
+        "target4Euler": {
+            "value": ""
+        },
+        "target4MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    },
+    "5": {
+        "id": 5,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 5,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 60,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-3"
+        },
+        "target1Pos": {
+            "value": [
+                1.3,
+                -0.58,
+                95
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": 2
+        },
+        "target1RotationPeriod": {
+            "value": 8
+        },
+        "target1IniPosInPole": {
+            "value": -1
+        },
+        "target1MovePeriodInPole": {
+            "value": 4
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": ""
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": "0.175,-0.175,-0.175#1,1,1"
+        },
+        "targetArr": {}
+    },
+    "6": {
+        "id": 6,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 6,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-3"
+        },
+        "target1Pos": {
+            "value": [
+                1.3,
+                -0.58,
+                95
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": 2
+        },
+        "target1RotationPeriod": {
+            "value": 8
+        },
+        "target1IniPosInPole": {
+            "value": -1
+        },
+        "target1MovePeriodInPole": {
+            "value": 4
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": ""
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": "0.175,-0.175,-0.175#1,1,1"
+        },
+        "targetArr": {}
+    },
+    "7": {
+        "id": 7,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 7,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 60,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-14"
+        },
+        "target1Pos": {
+            "value": [
+                6.3,
+                0,
+                75
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": "1#-1.7,0,76,8@6.3,0,76,8"
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "Target2Type": {
+            "value": "Target-18"
+        },
+        "target2Pos": {
+            "value": [
+                -1.7,
+                -1,
+                75
+            ]
+        },
+        "target2Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target2MoveType": {
+            "value": 0
+        },
+        "target2MovePeriod": {
+            "value": -1
+        },
+        "target2MoveDistance1": {
+            "value": 0
+        },
+        "target2MoveDistance2": {
+            "value": 0
+        },
+        "target2FallDownType": {
+            "value": 1
+        },
+        "target2FallDownPeriod": {
+            "value": ""
+        },
+        "target2OriginDir": {
+            "value": ""
+        },
+        "target2RotationDirect": {
+            "value": ""
+        },
+        "target2RotationPeriod": {
+            "value": ""
+        },
+        "target2IniPosInPole": {
+            "value": ""
+        },
+        "target2MovePeriodInPole": {
+            "value": ""
+        },
+        "target2PoleRotationDirect": {
+            "value": ""
+        },
+        "target2PoleRotationRange": {
+            "value": ""
+        },
+        "target2PoleRotationPeriod": {
+            "value": ""
+        },
+        "target2PathTime": {
+            "value": ""
+        },
+        "target2VanishTime": {
+            "value": ""
+        },
+        "target2Hp": {
+            "value": ""
+        },
+        "target2Euler": {
+            "value": ""
+        },
+        "target2MaskPole": {
+            "value": ""
+        },
+        "Target3Type": {
+            "value": "Target-18"
+        },
+        "target3Pos": {
+            "value": [
+                6.3,
+                -1,
+                75
+            ]
+        },
+        "target3Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target3MoveType": {
+            "value": 0
+        },
+        "target3MovePeriod": {
+            "value": -1
+        },
+        "target3MoveDistance1": {
+            "value": 0
+        },
+        "target3MoveDistance2": {
+            "value": 0
+        },
+        "target3FallDownType": {
+            "value": 1
+        },
+        "target3FallDownPeriod": {
+            "value": ""
+        },
+        "target3OriginDir": {
+            "value": ""
+        },
+        "target3RotationDirect": {
+            "value": ""
+        },
+        "target3RotationPeriod": {
+            "value": ""
+        },
+        "target3IniPosInPole": {
+            "value": ""
+        },
+        "target3MovePeriodInPole": {
+            "value": ""
+        },
+        "target3PoleRotationDirect": {
+            "value": ""
+        },
+        "target3PoleRotationRange": {
+            "value": ""
+        },
+        "target3PoleRotationPeriod": {
+            "value": ""
+        },
+        "target3PathTime": {
+            "value": ""
+        },
+        "target3VanishTime": {
+            "value": ""
+        },
+        "target3Hp": {
+            "value": ""
+        },
+        "target3Euler": {
+            "value": ""
+        },
+        "target3MaskPole": {
+            "value": ""
+        },
+        "Target4Type": {
+            "value": "Target-17"
+        },
+        "target4Pos": {
+            "value": [
+                3.3,
+                40,
+                75
+            ]
+        },
+        "target4Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target4MoveType": {
+            "value": 0
+        },
+        "target4MovePeriod": {
+            "value": -1
+        },
+        "target4MoveDistance1": {
+            "value": 0
+        },
+        "target4MoveDistance2": {
+            "value": 0
+        },
+        "target4FallDownType": {
+            "value": 1
+        },
+        "target4FallDownPeriod": {
+            "value": ""
+        },
+        "target4OriginDir": {
+            "value": ""
+        },
+        "target4RotationDirect": {
+            "value": ""
+        },
+        "target4RotationPeriod": {
+            "value": ""
+        },
+        "target4IniPosInPole": {
+            "value": ""
+        },
+        "target4MovePeriodInPole": {
+            "value": ""
+        },
+        "target4PoleRotationDirect": {
+            "value": ""
+        },
+        "target4PoleRotationRange": {
+            "value": ""
+        },
+        "target4PoleRotationPeriod": {
+            "value": ""
+        },
+        "target4PathTime": {
+            "value": ""
+        },
+        "target4VanishTime": {
+            "value": ""
+        },
+        "target4Hp": {
+            "value": ""
+        },
+        "target4Euler": {
+            "value": ""
+        },
+        "target4MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    },
+    "8": {
+        "id": 8,
+        "level": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "shootScore": 10,
+        "missionDescription": 8,
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "pvpExtraTimeId": 999,
+        "Target1Type": {
+            "value": "Target-14"
+        },
+        "target1Pos": {
+            "value": [
+                6.3,
+                0,
+                75
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": "1#-1.7,0,76,8@6.3,0,76,8"
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "Target2Type": {
+            "value": "Target-18"
+        },
+        "target2Pos": {
+            "value": [
+                -1.7,
+                -1,
+                75
+            ]
+        },
+        "target2Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target2MoveType": {
+            "value": 0
+        },
+        "target2MovePeriod": {
+            "value": -1
+        },
+        "target2MoveDistance1": {
+            "value": 0
+        },
+        "target2MoveDistance2": {
+            "value": 0
+        },
+        "target2FallDownType": {
+            "value": 1
+        },
+        "target2FallDownPeriod": {
+            "value": ""
+        },
+        "target2OriginDir": {
+            "value": ""
+        },
+        "target2RotationDirect": {
+            "value": ""
+        },
+        "target2RotationPeriod": {
+            "value": ""
+        },
+        "target2IniPosInPole": {
+            "value": ""
+        },
+        "target2MovePeriodInPole": {
+            "value": ""
+        },
+        "target2PoleRotationDirect": {
+            "value": ""
+        },
+        "target2PoleRotationRange": {
+            "value": ""
+        },
+        "target2PoleRotationPeriod": {
+            "value": ""
+        },
+        "target2PathTime": {
+            "value": ""
+        },
+        "target2VanishTime": {
+            "value": ""
+        },
+        "target2Hp": {
+            "value": ""
+        },
+        "target2Euler": {
+            "value": ""
+        },
+        "target2MaskPole": {
+            "value": ""
+        },
+        "Target3Type": {
+            "value": "Target-18"
+        },
+        "target3Pos": {
+            "value": [
+                6.3,
+                -1,
+                75
+            ]
+        },
+        "target3Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target3MoveType": {
+            "value": 0
+        },
+        "target3MovePeriod": {
+            "value": -1
+        },
+        "target3MoveDistance1": {
+            "value": 0
+        },
+        "target3MoveDistance2": {
+            "value": 0
+        },
+        "target3FallDownType": {
+            "value": 1
+        },
+        "target3FallDownPeriod": {
+            "value": ""
+        },
+        "target3OriginDir": {
+            "value": ""
+        },
+        "target3RotationDirect": {
+            "value": ""
+        },
+        "target3RotationPeriod": {
+            "value": ""
+        },
+        "target3IniPosInPole": {
+            "value": ""
+        },
+        "target3MovePeriodInPole": {
+            "value": ""
+        },
+        "target3PoleRotationDirect": {
+            "value": ""
+        },
+        "target3PoleRotationRange": {
+            "value": ""
+        },
+        "target3PoleRotationPeriod": {
+            "value": ""
+        },
+        "target3PathTime": {
+            "value": ""
+        },
+        "target3VanishTime": {
+            "value": ""
+        },
+        "target3Hp": {
+            "value": ""
+        },
+        "target3Euler": {
+            "value": ""
+        },
+        "target3MaskPole": {
+            "value": ""
+        },
+        "Target4Type": {
+            "value": "Target-17"
+        },
+        "target4Pos": {
+            "value": [
+                3.3,
+                40,
+                75
+            ]
+        },
+        "target4Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target4MoveType": {
+            "value": 0
+        },
+        "target4MovePeriod": {
+            "value": -1
+        },
+        "target4MoveDistance1": {
+            "value": 0
+        },
+        "target4MoveDistance2": {
+            "value": 0
+        },
+        "target4FallDownType": {
+            "value": 1
+        },
+        "target4FallDownPeriod": {
+            "value": ""
+        },
+        "target4OriginDir": {
+            "value": ""
+        },
+        "target4RotationDirect": {
+            "value": ""
+        },
+        "target4RotationPeriod": {
+            "value": ""
+        },
+        "target4IniPosInPole": {
+            "value": ""
+        },
+        "target4MovePeriodInPole": {
+            "value": ""
+        },
+        "target4PoleRotationDirect": {
+            "value": ""
+        },
+        "target4PoleRotationRange": {
+            "value": ""
+        },
+        "target4PoleRotationPeriod": {
+            "value": ""
+        },
+        "target4PathTime": {
+            "value": ""
+        },
+        "target4VanishTime": {
+            "value": ""
+        },
+        "target4Hp": {
+            "value": ""
+        },
+        "target4Euler": {
+            "value": ""
+        },
+        "target4MaskPole": {
+            "value": ""
+        },
+        "targetArr": {}
+    }
+}
