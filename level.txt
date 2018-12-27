@@ -2875,7 +2875,7 @@
             "value": 1
         },
         "target5FallDownPeriod": {
-            "value": "4,4"
+            "value": "4,4,1"
         },
         "target5OriginDir": {
             "value": ""
@@ -2947,7 +2947,7 @@
             "value": 1
         },
         "target6FallDownPeriod": {
-            "value": "6,4"
+            "value": "4,4,3"
         },
         "target6OriginDir": {
             "value": ""
@@ -3019,7 +3019,7 @@
             "value": 1
         },
         "target7FallDownPeriod": {
-            "value": "8,4"
+            "value": "4,4,5"
         },
         "target7OriginDir": {
             "value": ""
@@ -3091,7 +3091,7 @@
             "value": 1
         },
         "target8FallDownPeriod": {
-            "value": "10,4"
+            "value": "4,4,7"
         },
         "target8OriginDir": {
             "value": ""
@@ -16417,7 +16417,7 @@
         },
         "target2Pos": {
             "value": [
-                0.5,
+                0.6,
                 0,
                 75.1
             ]
@@ -16470,7 +16470,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1#0.5,0,75.2,4@0.5,0,75.1,4#1,2,4"
+            "value": "1#0.6,0,75.2,4@0.6,0,75.1,4#1,2,4"
         },
         "target2VanishTime": {
             "value": ""
