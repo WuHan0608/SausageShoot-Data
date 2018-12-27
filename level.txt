@@ -4769,7 +4769,7 @@
         },
         "target1Pos": {
             "value": [
-                6.3,
+                4.3,
                 0,
                 76
             ]
@@ -4780,16 +4780,16 @@
             ]
         },
         "target1MoveType": {
-            "value": 0
+            "value": 3
         },
         "target1MovePeriod": {
-            "value": -1
+            "value": 16
         },
         "target1MoveDistance1": {
-            "value": 0
+            "value": 2
         },
         "target1MoveDistance2": {
-            "value": 0
+            "value": 2
         },
         "target1FallDownType": {
             "value": 1
@@ -4852,16 +4852,16 @@
             ]
         },
         "target2MoveType": {
-            "value": 0
+            "value": 4
         },
         "target2MovePeriod": {
-            "value": -1
+            "value": 16
         },
         "target2MoveDistance1": {
-            "value": 0
+            "value": 2
         },
         "target2MoveDistance2": {
-            "value": 0
+            "value": 2
         },
         "target2FallDownType": {
             "value": 1
@@ -4913,7 +4913,7 @@
         },
         "target3Pos": {
             "value": [
-                -3.7,
+                -1.7,
                 0,
                 82
             ]
@@ -4924,16 +4924,16 @@
             ]
         },
         "target3MoveType": {
-            "value": 0
+            "value": 3
         },
         "target3MovePeriod": {
-            "value": -1
+            "value": 16
         },
         "target3MoveDistance1": {
-            "value": 0
+            "value": 2
         },
         "target3MoveDistance2": {
-            "value": 0
+            "value": 2
         },
         "target3FallDownType": {
             "value": 1
@@ -8374,7 +8374,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###1.3,0.5,3.3,0.5@@60,0.5"
+            "value": "1###0.3,0.5,3.3,0.5@@60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -8446,7 +8446,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1###-2.7,0.5,-0.7,0.5@@60,0.5"
+            "value": "1###2.3,0.5,-0.7,0.5@@60,0.5"
         },
         "target3VanishTime": {
             "value": ""
@@ -14882,13 +14882,13 @@
             "value": "验证bug"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 750
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1125
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1500
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -15610,13 +15610,13 @@
             "value": "验证bug"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 760
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1140
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1520
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -15906,13 +15906,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 770
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1155
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1540
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -16058,13 +16058,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 780
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1170
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1560
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -16210,13 +16210,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 790
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1185
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1580
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -16506,13 +16506,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 800
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1200
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1600
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -16658,13 +16658,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 810
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1215
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1620
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -16810,13 +16810,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 820
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1230
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1640
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -16962,13 +16962,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 830
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1245
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1660
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -17114,13 +17114,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 840
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1260
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1680
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -17266,13 +17266,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 850
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1275
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1700
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -17418,13 +17418,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 860
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1290
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1720
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -17570,13 +17570,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 870
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1305
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1740
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -17722,13 +17722,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 880
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1320
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1760
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -17874,13 +17874,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 890
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1335
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1780
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -18026,13 +18026,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 900
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1350
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1800
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -18178,13 +18178,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 910
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1365
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1820
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -18330,13 +18330,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 920
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1380
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1840
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -18482,13 +18482,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 930
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1395
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1860
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -18706,13 +18706,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 940
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1410
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1880
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -18858,13 +18858,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 950
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1425
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1900
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -19154,13 +19154,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 960
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1440
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1920
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -19219,7 +19219,7 @@
             "value": [
                 1.3,
                 0,
-                90
+                80
             ]
         },
         "target1Scale": {
@@ -19450,13 +19450,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 970
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1455
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1940
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -19539,7 +19539,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 4
+            "value": 5
         },
         "target1OriginDir": {
             "value": ""
@@ -19746,13 +19746,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 980
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1470
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1960
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -19835,7 +19835,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 3
+            "value": 4
         },
         "target1OriginDir": {
             "value": ""
@@ -20042,13 +20042,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 990
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1485
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 1980
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -20101,13 +20101,13 @@
             "value": 50
         },
         "Target1Type": {
-            "value": "Target-18"
+            "value": "Target-7"
         },
         "target1Pos": {
             "value": [
                 1.3,
-                -1,
-                80
+                0,
+                100
             ]
         },
         "target1Scale": {
@@ -20128,10 +20128,10 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 1
+            "value": 2
         },
         "target1FallDownPeriod": {
-            "value": ""
+            "value": 4
         },
         "target1OriginDir": {
             "value": ""
@@ -20158,7 +20158,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": ""
+            "value": "1###-1.4,0.75,4.3,0.75@@115,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -20323,7 +20323,7 @@
             "value": [
                 1.3,
                 -1,
-                75
+                99
             ]
         },
         "target4Scale": {
@@ -20389,7 +20389,7 @@
             "value": ""
         },
         "targetArr": {
-            "value": "1058,1060,1061,1062"
+            "value": "1055,1060,1061,1062"
         },
         "gravity": {
             "value": 20
@@ -20410,13 +20410,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1000
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1500
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2000
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -20562,13 +20562,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1010
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1515
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2020
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -20714,13 +20714,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1020
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1530
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2040
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -20866,13 +20866,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1030
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1545
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2060
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -21018,13 +21018,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1040
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1560
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2080
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -21170,13 +21170,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1050
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1575
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2100
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -21394,13 +21394,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1060
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1590
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2120
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -21762,13 +21762,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1070
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1605
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2140
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -22058,13 +22058,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
-        },
-        "achieveTwoStarGold": {
             "value": 1080
         },
+        "achieveTwoStarGold": {
+            "value": 1620
+        },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2160
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -22426,13 +22426,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1090
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1635
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2180
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -22794,13 +22794,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1100
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1650
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2200
         },
         "achieveOneStarDiamond": {
             "value": 0
@@ -23306,13 +23306,13 @@
             "value": "关卡描述"
         },
         "achieveOneStarGold": {
-            "value": 720
+            "value": 1110
         },
         "achieveTwoStarGold": {
-            "value": 1080
+            "value": 1665
         },
         "achieveThreeStarGold": {
-            "value": 1440
+            "value": 2220
         },
         "achieveOneStarDiamond": {
             "value": 0
