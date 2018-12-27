@@ -8323,7 +8323,7 @@
             "value": [
                 3.3,
                 0,
-                85
+                80
             ]
         },
         "target2Scale": {
@@ -8374,7 +8374,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1###2.3,0.5,3.3,0.5@@60,0.5"
+            "value": "1###1.3,0.5,3.3,0.5@@60,0.5"
         },
         "target2VanishTime": {
             "value": ""
@@ -8395,7 +8395,7 @@
             "value": [
                 -0.7,
                 0,
-                85
+                83
             ]
         },
         "target3Scale": {
@@ -8446,7 +8446,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1###-1.7,0.5,-0.7,0.5@@60,0.5"
+            "value": "1###-2.7,0.5,-0.7,0.5@@60,0.5"
         },
         "target3VanishTime": {
             "value": ""
@@ -18795,7 +18795,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 5
+            "value": 7
         },
         "target1OriginDir": {
             "value": ""
@@ -18947,7 +18947,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 4
+            "value": 6
         },
         "target1OriginDir": {
             "value": ""
@@ -19066,8 +19066,8 @@
         "target3Pos": {
             "value": [
                 -4.3,
-                -1,
-                75
+                0,
+                89
             ]
         },
         "target3Scale": {
@@ -19243,7 +19243,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 4
+            "value": 5
         },
         "target1OriginDir": {
             "value": ""
@@ -19290,8 +19290,8 @@
         "target2Pos": {
             "value": [
                 -4.3,
-                -1,
-                75
+                0,
+                89
             ]
         },
         "target2Scale": {
@@ -19362,8 +19362,8 @@
         "target3Pos": {
             "value": [
                 -1.4,
-                -1,
-                75
+                0,
+                89
             ]
         },
         "target3Scale": {
@@ -19539,7 +19539,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 3
+            "value": 4
         },
         "target1OriginDir": {
             "value": ""
@@ -19587,7 +19587,7 @@
             "value": [
                 1.3,
                 -1,
-                75
+                80
             ]
         },
         "target2Scale": {
@@ -19659,7 +19659,7 @@
             "value": [
                 -4.3,
                 -1,
-                75
+                99
             ]
         },
         "target3Scale": {
@@ -19882,8 +19882,8 @@
         "target2Pos": {
             "value": [
                 -1.4,
-                -1,
-                75
+                0,
+                89
             ]
         },
         "target2Scale": {
@@ -19955,7 +19955,7 @@
             "value": [
                 -4.3,
                 -1,
-                75
+                99
             ]
         },
         "target3Scale": {
@@ -20107,7 +20107,7 @@
             "value": [
                 1.3,
                 -1,
-                75
+                80
             ]
         },
         "target1Scale": {
@@ -20178,8 +20178,8 @@
         "target2Pos": {
             "value": [
                 -1.4,
-                -1,
-                75
+                0,
+                89
             ]
         },
         "target2Scale": {
@@ -20251,7 +20251,7 @@
             "value": [
                 -4.3,
                 -1,
-                75
+                99
             ]
         },
         "target3Scale": {
