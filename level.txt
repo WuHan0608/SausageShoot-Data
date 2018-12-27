@@ -3156,7 +3156,7 @@
             ]
         },
         "target1MoveType": {
-            "value": 1
+            "value": 3
         },
         "target1MovePeriod": {
             "value": 8
@@ -12316,7 +12316,7 @@
             ]
         },
         "target1MoveType": {
-            "value": 1
+            "value": 3
         },
         "target1MovePeriod": {
             "value": 8
