@@ -17525,7 +17525,7 @@
             "value": 10
         },
         "target1PoleRotationDirect": {
-            "value": 3
+            "value": 4
         },
         "target1PoleRotationRange": {
             "value": 90
@@ -17981,7 +17981,7 @@
             "value": 10
         },
         "target1PoleRotationDirect": {
-            "value": 3
+            "value": 4
         },
         "target1PoleRotationRange": {
             "value": 90
@@ -22982,7 +22982,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1#-2,4,75.3,4@-2,4,75.1,4#1,1,2"
+            "value": "1#-2,4,0,75.3,4@-2,4,0,75.1,4#1,1,2"
         },
         "target2VanishTime": {
             "value": ""
