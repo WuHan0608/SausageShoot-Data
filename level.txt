@@ -20505,10 +20505,10 @@
             "value": ""
         },
         "target1RotationDirect": {
-            "value": ""
+            "value": 2
         },
         "target1RotationPeriod": {
-            "value": ""
+            "value": 10
         },
         "target1IniPosInPole": {
             "value": ""
@@ -20657,10 +20657,10 @@
             "value": ""
         },
         "target1RotationDirect": {
-            "value": ""
+            "value": 2
         },
         "target1RotationPeriod": {
-            "value": ""
+            "value": 10
         },
         "target1IniPosInPole": {
             "value": ""
@@ -20809,10 +20809,10 @@
             "value": ""
         },
         "target1RotationDirect": {
-            "value": ""
+            "value": 2
         },
         "target1RotationPeriod": {
-            "value": ""
+            "value": 10
         },
         "target1IniPosInPole": {
             "value": ""
@@ -20961,10 +20961,10 @@
             "value": ""
         },
         "target1RotationDirect": {
-            "value": ""
+            "value": 2
         },
         "target1RotationPeriod": {
-            "value": ""
+            "value": 10
         },
         "target1IniPosInPole": {
             "value": ""
@@ -21113,10 +21113,10 @@
             "value": ""
         },
         "target1RotationDirect": {
-            "value": ""
+            "value": 2
         },
         "target1RotationPeriod": {
-            "value": ""
+            "value": 10
         },
         "target1IniPosInPole": {
             "value": ""
