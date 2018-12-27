@@ -1328,10 +1328,10 @@
             "value": 6
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -1768,10 +1768,10 @@
             "value": 6
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -1920,10 +1920,10 @@
             "value": 6
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -2072,10 +2072,10 @@
             "value": 6
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -2224,10 +2224,10 @@
             "value": 6
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 6
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -2376,10 +2376,10 @@
             "value": 7
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -2528,10 +2528,10 @@
             "value": 7
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -3184,10 +3184,10 @@
             "value": 7
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -3480,10 +3480,10 @@
             "value": 7
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -3776,10 +3776,10 @@
             "value": 7
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 7
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -3907,7 +3907,7 @@
             "value": 3
         },
         "target2FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target2OriginDir": {
             "value": 2
@@ -3979,7 +3979,7 @@
             "value": 3
         },
         "target3FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target3OriginDir": {
             "value": ""
@@ -4051,7 +4051,7 @@
             "value": 3
         },
         "target4FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target4OriginDir": {
             "value": 2
@@ -4144,10 +4144,10 @@
             "value": 8
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -4347,7 +4347,7 @@
             "value": 3
         },
         "target3FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target3OriginDir": {
             "value": 2
@@ -4419,7 +4419,7 @@
             "value": 3
         },
         "target4FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target4OriginDir": {
             "value": ""
@@ -4491,7 +4491,7 @@
             "value": 3
         },
         "target5FallDownPeriod": {
-            "value": 6
+            "value": ""
         },
         "target5OriginDir": {
             "value": 2
@@ -4584,10 +4584,10 @@
             "value": 8
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -4736,10 +4736,10 @@
             "value": 8
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -5184,10 +5184,10 @@
             "value": 8
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 8
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -5480,10 +5480,10 @@
             "value": 9
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -5632,10 +5632,10 @@
             "value": 9
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -5784,10 +5784,10 @@
             "value": 9
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -5936,10 +5936,10 @@
             "value": 9
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -6088,10 +6088,10 @@
             "value": 9
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 9
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -6240,10 +6240,10 @@
             "value": 10
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -6392,10 +6392,10 @@
             "value": 10
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -6544,10 +6544,10 @@
             "value": 10
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -6696,10 +6696,10 @@
             "value": 10
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -6848,10 +6848,10 @@
             "value": 10
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 10
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7000,10 +7000,10 @@
             "value": 11
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7152,10 +7152,10 @@
             "value": 11
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7304,10 +7304,10 @@
             "value": 11
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7456,10 +7456,10 @@
             "value": 11
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7608,10 +7608,10 @@
             "value": 11
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 11
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7760,10 +7760,10 @@
             "value": 12
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -7912,10 +7912,10 @@
             "value": 12
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -8064,10 +8064,10 @@
             "value": 12
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -8216,10 +8216,10 @@
             "value": 12
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -8512,10 +8512,10 @@
             "value": 12
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 12
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -8664,10 +8664,10 @@
             "value": 13
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -8816,10 +8816,10 @@
             "value": 13
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -8968,10 +8968,10 @@
             "value": 13
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -9120,10 +9120,10 @@
             "value": 13
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -9272,10 +9272,10 @@
             "value": 13
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 13
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -9424,10 +9424,10 @@
             "value": 14
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -9576,10 +9576,10 @@
             "value": 14
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -9728,10 +9728,10 @@
             "value": 14
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -9880,10 +9880,10 @@
             "value": 14
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10032,10 +10032,10 @@
             "value": 14
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 14
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10184,10 +10184,10 @@
             "value": 15
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10336,10 +10336,10 @@
             "value": 15
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10488,10 +10488,10 @@
             "value": 15
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10640,10 +10640,10 @@
             "value": 15
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10792,10 +10792,10 @@
             "value": 15
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 15
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -10944,10 +10944,10 @@
             "value": 16
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -11384,10 +11384,10 @@
             "value": 16
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -11680,10 +11680,10 @@
             "value": 16
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -12120,10 +12120,10 @@
             "value": 16
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -12272,10 +12272,10 @@
             "value": 16
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 16
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -12568,10 +12568,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -12720,10 +12720,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -12872,10 +12872,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -13816,10 +13816,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -14112,10 +14112,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -14912,10 +14912,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -15640,10 +15640,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -15936,10 +15936,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -16088,10 +16088,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -16240,10 +16240,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -16536,10 +16536,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -16688,10 +16688,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -16840,10 +16840,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -16992,10 +16992,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -17144,10 +17144,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -17296,10 +17296,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -17448,10 +17448,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -17600,10 +17600,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -17752,10 +17752,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -17904,10 +17904,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -18056,10 +18056,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -18208,10 +18208,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -18360,10 +18360,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -18512,10 +18512,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -18736,10 +18736,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -18771,7 +18771,7 @@
             "value": [
                 1.3,
                 0,
-                70
+                80
             ]
         },
         "target1Scale": {
@@ -18822,7 +18822,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1.4,0.5,4.3,0.5@@85,0.5"
+            "value": "1###-1.4,0.5,4.3,0.5@@95,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -18888,10 +18888,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -19066,8 +19066,8 @@
         "target3Pos": {
             "value": [
                 -4.3,
-                0,
-                89
+                -1,
+                75
             ]
         },
         "target3Scale": {
@@ -19184,10 +19184,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -19270,7 +19270,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1.4,0.6,4.3,0.6@@105,0.5"
+            "value": "1###-1.4,0.6,4.3,0.6@@95,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -19290,8 +19290,8 @@
         "target2Pos": {
             "value": [
                 -4.3,
-                0,
-                89
+                -1,
+                75
             ]
         },
         "target2Scale": {
@@ -19363,7 +19363,7 @@
             "value": [
                 -1.4,
                 0,
-                89
+                75
             ]
         },
         "target3Scale": {
@@ -19480,10 +19480,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -19515,7 +19515,7 @@
             "value": [
                 1.3,
                 0,
-                100
+                90
             ]
         },
         "target1Scale": {
@@ -19566,7 +19566,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1.4,0.75,4.3,0.75@@115,0.5"
+            "value": "1###-1.4,0.75,4.3,0.75@@105,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -19659,7 +19659,7 @@
             "value": [
                 -4.3,
                 -1,
-                99
+                79
             ]
         },
         "target3Scale": {
@@ -19776,10 +19776,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -19811,7 +19811,7 @@
             "value": [
                 1.3,
                 0,
-                100
+                90
             ]
         },
         "target1Scale": {
@@ -19862,7 +19862,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1.4,0.75,4.3,0.75@@115,0.5"
+            "value": "1###-1.4,0.75,4.3,0.75@@105,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -19883,7 +19883,7 @@
             "value": [
                 -1.4,
                 0,
-                89
+                75
             ]
         },
         "target2Scale": {
@@ -19955,7 +19955,7 @@
             "value": [
                 -4.3,
                 -1,
-                99
+                79
             ]
         },
         "target3Scale": {
@@ -20072,10 +20072,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -20107,7 +20107,7 @@
             "value": [
                 1.3,
                 0,
-                100
+                90
             ]
         },
         "target1Scale": {
@@ -20158,7 +20158,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1###-1.4,0.75,4.3,0.75@@115,0.5"
+            "value": "1###-1.4,0.75,4.3,0.75@@105,0.5"
         },
         "target1VanishTime": {
             "value": ""
@@ -20179,7 +20179,7 @@
             "value": [
                 -1.4,
                 0,
-                89
+                75
             ]
         },
         "target2Scale": {
@@ -20251,7 +20251,7 @@
             "value": [
                 -4.3,
                 -1,
-                99
+                79
             ]
         },
         "target3Scale": {
@@ -20323,7 +20323,7 @@
             "value": [
                 1.3,
                 -1,
-                99
+                79
             ]
         },
         "target4Scale": {
@@ -20440,10 +20440,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -20592,10 +20592,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -20744,10 +20744,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -20896,10 +20896,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -21048,10 +21048,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -21200,10 +21200,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -21424,10 +21424,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -21792,10 +21792,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -22088,10 +22088,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -22456,10 +22456,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -22824,10 +22824,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
@@ -23336,10 +23336,10 @@
             "value": 17
         },
         "achieveTwoStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveThreeStarExperience": {
-            "value": 5
+            "value": 17
         },
         "achieveOneStarEndurance": {
             "value": 0
