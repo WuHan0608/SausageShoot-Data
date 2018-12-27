@@ -3907,7 +3907,7 @@
             "value": 3
         },
         "target2FallDownPeriod": {
-            "value": ""
+            "value": 6
         },
         "target2OriginDir": {
             "value": 2
@@ -3979,7 +3979,7 @@
             "value": 3
         },
         "target3FallDownPeriod": {
-            "value": ""
+            "value": 6
         },
         "target3OriginDir": {
             "value": ""
@@ -4051,7 +4051,7 @@
             "value": 3
         },
         "target4FallDownPeriod": {
-            "value": ""
+            "value": 6
         },
         "target4OriginDir": {
             "value": 2
@@ -4347,7 +4347,7 @@
             "value": 3
         },
         "target3FallDownPeriod": {
-            "value": ""
+            "value": 6
         },
         "target3OriginDir": {
             "value": 2
@@ -4419,7 +4419,7 @@
             "value": 3
         },
         "target4FallDownPeriod": {
-            "value": ""
+            "value": 6
         },
         "target4OriginDir": {
             "value": ""
@@ -4491,7 +4491,7 @@
             "value": 3
         },
         "target5FallDownPeriod": {
-            "value": ""
+            "value": 6
         },
         "target5OriginDir": {
             "value": 2
