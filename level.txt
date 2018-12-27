@@ -1372,16 +1372,16 @@
             ]
         },
         "target1MoveType": {
-            "value": 0
+            "value": 4
         },
         "target1MovePeriod": {
-            "value": -1
+            "value": 16
         },
         "target1MoveDistance1": {
-            "value": 0
+            "value": 2
         },
         "target1MoveDistance2": {
-            "value": 0
+            "value": 2
         },
         "target1FallDownType": {
             "value": 3
@@ -1435,7 +1435,7 @@
             "value": [
                 2,
                 0,
-                75
+                73
             ]
         },
         "target2Scale": {
@@ -1579,7 +1579,7 @@
             "value": [
                 2.7,
                 0,
-                80
+                78
             ]
         },
         "target4Scale": {
@@ -2548,7 +2548,7 @@
             "value": "Mission-1-13"
         },
         "id": {
-            "value": 120
+            "value": 122
         },
         "scene": {
             "value": 1
@@ -2557,13 +2557,13 @@
             "value": 30
         },
         "Target1Type": {
-            "value": "Target-6"
+            "value": "Target-4"
         },
         "target1Pos": {
             "value": [
-                1.3,
+                2,
                 0,
-                75
+                78
             ]
         },
         "target1Scale": {
@@ -2584,10 +2584,10 @@
             "value": 0
         },
         "target1FallDownType": {
-            "value": 1
+            "value": 3
         },
         "target1FallDownPeriod": {
-            "value": 10
+            "value": ""
         },
         "target1OriginDir": {
             "value": ""
@@ -2633,7 +2633,7 @@
         },
         "target2Pos": {
             "value": [
-                2,
+                0.6,
                 0,
                 78
             ]
@@ -2705,9 +2705,9 @@
         },
         "target3Pos": {
             "value": [
-                0.6,
+                2.7,
                 0,
-                78
+                80
             ]
         },
         "target3Scale": {
@@ -2777,7 +2777,7 @@
         },
         "target4Pos": {
             "value": [
-                2.7,
+                -0.1,
                 0,
                 80
             ]
@@ -2845,13 +2845,13 @@
             "value": ""
         },
         "Target5Type": {
-            "value": "Target-4"
+            "value": "Target-6"
         },
         "target5Pos": {
             "value": [
-                -0.1,
+                2.5,
                 0,
-                80
+                75
             ]
         },
         "target5Scale": {
@@ -2872,10 +2872,10 @@
             "value": 0
         },
         "target5FallDownType": {
-            "value": 3
+            "value": 1
         },
         "target5FallDownPeriod": {
-            "value": ""
+            "value": 8
         },
         "target5OriginDir": {
             "value": ""
@@ -2921,7 +2921,7 @@
         },
         "target6Pos": {
             "value": [
-                2.5,
+                1.7,
                 0,
                 75
             ]
@@ -2947,7 +2947,7 @@
             "value": 1
         },
         "target6FallDownPeriod": {
-            "value": 8
+            "value": 10
         },
         "target6OriginDir": {
             "value": ""
@@ -2993,7 +2993,7 @@
         },
         "target7Pos": {
             "value": [
-                0.1,
+                0.9,
                 0,
                 75
             ]
@@ -3019,7 +3019,7 @@
             "value": 1
         },
         "target7FallDownPeriod": {
-            "value": 12
+            "value": 10
         },
         "target7OriginDir": {
             "value": ""
@@ -3060,8 +3060,80 @@
         "target7MaskPole": {
             "value": ""
         },
+        "Target8Type": {
+            "value": "Target-6"
+        },
+        "target8Pos": {
+            "value": [
+                0.1,
+                0,
+                75
+            ]
+        },
+        "target8Scale": {
+            "value": [
+                1
+            ]
+        },
+        "target8MoveType": {
+            "value": 0
+        },
+        "target8MovePeriod": {
+            "value": -1
+        },
+        "target8MoveDistance1": {
+            "value": 0
+        },
+        "target8MoveDistance2": {
+            "value": 0
+        },
+        "target8FallDownType": {
+            "value": 1
+        },
+        "target8FallDownPeriod": {
+            "value": 12
+        },
+        "target8OriginDir": {
+            "value": ""
+        },
+        "target8RotationDirect": {
+            "value": ""
+        },
+        "target8RotationPeriod": {
+            "value": ""
+        },
+        "target8IniPosInPole": {
+            "value": ""
+        },
+        "target8MovePeriodInPole": {
+            "value": ""
+        },
+        "target8PoleRotationDirect": {
+            "value": ""
+        },
+        "target8PoleRotationRange": {
+            "value": ""
+        },
+        "target8PoleRotationPeriod": {
+            "value": ""
+        },
+        "target8PathTime": {
+            "value": ""
+        },
+        "target8VanishTime": {
+            "value": ""
+        },
+        "target8Hp": {
+            "value": ""
+        },
+        "target8Euler": {
+            "value": ""
+        },
+        "target8MaskPole": {
+            "value": ""
+        },
         "targetArr": {
-            "value": "85,119,120,86,87,88,89"
+            "value": "119,120,121,122,86,87,88,89"
         },
         "gravity": {
             "value": 20
@@ -3159,7 +3231,7 @@
             "value": 3
         },
         "target1MovePeriod": {
-            "value": 8
+            "value": 12
         },
         "target1MoveDistance1": {
             "value": 2
@@ -3213,22 +3285,22 @@
             "value": ""
         },
         "Target2Type": {
-            "value": "Target-4"
+            "value": "Target-7"
         },
         "target2Pos": {
             "value": [
                 2,
                 0,
-                80
+                78
             ]
         },
         "target2Scale": {
             "value": [
-                1
+                0.8
             ]
         },
         "target2MoveType": {
-            "value": 3
+            "value": 4
         },
         "target2MovePeriod": {
             "value": 12
@@ -3285,7 +3357,7 @@
             "value": ""
         },
         "Target3Type": {
-            "value": "Target-4"
+            "value": "Target-7"
         },
         "target3Pos": {
             "value": [
@@ -3296,11 +3368,11 @@
         },
         "target3Scale": {
             "value": [
-                1
+                0.8
             ]
         },
         "target3MoveType": {
-            "value": 4
+            "value": 3
         },
         "target3MovePeriod": {
             "value": 12
@@ -11284,16 +11356,16 @@
             ]
         },
         "target1MoveType": {
-            "value": 0
+            "value": 4
         },
         "target1MovePeriod": {
-            "value": -1
+            "value": 16
         },
         "target1MoveDistance1": {
-            "value": 0
+            "value": 2
         },
         "target1MoveDistance2": {
-            "value": 0
+            "value": 2
         },
         "target1FallDownType": {
             "value": 3
@@ -11347,7 +11419,7 @@
             "value": [
                 2,
                 0,
-                75
+                73
             ]
         },
         "target2Scale": {
@@ -11491,7 +11563,7 @@
             "value": [
                 2.7,
                 0,
-                80
+                78
             ]
         },
         "target4Scale": {
@@ -12319,7 +12391,7 @@
             "value": 3
         },
         "target1MovePeriod": {
-            "value": 8
+            "value": 12
         },
         "target1MoveDistance1": {
             "value": 2
@@ -12373,22 +12445,22 @@
             "value": ""
         },
         "Target2Type": {
-            "value": "Target-4"
+            "value": "Target-7"
         },
         "target2Pos": {
             "value": [
                 2,
                 0,
-                80
+                78
             ]
         },
         "target2Scale": {
             "value": [
-                1
+                0.8
             ]
         },
         "target2MoveType": {
-            "value": 3
+            "value": 4
         },
         "target2MovePeriod": {
             "value": 12
@@ -12445,7 +12517,7 @@
             "value": ""
         },
         "Target3Type": {
-            "value": "Target-4"
+            "value": "Target-7"
         },
         "target3Pos": {
             "value": [
@@ -12456,11 +12528,11 @@
         },
         "target3Scale": {
             "value": [
-                1
+                0.8
             ]
         },
         "target3MoveType": {
-            "value": 4
+            "value": 3
         },
         "target3MovePeriod": {
             "value": 12
