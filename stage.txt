@@ -9148,7 +9148,7 @@
         "target2Pos": [
             0.6,
             0,
-            75.1
+            75.5
         ],
         "target2Scale": [
             1
@@ -9233,7 +9233,7 @@
         "target2Pos": [
             -1,
             7,
-            75.1
+            75.5
         ],
         "target2Scale": [
             1
@@ -9289,7 +9289,7 @@
         "target4Pos": [
             4.3,
             0,
-            75.1
+            75.5
         ],
         "target4Scale": [
             1
@@ -9900,7 +9900,7 @@
         "target6PoleRotationDirect": "",
         "target6PoleRotationRange": "",
         "target6PoleRotationPeriod": "",
-        "target6PathTime": "1#5,0,75.2,3@5.3,0,75.2,0.5@5,0,75.2,0.5@5,0,75.2,4#2,3,4",
+        "target6PathTime": "1#5,0,75.2,3@5.3,0,75.2,0.5@5,0,75.2,0.5@5,0,75.2,4",
         "target6VanishTime": "",
         "target6Hp": "",
         "target6Euler": "",
