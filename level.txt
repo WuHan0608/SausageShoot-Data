@@ -90,6 +90,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -241,6 +244,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -394,6 +400,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -545,6 +554,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -841,6 +853,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -1282,6 +1297,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -1722,6 +1740,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -1873,6 +1894,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -2026,6 +2050,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -2176,6 +2203,9 @@
             "value": "61"
         },
         "gravity": {
+            "value": 20
+        },
+        "starLimit": {
             "value": 20
         },
         "missionType": {
@@ -2330,6 +2360,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -2481,6 +2514,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -3138,6 +3174,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -3434,6 +3473,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -3729,6 +3771,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 3
@@ -4097,6 +4142,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -4538,6 +4586,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -4689,6 +4740,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 2
@@ -4986,6 +5040,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 2
         },
@@ -5137,6 +5194,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": 40
         },
         "missionType": {
             "value": 1
@@ -5290,6 +5350,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -5441,6 +5504,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -5594,6 +5660,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -5745,6 +5814,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -5898,6 +5970,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -6049,6 +6124,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -6202,6 +6280,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -6353,6 +6434,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -6506,6 +6590,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -6657,6 +6744,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": 65
         },
         "missionType": {
             "value": 1
@@ -6810,6 +6900,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -6962,6 +7055,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -7113,6 +7209,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 2
@@ -7554,6 +7653,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -7993,6 +8095,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -8650,6 +8755,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 1
         },
@@ -8945,6 +9053,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -9242,6 +9353,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": -1
+        },
         "missionType": {
             "value": 2
         },
@@ -9393,7 +9507,7 @@
         },
         "target2Pos": {
             "value": [
-                3.5,
+                6,
                 -1,
                 88
             ]
@@ -9465,6 +9579,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": -1
         },
         "missionType": {
             "value": 1
@@ -9762,6 +9879,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": 90
+        },
         "missionType": {
             "value": 3
         },
@@ -9913,6 +10033,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -10066,6 +10189,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -10217,6 +10343,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -10370,6 +10499,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -10521,6 +10653,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -10674,6 +10809,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -10825,6 +10963,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -10978,6 +11119,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -11129,6 +11273,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -11282,6 +11429,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -11433,6 +11583,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -11586,6 +11739,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -11737,6 +11893,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -11890,6 +12049,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -12042,6 +12204,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -12193,6 +12358,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -12634,6 +12802,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -12929,6 +13100,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 3
@@ -13370,6 +13544,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -13521,6 +13698,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 1
@@ -13818,6 +13998,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -13970,6 +14153,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 1
         },
@@ -14121,6 +14307,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -15066,6 +15255,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -15361,6 +15553,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 3
@@ -16162,6 +16357,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -16890,6 +17088,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -17186,6 +17387,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -17338,6 +17542,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -17489,6 +17696,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -17786,6 +17996,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -17937,6 +18150,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -18090,6 +18306,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -18241,6 +18460,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -18394,6 +18616,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -18545,6 +18770,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -18698,6 +18926,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -18849,6 +19080,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -19002,6 +19236,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -19153,6 +19390,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -19306,6 +19546,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -19457,6 +19700,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -19610,6 +19856,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -19761,6 +20010,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -19986,6 +20238,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -20137,6 +20392,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -20434,6 +20692,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -20729,6 +20990,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -21026,6 +21290,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -21321,6 +21588,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -21690,6 +21960,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -21841,6 +22114,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -21994,6 +22270,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -22145,6 +22424,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -22298,6 +22580,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -22449,6 +22734,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -22673,6 +22961,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -23042,6 +23333,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -23337,6 +23631,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -23706,6 +24003,9 @@
         "gravity": {
             "value": 20
         },
+        "starLimit": {
+            "value": ""
+        },
         "missionType": {
             "value": 2
         },
@@ -24073,6 +24373,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
@@ -24585,6 +24888,9 @@
         },
         "gravity": {
             "value": 20
+        },
+        "starLimit": {
+            "value": ""
         },
         "missionType": {
             "value": 2
