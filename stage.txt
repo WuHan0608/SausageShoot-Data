@@ -9521,7 +9521,7 @@
         "missionCoef": 10,
         "enduranceCost": 1,
         "missionDifficulty": 0,
-        "missionDescription": "关卡描述关卡描述关卡描述关卡描述关卡描述关卡描述关卡描述关卡描述",
+        "missionDescription": "关卡描述",
         "achieveOneStarGold": 1120,
         "achieveTwoStarGold": 1680,
         "achieveThreeStarGold": 2240,
