@@ -968,11 +968,11 @@
         "id": 13,
         "scene": 1,
         "UiShowDistance": 30,
-        "target1Type": "Target-4",
+        "target1Type": "Target-6",
         "target1Pos": [
-            2,
+            2.5,
             0,
-            78
+            75
         ],
         "target1Scale": [
             1
@@ -981,8 +981,8 @@
         "target1MovePeriod": -1,
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
-        "target1FallDownType": 3,
-        "target1FallDownPeriod": "",
+        "target1FallDownType": 1,
+        "target1FallDownPeriod": "4,4,1",
         "target1OriginDir": "",
         "target1RotationDirect": "",
         "target1RotationPeriod": "",
@@ -996,11 +996,11 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-4",
+        "target2Type": "Target-6",
         "target2Pos": [
-            0.6,
+            1.7,
             0,
-            78
+            75
         ],
         "target2Scale": [
             1
@@ -1009,8 +1009,8 @@
         "target2MovePeriod": -1,
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
-        "target2FallDownType": 3,
-        "target2FallDownPeriod": "",
+        "target2FallDownType": 1,
+        "target2FallDownPeriod": "4,4,3",
         "target2OriginDir": "",
         "target2RotationDirect": "",
         "target2RotationPeriod": "",
@@ -1024,11 +1024,11 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
-        "target3Type": "Target-4",
+        "target3Type": "Target-6",
         "target3Pos": [
-            2.7,
+            0.9,
             0,
-            80
+            75
         ],
         "target3Scale": [
             1
@@ -1037,8 +1037,8 @@
         "target3MovePeriod": -1,
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
-        "target3FallDownType": 3,
-        "target3FallDownPeriod": "",
+        "target3FallDownType": 1,
+        "target3FallDownPeriod": "4,4,5",
         "target3OriginDir": "",
         "target3RotationDirect": "",
         "target3RotationPeriod": "",
@@ -1052,11 +1052,11 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
-        "target4Type": "Target-4",
+        "target4Type": "Target-6",
         "target4Pos": [
-            -0.1,
+            0.1,
             0,
-            80
+            75
         ],
         "target4Scale": [
             1
@@ -1065,8 +1065,8 @@
         "target4MovePeriod": -1,
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
-        "target4FallDownType": 3,
-        "target4FallDownPeriod": "",
+        "target4FallDownType": 1,
+        "target4FallDownPeriod": "4,4,7",
         "target4OriginDir": "",
         "target4RotationDirect": "",
         "target4RotationPeriod": "",
@@ -1080,11 +1080,11 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
-        "target5Type": "Target-6",
+        "target5Type": "Target-4",
         "target5Pos": [
-            2.5,
+            2,
             0,
-            75
+            78
         ],
         "target5Scale": [
             1
@@ -1093,8 +1093,8 @@
         "target5MovePeriod": -1,
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
-        "target5FallDownType": 1,
-        "target5FallDownPeriod": "4,4,1",
+        "target5FallDownType": 3,
+        "target5FallDownPeriod": "",
         "target5OriginDir": "",
         "target5RotationDirect": "",
         "target5RotationPeriod": "",
@@ -1108,11 +1108,11 @@
         "target5Hp": "",
         "target5Euler": "",
         "target5MaskPole": "",
-        "target6Type": "Target-6",
+        "target6Type": "Target-4",
         "target6Pos": [
-            1.7,
+            0.6,
             0,
-            75
+            78
         ],
         "target6Scale": [
             1
@@ -1121,8 +1121,8 @@
         "target6MovePeriod": -1,
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
-        "target6FallDownType": 1,
-        "target6FallDownPeriod": "4,4,3",
+        "target6FallDownType": 3,
+        "target6FallDownPeriod": "",
         "target6OriginDir": "",
         "target6RotationDirect": "",
         "target6RotationPeriod": "",
@@ -1136,11 +1136,11 @@
         "target6Hp": "",
         "target6Euler": "",
         "target6MaskPole": "",
-        "target7Type": "Target-6",
+        "target7Type": "Target-4",
         "target7Pos": [
-            0.9,
+            2.7,
             0,
-            75
+            80
         ],
         "target7Scale": [
             1
@@ -1149,8 +1149,8 @@
         "target7MovePeriod": -1,
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
-        "target7FallDownType": 1,
-        "target7FallDownPeriod": "4,4,5",
+        "target7FallDownType": 3,
+        "target7FallDownPeriod": "",
         "target7OriginDir": "",
         "target7RotationDirect": "",
         "target7RotationPeriod": "",
@@ -1164,11 +1164,11 @@
         "target7Hp": "",
         "target7Euler": "",
         "target7MaskPole": "",
-        "target8Type": "Target-6",
+        "target8Type": "Target-4",
         "target8Pos": [
-            0.1,
+            -0.1,
             0,
-            75
+            80
         ],
         "target8Scale": [
             1
@@ -1177,8 +1177,8 @@
         "target8MovePeriod": -1,
         "target8MoveDistance1": 0,
         "target8MoveDistance2": 0,
-        "target8FallDownType": 1,
-        "target8FallDownPeriod": "4,4,7",
+        "target8FallDownType": 3,
+        "target8FallDownPeriod": "",
         "target8OriginDir": "",
         "target8RotationDirect": "",
         "target8RotationPeriod": "",
@@ -1447,11 +1447,11 @@
         "id": 16,
         "scene": 1,
         "UiShowDistance": 25,
-        "target1Type": "Target-10",
+        "target1Type": "Target-9",
         "target1Pos": [
             1.3,
-            -1,
-            70
+            0,
+            71
         ],
         "target1Scale": [
             1
@@ -1462,7 +1462,7 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 3,
         "target1FallDownPeriod": "",
-        "target1OriginDir": "",
+        "target1OriginDir": 2,
         "target1RotationDirect": "",
         "target1RotationPeriod": "",
         "target1IniPosInPole": "",
@@ -1470,16 +1470,16 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1#-1.7,-1,70,9@0,180,0,1,2@4.3,-1,70,18@0,0,0,1,2@1.3,-1,70,9",
+        "target1PathTime": "1#4.3,0,71,3@4.3,0,71,4@0,180,0,0.5,2@-1.7,0,71,6@-1.7,0,71,4@0,0,0,0.5,2@1.3,0,71,3@1.3,0,71,4",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
         "target2Type": "Target-9",
         "target2Pos": [
-            1.3,
+            2.5,
             0,
-            71
+            72
         ],
         "target2Scale": [
             1
@@ -1490,7 +1490,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 3,
         "target2FallDownPeriod": "",
-        "target2OriginDir": 2,
+        "target2OriginDir": "",
         "target2RotationDirect": "",
         "target2RotationPeriod": "",
         "target2IniPosInPole": "",
@@ -1498,16 +1498,16 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#4.3,0,71,3@4.3,0,71,4@0,180,0,0.5,2@-1.7,0,71,6@-1.7,0,71,4@0,0,0,0.5,2@1.3,0,71,3@1.3,0,71,4",
+        "target2PathTime": "1#-3.5,0,72,6@-3.5,0,72,4@0,180,0,0.5,2@2.5,0,72,6@2.5,0,72,4@0,0,0,0.5,2",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
         "target3Type": "Target-9",
         "target3Pos": [
-            2.5,
+            -2.7,
             0,
-            72
+            74
         ],
         "target3Scale": [
             1
@@ -1518,7 +1518,7 @@
         "target3MoveDistance2": 0,
         "target3FallDownType": 3,
         "target3FallDownPeriod": "",
-        "target3OriginDir": "",
+        "target3OriginDir": 2,
         "target3RotationDirect": "",
         "target3RotationPeriod": "",
         "target3IniPosInPole": "",
@@ -1526,16 +1526,16 @@
         "target3PoleRotationDirect": "",
         "target3PoleRotationRange": "",
         "target3PoleRotationPeriod": "",
-        "target3PathTime": "1#-3.5,0,72,6@-3.5,0,72,4@0,180,0,0.5,2@2.5,0,72,6@2.5,0,72,4@0,0,0,0.5,2",
+        "target3PathTime": "1#3.3,0,74,6@3.3,0,74,4@0,180,0,0.5,2@-2.7,0,74,6@-2.7,0,74,4@0,0,0,0.5,2",
         "target3VanishTime": "",
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
-        "target4Type": "Target-9",
+        "target4Type": "Target-10",
         "target4Pos": [
-            -2.7,
-            0,
-            74
+            1.3,
+            -1,
+            70
         ],
         "target4Scale": [
             1
@@ -1546,7 +1546,7 @@
         "target4MoveDistance2": 0,
         "target4FallDownType": 3,
         "target4FallDownPeriod": "",
-        "target4OriginDir": 2,
+        "target4OriginDir": "",
         "target4RotationDirect": "",
         "target4RotationPeriod": "",
         "target4IniPosInPole": "",
@@ -1554,7 +1554,7 @@
         "target4PoleRotationDirect": "",
         "target4PoleRotationRange": "",
         "target4PoleRotationPeriod": "",
-        "target4PathTime": "1#3.3,0,74,6@3.3,0,74,4@0,180,0,0.5,2@-2.7,0,74,6@-2.7,0,74,4@0,0,0,0.5,2",
+        "target4PathTime": "1#-1.7,-1,70,9@0,180,0,1,2@4.3,-1,70,18@0,0,0,1,2@1.3,-1,70,9",
         "target4VanishTime": "",
         "target4Hp": "",
         "target4Euler": "",
@@ -7326,9 +7326,9 @@
         "target1RotationPeriod": "",
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
-        "target1PoleRotationDirect": "",
-        "target1PoleRotationRange": "",
-        "target1PoleRotationPeriod": "",
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 180,
+        "target1PoleRotationPeriod": 15,
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
@@ -8410,7 +8410,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175#1,1,1",
         "targetArr": "1087",
         "gravity": 20,
         "starLimit": "",
@@ -8467,7 +8467,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,2,1",
+        "target1MaskPole": "0.175,-0.175#1,2,1",
         "targetArr": "1088",
         "gravity": 20,
         "starLimit": "",
@@ -8524,7 +8524,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175#1,1,1",
         "targetArr": "1089",
         "gravity": 20,
         "starLimit": "",
@@ -8581,7 +8581,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,2,1",
+        "target1MaskPole": "0.175,-0.175#1,2,1",
         "targetArr": "1090",
         "gravity": 20,
         "starLimit": "",
@@ -8638,7 +8638,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1.5,1.5,1.5",
+        "target1MaskPole": "0.175,-0.175#1.5,1.5,1.5",
         "targetArr": "1091",
         "gravity": 20,
         "starLimit": "",
