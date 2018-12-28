@@ -1393,7 +1393,7 @@
             "value": 4
         },
         "target1MovePeriod": {
-            "value": 16
+            "value": 24
         },
         "target1MoveDistance1": {
             "value": 2
@@ -1465,7 +1465,7 @@
             "value": 3
         },
         "target2MovePeriod": {
-            "value": 16
+            "value": 24
         },
         "target2MoveDistance1": {
             "value": 2
@@ -1537,7 +1537,7 @@
             "value": 4
         },
         "target3MovePeriod": {
-            "value": 16
+            "value": 24
         },
         "target3MoveDistance1": {
             "value": 2
@@ -1609,7 +1609,7 @@
             "value": 3
         },
         "target4MovePeriod": {
-            "value": 24
+            "value": 36
         },
         "target4MoveDistance1": {
             "value": 3
@@ -1681,7 +1681,7 @@
             "value": 4
         },
         "target5MovePeriod": {
-            "value": 24
+            "value": 36
         },
         "target5MoveDistance1": {
             "value": 3
@@ -5077,13 +5077,13 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 45
+            "value": 10
         },
         "achieveTwoStarCondition": {
-            "value": 50
+            "value": 20
         },
         "achieveThreeStarCondition": {
-            "value": 55
+            "value": 30
         },
         "achieveOneStarExperience": {
             "value": 5
@@ -7594,7 +7594,7 @@
             "value": 4
         },
         "target1MovePeriod": {
-            "value": 14
+            "value": 16
         },
         "target1MoveDistance1": {
             "value": 2
@@ -7666,7 +7666,7 @@
             "value": 3
         },
         "target2MovePeriod": {
-            "value": 14
+            "value": 16
         },
         "target2MoveDistance1": {
             "value": 2
@@ -7738,7 +7738,7 @@
             "value": 4
         },
         "target3MovePeriod": {
-            "value": 14
+            "value": 16
         },
         "target3MoveDistance1": {
             "value": 2
@@ -7810,7 +7810,7 @@
             "value": 3
         },
         "target4MovePeriod": {
-            "value": 21
+            "value": 24
         },
         "target4MoveDistance1": {
             "value": 3
@@ -7882,7 +7882,7 @@
             "value": 4
         },
         "target5MovePeriod": {
-            "value": 21
+            "value": 24
         },
         "target5MoveDistance1": {
             "value": 3
@@ -20634,7 +20634,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 7
+            "value": 8
         },
         "target1OriginDir": {
             "value": ""
@@ -20789,7 +20789,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 6
+            "value": 7
         },
         "target1OriginDir": {
             "value": ""
@@ -21088,7 +21088,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 5
+            "value": 6
         },
         "target1OriginDir": {
             "value": ""
@@ -21387,7 +21387,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 5
+            "value": 6
         },
         "target1OriginDir": {
             "value": ""
@@ -21686,7 +21686,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 4
+            "value": 6
         },
         "target1OriginDir": {
             "value": ""
@@ -21985,7 +21985,7 @@
             "value": 2
         },
         "target1FallDownPeriod": {
-            "value": 4
+            "value": 6
         },
         "target1OriginDir": {
             "value": ""
