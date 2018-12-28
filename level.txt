@@ -91,7 +91,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -246,7 +246,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -401,7 +401,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -556,7 +556,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -855,7 +855,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -1298,7 +1298,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -1741,7 +1741,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -1896,7 +1896,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -2051,7 +2051,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -2361,7 +2361,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -2516,7 +2516,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -3175,7 +3175,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -3474,7 +3474,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -3773,7 +3773,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 3
@@ -4144,7 +4144,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -4587,7 +4587,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -4742,7 +4742,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 2
@@ -5041,7 +5041,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 2
@@ -5351,7 +5351,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -5506,7 +5506,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -5661,7 +5661,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -6104,7 +6104,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -6259,7 +6259,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -6414,7 +6414,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -6569,7 +6569,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -6724,7 +6724,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -6879,7 +6879,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -7189,7 +7189,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -7344,7 +7344,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -7499,7 +7499,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 2
@@ -7942,7 +7942,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -8385,7 +8385,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -9044,7 +9044,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -9343,7 +9343,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -9642,7 +9642,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 2
@@ -9869,7 +9869,7 @@
             "value": 20
         },
         "starLimit": {
-            "value": -1
+            "value": 0
         },
         "missionType": {
             "value": 1
@@ -25221,6 +25221,161 @@
         },
         "achieveThreeStarCondition": {
             "value": 50
+        },
+        "achieveOneStarExperience": {
+            "value": 17
+        },
+        "achieveTwoStarExperience": {
+            "value": 17
+        },
+        "achieveThreeStarExperience": {
+            "value": 17
+        },
+        "achieveOneStarEndurance": {
+            "value": 0
+        },
+        "achieveTwoStarEndurance": {
+            "value": 0
+        },
+        "achieveThreeStarEndurance": {
+            "value": 0
+        }
+    },
+    "Mission-1-103": {
+        "level": {
+            "value": "Mission-1-103"
+        },
+        "id": {
+            "value": 103
+        },
+        "scene": {
+            "value": 1
+        },
+        "UiShowDistance": {
+            "value": 50
+        },
+        "target1Type": {
+            "value": "Target-1"
+        },
+        "target1Pos": {
+            "value": [
+                0,
+                -1,
+                65
+            ]
+        },
+        "target1Scale": {
+            "value": [
+                0.5
+            ]
+        },
+        "target1MoveType": {
+            "value": 0
+        },
+        "target1MovePeriod": {
+            "value": -1
+        },
+        "target1MoveDistance1": {
+            "value": 0
+        },
+        "target1MoveDistance2": {
+            "value": 0
+        },
+        "target1FallDownType": {
+            "value": 1
+        },
+        "target1FallDownPeriod": {
+            "value": ""
+        },
+        "target1OriginDir": {
+            "value": ""
+        },
+        "target1RotationDirect": {
+            "value": ""
+        },
+        "target1RotationPeriod": {
+            "value": ""
+        },
+        "target1IniPosInPole": {
+            "value": ""
+        },
+        "target1MovePeriodInPole": {
+            "value": ""
+        },
+        "target1PoleRotationDirect": {
+            "value": ""
+        },
+        "target1PoleRotationRange": {
+            "value": ""
+        },
+        "target1PoleRotationPeriod": {
+            "value": ""
+        },
+        "target1PathTime": {
+            "value": ""
+        },
+        "target1VanishTime": {
+            "value": ""
+        },
+        "target1Hp": {
+            "value": ""
+        },
+        "target1Euler": {
+            "value": ""
+        },
+        "target1MaskPole": {
+            "value": ""
+        },
+        "targetArr": {
+            "value": "3001"
+        },
+        "gravity": {
+            "value": 20
+        },
+        "starLimit": {
+            "value": ""
+        },
+        "missionType": {
+            "value": 1
+        },
+        "missionCoef": {
+            "value": 10
+        },
+        "enduranceCost": {
+            "value": 1
+        },
+        "missionDifficulty": {
+            "value": 0
+        },
+        "missionDescription": {
+            "value": "关卡描述"
+        },
+        "achieveOneStarGold": {
+            "value": 1120
+        },
+        "achieveTwoStarGold": {
+            "value": 1680
+        },
+        "achieveThreeStarGold": {
+            "value": 2240
+        },
+        "achieveOneStarDiamond": {
+            "value": 0
+        },
+        "achieveTwoStarDiamond": {
+            "value": 0
+        },
+        "achieveThreeStarDiamond": {
+            "value": 0
+        },
+        "achieveOneStarCondition": {
+            "value": 28
+        },
+        "achieveTwoStarCondition": {
+            "value": 29
+        },
+        "achieveThreeStarCondition": {
+            "value": 30
         },
         "achieveOneStarExperience": {
             "value": 17
