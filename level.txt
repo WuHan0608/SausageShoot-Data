@@ -762,7 +762,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1#2.3,0,75,6@2.3,0,75,2@6.3,0,75,6@6.3,0,75,2@0,180,0,0.5,2@2.3,0,75,6@2.3,0,75,2@-1.7,0,75,6@-1.7,0,75,2@0,0,0,0.5,2"
+            "value": "1#2.3,0,75,8@2.3,0,75,2@6.3,0,75,8@6.3,0,75,2@0,180,0,0.5,2@2.3,0,75,8@2.3,0,75,2@-1.7,0,75,8@-1.7,0,75,2@0,0,0,0.5,2"
         },
         "target2VanishTime": {
             "value": ""
@@ -834,7 +834,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1#-4.7,0,78,12@-4.7,0,78,2@0,180,0,0.5,2@3.3,0,78,12@3.3,0,78,2@0,0,0,0.5,2"
+            "value": "1#-4.7,0,78,16@-4.7,0,78,2@0,180,0,0.5,2@3.3,0,78,16@3.3,0,78,2@0,0,0,0.5,2"
         },
         "target3VanishTime": {
             "value": ""
@@ -1337,10 +1337,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 6
@@ -1780,10 +1780,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 6
@@ -1857,7 +1857,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 16
+            "value": 12
         },
         "target1IniPosInPole": {
             "value": ""
@@ -1935,10 +1935,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 6
@@ -1991,7 +1991,7 @@
             "value": 3
         },
         "target1MovePeriod": {
-            "value": 45
+            "value": 60
         },
         "target1MoveDistance1": {
             "value": 5
@@ -2012,7 +2012,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 16
+            "value": 12
         },
         "target1IniPosInPole": {
             "value": ""
@@ -2090,10 +2090,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 6
@@ -2245,10 +2245,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 6
@@ -2400,10 +2400,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 7
@@ -2555,10 +2555,10 @@
             "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 35
         },
         "achieveThreeStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveOneStarExperience": {
             "value": 7
@@ -3979,7 +3979,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1#4.3,0,71,1.5@4.3,0,71,4@0,180,0,0.5,2@-1.7,0,71,3@-1.7,0,71,4@0,0,0,0.5,2@1.3,0,71,1.5@1.3,0,71,4"
+            "value": "1#4.3,0,71,3@4.3,0,71,4@0,180,0,0.5,2@-1.7,0,71,6@-1.7,0,71,4@0,0,0,0.5,2@1.3,0,71,3@1.3,0,71,4"
         },
         "target2VanishTime": {
             "value": ""
@@ -4051,7 +4051,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1#-3.5,0,72,3@-3.5,0,72,4@0,180,0,0.5,2@2.5,0,72,3@2.5,0,72,4@0,0,0,0.5,2"
+            "value": "1#-3.5,0,72,6@-3.5,0,72,4@0,180,0,0.5,2@2.5,0,72,6@2.5,0,72,4@0,0,0,0.5,2"
         },
         "target3VanishTime": {
             "value": ""
@@ -4123,7 +4123,7 @@
             "value": ""
         },
         "target4PathTime": {
-            "value": "1#3.3,0,74,3@3.3,0,74,4@0,180,0,0.5,2@-2.7,0,74,3@-2.7,0,74,4@0,0,0,0.5,2"
+            "value": "1#3.3,0,74,6@3.3,0,74,4@0,180,0,0.5,2@-2.7,0,74,6@-2.7,0,74,4@0,0,0,0.5,2"
         },
         "target4VanishTime": {
             "value": ""
@@ -4278,7 +4278,7 @@
             "value": ""
         },
         "target1PathTime": {
-            "value": "1#2.3,0,73,4@2.3,0,73,2@6.3,0,73,4@6.3,0,73,2@0,180,0,0.5,2@2.3,0,73,4@2.3,0,73,2@-1.7,0,73,4@-1.7,0,73,2@0,0,0,0.5,2"
+            "value": "1#2.3,0,73,8@2.3,0,73,2@6.3,0,73,8@6.3,0,73,2@0,180,0,0.5,2@2.3,0,73,8@2.3,0,73,2@-1.7,0,73,8@-1.7,0,73,2@0,0,0,0.5,2"
         },
         "target1VanishTime": {
             "value": ""
@@ -4350,7 +4350,7 @@
             "value": ""
         },
         "target2PathTime": {
-            "value": "1#-4.7,0,75,8@-4.7,0,75,2@0,180,0,0.5,2@3.3,0,75,8@3.3,0,75,2@0,0,0,0.5,2"
+            "value": "1#-4.7,0,75,16@-4.7,0,75,2@0,180,0,0.5,2@3.3,0,75,16@3.3,0,75,2@0,0,0,0.5,2"
         },
         "target2VanishTime": {
             "value": ""
@@ -4422,7 +4422,7 @@
             "value": ""
         },
         "target3PathTime": {
-            "value": "1#4.3,0,71,1.5@4.3,0,71,4@0,180,0,0.5,2@-1.7,0,71,3@-1.7,0,71,4@0,0,0,0.5,2@1.3,0,71,1.5@1.3,0,71,4"
+            "value": "1#4.3,0,71,3@4.3,0,71,4@0,180,0,0.5,2@-1.7,0,71,6@-1.7,0,71,4@0,0,0,0.5,2@1.3,0,71,3@1.3,0,71,4"
         },
         "target3VanishTime": {
             "value": ""
@@ -4494,7 +4494,7 @@
             "value": ""
         },
         "target4PathTime": {
-            "value": "1#-3.5,0,72,3@-3.5,0,72,4@0,180,0,0.5,2@2.5,0,72,3@2.5,0,72,4@0,0,0,0.5,2"
+            "value": "1#-3.5,0,72,6@-3.5,0,72,4@0,180,0,0.5,2@2.5,0,72,6@2.5,0,72,4@0,0,0,0.5,2"
         },
         "target4VanishTime": {
             "value": ""
@@ -4566,7 +4566,7 @@
             "value": ""
         },
         "target5PathTime": {
-            "value": "1#3.3,0,74,3@3.3,0,74,4@0,180,0,0.5,2@-2.7,0,74,3@-2.7,0,74,4@0,0,0,0.5,2"
+            "value": "1#3.3,0,74,6@3.3,0,74,4@0,180,0,0.5,2@-2.7,0,74,6@-2.7,0,74,4@0,0,0,0.5,2"
         },
         "target5VanishTime": {
             "value": ""
@@ -23328,7 +23328,7 @@
             "value": 50
         },
         "target1Type": {
-            "value": "Target-18"
+            "value": "Target-21"
         },
         "target1Pos": {
             "value": [
@@ -23472,7 +23472,7 @@
             "value": ""
         },
         "target3Type": {
-            "value": "Target-18"
+            "value": "Target-21"
         },
         "target3Pos": {
             "value": [
