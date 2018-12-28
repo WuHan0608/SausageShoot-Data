@@ -12,7 +12,7 @@
         "UiShowDistance": {
             "value": 20
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -167,7 +167,7 @@
         "UiShowDistance": {
             "value": 23
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -322,7 +322,7 @@
         "UiShowDistance": {
             "value": 24
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -477,7 +477,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -632,7 +632,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-10"
         },
         "target1Pos": {
@@ -704,7 +704,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-11"
         },
         "target2Pos": {
@@ -776,7 +776,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-11"
         },
         "target3Pos": {
@@ -931,7 +931,7 @@
         "UiShowDistance": {
             "value": 26
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -1003,7 +1003,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-4"
         },
         "target2Pos": {
@@ -1075,7 +1075,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-4"
         },
         "target3Pos": {
@@ -1147,7 +1147,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -1219,7 +1219,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-4"
         },
         "target5Pos": {
@@ -1374,7 +1374,7 @@
         "UiShowDistance": {
             "value": 26
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -1446,7 +1446,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-4"
         },
         "target2Pos": {
@@ -1518,7 +1518,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-4"
         },
         "target3Pos": {
@@ -1590,7 +1590,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -1662,7 +1662,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-4"
         },
         "target5Pos": {
@@ -1817,7 +1817,7 @@
         "UiShowDistance": {
             "value": 28
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -1972,7 +1972,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -2127,7 +2127,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -2282,7 +2282,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -2437,7 +2437,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -2592,7 +2592,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -2664,7 +2664,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-4"
         },
         "target2Pos": {
@@ -2736,7 +2736,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-4"
         },
         "target3Pos": {
@@ -2808,7 +2808,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -2880,7 +2880,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-6"
         },
         "target5Pos": {
@@ -2952,7 +2952,7 @@
         "target5MaskPole": {
             "value": ""
         },
-        "Target6Type": {
+        "target6Type": {
             "value": "Target-6"
         },
         "target6Pos": {
@@ -3024,7 +3024,7 @@
         "target6MaskPole": {
             "value": ""
         },
-        "Target7Type": {
+        "target7Type": {
             "value": "Target-6"
         },
         "target7Pos": {
@@ -3096,7 +3096,7 @@
         "target7MaskPole": {
             "value": ""
         },
-        "Target8Type": {
+        "target8Type": {
             "value": "Target-6"
         },
         "target8Pos": {
@@ -3251,7 +3251,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -3323,7 +3323,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-7"
         },
         "target2Pos": {
@@ -3395,7 +3395,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -3550,7 +3550,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -3622,7 +3622,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-7"
         },
         "target2Pos": {
@@ -3694,7 +3694,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -3849,7 +3849,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-10"
         },
         "target1Pos": {
@@ -3921,7 +3921,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-9"
         },
         "target2Pos": {
@@ -3993,7 +3993,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-9"
         },
         "target3Pos": {
@@ -4065,7 +4065,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-9"
         },
         "target4Pos": {
@@ -4220,7 +4220,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-11"
         },
         "target1Pos": {
@@ -4292,7 +4292,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-11"
         },
         "target2Pos": {
@@ -4364,7 +4364,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-9"
         },
         "target3Pos": {
@@ -4436,7 +4436,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-9"
         },
         "target4Pos": {
@@ -4508,7 +4508,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-9"
         },
         "target5Pos": {
@@ -4663,7 +4663,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-12"
         },
         "target1Pos": {
@@ -4818,7 +4818,7 @@
         "UiShowDistance": {
             "value": 31
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-15"
         },
         "target1Pos": {
@@ -4890,7 +4890,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-15"
         },
         "target2Pos": {
@@ -4962,7 +4962,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-15"
         },
         "target3Pos": {
@@ -5117,7 +5117,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -5272,7 +5272,7 @@
         "UiShowDistance": {
             "value": 40
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -5427,7 +5427,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -5582,7 +5582,7 @@
         "UiShowDistance": {
             "value": 30
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-19"
         },
         "target1Pos": {
@@ -5737,7 +5737,7 @@
         "UiShowDistance": {
             "value": 38
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-9"
         },
         "target1Pos": {
@@ -5809,7 +5809,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-9"
         },
         "target2Pos": {
@@ -5881,7 +5881,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-9"
         },
         "target3Pos": {
@@ -5953,7 +5953,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-8"
         },
         "target4Pos": {
@@ -6025,7 +6025,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-8"
         },
         "target5Pos": {
@@ -6180,7 +6180,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-20"
         },
         "target1Pos": {
@@ -6335,7 +6335,7 @@
         "UiShowDistance": {
             "value": 38
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -6381,7 +6381,7 @@
             "value": -1
         },
         "target1MovePeriodInPole": {
-            "value": 8
+            "value": 9
         },
         "target1PoleRotationDirect": {
             "value": 1
@@ -6490,7 +6490,7 @@
         "UiShowDistance": {
             "value": 38
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -6536,7 +6536,7 @@
             "value": -1
         },
         "target1MovePeriodInPole": {
-            "value": 8
+            "value": 9
         },
         "target1PoleRotationDirect": {
             "value": 1
@@ -6645,7 +6645,7 @@
         "UiShowDistance": {
             "value": 38
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -6700,7 +6700,7 @@
             "value": 180
         },
         "target1PoleRotationPeriod": {
-            "value": 12
+            "value": 13
         },
         "target1PathTime": {
             "value": ""
@@ -6800,7 +6800,7 @@
         "UiShowDistance": {
             "value": 38
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -6840,7 +6840,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 8
+            "value": 12
         },
         "target1IniPosInPole": {
             "value": ""
@@ -6955,7 +6955,7 @@
         "UiShowDistance": {
             "value": 40
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -6974,7 +6974,7 @@
             "value": 3
         },
         "target1MovePeriod": {
-            "value": 30
+            "value": 40
         },
         "target1MoveDistance1": {
             "value": 5
@@ -6995,7 +6995,7 @@
             "value": 2
         },
         "target1RotationPeriod": {
-            "value": 8
+            "value": 12
         },
         "target1IniPosInPole": {
             "value": ""
@@ -7110,7 +7110,7 @@
         "UiShowDistance": {
             "value": 40
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -7156,7 +7156,7 @@
             "value": -1
         },
         "target1MovePeriodInPole": {
-            "value": 8
+            "value": 9
         },
         "target1PoleRotationDirect": {
             "value": 2
@@ -7165,7 +7165,7 @@
             "value": 180
         },
         "target1PoleRotationPeriod": {
-            "value": 8
+            "value": 9
         },
         "target1PathTime": {
             "value": ""
@@ -7265,7 +7265,7 @@
         "UiShowDistance": {
             "value": 45
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-20"
         },
         "target1Pos": {
@@ -7420,7 +7420,7 @@
         "UiShowDistance": {
             "value": 40
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-12"
         },
         "target1Pos": {
@@ -7575,7 +7575,7 @@
         "UiShowDistance": {
             "value": 42
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -7594,7 +7594,7 @@
             "value": 4
         },
         "target1MovePeriod": {
-            "value": 12
+            "value": 14
         },
         "target1MoveDistance1": {
             "value": 2
@@ -7647,7 +7647,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-4"
         },
         "target2Pos": {
@@ -7666,7 +7666,7 @@
             "value": 3
         },
         "target2MovePeriod": {
-            "value": 12
+            "value": 14
         },
         "target2MoveDistance1": {
             "value": 2
@@ -7719,7 +7719,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-4"
         },
         "target3Pos": {
@@ -7738,7 +7738,7 @@
             "value": 4
         },
         "target3MovePeriod": {
-            "value": 12
+            "value": 14
         },
         "target3MoveDistance1": {
             "value": 2
@@ -7791,7 +7791,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -7810,7 +7810,7 @@
             "value": 3
         },
         "target4MovePeriod": {
-            "value": 18
+            "value": 21
         },
         "target4MoveDistance1": {
             "value": 3
@@ -7863,7 +7863,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-4"
         },
         "target5Pos": {
@@ -7882,7 +7882,7 @@
             "value": 4
         },
         "target5MovePeriod": {
-            "value": 18
+            "value": 21
         },
         "target5MoveDistance1": {
             "value": 3
@@ -7978,10 +7978,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 60
+            "value": 45
         },
         "achieveTwoStarCondition": {
-            "value": 70
+            "value": 60
         },
         "achieveThreeStarCondition": {
             "value": 75
@@ -8018,7 +8018,7 @@
         "UiShowDistance": {
             "value": 45
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-11"
         },
         "target1Pos": {
@@ -8090,7 +8090,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-11"
         },
         "target2Pos": {
@@ -8162,7 +8162,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-9"
         },
         "target3Pos": {
@@ -8234,7 +8234,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-9"
         },
         "target4Pos": {
@@ -8306,7 +8306,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-9"
         },
         "target5Pos": {
@@ -8421,10 +8421,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 60
+            "value": 45
         },
         "achieveTwoStarCondition": {
-            "value": 70
+            "value": 60
         },
         "achieveThreeStarCondition": {
             "value": 75
@@ -8461,7 +8461,7 @@
         "UiShowDistance": {
             "value": 43
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-6"
         },
         "target1Pos": {
@@ -8533,7 +8533,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-6"
         },
         "target2Pos": {
@@ -8605,7 +8605,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-6"
         },
         "target3Pos": {
@@ -8677,7 +8677,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-6"
         },
         "target4Pos": {
@@ -8749,7 +8749,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-4"
         },
         "target5Pos": {
@@ -8821,7 +8821,7 @@
         "target5MaskPole": {
             "value": ""
         },
-        "Target6Type": {
+        "target6Type": {
             "value": "Target-4"
         },
         "target6Pos": {
@@ -8893,7 +8893,7 @@
         "target6MaskPole": {
             "value": ""
         },
-        "Target7Type": {
+        "target7Type": {
             "value": "Target-4"
         },
         "target7Pos": {
@@ -8965,7 +8965,7 @@
         "target7MaskPole": {
             "value": ""
         },
-        "Target8Type": {
+        "target8Type": {
             "value": "Target-4"
         },
         "target8Pos": {
@@ -9120,7 +9120,7 @@
         "UiShowDistance": {
             "value": 42
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -9139,7 +9139,7 @@
             "value": 3
         },
         "target1MovePeriod": {
-            "value": 8
+            "value": 10
         },
         "target1MoveDistance1": {
             "value": 2
@@ -9192,7 +9192,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-7"
         },
         "target2Pos": {
@@ -9211,7 +9211,7 @@
             "value": 4
         },
         "target2MovePeriod": {
-            "value": 8
+            "value": 10
         },
         "target2MoveDistance1": {
             "value": 2
@@ -9264,7 +9264,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -9283,7 +9283,7 @@
             "value": 3
         },
         "target3MovePeriod": {
-            "value": 8
+            "value": 10
         },
         "target3MoveDistance1": {
             "value": 2
@@ -9379,10 +9379,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 35
+            "value": 15
         },
         "achieveTwoStarCondition": {
-            "value": 40
+            "value": 30
         },
         "achieveThreeStarCondition": {
             "value": 45
@@ -9419,7 +9419,7 @@
         "UiShowDistance": {
             "value": 41
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-15"
         },
         "target1Pos": {
@@ -9491,7 +9491,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-15"
         },
         "target2Pos": {
@@ -9563,7 +9563,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-15"
         },
         "target3Pos": {
@@ -9678,10 +9678,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 50
+            "value": 40
         },
         "achieveTwoStarCondition": {
-            "value": 55
+            "value": 50
         },
         "achieveThreeStarCondition": {
             "value": 60
@@ -9718,7 +9718,7 @@
         "UiShowDistance": {
             "value": 45
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-19"
         },
         "target1Pos": {
@@ -9790,7 +9790,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -9905,10 +9905,10 @@
             "value": 0
         },
         "achieveOneStarCondition": {
-            "value": 40
+            "value": 30
         },
         "achieveTwoStarCondition": {
-            "value": 45
+            "value": 40
         },
         "achieveThreeStarCondition": {
             "value": 50
@@ -9945,7 +9945,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -10017,7 +10017,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-7"
         },
         "target2Pos": {
@@ -10089,7 +10089,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -10244,7 +10244,7 @@
         "UiShowDistance": {
             "value": 105
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-2"
         },
         "target1Pos": {
@@ -10399,7 +10399,7 @@
         "UiShowDistance": {
             "value": 105
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-2"
         },
         "target1Pos": {
@@ -10554,7 +10554,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -10709,7 +10709,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -10864,7 +10864,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11019,7 +11019,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11174,7 +11174,7 @@
         "UiShowDistance": {
             "value": 55
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11329,7 +11329,7 @@
         "UiShowDistance": {
             "value": 55
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11484,7 +11484,7 @@
         "UiShowDistance": {
             "value": 55
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11639,7 +11639,7 @@
         "UiShowDistance": {
             "value": 55
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11794,7 +11794,7 @@
         "UiShowDistance": {
             "value": 85
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -11949,7 +11949,7 @@
         "UiShowDistance": {
             "value": 85
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -12104,7 +12104,7 @@
         "UiShowDistance": {
             "value": 85
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -12259,7 +12259,7 @@
         "UiShowDistance": {
             "value": 85
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -12414,7 +12414,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -12569,7 +12569,7 @@
         "UiShowDistance": {
             "value": 55
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -12724,7 +12724,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -12796,7 +12796,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-4"
         },
         "target2Pos": {
@@ -12868,7 +12868,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-4"
         },
         "target3Pos": {
@@ -12940,7 +12940,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -13012,7 +13012,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-4"
         },
         "target5Pos": {
@@ -13167,7 +13167,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -13239,7 +13239,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-7"
         },
         "target2Pos": {
@@ -13311,7 +13311,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -13466,7 +13466,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-6"
         },
         "target1Pos": {
@@ -13538,7 +13538,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-4"
         },
         "target2Pos": {
@@ -13610,7 +13610,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-4"
         },
         "target3Pos": {
@@ -13682,7 +13682,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -13754,7 +13754,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-4"
         },
         "target5Pos": {
@@ -13909,7 +13909,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-4"
         },
         "target1Pos": {
@@ -14064,7 +14064,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -14136,7 +14136,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-3"
         },
         "target2Pos": {
@@ -14208,7 +14208,7 @@
         "target2MaskPole": {
             "value": "0,0,0#1,1,1"
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-14"
         },
         "target3Pos": {
@@ -14363,7 +14363,7 @@
         "UiShowDistance": {
             "value": 25
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -14518,7 +14518,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -14673,7 +14673,7 @@
         "UiShowDistance": {
             "value": 40
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-17"
         },
         "target1Pos": {
@@ -14745,7 +14745,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-17"
         },
         "target2Pos": {
@@ -14817,7 +14817,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-17"
         },
         "target3Pos": {
@@ -14889,7 +14889,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-17"
         },
         "target4Pos": {
@@ -14961,7 +14961,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-17"
         },
         "target5Pos": {
@@ -15033,7 +15033,7 @@
         "target5MaskPole": {
             "value": ""
         },
-        "Target6Type": {
+        "target6Type": {
             "value": "Target-17"
         },
         "target6Pos": {
@@ -15105,7 +15105,7 @@
         "target6MaskPole": {
             "value": ""
         },
-        "Target7Type": {
+        "target7Type": {
             "value": "Target-18"
         },
         "target7Pos": {
@@ -15177,7 +15177,7 @@
         "target7MaskPole": {
             "value": ""
         },
-        "Target8Type": {
+        "target8Type": {
             "value": "Target-18"
         },
         "target8Pos": {
@@ -15249,7 +15249,7 @@
         "target8MaskPole": {
             "value": ""
         },
-        "Target9Type": {
+        "target9Type": {
             "value": "Target-18"
         },
         "target9Pos": {
@@ -15321,7 +15321,7 @@
         "target9MaskPole": {
             "value": ""
         },
-        "Target10Type": {
+        "target10Type": {
             "value": "Target-18"
         },
         "target10Pos": {
@@ -15393,7 +15393,7 @@
         "target10MaskPole": {
             "value": ""
         },
-        "Target11Type": {
+        "target11Type": {
             "value": "Target-18"
         },
         "target11Pos": {
@@ -15465,7 +15465,7 @@
         "target11MaskPole": {
             "value": ""
         },
-        "Target12Type": {
+        "target12Type": {
             "value": "Target-18"
         },
         "target12Pos": {
@@ -15620,7 +15620,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -15692,7 +15692,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-7"
         },
         "target2Pos": {
@@ -15764,7 +15764,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -15919,7 +15919,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-1"
         },
         "target1Pos": {
@@ -15991,7 +15991,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-2"
         },
         "target2Pos": {
@@ -16063,7 +16063,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-3"
         },
         "target3Pos": {
@@ -16135,7 +16135,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -16207,7 +16207,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-5"
         },
         "target5Pos": {
@@ -16279,7 +16279,7 @@
         "target5MaskPole": {
             "value": ""
         },
-        "Target6Type": {
+        "target6Type": {
             "value": "Target-6"
         },
         "target6Pos": {
@@ -16351,7 +16351,7 @@
         "target6MaskPole": {
             "value": ""
         },
-        "Target7Type": {
+        "target7Type": {
             "value": "Target-7"
         },
         "target7Pos": {
@@ -16423,7 +16423,7 @@
         "target7MaskPole": {
             "value": ""
         },
-        "Target8Type": {
+        "target8Type": {
             "value": "Target-8"
         },
         "target8Pos": {
@@ -16495,7 +16495,7 @@
         "target8MaskPole": {
             "value": ""
         },
-        "Target9Type": {
+        "target9Type": {
             "value": "Target-9"
         },
         "target9Pos": {
@@ -16567,7 +16567,7 @@
         "target9MaskPole": {
             "value": ""
         },
-        "Target10Type": {
+        "target10Type": {
             "value": "Target-10"
         },
         "target10Pos": {
@@ -16722,7 +16722,7 @@
         "UiShowDistance": {
             "value": 35
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-11"
         },
         "target1Pos": {
@@ -16794,7 +16794,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-12"
         },
         "target2Pos": {
@@ -16866,7 +16866,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-13"
         },
         "target3Pos": {
@@ -16938,7 +16938,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-14"
         },
         "target4Pos": {
@@ -17010,7 +17010,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-15"
         },
         "target5Pos": {
@@ -17082,7 +17082,7 @@
         "target5MaskPole": {
             "value": ""
         },
-        "Target6Type": {
+        "target6Type": {
             "value": "Target-16"
         },
         "target6Pos": {
@@ -17154,7 +17154,7 @@
         "target6MaskPole": {
             "value": ""
         },
-        "Target7Type": {
+        "target7Type": {
             "value": "Target-17"
         },
         "target7Pos": {
@@ -17226,7 +17226,7 @@
         "target7MaskPole": {
             "value": ""
         },
-        "Target8Type": {
+        "target8Type": {
             "value": "Target-18"
         },
         "target8Pos": {
@@ -17298,7 +17298,7 @@
         "target8MaskPole": {
             "value": ""
         },
-        "Target9Type": {
+        "target9Type": {
             "value": "Target-19"
         },
         "target9Pos": {
@@ -17453,7 +17453,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-14"
         },
         "target1Pos": {
@@ -17525,7 +17525,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -17597,7 +17597,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-18"
         },
         "target3Pos": {
@@ -17752,7 +17752,7 @@
         "UiShowDistance": {
             "value": 40
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -17907,7 +17907,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -18062,7 +18062,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-18"
         },
         "target1Pos": {
@@ -18134,7 +18134,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-14"
         },
         "target2Pos": {
@@ -18206,7 +18206,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-2"
         },
         "target3Pos": {
@@ -18361,7 +18361,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-2"
         },
         "target1Pos": {
@@ -18516,7 +18516,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-2"
         },
         "target1Pos": {
@@ -18671,7 +18671,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-2"
         },
         "target1Pos": {
@@ -18826,7 +18826,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -18981,7 +18981,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -19136,7 +19136,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -19291,7 +19291,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -19446,7 +19446,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -19601,7 +19601,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -19756,7 +19756,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-3"
         },
         "target1Pos": {
@@ -19911,7 +19911,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -20066,7 +20066,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -20221,7 +20221,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -20376,7 +20376,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-13"
         },
         "target1Pos": {
@@ -20448,7 +20448,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -20603,7 +20603,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -20758,7 +20758,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -20830,7 +20830,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -20902,7 +20902,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-18"
         },
         "target3Pos": {
@@ -21057,7 +21057,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -21129,7 +21129,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -21201,7 +21201,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-6"
         },
         "target3Pos": {
@@ -21356,7 +21356,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -21428,7 +21428,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -21500,7 +21500,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-6"
         },
         "target3Pos": {
@@ -21655,7 +21655,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -21727,7 +21727,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-6"
         },
         "target2Pos": {
@@ -21799,7 +21799,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-6"
         },
         "target3Pos": {
@@ -21954,7 +21954,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-7"
         },
         "target1Pos": {
@@ -22026,7 +22026,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-6"
         },
         "target2Pos": {
@@ -22098,7 +22098,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-6"
         },
         "target3Pos": {
@@ -22170,7 +22170,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-6"
         },
         "target4Pos": {
@@ -22325,7 +22325,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-19"
         },
         "target1Pos": {
@@ -22480,7 +22480,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-19"
         },
         "target1Pos": {
@@ -22635,7 +22635,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-20"
         },
         "target1Pos": {
@@ -22790,7 +22790,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-20"
         },
         "target1Pos": {
@@ -22945,7 +22945,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-20"
         },
         "target1Pos": {
@@ -23100,7 +23100,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-18"
         },
         "target1Pos": {
@@ -23172,7 +23172,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-15"
         },
         "target2Pos": {
@@ -23327,7 +23327,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-18"
         },
         "target1Pos": {
@@ -23399,7 +23399,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-15"
         },
         "target2Pos": {
@@ -23471,7 +23471,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-18"
         },
         "target3Pos": {
@@ -23543,7 +23543,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-15"
         },
         "target4Pos": {
@@ -23698,7 +23698,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-15"
         },
         "target1Pos": {
@@ -23770,7 +23770,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-18"
         },
         "target2Pos": {
@@ -23842,7 +23842,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-18"
         },
         "target3Pos": {
@@ -23997,7 +23997,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-15"
         },
         "target1Pos": {
@@ -24069,7 +24069,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-6"
         },
         "target2Pos": {
@@ -24141,7 +24141,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-7"
         },
         "target3Pos": {
@@ -24213,7 +24213,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-4"
         },
         "target4Pos": {
@@ -24368,7 +24368,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-15"
         },
         "target1Pos": {
@@ -24440,7 +24440,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-6"
         },
         "target2Pos": {
@@ -24512,7 +24512,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-6"
         },
         "target3Pos": {
@@ -24584,7 +24584,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-6"
         },
         "target4Pos": {
@@ -24739,7 +24739,7 @@
         "UiShowDistance": {
             "value": 50
         },
-        "Target1Type": {
+        "target1Type": {
             "value": "Target-18"
         },
         "target1Pos": {
@@ -24811,7 +24811,7 @@
         "target1MaskPole": {
             "value": ""
         },
-        "Target2Type": {
+        "target2Type": {
             "value": "Target-15"
         },
         "target2Pos": {
@@ -24883,7 +24883,7 @@
         "target2MaskPole": {
             "value": ""
         },
-        "Target3Type": {
+        "target3Type": {
             "value": "Target-18"
         },
         "target3Pos": {
@@ -24955,7 +24955,7 @@
         "target3MaskPole": {
             "value": ""
         },
-        "Target4Type": {
+        "target4Type": {
             "value": "Target-15"
         },
         "target4Pos": {
@@ -25027,7 +25027,7 @@
         "target4MaskPole": {
             "value": ""
         },
-        "Target5Type": {
+        "target5Type": {
             "value": "Target-6"
         },
         "target5Pos": {
@@ -25099,7 +25099,7 @@
         "target5MaskPole": {
             "value": ""
         },
-        "Target6Type": {
+        "target6Type": {
             "value": "Target-6"
         },
         "target6Pos": {
