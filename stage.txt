@@ -5637,7 +5637,7 @@
         "UiShowDistance": 55,
         "target1Type": "Target-21",
         "target1Pos": [
-            4.3,
+            -1.7,
             -1,
             75
         ],
@@ -5686,7 +5686,7 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-1.7,0,75.5,9@-1.7,0,75.6,9#1,2,5#2,6,8",
+        "target2PathTime": "1#-1.7,0,75.5,6@-1.7,0,75.6,6#1,2,5",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
