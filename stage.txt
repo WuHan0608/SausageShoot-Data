@@ -9740,7 +9740,7 @@
         "target1Type": "Target-21",
         "target1Pos": [
             -2.4,
-            0,
+            -1,
             75
         ],
         "target1Scale": [
@@ -9788,7 +9788,7 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-2,0,75.6,4@-2,4,75.5,4#1,1,2",
+        "target2PathTime": "1#-2.4,0,75.6,4@-2.4,0,75.5,4#1,1,2",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
@@ -9796,7 +9796,7 @@
         "target3Type": "Target-21",
         "target3Pos": [
             5,
-            0,
+            -1,
             75
         ],
         "target3Scale": [
@@ -9852,7 +9852,7 @@
         "target5Type": "Target-6",
         "target5Pos": [
             -2.4,
-            0,
+            -1,
             75.2
         ],
         "target5Scale": [
@@ -9872,7 +9872,7 @@
         "target5PoleRotationDirect": "",
         "target5PoleRotationRange": "",
         "target5PoleRotationPeriod": "",
-        "target5PathTime": "1#-2.4,0,75.2,5@-2.7,0,75.2,0.5@-2.4,0,75.2,0.5@2.4,0,75.2,2",
+        "target5PathTime": "1#-2.4,-1,75.2,5@-2.7,-1,75.2,0.5@-2.4,-1,75.2,0.5@-2.4,-1,75.2,2",
         "target5VanishTime": "",
         "target5Hp": "",
         "target5Euler": "",
@@ -9900,7 +9900,7 @@
         "target6PoleRotationDirect": "",
         "target6PoleRotationRange": "",
         "target6PoleRotationPeriod": "",
-        "target6PathTime": "1#5,0,75.2,3@5.3,0,75.2,0.5@5,0,75.2,0.5@5,0,75.2,4",
+        "target6PathTime": "1#5,-1,75.2,3@5.3,-1,75.2,0.5@5,-1,75.2,0.5@5,-1,75.2,4",
         "target6VanishTime": "",
         "target6Hp": "",
         "target6Euler": "",
