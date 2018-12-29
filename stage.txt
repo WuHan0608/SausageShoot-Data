@@ -9232,6 +9232,7 @@
         "target2Type": "Target-15",
         "target2Pos": [
             -1.7,
+            0,
             75.5
         ],
         "target2Scale": [
@@ -9251,7 +9252,7 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-1.7,75.6,4@-1.7,75.5,4#2,3,4",
+        "target2PathTime": "1#-1.7,0,75.6,4@-1.7,0,75.5,4#2,3,4",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
