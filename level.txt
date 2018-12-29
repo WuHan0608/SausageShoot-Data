@@ -1,378 +1,380 @@
 {
-    "138": [
-        {
-            "level": 1,
-            "experience": 0,
-            "strengthLimit": 10,
-            "diffExp": 0
-        },
-        {
-            "level": 2,
-            "experience": 4,
-            "strengthLimit": 10,
-            "diffExp": 4
-        },
-        {
-            "level": 3,
-            "experience": 13,
-            "strengthLimit": 10,
-            "diffExp": 9
-        },
-        {
-            "level": 4,
-            "experience": 25,
-            "strengthLimit": 10,
-            "diffExp": 12
-        },
-        {
-            "level": 5,
-            "experience": 41,
-            "strengthLimit": 10,
-            "diffExp": 16
-        },
-        {
-            "level": 6,
-            "experience": 60,
-            "strengthLimit": 10,
-            "diffExp": 19
-        },
-        {
-            "level": 7,
-            "experience": 83,
-            "strengthLimit": 10,
-            "diffExp": 23
-        },
-        {
-            "level": 8,
-            "experience": 109,
-            "strengthLimit": 10,
-            "diffExp": 26
-        },
-        {
-            "level": 9,
-            "experience": 138,
-            "strengthLimit": 10,
-            "diffExp": 29
-        }
-    ],
-    "1515": [
-        {
-            "level": 10,
-            "experience": 170,
-            "strengthLimit": 10,
-            "diffExp": 32
-        },
-        {
-            "level": 11,
-            "experience": 205,
-            "strengthLimit": 10,
-            "diffExp": 35
-        },
-        {
-            "level": 12,
-            "experience": 245,
-            "strengthLimit": 10,
-            "diffExp": 40
-        },
-        {
-            "level": 13,
-            "experience": 315,
-            "strengthLimit": 10,
-            "diffExp": 70
-        },
-        {
-            "level": 14,
-            "experience": 415,
-            "strengthLimit": 10,
-            "diffExp": 100
-        },
-        {
-            "level": 15,
-            "experience": 555,
-            "strengthLimit": 10,
-            "diffExp": 140
-        },
-        {
-            "level": 16,
-            "experience": 735,
-            "strengthLimit": 10,
-            "diffExp": 180
-        },
-        {
-            "level": 17,
-            "experience": 955,
-            "strengthLimit": 10,
-            "diffExp": 220
-        },
-        {
-            "level": 18,
-            "experience": 1215,
-            "strengthLimit": 10,
-            "diffExp": 260
-        },
-        {
-            "level": 19,
-            "experience": 1515,
-            "strengthLimit": 10,
-            "diffExp": 300
-        }
-    ],
-    "7162": [
-        {
-            "level": 20,
-            "experience": 1857,
-            "strengthLimit": 10,
-            "diffExp": 342
-        },
-        {
-            "level": 21,
-            "experience": 2243,
-            "strengthLimit": 10,
-            "diffExp": 386
-        },
-        {
-            "level": 22,
-            "experience": 2675,
-            "strengthLimit": 10,
-            "diffExp": 432
-        },
-        {
-            "level": 23,
-            "experience": 3155,
-            "strengthLimit": 10,
-            "diffExp": 480
-        },
-        {
-            "level": 24,
-            "experience": 3685,
-            "strengthLimit": 10,
-            "diffExp": 530
-        },
-        {
-            "level": 25,
-            "experience": 4267,
-            "strengthLimit": 10,
-            "diffExp": 582
-        },
-        {
-            "level": 26,
-            "experience": 4903,
-            "strengthLimit": 10,
-            "diffExp": 636
-        },
-        {
-            "level": 27,
-            "experience": 5596,
-            "strengthLimit": 10,
-            "diffExp": 693
-        },
-        {
-            "level": 28,
-            "experience": 6348,
-            "strengthLimit": 10,
-            "diffExp": 752
-        },
-        {
-            "level": 29,
-            "experience": 7162,
-            "strengthLimit": 10,
-            "diffExp": 814
-        }
-    ],
-    "19401": [
-        {
-            "level": 30,
-            "experience": 8041,
-            "strengthLimit": 10,
-            "diffExp": 879
-        },
-        {
-            "level": 31,
-            "experience": 8988,
-            "strengthLimit": 10,
-            "diffExp": 947
-        },
-        {
-            "level": 32,
-            "experience": 10006,
-            "strengthLimit": 10,
-            "diffExp": 1018
-        },
-        {
-            "level": 33,
-            "experience": 11098,
-            "strengthLimit": 10,
-            "diffExp": 1092
-        },
-        {
-            "level": 34,
-            "experience": 12267,
-            "strengthLimit": 10,
-            "diffExp": 1169
-        },
-        {
-            "level": 35,
-            "experience": 13517,
-            "strengthLimit": 10,
-            "diffExp": 1250
-        },
-        {
-            "level": 36,
-            "experience": 14852,
-            "strengthLimit": 10,
-            "diffExp": 1335
-        },
-        {
-            "level": 37,
-            "experience": 16275,
-            "strengthLimit": 10,
-            "diffExp": 1423
-        },
-        {
-            "level": 38,
-            "experience": 17790,
-            "strengthLimit": 10,
-            "diffExp": 1515
-        },
-        {
-            "level": 39,
-            "experience": 19401,
-            "strengthLimit": 10,
-            "diffExp": 1611
-        }
-    ],
-    "41872": [
-        {
-            "level": 40,
-            "experience": 21113,
-            "strengthLimit": 10,
-            "diffExp": 1712
-        },
-        {
-            "level": 41,
-            "experience": 22930,
-            "strengthLimit": 10,
-            "diffExp": 1817
-        },
-        {
-            "level": 42,
-            "experience": 24857,
-            "strengthLimit": 10,
-            "diffExp": 1927
-        },
-        {
-            "level": 43,
-            "experience": 26899,
-            "strengthLimit": 10,
-            "diffExp": 2042
-        },
-        {
-            "level": 44,
-            "experience": 29061,
-            "strengthLimit": 10,
-            "diffExp": 2162
-        },
-        {
-            "level": 45,
-            "experience": 31349,
-            "strengthLimit": 10,
-            "diffExp": 2288
-        },
-        {
-            "level": 46,
-            "experience": 33768,
-            "strengthLimit": 10,
-            "diffExp": 2419
-        },
-        {
-            "level": 47,
-            "experience": 36324,
-            "strengthLimit": 10,
-            "diffExp": 2556
-        },
-        {
-            "level": 48,
-            "experience": 39023,
-            "strengthLimit": 10,
-            "diffExp": 2699
-        },
-        {
-            "level": 49,
-            "experience": 41872,
-            "strengthLimit": 10,
-            "diffExp": 2849
-        }
-    ],
-    "80260": [
-        {
-            "level": 50,
-            "experience": 44878,
-            "strengthLimit": 10,
-            "diffExp": 3006
-        },
-        {
-            "level": 51,
-            "experience": 48048,
-            "strengthLimit": 10,
-            "diffExp": 3170
-        },
-        {
-            "level": 52,
-            "experience": 51389,
-            "strengthLimit": 10,
-            "diffExp": 3341
-        },
-        {
-            "level": 53,
-            "experience": 54909,
-            "strengthLimit": 10,
-            "diffExp": 3520
-        },
-        {
-            "level": 54,
-            "experience": 58616,
-            "strengthLimit": 10,
-            "diffExp": 3707
-        },
-        {
-            "level": 55,
-            "experience": 62518,
-            "strengthLimit": 10,
-            "diffExp": 3902
-        },
-        {
-            "level": 56,
-            "experience": 66624,
-            "strengthLimit": 10,
-            "diffExp": 4106
-        },
-        {
-            "level": 57,
-            "experience": 70943,
-            "strengthLimit": 10,
-            "diffExp": 4319
-        },
-        {
-            "level": 58,
-            "experience": 75485,
-            "strengthLimit": 10,
-            "diffExp": 4542
-        },
-        {
-            "level": 59,
-            "experience": 80260,
-            "strengthLimit": 10,
-            "diffExp": 4775
-        }
-    ],
-    "85278": [
-        {
-            "level": 60,
-            "experience": 85278,
-            "strengthLimit": 10,
-            "diffExp": 5018
-        }
-    ],
+    "obj": {
+        "138": [
+            {
+                "level": 1,
+                "experience": 0,
+                "strengthLimit": 10,
+                "diffExp": 0
+            },
+            {
+                "level": 2,
+                "experience": 4,
+                "strengthLimit": 10,
+                "diffExp": 4
+            },
+            {
+                "level": 3,
+                "experience": 13,
+                "strengthLimit": 10,
+                "diffExp": 9
+            },
+            {
+                "level": 4,
+                "experience": 25,
+                "strengthLimit": 10,
+                "diffExp": 12
+            },
+            {
+                "level": 5,
+                "experience": 41,
+                "strengthLimit": 10,
+                "diffExp": 16
+            },
+            {
+                "level": 6,
+                "experience": 60,
+                "strengthLimit": 10,
+                "diffExp": 19
+            },
+            {
+                "level": 7,
+                "experience": 83,
+                "strengthLimit": 10,
+                "diffExp": 23
+            },
+            {
+                "level": 8,
+                "experience": 109,
+                "strengthLimit": 10,
+                "diffExp": 26
+            },
+            {
+                "level": 9,
+                "experience": 138,
+                "strengthLimit": 10,
+                "diffExp": 29
+            }
+        ],
+        "1515": [
+            {
+                "level": 10,
+                "experience": 170,
+                "strengthLimit": 10,
+                "diffExp": 32
+            },
+            {
+                "level": 11,
+                "experience": 205,
+                "strengthLimit": 10,
+                "diffExp": 35
+            },
+            {
+                "level": 12,
+                "experience": 245,
+                "strengthLimit": 10,
+                "diffExp": 40
+            },
+            {
+                "level": 13,
+                "experience": 315,
+                "strengthLimit": 10,
+                "diffExp": 70
+            },
+            {
+                "level": 14,
+                "experience": 415,
+                "strengthLimit": 10,
+                "diffExp": 100
+            },
+            {
+                "level": 15,
+                "experience": 555,
+                "strengthLimit": 10,
+                "diffExp": 140
+            },
+            {
+                "level": 16,
+                "experience": 735,
+                "strengthLimit": 10,
+                "diffExp": 180
+            },
+            {
+                "level": 17,
+                "experience": 955,
+                "strengthLimit": 10,
+                "diffExp": 220
+            },
+            {
+                "level": 18,
+                "experience": 1215,
+                "strengthLimit": 10,
+                "diffExp": 260
+            },
+            {
+                "level": 19,
+                "experience": 1515,
+                "strengthLimit": 10,
+                "diffExp": 300
+            }
+        ],
+        "7162": [
+            {
+                "level": 20,
+                "experience": 1857,
+                "strengthLimit": 10,
+                "diffExp": 342
+            },
+            {
+                "level": 21,
+                "experience": 2243,
+                "strengthLimit": 10,
+                "diffExp": 386
+            },
+            {
+                "level": 22,
+                "experience": 2675,
+                "strengthLimit": 10,
+                "diffExp": 432
+            },
+            {
+                "level": 23,
+                "experience": 3155,
+                "strengthLimit": 10,
+                "diffExp": 480
+            },
+            {
+                "level": 24,
+                "experience": 3685,
+                "strengthLimit": 10,
+                "diffExp": 530
+            },
+            {
+                "level": 25,
+                "experience": 4267,
+                "strengthLimit": 10,
+                "diffExp": 582
+            },
+            {
+                "level": 26,
+                "experience": 4903,
+                "strengthLimit": 10,
+                "diffExp": 636
+            },
+            {
+                "level": 27,
+                "experience": 5596,
+                "strengthLimit": 10,
+                "diffExp": 693
+            },
+            {
+                "level": 28,
+                "experience": 6348,
+                "strengthLimit": 10,
+                "diffExp": 752
+            },
+            {
+                "level": 29,
+                "experience": 7162,
+                "strengthLimit": 10,
+                "diffExp": 814
+            }
+        ],
+        "19401": [
+            {
+                "level": 30,
+                "experience": 8041,
+                "strengthLimit": 10,
+                "diffExp": 879
+            },
+            {
+                "level": 31,
+                "experience": 8988,
+                "strengthLimit": 10,
+                "diffExp": 947
+            },
+            {
+                "level": 32,
+                "experience": 10006,
+                "strengthLimit": 10,
+                "diffExp": 1018
+            },
+            {
+                "level": 33,
+                "experience": 11098,
+                "strengthLimit": 10,
+                "diffExp": 1092
+            },
+            {
+                "level": 34,
+                "experience": 12267,
+                "strengthLimit": 10,
+                "diffExp": 1169
+            },
+            {
+                "level": 35,
+                "experience": 13517,
+                "strengthLimit": 10,
+                "diffExp": 1250
+            },
+            {
+                "level": 36,
+                "experience": 14852,
+                "strengthLimit": 10,
+                "diffExp": 1335
+            },
+            {
+                "level": 37,
+                "experience": 16275,
+                "strengthLimit": 10,
+                "diffExp": 1423
+            },
+            {
+                "level": 38,
+                "experience": 17790,
+                "strengthLimit": 10,
+                "diffExp": 1515
+            },
+            {
+                "level": 39,
+                "experience": 19401,
+                "strengthLimit": 10,
+                "diffExp": 1611
+            }
+        ],
+        "41872": [
+            {
+                "level": 40,
+                "experience": 21113,
+                "strengthLimit": 10,
+                "diffExp": 1712
+            },
+            {
+                "level": 41,
+                "experience": 22930,
+                "strengthLimit": 10,
+                "diffExp": 1817
+            },
+            {
+                "level": 42,
+                "experience": 24857,
+                "strengthLimit": 10,
+                "diffExp": 1927
+            },
+            {
+                "level": 43,
+                "experience": 26899,
+                "strengthLimit": 10,
+                "diffExp": 2042
+            },
+            {
+                "level": 44,
+                "experience": 29061,
+                "strengthLimit": 10,
+                "diffExp": 2162
+            },
+            {
+                "level": 45,
+                "experience": 31349,
+                "strengthLimit": 10,
+                "diffExp": 2288
+            },
+            {
+                "level": 46,
+                "experience": 33768,
+                "strengthLimit": 10,
+                "diffExp": 2419
+            },
+            {
+                "level": 47,
+                "experience": 36324,
+                "strengthLimit": 10,
+                "diffExp": 2556
+            },
+            {
+                "level": 48,
+                "experience": 39023,
+                "strengthLimit": 10,
+                "diffExp": 2699
+            },
+            {
+                "level": 49,
+                "experience": 41872,
+                "strengthLimit": 10,
+                "diffExp": 2849
+            }
+        ],
+        "80260": [
+            {
+                "level": 50,
+                "experience": 44878,
+                "strengthLimit": 10,
+                "diffExp": 3006
+            },
+            {
+                "level": 51,
+                "experience": 48048,
+                "strengthLimit": 10,
+                "diffExp": 3170
+            },
+            {
+                "level": 52,
+                "experience": 51389,
+                "strengthLimit": 10,
+                "diffExp": 3341
+            },
+            {
+                "level": 53,
+                "experience": 54909,
+                "strengthLimit": 10,
+                "diffExp": 3520
+            },
+            {
+                "level": 54,
+                "experience": 58616,
+                "strengthLimit": 10,
+                "diffExp": 3707
+            },
+            {
+                "level": 55,
+                "experience": 62518,
+                "strengthLimit": 10,
+                "diffExp": 3902
+            },
+            {
+                "level": 56,
+                "experience": 66624,
+                "strengthLimit": 10,
+                "diffExp": 4106
+            },
+            {
+                "level": 57,
+                "experience": 70943,
+                "strengthLimit": 10,
+                "diffExp": 4319
+            },
+            {
+                "level": 58,
+                "experience": 75485,
+                "strengthLimit": 10,
+                "diffExp": 4542
+            },
+            {
+                "level": 59,
+                "experience": 80260,
+                "strengthLimit": 10,
+                "diffExp": 4775
+            }
+        ],
+        "85278": [
+            {
+                "level": 60,
+                "experience": 85278,
+                "strengthLimit": 10,
+                "diffExp": 5018
+            }
+        ]
+    },
     "list": [
         "138",
         "1515",
