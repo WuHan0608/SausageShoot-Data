@@ -5635,9 +5635,9 @@
         "id": 60,
         "scene": 1,
         "UiShowDistance": 55,
-        "target1Type": "Target-18",
+        "target1Type": "Target-21",
         "target1Pos": [
-            1.3,
+            4.3,
             -1,
             75
         ],
@@ -5665,9 +5665,9 @@
         "target1MaskPole": "",
         "target2Type": "Target-15",
         "target2Pos": [
-            0.6,
+            -1.7,
             0,
-            75.1
+            75.5
         ],
         "target2Scale": [
             1
@@ -5686,7 +5686,7 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#0.6,0,75.2,4@0.6,0,75.1,4#1,2,4",
+        "target2PathTime": "1#-1.7,0,75.5,9@-1.7,0,75.6,9#1,2,5#2,6,8",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
