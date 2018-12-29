@@ -9980,7 +9980,7 @@
         "id": 102,
         "scene": 1,
         "UiShowDistance": 50,
-        "target1Type": "Target-21",
+        "target1Type": "Target-18",
         "target1Pos": [
             -2.4,
             -1,
