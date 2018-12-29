@@ -1,5 +1,5 @@
 {
-    "1": [
+    "138": [
         {
             "level": 1,
             "experience": 0,
@@ -11,9 +11,7 @@
             "experience": 4,
             "strengthLimit": 10,
             "diffExp": 4
-        }
-    ],
-    "2": [
+        },
         {
             "level": 3,
             "experience": 13,
@@ -43,9 +41,7 @@
             "experience": 83,
             "strengthLimit": 10,
             "diffExp": 23
-        }
-    ],
-    "3": [
+        },
         {
             "level": 8,
             "experience": 109,
@@ -57,7 +53,9 @@
             "experience": 138,
             "strengthLimit": 10,
             "diffExp": 29
-        },
+        }
+    ],
+    "1515": [
         {
             "level": 10,
             "experience": 170,
@@ -105,9 +103,7 @@
             "experience": 955,
             "strengthLimit": 10,
             "diffExp": 220
-        }
-    ],
-    "4": [
+        },
         {
             "level": 18,
             "experience": 1215,
@@ -119,7 +115,9 @@
             "experience": 1515,
             "strengthLimit": 10,
             "diffExp": 300
-        },
+        }
+    ],
+    "7162": [
         {
             "level": 20,
             "experience": 1857,
@@ -179,7 +177,9 @@
             "experience": 7162,
             "strengthLimit": 10,
             "diffExp": 814
-        },
+        }
+    ],
+    "19401": [
         {
             "level": 30,
             "experience": 8041,
@@ -191,9 +191,7 @@
             "experience": 8988,
             "strengthLimit": 10,
             "diffExp": 947
-        }
-    ],
-    "5": [
+        },
         {
             "level": 32,
             "experience": 10006,
@@ -241,7 +239,9 @@
             "experience": 19401,
             "strengthLimit": 10,
             "diffExp": 1611
-        },
+        }
+    ],
+    "41872": [
         {
             "level": 40,
             "experience": 21113,
@@ -301,7 +301,9 @@
             "experience": 41872,
             "strengthLimit": 10,
             "diffExp": 2849
-        },
+        }
+    ],
+    "80260": [
         {
             "level": 50,
             "experience": 44878,
@@ -361,7 +363,9 @@
             "experience": 80260,
             "strengthLimit": 10,
             "diffExp": 4775
-        },
+        }
+    ],
+    "85278": [
         {
             "level": 60,
             "experience": 85278,
