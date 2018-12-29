@@ -8892,7 +8892,7 @@
         "target1Pos": [
             1.3,
             -1,
-            95
+            105
         ],
         "target1Scale": [
             1
@@ -8904,7 +8904,7 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": 1,
+        "target1RotationDirect": 2,
         "target1RotationPeriod": 15,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
@@ -8915,7 +8915,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,0#1,2,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
         "targetArr": "1088",
         "gravity": 20,
         "starLimit": 0,
@@ -8949,7 +8949,7 @@
         "target1Pos": [
             1.3,
             -1,
-            95
+            115
         ],
         "target1Scale": [
             1
@@ -8972,7 +8972,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1.05,1.05,1.05",
         "targetArr": "1089",
         "gravity": 20,
         "starLimit": 0,
@@ -9006,7 +9006,7 @@
         "target1Pos": [
             1.3,
             -1,
-            95
+            125
         ],
         "target1Scale": [
             1
@@ -9018,7 +9018,7 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": 1,
+        "target1RotationDirect": 2,
         "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
@@ -9029,7 +9029,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,0#1,2,1",
+        "target1MaskPole": "0.175,-0.175,0#1.15,1.15,1.15",
         "targetArr": "1090",
         "gravity": 20,
         "starLimit": 0,
@@ -9063,7 +9063,7 @@
         "target1Pos": [
             1.3,
             -1,
-            95
+            135
         ],
         "target1Scale": [
             1
@@ -9086,7 +9086,7 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,0#1.5,1.5,1.5",
+        "target1MaskPole": "0.175,-0.175,0#1.25,1.25,1.25",
         "targetArr": "1091",
         "gravity": 20,
         "starLimit": 0,
