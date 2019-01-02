@@ -65,12 +65,12 @@
             {
                 "type": "Box",
                 "number": 5002,
-                "weight": 0.88
+                "weight": 88
             },
             {
                 "type": "Box",
                 "number": 5003,
-                "weight": 4.12
+                "weight": 412
             },
             {
                 "type": "Box",
