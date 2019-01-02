@@ -39,6 +39,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -68,6 +69,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "1002": {
@@ -110,6 +112,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -139,6 +142,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "1003": {
@@ -181,6 +185,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -210,6 +215,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "1004": {
@@ -252,6 +258,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -281,6 +288,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "1005": {
@@ -323,6 +331,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -352,6 +361,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "1006": {
@@ -394,6 +404,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -423,6 +434,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "1007": {
@@ -465,6 +477,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -494,6 +507,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "101": {
@@ -536,6 +550,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -565,6 +580,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "102": {
@@ -607,6 +623,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -631,11 +648,12 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1#-9.8,0,85,10@1.3,0,85,10",
+        "target1PathTime": "1#-9.8,0,105,10@1.3,0,105,10",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "103": {
@@ -678,6 +696,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-2",
         "target1Pos": [
@@ -702,11 +721,12 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1#-9.8,0,85,10@1.3,0,85,10",
+        "target1PathTime": "1#-9.8,0,125,10@1.3,0,125,10",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0.175,-0.175,-0.175#1,1,1",
+        "target1Euler": "0.175,-0.175,0#1,1,1",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "201": {
@@ -749,6 +769,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -776,8 +797,9 @@
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0,-90,90",
+        "target1Euler": "0,-90,-90",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "202": {
@@ -820,6 +842,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -849,6 +872,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "203": {
@@ -884,14 +908,15 @@
         "target1RotationPeriod": "",
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
-        "target1PoleRotationDirect": 1,
+        "target1PoleRotationDirect": 2,
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 15,
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0,-90,90",
+        "target1Euler": "0,-90,-90",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "204": {
@@ -934,6 +959,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -963,6 +989,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "205": {
@@ -1005,6 +1032,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1022,8 +1050,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
         "target1PoleRotationDirect": 1,
@@ -1033,7 +1061,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "206": {
@@ -1076,6 +1105,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1097,14 +1127,15 @@
         "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
-        "target1PoleRotationDirect": "",
-        "target1PoleRotationRange": "",
-        "target1PoleRotationPeriod": "",
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 360,
+        "target1PoleRotationPeriod": 15,
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "207": {
@@ -1147,6 +1178,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1174,8 +1206,9 @@
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0,-90,90",
-        "target1MaskPole": "0.15,-0.15,-0.15#1,1,1",
+        "target1Euler": "0,-90,-90",
+        "target1MaskPole": "0.15,-0.15,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "208": {
@@ -1218,6 +1251,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1245,8 +1279,9 @@
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0,-90,90",
+        "target1Euler": "0,-90,-90",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "209": {
@@ -1289,6 +1324,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1318,6 +1354,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "210": {
@@ -1353,14 +1390,15 @@
         "target1RotationPeriod": "",
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
-        "target1PoleRotationDirect": 1,
+        "target1PoleRotationDirect": 2,
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 15,
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0,-90,90",
+        "target1Euler": "0,-90,-90",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "211": {
@@ -1403,6 +1441,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1432,6 +1471,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "212": {
@@ -1474,6 +1514,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1491,8 +1532,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
         "target1PoleRotationDirect": 1,
@@ -1502,7 +1543,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "213": {
@@ -1545,6 +1587,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1566,14 +1609,15 @@
         "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
-        "target1PoleRotationDirect": "",
-        "target1PoleRotationRange": "",
-        "target1PoleRotationPeriod": "",
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 360,
+        "target1PoleRotationPeriod": 15,
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "214": {
@@ -1616,6 +1660,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-3",
         "target1Pos": [
@@ -1643,8 +1688,9 @@
         "target1PathTime": "",
         "target1VanishTime": "",
         "target1Hp": "",
-        "target1Euler": "0,-90,90",
-        "target1MaskPole": "0.15,-0.15,-0.15#1,1,1",
+        "target1Euler": "0,-90,-90",
+        "target1MaskPole": "0.15,-0.15,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "301": {
@@ -1687,6 +1733,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-13",
         "target1Pos": [
@@ -1716,6 +1763,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "302": {
@@ -1758,6 +1806,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-13",
         "target1Pos": [
@@ -1787,6 +1836,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "303": {
@@ -1830,6 +1880,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "304": {
@@ -1872,6 +1923,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-13",
         "target1Pos": [
@@ -1901,6 +1953,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "305": {
@@ -1943,6 +1996,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-13",
         "target1Pos": [
@@ -1972,6 +2026,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "306": {
@@ -2014,6 +2069,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-13",
         "target1Pos": [
@@ -2043,6 +2099,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "307": {
@@ -2086,6 +2143,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "308": {
@@ -2128,6 +2186,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-13",
         "target1Pos": [
@@ -2157,6 +2216,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-18",
         "target2Pos": [
             1.3,
@@ -2185,6 +2245,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "targetArr": {}
     },
     "401": {
@@ -2227,6 +2288,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -2251,11 +2313,12 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.5,4.3,0.5@@95,0.5",
+        "target1PathTime": "1###-3.4,0.5,6.3,0.5@@95,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "402": {
@@ -2294,12 +2357,13 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.5,4.3,0.5@@95,0.5",
+        "target1PathTime": "1###-3.4,0.5,6.3,0.5@@95,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-18",
+        "target1PoleType": "",
+        "target2Type": "Target-21",
         "target2Pos": [
             -1.4,
             -1,
@@ -2327,9 +2391,10 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
-        "target3Type": "Target-18",
+        "target2PoleType": "",
+        "target3Type": "Target-21",
         "target3Pos": [
-            -4.3,
+            4.3,
             -1,
             75
         ],
@@ -2355,6 +2420,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "403": {
@@ -2397,6 +2463,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -2421,14 +2488,15 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.6,4.3,0.6@@95,0.5",
+        "target1PathTime": "1###-3.4,0.6,6.3,0.6@@95,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-18",
+        "target1PoleType": "",
+        "target2Type": "Target-21",
         "target2Pos": [
-            -4.3,
+            4.3,
             -1,
             75
         ],
@@ -2454,9 +2522,10 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
-            -1.4,
+            0,
             0,
             75
         ],
@@ -2482,6 +2551,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "404": {
@@ -2524,6 +2594,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -2548,12 +2619,13 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.75,4.3,0.75@@105,0.5",
+        "target1PathTime": "1###-3.4,0.75,6.3,0.75@@105,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-18",
+        "target1PoleType": "",
+        "target2Type": "Target-21",
         "target2Pos": [
             1.3,
             -1,
@@ -2581,11 +2653,12 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             -4.3,
-            -1,
-            79
+            0,
+            89
         ],
         "target3Scale": [
             1
@@ -2609,6 +2682,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "405": {
@@ -2651,6 +2725,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -2675,14 +2750,15 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.75,4.3,0.75@@105,0.5",
+        "target1PathTime": "1###-3.4,0.75,6.3,0.75@@105,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
-            -1.4,
+            0,
             0,
             75
         ],
@@ -2708,11 +2784,12 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             -4.3,
-            -1,
-            79
+            0,
+            89
         ],
         "target3Scale": [
             1
@@ -2736,6 +2813,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "406": {
@@ -2778,8 +2856,9 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
-        "target1Type": "Target-18",
+        "target1Type": "Target-21",
         "target1Pos": [
             1.3,
             -1,
@@ -2807,9 +2886,10 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
-            -1.4,
+            0,
             0,
             75
         ],
@@ -2835,11 +2915,12 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             -4.3,
-            -1,
-            79
+            0,
+            89
         ],
         "target3Scale": [
             1
@@ -2863,11 +2944,12 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-6",
         "target4Pos": [
             1.3,
             -1,
-            79
+            89
         ],
         "target4Scale": [
             1
@@ -2891,6 +2973,7 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "407": {
@@ -2933,6 +3016,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -2957,11 +3041,12 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.5,4.3,0.5@@95,0.5",
+        "target1PathTime": "1###-3.4,0.5,6.3,0.5@@95,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "408": {
@@ -3000,12 +3085,13 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.5,4.3,0.5@@95,0.5",
+        "target1PathTime": "1###-3.4,0.5,6.3,0.5@@95,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-18",
+        "target1PoleType": "",
+        "target2Type": "Target-21",
         "target2Pos": [
             -1.4,
             -1,
@@ -3033,9 +3119,10 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
-        "target3Type": "Target-18",
+        "target2PoleType": "",
+        "target3Type": "Target-21",
         "target3Pos": [
-            -4.3,
+            4.3,
             -1,
             75
         ],
@@ -3061,6 +3148,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "409": {
@@ -3103,6 +3191,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -3127,14 +3216,15 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.6,4.3,0.6@@95,0.5",
+        "target1PathTime": "1###-3.4,0.6,6.3,0.6@@95,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-18",
+        "target1PoleType": "",
+        "target2Type": "Target-21",
         "target2Pos": [
-            -4.3,
+            4.3,
             -1,
             75
         ],
@@ -3160,9 +3250,10 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
-            -1.4,
+            0,
             0,
             75
         ],
@@ -3188,6 +3279,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "410": {
@@ -3230,6 +3322,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -3254,12 +3347,13 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.75,4.3,0.75@@105,0.5",
+        "target1PathTime": "1###-3.4,0.75,6.3,0.75@@105,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
-        "target2Type": "Target-18",
+        "target1PoleType": "",
+        "target2Type": "Target-21",
         "target2Pos": [
             1.3,
             -1,
@@ -3287,11 +3381,12 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             -4.3,
-            -1,
-            79
+            0,
+            89
         ],
         "target3Scale": [
             1
@@ -3315,6 +3410,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "411": {
@@ -3357,6 +3453,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-7",
         "target1Pos": [
@@ -3381,14 +3478,15 @@
         "target1PoleRotationDirect": "",
         "target1PoleRotationRange": "",
         "target1PoleRotationPeriod": "",
-        "target1PathTime": "1###-1.4,0.75,4.3,0.75@@105,0.5",
+        "target1PathTime": "1###-3.4,0.75,6.3,0.75@@105,0.5",
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
-            -1.4,
+            0,
             0,
             75
         ],
@@ -3414,11 +3512,12 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             -4.3,
-            -1,
-            79
+            0,
+            89
         ],
         "target3Scale": [
             1
@@ -3442,6 +3541,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "412": {
@@ -3484,8 +3584,9 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
-        "target1Type": "Target-18",
+        "target1Type": "Target-21",
         "target1Pos": [
             1.3,
             -1,
@@ -3513,9 +3614,10 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
-            -1.4,
+            0,
             0,
             75
         ],
@@ -3541,11 +3643,12 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             -4.3,
-            -1,
-            79
+            0,
+            89
         ],
         "target3Scale": [
             1
@@ -3569,11 +3672,12 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-6",
         "target4Pos": [
             1.3,
             -1,
-            79
+            89
         ],
         "target4Scale": [
             1
@@ -3597,6 +3701,7 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "501": {
@@ -3628,8 +3733,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -3639,7 +3744,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "502": {
@@ -3682,12 +3788,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-19",
         "target1Pos": [
             1.3,
             -1,
-            95
+            105
         ],
         "target1Scale": [
             1
@@ -3699,8 +3806,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -3710,7 +3817,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,2,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "503": {
@@ -3753,12 +3861,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
             -1,
-            95
+            115
         ],
         "target1Scale": [
             1
@@ -3770,8 +3879,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -3781,7 +3890,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1.05,1.05,1.05",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "504": {
@@ -3824,12 +3934,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
             -1,
-            95
+            125
         ],
         "target1Scale": [
             1
@@ -3841,8 +3952,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -3852,7 +3963,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,2,1",
+        "target1MaskPole": "0.175,-0.175,0#1.15,1.15,1.15",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "505": {
@@ -3895,12 +4007,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
             -1,
-            95
+            135
         ],
         "target1Scale": [
             1
@@ -3912,8 +4025,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -3923,7 +4036,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1.5,1.5,1.5",
+        "target1MaskPole": "0.2,-0.2,0#1.25,1.25,1.25",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "506": {
@@ -3955,8 +4069,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -3966,7 +4080,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "507": {
@@ -4009,12 +4124,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-19",
         "target1Pos": [
             1.3,
             -1,
-            95
+            105
         ],
         "target1Scale": [
             1
@@ -4026,8 +4142,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -4037,7 +4153,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,2,1",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "508": {
@@ -4080,12 +4197,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
             -1,
-            95
+            115
         ],
         "target1Scale": [
             1
@@ -4097,8 +4215,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -4108,7 +4226,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,1,1",
+        "target1MaskPole": "0.175,-0.175,0#1.05,1.05,1.05",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "509": {
@@ -4151,12 +4270,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
             -1,
-            95
+            125
         ],
         "target1Scale": [
             1
@@ -4168,8 +4288,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -4179,7 +4299,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1,2,1",
+        "target1MaskPole": "0.175,-0.175,0#1.15,1.15,1.15",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "510": {
@@ -4222,12 +4343,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
             -1,
-            95
+            135
         ],
         "target1Scale": [
             1
@@ -4239,8 +4361,8 @@
         "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
-        "target1RotationDirect": "",
-        "target1RotationPeriod": "",
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
         "target1IniPosInPole": "",
         "target1MovePeriodInPole": "",
         "target1PoleRotationDirect": "",
@@ -4250,7 +4372,8 @@
         "target1VanishTime": "",
         "target1Hp": "",
         "target1Euler": "",
-        "target1MaskPole": "0.175,-0.175,-0.175#1.5,1.5,1.5",
+        "target1MaskPole": "0.2,-0.2,0#1.25,1.25,1.25",
+        "target1PoleType": "",
         "targetArr": {}
     },
     "601": {
@@ -4293,6 +4416,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-21",
         "target1Pos": [
@@ -4322,11 +4446,12 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-15",
         "target2Pos": [
             0.6,
             0,
-            75.1
+            75.5
         ],
         "target2Scale": [
             1
@@ -4345,11 +4470,12 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#0.6,0,75.2,4@0.6,0,75.1,4#1,2,4",
+        "target2PathTime": "1#0.6,0,75.6,4@0.6,0,75.5,4#1,2,4",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "targetArr": {}
     },
     "602": {
@@ -4393,11 +4519,12 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-15",
         "target2Pos": [
-            -1,
-            7,
-            75.1
+            -1.7,
+            0,
+            75.5
         ],
         "target2Scale": [
             1
@@ -4416,11 +4543,12 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-1,7,75.3,4@-1,7,75.1,4#2,3,4",
+        "target2PathTime": "1#-1,7,75.6,4@-1,7,75.5,4#2,3,4",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-21",
         "target3Pos": [
             4.3,
@@ -4449,11 +4577,12 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-15",
         "target4Pos": [
             4.3,
             0,
-            75.1
+            75.5
         ],
         "target4Scale": [
             1
@@ -4472,11 +4601,12 @@
         "target4PoleRotationDirect": "",
         "target4PoleRotationRange": "",
         "target4PoleRotationPeriod": "",
-        "target4PathTime": "1#4.3,0,75.2,4@4.3,0,75.1,4#1,1,2",
+        "target4PathTime": "1#4.3,0,75.6,4@4.3,0,75.5,4#1,1,2",
         "target4VanishTime": "",
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "603": {
@@ -4519,6 +4649,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-15",
         "target1Pos": [
@@ -4548,6 +4679,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-18",
         "target2Pos": [
             -1.2,
@@ -4576,6 +4708,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-18",
         "target3Pos": [
             3.8,
@@ -4604,6 +4737,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "604": {
@@ -4646,6 +4780,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-15",
         "target1Pos": [
@@ -4675,6 +4810,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
             -1.2,
@@ -4703,6 +4839,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-7",
         "target3Pos": [
             1.3,
@@ -4731,6 +4868,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-4",
         "target4Pos": [
             3.8,
@@ -4759,6 +4897,7 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "605": {
@@ -4801,12 +4940,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-15",
         "target1Pos": [
             1.3,
             0,
-            105.1
+            105.5
         ],
         "target1Scale": [
             1
@@ -4830,6 +4970,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
             -1.2,
@@ -4858,6 +4999,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             1.3,
@@ -4886,6 +5028,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-6",
         "target4Pos": [
             3.8,
@@ -4914,6 +5057,7 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "606": {
@@ -4956,10 +5100,11 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
-        "target1Type": "Target-18",
+        "target1Type": "Target-21",
         "target1Pos": [
-            -1.7,
+            -2.4,
             -1,
             75
         ],
@@ -4985,9 +5130,10 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-15",
         "target2Pos": [
-            -2.4,
+            -2.5,
             0,
             75.5
         ],
@@ -5008,14 +5154,15 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-2,4,75.3,4@-2,4,75.1,4#1,1,2",
+        "target2PathTime": "1#-2.5,0,75.6,4@-2.5,0,75.5,4#1,1,2",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
-        "target3Type": "Target-18",
+        "target2PoleType": "",
+        "target3Type": "Target-21",
         "target3Pos": [
-            4.3,
+            5,
             -1,
             75
         ],
@@ -5041,9 +5188,10 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-15",
         "target4Pos": [
-            5,
+            5.2,
             0,
             75.5
         ],
@@ -5064,15 +5212,16 @@
         "target4PoleRotationDirect": "",
         "target4PoleRotationRange": "",
         "target4PoleRotationPeriod": "",
-        "target4PathTime": "1#5,0,75.2,4@5,0,75.1,4#2,3,4",
+        "target4PathTime": "1#5.2,0,75.5,4@5.2,0,75.5,4#2,3,4",
         "target4VanishTime": "",
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "target5Type": "Target-6",
         "target5Pos": [
             -2.4,
-            0,
+            -1,
             75.2
         ],
         "target5Scale": [
@@ -5092,15 +5241,16 @@
         "target5PoleRotationDirect": "",
         "target5PoleRotationRange": "",
         "target5PoleRotationPeriod": "",
-        "target5PathTime": "1#-2.4,0,75.2,5@-2.7,0,75.2,0.5@2.4,0,75.2,0.5@2.4,0,75.2,2",
+        "target5PathTime": "1#-2.4,-1,75.2,5@-2.7,-1,75.2,0.25@-2.7,-1,75.2,0.5@-2.4,-1,75.2,0.25@-2.4,-1,75.2,2",
         "target5VanishTime": "",
         "target5Hp": "",
         "target5Euler": "",
         "target5MaskPole": "",
+        "target5PoleType": "",
         "target6Type": "Target-6",
         "target6Pos": [
-            5,
-            0,
+            4.9,
+            -1,
             75.2
         ],
         "target6Scale": [
@@ -5120,11 +5270,12 @@
         "target6PoleRotationDirect": "",
         "target6PoleRotationRange": "",
         "target6PoleRotationPeriod": "",
-        "target6PathTime": "1#5,0,75.2,3@5.3,0,75.2,0.5@5,0,75.2,0.5@5,0,75.2,4#2,3,4",
+        "target6PathTime": "1#4.9,-1,75.2,3@5.3,-1,75.2,0.25@5.3,-1,75.2,0.5@4.9,-1,75.2,0.25@4.9,-1,75.2,4",
         "target6VanishTime": "",
         "target6Hp": "",
         "target6Euler": "",
         "target6MaskPole": "",
+        "target6PoleType": "",
         "targetArr": {}
     },
     "607": {
@@ -5167,6 +5318,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-21",
         "target1Pos": [
@@ -5196,11 +5348,12 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-15",
         "target2Pos": [
             0.6,
             0,
-            75.1
+            75.5
         ],
         "target2Scale": [
             1
@@ -5219,11 +5372,12 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#0.6,0,75.2,4@0.6,0,75.1,4#1,2,4",
+        "target2PathTime": "1#0.6,0,75.6,4@0.6,0,75.5,4#1,2,4",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "targetArr": {}
     },
     "608": {
@@ -5267,11 +5421,12 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-15",
         "target2Pos": [
-            -1,
-            7,
-            75.1
+            -1.7,
+            0,
+            75.5
         ],
         "target2Scale": [
             1
@@ -5290,11 +5445,12 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-1,7,75.3,4@-1,7,75.1,4#2,3,4",
+        "target2PathTime": "1#-1,7,75.6,4@-1,7,75.5,4#2,3,4",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-21",
         "target3Pos": [
             4.3,
@@ -5323,11 +5479,12 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-15",
         "target4Pos": [
             4.3,
             0,
-            75.1
+            75.5
         ],
         "target4Scale": [
             1
@@ -5346,11 +5503,12 @@
         "target4PoleRotationDirect": "",
         "target4PoleRotationRange": "",
         "target4PoleRotationPeriod": "",
-        "target4PathTime": "1#4.3,0,75.2,4@4.3,0,75.1,4#1,1,2",
+        "target4PathTime": "1#4.3,0,75.6,4@4.3,0,75.5,4#1,1,2",
         "target4VanishTime": "",
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "609": {
@@ -5393,6 +5551,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-15",
         "target1Pos": [
@@ -5422,6 +5581,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-18",
         "target2Pos": [
             -1.2,
@@ -5450,6 +5610,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-18",
         "target3Pos": [
             3.8,
@@ -5478,6 +5639,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "targetArr": {}
     },
     "610": {
@@ -5520,6 +5682,7 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-15",
         "target1Pos": [
@@ -5549,6 +5712,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
             -1.2,
@@ -5577,6 +5741,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-7",
         "target3Pos": [
             1.3,
@@ -5605,6 +5770,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-4",
         "target4Pos": [
             3.8,
@@ -5633,6 +5799,7 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "611": {
@@ -5675,12 +5842,13 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
         "target1Type": "Target-15",
         "target1Pos": [
             1.3,
             0,
-            105.1
+            105.5
         ],
         "target1Scale": [
             1
@@ -5704,6 +5872,7 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-6",
         "target2Pos": [
             -1.2,
@@ -5732,6 +5901,7 @@
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
+        "target2PoleType": "",
         "target3Type": "Target-6",
         "target3Pos": [
             1.3,
@@ -5760,6 +5930,7 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-6",
         "target4Pos": [
             3.8,
@@ -5788,6 +5959,7 @@
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "targetArr": {}
     },
     "612": {
@@ -5830,10 +6002,11 @@
         "targetExtra1Hp": "",
         "targetExtra1Euler": "",
         "targetExtra1MaskPole": "",
+        "targetExtra1PoleType": "",
         "pvpExtraTimetargetArr": {},
-        "target1Type": "Target-18",
+        "target1Type": "Target-21",
         "target1Pos": [
-            -1.7,
+            -2.4,
             -1,
             75
         ],
@@ -5859,9 +6032,10 @@
         "target1Hp": "",
         "target1Euler": "",
         "target1MaskPole": "",
+        "target1PoleType": "",
         "target2Type": "Target-15",
         "target2Pos": [
-            -2.4,
+            -2.5,
             0,
             75.5
         ],
@@ -5882,14 +6056,15 @@
         "target2PoleRotationDirect": "",
         "target2PoleRotationRange": "",
         "target2PoleRotationPeriod": "",
-        "target2PathTime": "1#-2,4,75.3,4@-2,4,75.1,4#1,1,2",
+        "target2PathTime": "1#-2.5,0,75.6,4@-2.5,0,75.5,4#1,1,2",
         "target2VanishTime": "",
         "target2Hp": "",
         "target2Euler": "",
         "target2MaskPole": "",
-        "target3Type": "Target-18",
+        "target2PoleType": "",
+        "target3Type": "Target-21",
         "target3Pos": [
-            4.3,
+            5,
             -1,
             75
         ],
@@ -5915,9 +6090,10 @@
         "target3Hp": "",
         "target3Euler": "",
         "target3MaskPole": "",
+        "target3PoleType": "",
         "target4Type": "Target-15",
         "target4Pos": [
-            5,
+            5.2,
             0,
             75.5
         ],
@@ -5938,15 +6114,16 @@
         "target4PoleRotationDirect": "",
         "target4PoleRotationRange": "",
         "target4PoleRotationPeriod": "",
-        "target4PathTime": "1#5,0,75.2,4@5,0,75.1,4#2,3,4",
+        "target4PathTime": "1#5.2,0,75.5,4@5.2,0,75.5,4#2,3,4",
         "target4VanishTime": "",
         "target4Hp": "",
         "target4Euler": "",
         "target4MaskPole": "",
+        "target4PoleType": "",
         "target5Type": "Target-6",
         "target5Pos": [
             -2.4,
-            0,
+            -1,
             75.2
         ],
         "target5Scale": [
@@ -5966,15 +6143,16 @@
         "target5PoleRotationDirect": "",
         "target5PoleRotationRange": "",
         "target5PoleRotationPeriod": "",
-        "target5PathTime": "1#-2.4,0,75.2,5@-2.7,0,75.2,0.5@2.4,0,75.2,0.5@2.4,0,75.2,2",
+        "target5PathTime": "1#-2.4,-1,75.2,5@-2.7,-1,75.2,0.25@-2.7,-1,75.2,0.5@-2.4,-1,75.2,0.25@-2.4,-1,75.2,2",
         "target5VanishTime": "",
         "target5Hp": "",
         "target5Euler": "",
         "target5MaskPole": "",
+        "target5PoleType": "",
         "target6Type": "Target-6",
         "target6Pos": [
-            5,
-            0,
+            4.9,
+            -1,
             75.2
         ],
         "target6Scale": [
@@ -5994,11 +6172,12 @@
         "target6PoleRotationDirect": "",
         "target6PoleRotationRange": "",
         "target6PoleRotationPeriod": "",
-        "target6PathTime": "1#5,0,75.2,3@5.3,0,75.2,0.5@5,0,75.2,0.5@5,0,75.2,4#2,3,4",
+        "target6PathTime": "1#4.9,-1,75.2,3@5.3,-1,75.2,0.25@5.3,-1,75.2,0.5@4.9,-1,75.2,0.25@4.9,-1,75.2,4",
         "target6VanishTime": "",
         "target6Hp": "",
         "target6Euler": "",
         "target6MaskPole": "",
+        "target6PoleType": "",
         "targetArr": {}
     }
 }
