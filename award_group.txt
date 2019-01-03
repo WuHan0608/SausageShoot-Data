@@ -19,6 +19,21 @@
             },
             {
                 "type": "Strength",
+                "number": 10,
+                "weight": -1
+            },
+            {
+                "type": "TreasureFragment",
+                "number": 0,
+                "weight": -1
+            },
+            {
+                "type": "LegendFragment",
+                "number": 0,
+                "weight": -1
+            },
+            {
+                "type": "Activation",
                 "number": 0,
                 "weight": -1
             },
@@ -33,23 +48,13 @@
                 "weight": -1
             },
             {
-                "type": "TreasureFragment",
-                "number": 0,
+                "type": "Fashion",
+                "number": 103,
                 "weight": -1
             },
             {
-                "type": "LegendFragment",
-                "number": 80,
-                "weight": -1
-            },
-            {
-                "type": "Activation",
-                "number": 0,
-                "weight": -1
-            },
-            {
-                "type": "Weapon",
-                "number": 2,
+                "type": "Fashion",
+                "number": 201,
                 "weight": -1
             }
         ]
@@ -58,12 +63,12 @@
         "id": 10001,
         "box": [
             {
-                "type": "Diamond",
+                "type": "Gold",
                 "number": 10,
                 "weight": -1
             },
             {
-                "type": "Gold",
+                "type": "Diamond",
                 "number": 10,
                 "weight": -1
             }
@@ -73,264 +78,14 @@
         "id": 10002,
         "box": [
             {
-                "type": "Diamond",
-                "number": 100,
-                "weight": -1
-            },
-            {
                 "type": "Gold",
                 "number": 100,
                 "weight": -1
-            }
-        ]
-    },
-    "5001": {
-        "id": 5001,
-        "box": [
-            {
-                "type": "Box",
-                "number": 6011,
-                "weight": 0
             },
             {
-                "type": "Box",
-                "number": 6012,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6013,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6014,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6015,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6016,
-                "weight": 1
-            },
-            {
-                "type": "null",
-                "number": 6017,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6018,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6019,
-                "weight": 0
-            }
-        ]
-    },
-    "5002": {
-        "id": 5002,
-        "box": [
-            {
-                "type": "Box",
-                "number": 6021,
-                "weight": 0
-            },
-            {
-                "type": "Box",
-                "number": 6022,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6023,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6024,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6025,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6026,
-                "weight": 1
-            },
-            {
-                "type": "null",
-                "number": 6027,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6028,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6029,
-                "weight": 0
-            }
-        ]
-    },
-    "5003": {
-        "id": 5003,
-        "box": [
-            {
-                "type": "Box",
-                "number": 6031,
-                "weight": 0
-            },
-            {
-                "type": "Box",
-                "number": 6032,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6033,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6034,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6035,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6036,
-                "weight": 1
-            },
-            {
-                "type": "null",
-                "number": 6037,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6038,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6039,
-                "weight": 0
-            }
-        ]
-    },
-    "5004": {
-        "id": 5004,
-        "box": [
-            {
-                "type": "Box",
-                "number": 6041,
-                "weight": 0
-            },
-            {
-                "type": "Box",
-                "number": 6042,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6043,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6044,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6045,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6046,
-                "weight": 1
-            },
-            {
-                "type": "null",
-                "number": 6047,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6048,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6049,
-                "weight": 0
-            }
-        ]
-    },
-    "5005": {
-        "id": 5005,
-        "box": [
-            {
-                "type": "Box",
-                "number": 6051,
-                "weight": 0
-            },
-            {
-                "type": "Box",
-                "number": 6052,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6053,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6054,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6055,
-                "weight": 1
-            },
-            {
-                "type": "Box",
-                "number": 6056,
-                "weight": 1
-            },
-            {
-                "type": "null",
-                "number": 6057,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6058,
-                "weight": 0
-            },
-            {
-                "type": "null",
-                "number": 6059,
-                "weight": 0
+                "type": "Diamond",
+                "number": 100,
+                "weight": -1
             }
         ]
     }
