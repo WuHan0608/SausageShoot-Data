@@ -306,13 +306,13 @@
             60
         ],
         "target1Scale": [
-            null
+            1
         ],
-        "target1MoveType": "",
-        "target1MovePeriod": "",
-        "target1MoveDistance1": "",
-        "target1MoveDistance2": "",
-        "target1FallDownType": "",
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
         "target1RotationDirect": "",
@@ -335,13 +335,13 @@
             75
         ],
         "target2Scale": [
-            null
+            1
         ],
-        "target2MoveType": "",
-        "target2MovePeriod": "",
-        "target2MoveDistance1": "",
-        "target2MoveDistance2": "",
-        "target2FallDownType": "",
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
         "target2FallDownPeriod": "",
         "target2OriginDir": "",
         "target2RotationDirect": "",
@@ -364,13 +364,13 @@
             90
         ],
         "target3Scale": [
-            null
+            1
         ],
-        "target3MoveType": "",
-        "target3MovePeriod": "",
-        "target3MoveDistance1": "",
-        "target3MoveDistance2": "",
-        "target3FallDownType": "",
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
         "target3FallDownPeriod": "",
         "target3OriginDir": "",
         "target3RotationDirect": "",
@@ -423,13 +423,13 @@
             70
         ],
         "target1Scale": [
-            null
+            1
         ],
-        "target1MoveType": "",
-        "target1MovePeriod": "",
-        "target1MoveDistance1": "",
-        "target1MoveDistance2": "",
-        "target1FallDownType": "",
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
         "target1FallDownPeriod": "",
         "target1OriginDir": "",
         "target1RotationDirect": 1,
@@ -1392,13 +1392,13 @@
             73
         ],
         "target2Scale": [
-            null
+            1
         ],
-        "target2MoveType": "",
-        "target2MovePeriod": "",
-        "target2MoveDistance1": "",
-        "target2MoveDistance2": "",
-        "target2FallDownType": "",
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
         "target2FallDownPeriod": "",
         "target2OriginDir": "",
         "target2RotationDirect": "",
@@ -1480,13 +1480,13 @@
             73
         ],
         "target2Scale": [
-            null
+            1
         ],
-        "target2MoveType": "",
-        "target2MovePeriod": "",
-        "target2MoveDistance1": "",
-        "target2MoveDistance2": "",
-        "target2FallDownType": "",
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
         "target2FallDownPeriod": "",
         "target2OriginDir": "",
         "target2RotationDirect": "",
