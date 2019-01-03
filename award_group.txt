@@ -58,29 +58,14 @@
         "id": 10001,
         "box": [
             {
-                "type": "Box",
-                "number": 5001,
-                "weight": 0
+                "type": "Diamond",
+                "number": 10,
+                "weight": -1
             },
             {
-                "type": "Box",
-                "number": 5002,
-                "weight": 88
-            },
-            {
-                "type": "Box",
-                "number": 5003,
-                "weight": 412
-            },
-            {
-                "type": "Box",
-                "number": 5004,
-                "weight": 35
-            },
-            {
-                "type": "Box",
-                "number": 5005,
-                "weight": 60
+                "type": "Gold",
+                "number": 10,
+                "weight": -1
             }
         ]
     },
@@ -88,29 +73,14 @@
         "id": 10002,
         "box": [
             {
-                "type": "Box",
-                "number": 5001,
-                "weight": 0
+                "type": "Diamond",
+                "number": 100,
+                "weight": -1
             },
             {
-                "type": "Box",
-                "number": 5002,
-                "weight": 10
-            },
-            {
-                "type": "Box",
-                "number": 5003,
-                "weight": 30
-            },
-            {
-                "type": "Box",
-                "number": 5004,
-                "weight": 40
-            },
-            {
-                "type": "Box",
-                "number": 5005,
-                "weight": 20
+                "type": "Gold",
+                "number": 100,
+                "weight": -1
             }
         ]
     },
