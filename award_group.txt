@@ -4,37 +4,37 @@
         "box": [
             {
                 "type": "Diamond",
-                "number": 10,
+                "number": 0,
                 "weight": -1
             },
             {
                 "type": "Gold",
-                "number": 20,
+                "number": 0,
                 "weight": -1
             },
             {
                 "type": "Exp",
-                "number": 30,
+                "number": 0,
                 "weight": -1
             },
             {
                 "type": "Strength",
-                "number": 40,
+                "number": 0,
                 "weight": -1
             },
             {
                 "type": "Treasure",
-                "number": 50,
+                "number": 0,
                 "weight": -1
             },
             {
                 "type": "Legend",
-                "number": 60,
+                "number": 0,
                 "weight": -1
             },
             {
                 "type": "TreasureFragment",
-                "number": 70,
+                "number": 0,
                 "weight": -1
             },
             {
@@ -44,7 +44,7 @@
             },
             {
                 "type": "Activation",
-                "number": 90,
+                "number": 0,
                 "weight": -1
             },
             {
