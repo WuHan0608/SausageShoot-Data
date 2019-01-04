@@ -6371,7 +6371,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            -1.7,
+            -1.65,
             0,
             75.5
         ],
@@ -6383,7 +6383,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-1.7,0,75.6,4@-1.7,0,75.5,4#2,3,4",
+        "target2PathTime": "1#-1.65,0,75.6,4@-1.65,0,75.5,4#2,3,4",
         "target3Type": "Target-21",
         "target3Pos": [
             4.3,
