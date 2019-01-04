@@ -508,7 +508,6 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1TaowaNum": 3,
         "targetArr": "103",
         "gravity": 20,
         "starLimit": 20,
@@ -3920,9 +3919,9 @@
         "picId": "1",
         "target1Type": "Target-17",
         "target1Pos": [
-            3.3,
+            3.7,
             40,
-            75
+            75.1
         ],
         "target1Scale": [
             1
@@ -3932,12 +3931,12 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1#-3,0,76,8@3,0,76,8#0,2,7",
+        "target1PathTime": "1###-3.4,0.5,6.3,0.5@@75.1,0.5",
         "target2Type": "Target-17",
         "target2Pos": [
-            -2.7,
+            -1.5,
             30,
-            75
+            75.1
         ],
         "target2Scale": [
             1
@@ -3949,9 +3948,9 @@
         "target2FallDownType": 1,
         "target3Type": "Target-17",
         "target3Pos": [
-            6.3,
+            5.4,
             35,
-            75
+            75.1
         ],
         "target3Scale": [
             1
@@ -3965,7 +3964,7 @@
         "target4Pos": [
             0.3,
             45,
-            75
+            75.1
         ],
         "target4Scale": [
             1
@@ -3977,9 +3976,9 @@
         "target4FallDownType": 1,
         "target5Type": "Target-17",
         "target5Pos": [
-            1.8,
+            2,
             50,
-            75
+            75.1
         ],
         "target5Scale": [
             1
@@ -3991,9 +3990,9 @@
         "target5FallDownType": 1,
         "target6Type": "Target-17",
         "target6Pos": [
-            -4.2,
+            -3.3,
             55,
-            70
+            75.1
         ],
         "target6Scale": [
             1
@@ -4005,7 +4004,7 @@
         "target6FallDownType": 1,
         "target7Type": "Target-18",
         "target7Pos": [
-            3.3,
+            3.7,
             0,
             75
         ],
@@ -4019,7 +4018,7 @@
         "target7FallDownType": 1,
         "target8Type": "Target-18",
         "target8Pos": [
-            -2.7,
+            -1.5,
             0,
             75
         ],
@@ -4033,7 +4032,7 @@
         "target8FallDownType": 1,
         "target9Type": "Target-18",
         "target9Pos": [
-            6.3,
+            5.4,
             0,
             75
         ],
@@ -4061,7 +4060,7 @@
         "target10FallDownType": 1,
         "target11Type": "Target-18",
         "target11Pos": [
-            1.8,
+            2,
             0,
             75
         ],
@@ -4075,9 +4074,9 @@
         "target11FallDownType": 1,
         "target12Type": "Target-18",
         "target12Pos": [
-            -4.2,
+            -3.3,
             0,
-            70
+            75
         ],
         "target12Scale": [
             1
