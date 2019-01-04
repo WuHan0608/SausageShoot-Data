@@ -19,7 +19,7 @@
             },
             {
                 "type": "Strength",
-                "number": 10,
+                "number": 0,
                 "weight": -1
             },
             {
@@ -55,6 +55,51 @@
             {
                 "type": "Fashion",
                 "number": 201,
+                "weight": -1
+            },
+            {
+                "type": "Fashion",
+                "number": 301,
+                "weight": -1
+            },
+            {
+                "type": "Fashion",
+                "number": 503,
+                "weight": -1
+            },
+            {
+                "type": "Fashion",
+                "number": 604,
+                "weight": -1
+            },
+            {
+                "type": "Weapon",
+                "number": 101,
+                "weight": -1
+            },
+            {
+                "type": "Weapon",
+                "number": 201,
+                "weight": -1
+            },
+            {
+                "type": "Weapon",
+                "number": 301,
+                "weight": -1
+            },
+            {
+                "type": "Weapon",
+                "number": 302,
+                "weight": -1
+            },
+            {
+                "type": "Weapon",
+                "number": 401,
+                "weight": -1
+            },
+            {
+                "type": "Weapon",
+                "number": 501,
                 "weight": -1
             }
         ]
