@@ -1,6 +1,6 @@
 {
     "0": {
-        "id": 1,
+        "id": 0,
         "box": [
             {
                 "type": "Diamond",
@@ -45,6 +45,21 @@
             {
                 "type": "Legend",
                 "number": 0,
+                "weight": -1
+            }
+        ]
+    },
+    "99999": {
+        "id": 99999,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 101,
+                "weight": -1
+            },
+            {
+                "type": "Fashion",
+                "number": 102,
                 "weight": -1
             },
             {
@@ -108,14 +123,29 @@
         "id": 10001,
         "box": [
             {
-                "type": "Gold",
-                "number": 10,
-                "weight": -1
+                "type": "Box",
+                "number": 5001,
+                "weight": 0
             },
             {
-                "type": "Diamond",
-                "number": 10,
-                "weight": -1
+                "type": "Box",
+                "number": 5002,
+                "weight": 88
+            },
+            {
+                "type": "Box",
+                "number": 5003,
+                "weight": 412
+            },
+            {
+                "type": "Box",
+                "number": 5004,
+                "weight": 3500
+            },
+            {
+                "type": "Box",
+                "number": 5005,
+                "weight": 6000
             }
         ]
     },
@@ -123,14 +153,894 @@
         "id": 10002,
         "box": [
             {
-                "type": "Gold",
-                "number": 100,
-                "weight": -1
+                "type": "Box",
+                "number": 5001,
+                "weight": 0
             },
             {
-                "type": "Diamond",
-                "number": 100,
-                "weight": -1
+                "type": "Box",
+                "number": 5002,
+                "weight": 1000
+            },
+            {
+                "type": "Box",
+                "number": 5003,
+                "weight": 3000
+            },
+            {
+                "type": "Box",
+                "number": 5004,
+                "weight": 4000
+            },
+            {
+                "type": "Box",
+                "number": 5005,
+                "weight": 2000
+            }
+        ]
+    },
+    "5001": {
+        "id": 5001,
+        "box": [
+            {
+                "type": "Box",
+                "number": 6011,
+                "weight": 0
+            },
+            {
+                "type": "Box",
+                "number": 6012,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6013,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6014,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6015,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6016,
+                "weight": 100
+            }
+        ]
+    },
+    "5002": {
+        "id": 5002,
+        "box": [
+            {
+                "type": "Box",
+                "number": 6021,
+                "weight": 0
+            },
+            {
+                "type": "Box",
+                "number": 6022,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6023,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6024,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6025,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6026,
+                "weight": 100
+            }
+        ]
+    },
+    "5003": {
+        "id": 5003,
+        "box": [
+            {
+                "type": "Box",
+                "number": 6031,
+                "weight": 0
+            },
+            {
+                "type": "Box",
+                "number": 6032,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6033,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6034,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6035,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6036,
+                "weight": 100
+            }
+        ]
+    },
+    "5004": {
+        "id": 5004,
+        "box": [
+            {
+                "type": "Box",
+                "number": 6041,
+                "weight": 0
+            },
+            {
+                "type": "Box",
+                "number": 6042,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6043,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6044,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6045,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6046,
+                "weight": 100
+            }
+        ]
+    },
+    "5005": {
+        "id": 5005,
+        "box": [
+            {
+                "type": "Box",
+                "number": 6051,
+                "weight": 0
+            },
+            {
+                "type": "Box",
+                "number": 6052,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6053,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6054,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6055,
+                "weight": 100
+            },
+            {
+                "type": "Box",
+                "number": 6056,
+                "weight": 100
+            }
+        ]
+    },
+    "6011": {
+        "id": 6011,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 101,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 102,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 103,
+                "weight": 100
+            }
+        ]
+    },
+    "6012": {
+        "id": 6012,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 201,
+                "weight": 100
+            }
+        ]
+    },
+    "6013": {
+        "id": 6013,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 301,
+                "weight": 100
+            }
+        ]
+    },
+    "6015": {
+        "id": 6015,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 501,
+                "weight": 100
+            }
+        ]
+    },
+    "6016": {
+        "id": 6016,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 625,
+                "weight": 100
+            }
+        ]
+    },
+    "6022": {
+        "id": 6022,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 202,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 203,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 204,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 205,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 208,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 209,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 214,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 215,
+                "weight": 100
+            }
+        ]
+    },
+    "6023": {
+        "id": 6023,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 302,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 303,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 304,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 305,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 308,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 315,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 317,
+                "weight": 100
+            }
+        ]
+    },
+    "6024": {
+        "id": 6024,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 405,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 406,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 407,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 408,
+                "weight": 100
+            }
+        ]
+    },
+    "6025": {
+        "id": 6025,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 503,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 504,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 505,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 507,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 508,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 514,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 515,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 516,
+                "weight": 100
+            }
+        ]
+    },
+    "6026": {
+        "id": 6026,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 601,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 602,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 603,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 604,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 609,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 610,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 611,
+                "weight": 100
+            }
+        ]
+    },
+    "6032": {
+        "id": 6032,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 206,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 210,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 212,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 213,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 217,
+                "weight": 100
+            }
+        ]
+    },
+    "6033": {
+        "id": 6033,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 309,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 319,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 320,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 321,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 323,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 325,
+                "weight": 100
+            }
+        ]
+    },
+    "6034": {
+        "id": 6034,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 403,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 404,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 410,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 412,
+                "weight": 100
+            }
+        ]
+    },
+    "6035": {
+        "id": 6035,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 506,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 510,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 511,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 512,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 513,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 517,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 518,
+                "weight": 100
+            }
+        ]
+    },
+    "6036": {
+        "id": 6036,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 605,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 607,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 608,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 612,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 613,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 616,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 618,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 621,
+                "weight": 100
+            }
+        ]
+    },
+    "6042": {
+        "id": 6042,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 216,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 218,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 220,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 221,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 222,
+                "weight": 100
+            }
+        ]
+    },
+    "6043": {
+        "id": 6043,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 307,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 312,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 316,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 318,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 322,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 324,
+                "weight": 100
+            }
+        ]
+    },
+    "6044": {
+        "id": 6044,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 402,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 409,
+                "weight": 100
+            }
+        ]
+    },
+    "6045": {
+        "id": 6045,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 502,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 509,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 519,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 521,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 523,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 524,
+                "weight": 100
+            }
+        ]
+    },
+    "6046": {
+        "id": 6046,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 606,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 614,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 615,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 617,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 622,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 623,
+                "weight": 100
+            }
+        ]
+    },
+    "6052": {
+        "id": 6052,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 207,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 211,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 219,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 223,
+                "weight": 100
+            }
+        ]
+    },
+    "6053": {
+        "id": 6053,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 310,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 311,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 313,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 314,
+                "weight": 100
+            }
+        ]
+    },
+    "6054": {
+        "id": 6054,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 401,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 411,
+                "weight": 100
+            }
+        ]
+    },
+    "6055": {
+        "id": 6055,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 520,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 522,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 525,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 526,
+                "weight": 100
+            }
+        ]
+    },
+    "6056": {
+        "id": 6056,
+        "box": [
+            {
+                "type": "Fashion",
+                "number": 619,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 620,
+                "weight": 100
+            },
+            {
+                "type": "Fashion",
+                "number": 624,
+                "weight": 100
             }
         ]
     }
