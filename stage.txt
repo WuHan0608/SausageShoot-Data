@@ -1292,8 +1292,12 @@
             75
         ],
         "target1Scale": [
-            null
+            1
         ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": 0.5,
         "target1MovePeriodInPole": 0,
@@ -1429,8 +1433,12 @@
             80
         ],
         "target1Scale": [
-            null
+            1
         ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": 1,
         "target1MovePeriodInPole": 0,
@@ -1474,8 +1482,12 @@
             80
         ],
         "target1Scale": [
-            null
+            1
         ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": 1,
         "target1MovePeriodInPole": 10,
@@ -1748,8 +1760,12 @@
             85
         ],
         "target1Scale": [
-            null
+            1
         ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": 1,
         "target1MovePeriodInPole": 10,
@@ -5456,7 +5472,7 @@
         "level": "Mission-1-83",
         "id": 83,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 40,
         "picId": "1",
         "target1Type": "Target-13",
         "target1Pos": [
@@ -5503,7 +5519,7 @@
         "level": "Mission-1-84",
         "id": 84,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 60,
         "picId": "1",
         "target1Type": "Target-13",
         "target1Pos": [
@@ -5550,7 +5566,7 @@
         "level": "Mission-1-85",
         "id": 85,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 70,
         "picId": "1",
         "target1Type": "Target-13",
         "target1Pos": [
@@ -6088,7 +6104,7 @@
         "level": "Mission-1-93",
         "id": 93,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 60,
         "picId": "1",
         "target1Type": "Target-19",
         "target1Pos": [
@@ -6135,7 +6151,7 @@
         "level": "Mission-1-94",
         "id": 94,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 70,
         "picId": "1",
         "target1Type": "Target-20",
         "target1Pos": [
@@ -6182,7 +6198,7 @@
         "level": "Mission-1-95",
         "id": 95,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 80,
         "picId": "1",
         "target1Type": "Target-20",
         "target1Pos": [
@@ -6229,7 +6245,7 @@
         "level": "Mission-1-96",
         "id": 96,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 90,
         "picId": "1",
         "target1Type": "Target-20",
         "target1Pos": [
@@ -6276,7 +6292,7 @@
         "level": "Mission-1-97",
         "id": 97,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 40,
         "picId": "1",
         "target1Type": "Target-21",
         "target1Pos": [
@@ -6335,7 +6351,7 @@
         "level": "Mission-1-98",
         "id": 98,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 40,
         "picId": "1",
         "target1Type": "Target-21",
         "target1Pos": [
@@ -6365,7 +6381,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-1.7,75.6,4@-1.7,75.5,4#2,3,4",
+        "target2PathTime": "1#-1.7,0,75.6,4@-1.7,0,75.5,4#2,3,4",
         "target3Type": "Target-21",
         "target3Pos": [
             4.3,
@@ -6496,7 +6512,7 @@
         "level": "Mission-1-100",
         "id": 100,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 60,
         "picId": "1",
         "target1Type": "Target-15",
         "target1Pos": [
@@ -6586,7 +6602,7 @@
         "level": "Mission-1-101",
         "id": 101,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 60,
         "picId": "1",
         "target1Type": "Target-15",
         "target1Pos": [
