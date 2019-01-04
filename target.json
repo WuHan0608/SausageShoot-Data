@@ -1,6 +1,5 @@
 {
     "1": {
-        "id": 1,
         "targetType": "Target-1",
         "targetPos": "0,0,70",
         "targetScale": 1,
@@ -27,7 +26,6 @@
         "targetTaowaNum": ""
     },
     "2": {
-        "id": 2,
         "targetType": "Target-3",
         "targetPos": "-3.7,0,70",
         "targetScale": 1,
@@ -54,7 +52,6 @@
         "targetTaowaNum": ""
     },
     "3": {
-        "id": 3,
         "targetType": "Target-14",
         "targetPos": "1.3,0,60",
         "targetScale": 1,
@@ -81,7 +78,6 @@
         "targetTaowaNum": ""
     },
     "4": {
-        "id": 4,
         "targetType": "Target-4",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -108,7 +104,6 @@
         "targetTaowaNum": ""
     },
     "5": {
-        "id": 5,
         "targetType": "Target-1",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -135,7 +130,6 @@
         "targetTaowaNum": ""
     },
     "6": {
-        "id": 6,
         "targetType": "Target-1",
         "targetPos": "2.3,0,75",
         "targetScale": 1,
@@ -162,7 +156,6 @@
         "targetTaowaNum": ""
     },
     "7": {
-        "id": 7,
         "targetType": "Target-1",
         "targetPos": "3.3,0,80",
         "targetScale": 1,
@@ -189,7 +182,6 @@
         "targetTaowaNum": ""
     },
     "8": {
-        "id": 8,
         "targetType": "Target-4",
         "targetPos": "3.3,0,65",
         "targetScale": 1,
@@ -216,7 +208,6 @@
         "targetTaowaNum": ""
     },
     "9": {
-        "id": 9,
         "targetType": "Target-4",
         "targetPos": "-0.7,0,70",
         "targetScale": 1,
@@ -243,7 +234,6 @@
         "targetTaowaNum": ""
     },
     "10": {
-        "id": 10,
         "targetType": "Target-4",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -270,7 +260,6 @@
         "targetTaowaNum": ""
     },
     "11": {
-        "id": 11,
         "targetType": "Target-11",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -297,7 +286,6 @@
         "targetTaowaNum": ""
     },
     "12": {
-        "id": 12,
         "targetType": "Target-11",
         "targetPos": "-1.7,0,75",
         "targetScale": 1,
@@ -324,7 +312,6 @@
         "targetTaowaNum": ""
     },
     "13": {
-        "id": 13,
         "targetType": "Target-11",
         "targetPos": "4.3,0,70",
         "targetScale": 1,
@@ -351,7 +338,6 @@
         "targetTaowaNum": ""
     },
     "14": {
-        "id": 14,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -378,7 +364,6 @@
         "targetTaowaNum": ""
     },
     "15": {
-        "id": 15,
         "targetType": "Target-6",
         "targetPos": "1.3,0,60",
         "targetScale": 1,
@@ -405,7 +390,6 @@
         "targetTaowaNum": ""
     },
     "16": {
-        "id": 16,
         "targetType": "Target-4",
         "targetPos": "5.3,0,75",
         "targetScale": 1,
@@ -432,7 +416,6 @@
         "targetTaowaNum": ""
     },
     "17": {
-        "id": 17,
         "targetType": "Target-7",
         "targetPos": "0.3,0,70",
         "targetScale": 1,
@@ -459,7 +442,6 @@
         "targetTaowaNum": ""
     },
     "18": {
-        "id": 18,
         "targetType": "Target-12",
         "targetPos": "1.3,0,70",
         "targetScale": 0.5,
@@ -486,7 +468,6 @@
         "targetTaowaNum": ""
     },
     "19": {
-        "id": 19,
         "targetType": "Target-1",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -513,7 +494,6 @@
         "targetTaowaNum": ""
     },
     "20": {
-        "id": 20,
         "targetType": "Target-9",
         "targetPos": "-1.7,0,80",
         "targetScale": 1,
@@ -540,7 +520,6 @@
         "targetTaowaNum": ""
     },
     "21": {
-        "id": 21,
         "targetType": "Target-10",
         "targetPos": "6.3,0,75",
         "targetScale": 1,
@@ -567,7 +546,6 @@
         "targetTaowaNum": ""
     },
     "22": {
-        "id": 22,
         "targetType": "Target-9",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -594,7 +572,6 @@
         "targetTaowaNum": ""
     },
     "23": {
-        "id": 23,
         "targetType": "Target-13",
         "targetPos": "1.3,0,70",
         "targetScale": 1.5,
@@ -621,7 +598,6 @@
         "targetTaowaNum": ""
     },
     "24": {
-        "id": 24,
         "targetType": "Target-8",
         "targetPos": "4.3,0,70",
         "targetScale": 1,
@@ -648,7 +624,6 @@
         "targetTaowaNum": ""
     },
     "25": {
-        "id": 25,
         "targetType": "Target-9",
         "targetPos": "7.3,0,70",
         "targetScale": 1,
@@ -675,7 +650,6 @@
         "targetTaowaNum": ""
     },
     "26": {
-        "id": 26,
         "targetType": "Target-10",
         "targetPos": "8.3,0,70",
         "targetScale": 1,
@@ -702,7 +676,6 @@
         "targetTaowaNum": ""
     },
     "27": {
-        "id": 27,
         "targetType": "Target-11",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -729,7 +702,6 @@
         "targetTaowaNum": ""
     },
     "28": {
-        "id": 28,
         "targetType": "Target-6",
         "targetPos": "7.3,0,70",
         "targetScale": 1,
@@ -756,7 +728,6 @@
         "targetTaowaNum": ""
     },
     "29": {
-        "id": 29,
         "targetType": "Target-4",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -783,7 +754,6 @@
         "targetTaowaNum": ""
     },
     "30": {
-        "id": 30,
         "targetType": "Target-7",
         "targetPos": "4.3,0,70",
         "targetScale": 2,
@@ -810,7 +780,6 @@
         "targetTaowaNum": ""
     },
     "31": {
-        "id": 31,
         "targetType": "Target-11",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -837,7 +806,6 @@
         "targetTaowaNum": ""
     },
     "32": {
-        "id": 32,
         "targetType": "Target-14",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -864,7 +832,6 @@
         "targetTaowaNum": ""
     },
     "33": {
-        "id": 33,
         "targetType": "Target-14",
         "targetPos": "6.3,0,90",
         "targetScale": 1,
@@ -891,7 +858,6 @@
         "targetTaowaNum": ""
     },
     "34": {
-        "id": 34,
         "targetType": "Target-17",
         "targetPos": "6.3,25,70",
         "targetScale": 1,
@@ -918,7 +884,6 @@
         "targetTaowaNum": ""
     },
     "35": {
-        "id": 35,
         "targetType": "Target-17",
         "targetPos": "1.3,20,100",
         "targetScale": 1,
@@ -945,7 +910,6 @@
         "targetTaowaNum": ""
     },
     "36": {
-        "id": 36,
         "targetType": "Target-17",
         "targetPos": "-3.7,30,80",
         "targetScale": 1,
@@ -972,7 +936,6 @@
         "targetTaowaNum": ""
     },
     "37": {
-        "id": 37,
         "targetType": "Target-3",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -999,7 +962,6 @@
         "targetTaowaNum": ""
     },
     "38": {
-        "id": 38,
         "targetType": "Target-16",
         "targetPos": "1.3,20,70",
         "targetScale": 1,
@@ -1026,7 +988,6 @@
         "targetTaowaNum": ""
     },
     "42": {
-        "id": 42,
         "targetType": "Target-1",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -1053,7 +1014,6 @@
         "targetTaowaNum": ""
     },
     "43": {
-        "id": 43,
         "targetType": "Target-1",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -1080,7 +1040,6 @@
         "targetTaowaNum": ""
     },
     "44": {
-        "id": 44,
         "targetType": "Target-1",
         "targetPos": "1.3,0,110",
         "targetScale": 1,
@@ -1107,7 +1066,6 @@
         "targetTaowaNum": ""
     },
     "45": {
-        "id": 45,
         "targetType": "Target-1",
         "targetPos": "1.3,0,110",
         "targetScale": 1,
@@ -1134,7 +1092,6 @@
         "targetTaowaNum": ""
     },
     "46": {
-        "id": 46,
         "targetType": "Target-1",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1161,7 +1118,6 @@
         "targetTaowaNum": ""
     },
     "47": {
-        "id": 47,
         "targetType": "Target-1",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1188,7 +1144,6 @@
         "targetTaowaNum": ""
     },
     "48": {
-        "id": 48,
         "targetType": "Target-1",
         "targetPos": "1.3,0,150",
         "targetScale": 1,
@@ -1215,7 +1170,6 @@
         "targetTaowaNum": ""
     },
     "49": {
-        "id": 49,
         "targetType": "Target-1",
         "targetPos": "1.3,0,150",
         "targetScale": 1,
@@ -1242,7 +1196,6 @@
         "targetTaowaNum": ""
     },
     "50": {
-        "id": 50,
         "targetType": "Target-2",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -1269,7 +1222,6 @@
         "targetTaowaNum": ""
     },
     "51": {
-        "id": 51,
         "targetType": "Target-2",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -1296,7 +1248,6 @@
         "targetTaowaNum": ""
     },
     "52": {
-        "id": 52,
         "targetType": "Target-2",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -1323,7 +1274,6 @@
         "targetTaowaNum": ""
     },
     "53": {
-        "id": 53,
         "targetType": "Target-2",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -1350,7 +1300,6 @@
         "targetTaowaNum": ""
     },
     "54": {
-        "id": 54,
         "targetType": "Target-2",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -1377,7 +1326,6 @@
         "targetTaowaNum": ""
     },
     "55": {
-        "id": 55,
         "targetType": "Target-2",
         "targetPos": "1.3,0,110",
         "targetScale": 1,
@@ -1404,7 +1352,6 @@
         "targetTaowaNum": ""
     },
     "56": {
-        "id": 56,
         "targetType": "Target-2",
         "targetPos": "1.3,0,110",
         "targetScale": 1,
@@ -1431,7 +1378,6 @@
         "targetTaowaNum": ""
     },
     "57": {
-        "id": 57,
         "targetType": "Target-2",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1458,7 +1404,6 @@
         "targetTaowaNum": ""
     },
     "58": {
-        "id": 58,
         "targetType": "Target-2",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1485,7 +1430,6 @@
         "targetTaowaNum": ""
     },
     "59": {
-        "id": 59,
         "targetType": "Target-2",
         "targetPos": "1.3,0,150",
         "targetScale": 1,
@@ -1512,7 +1456,6 @@
         "targetTaowaNum": ""
     },
     "60": {
-        "id": 60,
         "targetType": "Target-2",
         "targetPos": "1.3,0,150",
         "targetScale": 1,
@@ -1539,7 +1482,6 @@
         "targetTaowaNum": ""
     },
     "65": {
-        "id": 65,
         "targetType": "Target-3",
         "targetPos": "1.3,0,100",
         "targetScale": 1,
@@ -1566,7 +1508,6 @@
         "targetTaowaNum": ""
     },
     "66": {
-        "id": 66,
         "targetType": "Target-3",
         "targetPos": "1.3,0,100",
         "targetScale": 1,
@@ -1593,7 +1534,6 @@
         "targetTaowaNum": ""
     },
     "67": {
-        "id": 67,
         "targetType": "Target-3",
         "targetPos": "1.3,0,100",
         "targetScale": 1,
@@ -1620,7 +1560,6 @@
         "targetTaowaNum": ""
     },
     "68": {
-        "id": 68,
         "targetType": "Target-3",
         "targetPos": "1.3,0,100",
         "targetScale": 1,
@@ -1647,7 +1586,6 @@
         "targetTaowaNum": ""
     },
     "69": {
-        "id": 69,
         "targetType": "Target-3",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1674,7 +1612,6 @@
         "targetTaowaNum": ""
     },
     "70": {
-        "id": 70,
         "targetType": "Target-3",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1701,7 +1638,6 @@
         "targetTaowaNum": ""
     },
     "71": {
-        "id": 71,
         "targetType": "Target-3",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1728,7 +1664,6 @@
         "targetTaowaNum": ""
     },
     "72": {
-        "id": 72,
         "targetType": "Target-3",
         "targetPos": "1.3,0,130",
         "targetScale": 1,
@@ -1755,7 +1690,6 @@
         "targetTaowaNum": ""
     },
     "74": {
-        "id": 74,
         "targetType": "Target-4",
         "targetPos": "1.3,0,100",
         "targetScale": 1,
@@ -1782,7 +1716,6 @@
         "targetTaowaNum": ""
     },
     "85": {
-        "id": 85,
         "targetType": "Target-6",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -1809,7 +1742,6 @@
         "targetTaowaNum": ""
     },
     "90": {
-        "id": 90,
         "targetType": "Target-4",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -1836,7 +1768,6 @@
         "targetTaowaNum": ""
     },
     "94": {
-        "id": 94,
         "targetType": "Target-7",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -1863,7 +1794,6 @@
         "targetTaowaNum": ""
     },
     "98": {
-        "id": 98,
         "targetType": "Target-7",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -1890,7 +1820,6 @@
         "targetTaowaNum": ""
     },
     "99": {
-        "id": 99,
         "targetType": "Target-7",
         "targetPos": "3.3,0,80",
         "targetScale": 1,
@@ -1917,7 +1846,6 @@
         "targetTaowaNum": ""
     },
     "100": {
-        "id": 100,
         "targetType": "Target-7",
         "targetPos": "-0.7,0,85",
         "targetScale": 1,
@@ -1944,7 +1872,6 @@
         "targetTaowaNum": ""
     },
     "109": {
-        "id": 109,
         "targetType": "Target-8",
         "targetPos": "2.5,8,80",
         "targetScale": 1,
@@ -1971,7 +1898,6 @@
         "targetTaowaNum": ""
     },
     "110": {
-        "id": 110,
         "targetType": "Target-8",
         "targetPos": "-2.7,6,76",
         "targetScale": 1,
@@ -1998,7 +1924,6 @@
         "targetTaowaNum": ""
     },
     "114": {
-        "id": 114,
         "targetType": "Target-14",
         "targetPos": "1.2,0,110",
         "targetScale": 1,
@@ -2025,7 +1950,6 @@
         "targetTaowaNum": ""
     },
     "115": {
-        "id": 115,
         "targetType": "Target-14",
         "targetPos": "3.5,0,80",
         "targetScale": 1,
@@ -2052,7 +1976,6 @@
         "targetTaowaNum": ""
     },
     "116": {
-        "id": 116,
         "targetType": "Target-14",
         "targetPos": "-3,0,100",
         "targetScale": 1,
@@ -2079,7 +2002,6 @@
         "targetTaowaNum": ""
     },
     "117": {
-        "id": 117,
         "targetType": "Target-14",
         "targetPos": "2.5,0,70",
         "targetScale": 1,
@@ -2106,7 +2028,6 @@
         "targetTaowaNum": ""
     },
     "118": {
-        "id": 118,
         "targetType": "Target-14",
         "targetPos": "-4,0,90",
         "targetScale": 1,
@@ -2133,7 +2054,6 @@
         "targetTaowaNum": ""
     },
     "2000": {
-        "id": 2000,
         "targetType": "Target-1",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -2160,7 +2080,6 @@
         "targetTaowaNum": ""
     },
     "2001": {
-        "id": 2001,
         "targetType": "Target-2",
         "targetPos": "-0.2,0,75",
         "targetScale": 1,
@@ -2187,7 +2106,6 @@
         "targetTaowaNum": ""
     },
     "2002": {
-        "id": 2002,
         "targetType": "Target-3",
         "targetPos": "-1.7,0,75",
         "targetScale": 1,
@@ -2214,7 +2132,6 @@
         "targetTaowaNum": ""
     },
     "2003": {
-        "id": 2003,
         "targetType": "Target-4",
         "targetPos": "-3.3,0,75",
         "targetScale": 1,
@@ -2241,7 +2158,6 @@
         "targetTaowaNum": ""
     },
     "2004": {
-        "id": 2004,
         "targetType": "Target-5",
         "targetPos": "-4.8,0,75",
         "targetScale": 1,
@@ -2268,7 +2184,6 @@
         "targetTaowaNum": ""
     },
     "2005": {
-        "id": 2005,
         "targetType": "Target-6",
         "targetPos": "-6.3,0,75",
         "targetScale": 1,
@@ -2295,7 +2210,6 @@
         "targetTaowaNum": ""
     },
     "2006": {
-        "id": 2006,
         "targetType": "Target-7",
         "targetPos": "-7.8,0,75",
         "targetScale": 1,
@@ -2322,7 +2236,6 @@
         "targetTaowaNum": ""
     },
     "2007": {
-        "id": 2007,
         "targetType": "Target-8",
         "targetPos": "8.3,0,75",
         "targetScale": 1,
@@ -2349,7 +2262,6 @@
         "targetTaowaNum": ""
     },
     "2008": {
-        "id": 2008,
         "targetType": "Target-9",
         "targetPos": "6,0,75",
         "targetScale": 1,
@@ -2376,7 +2288,6 @@
         "targetTaowaNum": ""
     },
     "2009": {
-        "id": 2009,
         "targetType": "Target-10",
         "targetPos": "3.3,0,75",
         "targetScale": 1,
@@ -2403,7 +2314,6 @@
         "targetTaowaNum": ""
     },
     "2010": {
-        "id": 2010,
         "targetType": "Target-11",
         "targetPos": "8.8,0,75",
         "targetScale": 1,
@@ -2430,7 +2340,6 @@
         "targetTaowaNum": ""
     },
     "2011": {
-        "id": 2011,
         "targetType": "Target-12",
         "targetPos": "5.8,0,75",
         "targetScale": 1,
@@ -2457,7 +2366,6 @@
         "targetTaowaNum": ""
     },
     "2012": {
-        "id": 2012,
         "targetType": "Target-13",
         "targetPos": "3.3,0,75",
         "targetScale": 1,
@@ -2484,7 +2392,6 @@
         "targetTaowaNum": ""
     },
     "2013": {
-        "id": 2013,
         "targetType": "Target-14",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -2511,7 +2418,6 @@
         "targetTaowaNum": ""
     },
     "2014": {
-        "id": 2014,
         "targetType": "Target-15",
         "targetPos": "-0.2,0,75",
         "targetScale": 1,
@@ -2538,7 +2444,6 @@
         "targetTaowaNum": ""
     },
     "2015": {
-        "id": 2015,
         "targetType": "Target-16",
         "targetPos": "-1.7,0,75",
         "targetScale": 1,
@@ -2565,7 +2470,6 @@
         "targetTaowaNum": ""
     },
     "2016": {
-        "id": 2016,
         "targetType": "Target-17",
         "targetPos": "-3.3,30,75",
         "targetScale": 1,
@@ -2592,7 +2496,6 @@
         "targetTaowaNum": ""
     },
     "2017": {
-        "id": 2017,
         "targetType": "Target-18",
         "targetPos": "-4.8,0,75",
         "targetScale": 1,
@@ -2619,7 +2522,6 @@
         "targetTaowaNum": ""
     },
     "2018": {
-        "id": 2018,
         "targetType": "Target-19",
         "targetPos": "-6.3,0,75",
         "targetScale": 1,
@@ -2646,7 +2548,6 @@
         "targetTaowaNum": ""
     },
     "1001": {
-        "id": 1001,
         "targetType": "Target-14",
         "targetPos": "5.3,0,76",
         "targetScale": 1,
@@ -2673,7 +2574,6 @@
         "targetTaowaNum": ""
     },
     "1002": {
-        "id": 1002,
         "targetType": "Target-18",
         "targetPos": "-1.2,-1,75",
         "targetScale": 1,
@@ -2700,7 +2600,6 @@
         "targetTaowaNum": ""
     },
     "1999": {
-        "id": 1999,
         "targetType": "Target-18",
         "targetPos": "1.3,-1,75",
         "targetScale": 1,
@@ -2727,7 +2626,6 @@
         "targetTaowaNum": ""
     },
     "1004": {
-        "id": 1004,
         "targetType": "Target-18",
         "targetPos": "3.8,-1,75",
         "targetScale": 1,
@@ -2754,7 +2652,6 @@
         "targetTaowaNum": ""
     },
     "1005": {
-        "id": 1005,
         "targetType": "Target-17",
         "targetPos": "9.3,30,75",
         "targetScale": 1,
@@ -2781,7 +2678,6 @@
         "targetTaowaNum": ""
     },
     "1006": {
-        "id": 1006,
         "targetType": "Target-17",
         "targetPos": "-4.7,30,80",
         "targetScale": 1,
@@ -2808,7 +2704,6 @@
         "targetTaowaNum": ""
     },
     "1007": {
-        "id": 1007,
         "targetType": "Target-17",
         "targetPos": "-0.7,20,66",
         "targetScale": 1,
@@ -2835,7 +2730,6 @@
         "targetTaowaNum": ""
     },
     "1008": {
-        "id": 1008,
         "targetType": "Target-17",
         "targetPos": "5.3,-20,65",
         "targetScale": 1,
@@ -2862,7 +2756,6 @@
         "targetTaowaNum": ""
     },
     "1009": {
-        "id": 1009,
         "targetType": "Target-3",
         "targetPos": "1.3,-0.58,95",
         "targetScale": 1,
@@ -2889,7 +2782,6 @@
         "targetTaowaNum": ""
     },
     "1010": {
-        "id": 1010,
         "targetType": "Target-14",
         "targetPos": "6.3,0,75",
         "targetScale": 1,
@@ -2916,7 +2808,6 @@
         "targetTaowaNum": ""
     },
     "1011": {
-        "id": 1011,
         "targetType": "Target-18",
         "targetPos": "-1.7,-1,75",
         "targetScale": 1,
@@ -2943,7 +2834,6 @@
         "targetTaowaNum": ""
     },
     "1012": {
-        "id": 1012,
         "targetType": "Target-18",
         "targetPos": "6.3,-1,75",
         "targetScale": 1,
@@ -2970,7 +2860,6 @@
         "targetTaowaNum": ""
     },
     "1013": {
-        "id": 1013,
         "targetType": "Target-17",
         "targetPos": "3.3,40,75",
         "targetScale": 1,
@@ -2997,7 +2886,6 @@
         "targetTaowaNum": ""
     },
     "1014": {
-        "id": 1014,
         "targetType": "Target-17",
         "targetPos": "-2.7,30,75",
         "targetScale": 1,
@@ -3024,7 +2912,6 @@
         "targetTaowaNum": ""
     },
     "1015": {
-        "id": 1015,
         "targetType": "Target-17",
         "targetPos": "6.3,35,75",
         "targetScale": 1,
@@ -3051,7 +2938,6 @@
         "targetTaowaNum": ""
     },
     "1016": {
-        "id": 1016,
         "targetType": "Target-17",
         "targetPos": "0.3,45,75",
         "targetScale": 1,
@@ -3078,7 +2964,6 @@
         "targetTaowaNum": ""
     },
     "1017": {
-        "id": 1017,
         "targetType": "Target-17",
         "targetPos": "1.8,50,75",
         "targetScale": 1,
@@ -3105,7 +2990,6 @@
         "targetTaowaNum": ""
     },
     "1018": {
-        "id": 1018,
         "targetType": "Target-17",
         "targetPos": "-4.2,55,70",
         "targetScale": 1,
@@ -3132,7 +3016,6 @@
         "targetTaowaNum": ""
     },
     "1019": {
-        "id": 1019,
         "targetType": "Target-18",
         "targetPos": "3.3,0,75",
         "targetScale": 1,
@@ -3159,7 +3042,6 @@
         "targetTaowaNum": ""
     },
     "1020": {
-        "id": 1020,
         "targetType": "Target-18",
         "targetPos": "-2.7,0,75",
         "targetScale": 1,
@@ -3186,7 +3068,6 @@
         "targetTaowaNum": ""
     },
     "1021": {
-        "id": 1021,
         "targetType": "Target-18",
         "targetPos": "6.3,0,75",
         "targetScale": 1,
@@ -3213,7 +3094,6 @@
         "targetTaowaNum": ""
     },
     "1022": {
-        "id": 1022,
         "targetType": "Target-18",
         "targetPos": "0.3,0,75",
         "targetScale": 1,
@@ -3240,7 +3120,6 @@
         "targetTaowaNum": ""
     },
     "1023": {
-        "id": 1023,
         "targetType": "Target-18",
         "targetPos": "1.8,0,75",
         "targetScale": 1,
@@ -3267,7 +3146,6 @@
         "targetTaowaNum": ""
     },
     "1024": {
-        "id": 1024,
         "targetType": "Target-18",
         "targetPos": "-4.2,0,70",
         "targetScale": 1,
@@ -3294,7 +3172,6 @@
         "targetTaowaNum": ""
     },
     "1025": {
-        "id": 1025,
         "targetType": "Target-13",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -3321,7 +3198,6 @@
         "targetTaowaNum": ""
     },
     "1026": {
-        "id": 1026,
         "targetType": "Target-14",
         "targetPos": "5.3,-1,76",
         "targetScale": 1,
@@ -3348,7 +3224,6 @@
         "targetTaowaNum": ""
     },
     "1027": {
-        "id": 1027,
         "targetType": "Target-18",
         "targetPos": "-1.2,-1,75",
         "targetScale": 1,
@@ -3375,7 +3250,6 @@
         "targetTaowaNum": ""
     },
     "1028": {
-        "id": 1028,
         "targetType": "Target-18",
         "targetPos": "1.3,-1,75",
         "targetScale": 1,
@@ -3402,7 +3276,6 @@
         "targetTaowaNum": ""
     },
     "1029": {
-        "id": 1029,
         "targetType": "Target-18",
         "targetPos": "3.8,-1,75",
         "targetScale": 1,
@@ -3429,7 +3302,6 @@
         "targetTaowaNum": ""
     },
     "1030": {
-        "id": 1030,
         "targetType": "Target-13",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -3456,7 +3328,6 @@
         "targetTaowaNum": ""
     },
     "1031": {
-        "id": 1031,
         "targetType": "Target-13",
         "targetPos": "6.3,0,85",
         "targetScale": 1,
@@ -3483,7 +3354,6 @@
         "targetTaowaNum": ""
     },
     "1032": {
-        "id": 1032,
         "targetType": "Target-18",
         "targetPos": "1.3,-1,75",
         "targetScale": 1,
@@ -3510,7 +3380,6 @@
         "targetTaowaNum": ""
     },
     "1033": {
-        "id": 1033,
         "targetType": "Target-14",
         "targetPos": "1.3,0,75.1",
         "targetScale": 1,
@@ -3537,7 +3406,6 @@
         "targetTaowaNum": ""
     },
     "1034": {
-        "id": 1034,
         "targetType": "Target-2",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -3564,7 +3432,6 @@
         "targetTaowaNum": ""
     },
     "1035": {
-        "id": 1035,
         "targetType": "Target-7",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -3591,7 +3458,6 @@
         "targetTaowaNum": ""
     },
     "1036": {
-        "id": 1036,
         "targetType": "Target-18",
         "targetPos": "-2.4,-1,75",
         "targetScale": 1,
@@ -3618,7 +3484,6 @@
         "targetTaowaNum": ""
     },
     "1037": {
-        "id": 1037,
         "targetType": "Target-18",
         "targetPos": "-7,-1,75",
         "targetScale": 1,
@@ -3645,7 +3510,6 @@
         "targetTaowaNum": ""
     },
     "1038": {
-        "id": 1038,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -3672,7 +3536,6 @@
         "targetTaowaNum": ""
     },
     "1039": {
-        "id": 1039,
         "targetType": "Target-3",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -3699,7 +3562,6 @@
         "targetTaowaNum": ""
     },
     "1040": {
-        "id": 1040,
         "targetType": "Target-2",
         "targetPos": "1.3,0,105",
         "targetScale": 1,
@@ -3726,7 +3588,6 @@
         "targetTaowaNum": ""
     },
     "1041": {
-        "id": 1041,
         "targetType": "Target-2",
         "targetPos": "1.3,0,125",
         "targetScale": 1,
@@ -3753,7 +3614,6 @@
         "targetTaowaNum": ""
     },
     "1042": {
-        "id": 1042,
         "targetType": "Target-3",
         "targetPos": "1.3,0,95",
         "targetScale": 1,
@@ -3780,7 +3640,6 @@
         "targetTaowaNum": ""
     },
     "1043": {
-        "id": 1043,
         "targetType": "Target-3",
         "targetPos": "1.3,0,105",
         "targetScale": 1,
@@ -3807,7 +3666,6 @@
         "targetTaowaNum": ""
     },
     "1044": {
-        "id": 1044,
         "targetType": "Target-3",
         "targetPos": "1.3,0,115",
         "targetScale": 1,
@@ -3834,7 +3692,6 @@
         "targetTaowaNum": ""
     },
     "1045": {
-        "id": 1045,
         "targetType": "Target-3",
         "targetPos": "1.3,0,125",
         "targetScale": 1,
@@ -3861,7 +3718,6 @@
         "targetTaowaNum": ""
     },
     "1046": {
-        "id": 1046,
         "targetType": "Target-3",
         "targetPos": "1.3,0,135",
         "targetScale": 1,
@@ -3888,7 +3744,6 @@
         "targetTaowaNum": ""
     },
     "1047": {
-        "id": 1047,
         "targetType": "Target-3",
         "targetPos": "1.3,0,145",
         "targetScale": 1,
@@ -3915,7 +3770,6 @@
         "targetTaowaNum": ""
     },
     "1048": {
-        "id": 1048,
         "targetType": "Target-13",
         "targetPos": "6.3,0,105",
         "targetScale": 1,
@@ -3942,7 +3796,6 @@
         "targetTaowaNum": ""
     },
     "1049": {
-        "id": 1049,
         "targetType": "Target-13",
         "targetPos": "6.3,0,125",
         "targetScale": 1,
@@ -3969,7 +3822,6 @@
         "targetTaowaNum": ""
     },
     "1050": {
-        "id": 1050,
         "targetType": "Target-18",
         "targetPos": "1.3,-1,100",
         "targetScale": 1,
@@ -3996,7 +3848,6 @@
         "targetTaowaNum": ""
     },
     "1051": {
-        "id": 1051,
         "targetType": "Target-7",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -4023,7 +3874,6 @@
         "targetTaowaNum": ""
     },
     "1052": {
-        "id": 1052,
         "targetType": "Target-7",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -4050,7 +3900,6 @@
         "targetTaowaNum": ""
     },
     "1053": {
-        "id": 1053,
         "targetType": "Target-7",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -4077,7 +3926,6 @@
         "targetTaowaNum": ""
     },
     "1054": {
-        "id": 1054,
         "targetType": "Target-7",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -4104,7 +3952,6 @@
         "targetTaowaNum": ""
     },
     "1055": {
-        "id": 1055,
         "targetType": "Target-7",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -4131,7 +3978,6 @@
         "targetTaowaNum": ""
     },
     "1056": {
-        "id": 1056,
         "targetType": "Target-21",
         "targetPos": "-1.4,-1,75",
         "targetScale": 1,
@@ -4158,7 +4004,6 @@
         "targetTaowaNum": ""
     },
     "1057": {
-        "id": 1057,
         "targetType": "Target-21",
         "targetPos": "4.3,-1,75",
         "targetScale": 1,
@@ -4185,7 +4030,6 @@
         "targetTaowaNum": ""
     },
     "1058": {
-        "id": 1058,
         "targetType": "Target-21",
         "targetPos": "1.3,-1,80",
         "targetScale": 1,
@@ -4212,7 +4056,6 @@
         "targetTaowaNum": ""
     },
     "1059": {
-        "id": 1059,
         "targetType": "Target-13",
         "targetPos": "1.3,0,100",
         "targetScale": 1,
@@ -4239,7 +4082,6 @@
         "targetTaowaNum": ""
     },
     "1060": {
-        "id": 1060,
         "targetType": "Target-6",
         "targetPos": "-0,0,75",
         "targetScale": 1,
@@ -4266,7 +4108,6 @@
         "targetTaowaNum": ""
     },
     "1061": {
-        "id": 1061,
         "targetType": "Target-6",
         "targetPos": "-4.3,0,89",
         "targetScale": 1,
@@ -4293,7 +4134,6 @@
         "targetTaowaNum": ""
     },
     "1062": {
-        "id": 1062,
         "targetType": "Target-6",
         "targetPos": "1.3,-1,89",
         "targetScale": 1,
@@ -4320,7 +4160,6 @@
         "targetTaowaNum": ""
     },
     "1063": {
-        "id": 1063,
         "targetType": "Target-21",
         "targetPos": "0.6,-1,75",
         "targetScale": 1,
@@ -4347,7 +4186,6 @@
         "targetTaowaNum": ""
     },
     "1064": {
-        "id": 1064,
         "targetType": "Target-15",
         "targetPos": "0.6,0,75.5",
         "targetScale": 1,
@@ -4374,7 +4212,6 @@
         "targetTaowaNum": ""
     },
     "1065": {
-        "id": 1065,
         "targetType": "Target-21",
         "targetPos": "-1.7,-1,75",
         "targetScale": 1,
@@ -4401,7 +4238,6 @@
         "targetTaowaNum": ""
     },
     "1066": {
-        "id": 1066,
         "targetType": "Target-15",
         "targetPos": "-1.7,0,75.5",
         "targetScale": 1,
@@ -4428,7 +4264,6 @@
         "targetTaowaNum": ""
     },
     "1067": {
-        "id": 1067,
         "targetType": "Target-21",
         "targetPos": "4.3,-1,75",
         "targetScale": 1,
@@ -4455,7 +4290,6 @@
         "targetTaowaNum": ""
     },
     "1068": {
-        "id": 1068,
         "targetType": "Target-15",
         "targetPos": "4.3,0,75.5",
         "targetScale": 1,
@@ -4482,7 +4316,6 @@
         "targetTaowaNum": ""
     },
     "1069": {
-        "id": 1069,
         "targetType": "Target-15",
         "targetPos": "1.3,0,95.1",
         "targetScale": 1,
@@ -4509,7 +4342,6 @@
         "targetTaowaNum": ""
     },
     "1070": {
-        "id": 1070,
         "targetType": "Target-18",
         "targetPos": "-1.2,-1,95",
         "targetScale": 1,
@@ -4536,7 +4368,6 @@
         "targetTaowaNum": ""
     },
     "1071": {
-        "id": 1071,
         "targetType": "Target-18",
         "targetPos": "1.3,-1,95",
         "targetScale": 1,
@@ -4563,7 +4394,6 @@
         "targetTaowaNum": ""
     },
     "1072": {
-        "id": 1072,
         "targetType": "Target-18",
         "targetPos": "3.8,-1,95",
         "targetScale": 1,
@@ -4590,7 +4420,6 @@
         "targetTaowaNum": ""
     },
     "1073": {
-        "id": 1073,
         "targetType": "Target-15",
         "targetPos": "1.3,0,105.1",
         "targetScale": 1,
@@ -4617,7 +4446,6 @@
         "targetTaowaNum": ""
     },
     "1074": {
-        "id": 1074,
         "targetType": "Target-6",
         "targetPos": "-1.2,-1,105",
         "targetScale": 1,
@@ -4644,7 +4472,6 @@
         "targetTaowaNum": ""
     },
     "1075": {
-        "id": 1075,
         "targetType": "Target-7",
         "targetPos": "1.3,-1,105",
         "targetScale": 1,
@@ -4671,7 +4498,6 @@
         "targetTaowaNum": ""
     },
     "1076": {
-        "id": 1076,
         "targetType": "Target-4",
         "targetPos": "3.8,-1,105",
         "targetScale": 1,
@@ -4698,7 +4524,6 @@
         "targetTaowaNum": ""
     },
     "1077": {
-        "id": 1077,
         "targetType": "Target-21",
         "targetPos": "-2.4,-1,75",
         "targetScale": 1,
@@ -4725,7 +4550,6 @@
         "targetTaowaNum": ""
     },
     "1078": {
-        "id": 1078,
         "targetType": "Target-15",
         "targetPos": "-2.5,0,75.5",
         "targetScale": 1,
@@ -4752,7 +4576,6 @@
         "targetTaowaNum": ""
     },
     "1079": {
-        "id": 1079,
         "targetType": "Target-21",
         "targetPos": "5,-1,75",
         "targetScale": 1,
@@ -4779,7 +4602,6 @@
         "targetTaowaNum": ""
     },
     "1080": {
-        "id": 1080,
         "targetType": "Target-15",
         "targetPos": "5.2,0,75.5",
         "targetScale": 1,
@@ -4806,7 +4628,6 @@
         "targetTaowaNum": ""
     },
     "1081": {
-        "id": 1081,
         "targetType": "Target-6",
         "targetPos": "-2.4,-1,75.2",
         "targetScale": 1,
@@ -4833,7 +4654,6 @@
         "targetTaowaNum": ""
     },
     "1082": {
-        "id": 1082,
         "targetType": "Target-6",
         "targetPos": "4.9,-1,75.2",
         "targetScale": 1,
@@ -4860,7 +4680,6 @@
         "targetTaowaNum": ""
     },
     "1083": {
-        "id": 1083,
         "targetType": "Target-15",
         "targetPos": "1.3,0,105.5",
         "targetScale": 1,
@@ -4887,7 +4706,6 @@
         "targetTaowaNum": ""
     },
     "1084": {
-        "id": 1084,
         "targetType": "Target-6",
         "targetPos": "-1.2,-1,105",
         "targetScale": 1,
@@ -4914,7 +4732,6 @@
         "targetTaowaNum": ""
     },
     "1085": {
-        "id": 1085,
         "targetType": "Target-6",
         "targetPos": "1.3,-1,105",
         "targetScale": 1,
@@ -4941,7 +4758,6 @@
         "targetTaowaNum": ""
     },
     "1086": {
-        "id": 1086,
         "targetType": "Target-6",
         "targetPos": "3.8,-1,105",
         "targetScale": 1,
@@ -4968,7 +4784,6 @@
         "targetTaowaNum": ""
     },
     "1087": {
-        "id": 1087,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,95",
         "targetScale": 1,
@@ -4995,7 +4810,6 @@
         "targetTaowaNum": ""
     },
     "1088": {
-        "id": 1088,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,105",
         "targetScale": 1,
@@ -5022,7 +4836,6 @@
         "targetTaowaNum": ""
     },
     "1089": {
-        "id": 1089,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,115",
         "targetScale": 1,
@@ -5049,7 +4862,6 @@
         "targetTaowaNum": ""
     },
     "1090": {
-        "id": 1090,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,125",
         "targetScale": 1,
@@ -5076,7 +4888,6 @@
         "targetTaowaNum": ""
     },
     "1091": {
-        "id": 1091,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,135",
         "targetScale": 1,
@@ -5103,7 +4914,6 @@
         "targetTaowaNum": ""
     },
     "3001": {
-        "id": 3001,
         "targetType": "Target-1",
         "targetPos": "0,-1,65",
         "targetScale": 0.5,
@@ -5130,7 +4940,6 @@
         "targetTaowaNum": ""
     },
     "132": {
-        "id": 132,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,83",
         "targetScale": 1,
@@ -5156,35 +4965,7 @@
         "targetPoleType": "",
         "targetTaowaNum": ""
     },
-    "": {
-        "id": "",
-        "targetType": "",
-        "targetPos": "",
-        "targetScale": "",
-        "targetMoveType": "",
-        "targetMovePeriod": "",
-        "targetMoveDistance1": "",
-        "targetMoveDistance2": "",
-        "targetFallDownType": "",
-        "targetFallDownPeriod": "",
-        "targetOriginDir": "",
-        "targetRotationDirect": "",
-        "targetRotationPeriod": "",
-        "targetIniPosInPole": "",
-        "targetMovePeriodInPole": "",
-        "targetPoleRotationDirect": "",
-        "targetPoleRotationRange": "",
-        "targetPoleRotationPeriod": "",
-        "targetPathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
-        "targetVanishTime": "",
-        "targetHp": "",
-        "targetEuler": "",
-        "targetMaskPole": "",
-        "targetPoleType": "",
-        "targetTaowaNum": ""
-    },
     "39": {
-        "id": 39,
         "targetType": "Target-1",
         "targetPos": "1.3,0,60",
         "targetScale": 1,
@@ -5211,7 +4992,6 @@
         "targetTaowaNum": ""
     },
     "40": {
-        "id": 40,
         "targetType": "Target-1",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -5238,7 +5018,6 @@
         "targetTaowaNum": ""
     },
     "129": {
-        "id": 129,
         "targetType": "Target-1",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -5265,7 +5044,6 @@
         "targetTaowaNum": ""
     },
     "4000": {
-        "id": 4000,
         "targetType": "Target-1",
         "targetPos": "-0.2,0,60",
         "targetScale": 1,
@@ -5292,7 +5070,6 @@
         "targetTaowaNum": ""
     },
     "4001": {
-        "id": 4001,
         "targetType": "Target-1",
         "targetPos": "2.5,0,75",
         "targetScale": 1,
@@ -5319,7 +5096,6 @@
         "targetTaowaNum": ""
     },
     "4002": {
-        "id": 4002,
         "targetType": "Target-1",
         "targetPos": "-0.2,0,90",
         "targetScale": 1,
@@ -5346,7 +5122,6 @@
         "targetTaowaNum": ""
     },
     "41": {
-        "id": 41,
         "targetType": "Target-1",
         "targetPos": "3.8,0,70",
         "targetScale": 1,
@@ -5373,7 +5148,6 @@
         "targetTaowaNum": ""
     },
     "130": {
-        "id": 130,
         "targetType": "Target-1",
         "targetPos": "3.8,0,80",
         "targetScale": 1,
@@ -5400,7 +5174,6 @@
         "targetTaowaNum": ""
     },
     "4100": {
-        "id": 4100,
         "targetType": "Target-1",
         "targetPos": "3.8,0,90",
         "targetScale": 1,
@@ -5427,7 +5200,6 @@
         "targetTaowaNum": ""
     },
     "4101": {
-        "id": 4101,
         "targetType": "Target-1",
         "targetPos": "3.8,0,70",
         "targetScale": 1,
@@ -5454,7 +5226,6 @@
         "targetTaowaNum": ""
     },
     "4102": {
-        "id": 4102,
         "targetType": "Target-1",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -5481,7 +5252,6 @@
         "targetTaowaNum": ""
     },
     "4103": {
-        "id": 4103,
         "targetType": "Target-1",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -5508,7 +5278,6 @@
         "targetTaowaNum": ""
     },
     "101": {
-        "id": 101,
         "targetType": "Target-13",
         "targetPos": "1.3,0,73",
         "targetScale": 1,
@@ -5535,7 +5304,6 @@
         "targetTaowaNum": ""
     },
     "138": {
-        "id": 138,
         "targetType": "Target-13",
         "targetPos": "1.3,0,83",
         "targetScale": 1,
@@ -5562,7 +5330,6 @@
         "targetTaowaNum": ""
     },
     "4200": {
-        "id": 4200,
         "targetType": "Target-13",
         "targetPos": "1.3,0,93",
         "targetScale": 1,
@@ -5589,7 +5356,6 @@
         "targetTaowaNum": ""
     },
     "4201": {
-        "id": 4201,
         "targetType": "Target-13",
         "targetPos": "1.3,0,70",
         "targetScale": 1,
@@ -5616,7 +5382,6 @@
         "targetTaowaNum": ""
     },
     "102": {
-        "id": 102,
         "targetType": "Target-13",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -5643,7 +5408,6 @@
         "targetTaowaNum": ""
     },
     "139": {
-        "id": 139,
         "targetType": "Target-13",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -5670,7 +5434,6 @@
         "targetTaowaNum": ""
     },
     "4300": {
-        "id": 4300,
         "targetType": "Target-13",
         "targetPos": "1.3,0,95",
         "targetScale": 1,
@@ -5697,7 +5460,6 @@
         "targetTaowaNum": ""
     },
     "61": {
-        "id": 61,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -5724,7 +5486,6 @@
         "targetTaowaNum": ""
     },
     "134": {
-        "id": 134,
         "targetType": "Target-3",
         "targetPos": "1.3,0,83",
         "targetScale": 1,
@@ -5751,7 +5512,6 @@
         "targetTaowaNum": ""
     },
     "4400": {
-        "id": 4400,
         "targetType": "Target-3",
         "targetPos": "1.3,0,93",
         "targetScale": 1,
@@ -5778,7 +5538,6 @@
         "targetTaowaNum": ""
     },
     "4401": {
-        "id": 4401,
         "targetType": "Target-3",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -5805,7 +5564,6 @@
         "targetTaowaNum": ""
     },
     "4402": {
-        "id": 4402,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -5832,7 +5590,6 @@
         "targetTaowaNum": ""
     },
     "4403": {
-        "id": 4403,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -5859,7 +5616,6 @@
         "targetTaowaNum": ""
     },
     "4404": {
-        "id": 4404,
         "targetType": "Target-18",
         "targetPos": "1.3,0,73",
         "targetScale": 1,
@@ -5886,7 +5642,6 @@
         "targetTaowaNum": ""
     },
     "62": {
-        "id": 62,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -5913,7 +5668,6 @@
         "targetTaowaNum": ""
     },
     "135": {
-        "id": 135,
         "targetType": "Target-3",
         "targetPos": "1.3,0,83",
         "targetScale": 1,
@@ -5940,7 +5694,6 @@
         "targetTaowaNum": ""
     },
     "4500": {
-        "id": 4500,
         "targetType": "Target-3",
         "targetPos": "1.3,0,93",
         "targetScale": 1,
@@ -5967,7 +5720,6 @@
         "targetTaowaNum": ""
     },
     "4501": {
-        "id": 4501,
         "targetType": "Target-3",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -5994,7 +5746,6 @@
         "targetTaowaNum": ""
     },
     "4502": {
-        "id": 4502,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -6021,7 +5772,6 @@
         "targetTaowaNum": ""
     },
     "4503": {
-        "id": 4503,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -6048,7 +5798,6 @@
         "targetTaowaNum": ""
     },
     "4504": {
-        "id": 4504,
         "targetType": "Target-18",
         "targetPos": "1.3,0,73",
         "targetScale": 1.2,
@@ -6075,7 +5824,6 @@
         "targetTaowaNum": ""
     },
     "63": {
-        "id": 63,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": 1,
@@ -6102,7 +5850,6 @@
         "targetTaowaNum": ""
     },
     "136": {
-        "id": 136,
         "targetType": "Target-3",
         "targetPos": "1.3,0,83",
         "targetScale": 1,
@@ -6129,7 +5876,6 @@
         "targetTaowaNum": ""
     },
     "4600": {
-        "id": 4600,
         "targetType": "Target-3",
         "targetPos": "1.3,0,93",
         "targetScale": 1,
@@ -6156,7 +5902,6 @@
         "targetTaowaNum": ""
     },
     "4601": {
-        "id": 4601,
         "targetType": "Target-3",
         "targetPos": "1.3,0,75",
         "targetScale": "",
@@ -6183,7 +5928,6 @@
         "targetTaowaNum": ""
     },
     "4602": {
-        "id": 4602,
         "targetType": "Target-3",
         "targetPos": "1.3,0,80",
         "targetScale": "",
@@ -6210,7 +5954,6 @@
         "targetTaowaNum": ""
     },
     "64": {
-        "id": 64,
         "targetType": "Target-3",
         "targetPos": "1.3,0,80",
         "targetScale": 1,
@@ -6237,7 +5980,6 @@
         "targetTaowaNum": ""
     },
     "137": {
-        "id": 137,
         "targetType": "Target-3",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -6264,7 +6006,6 @@
         "targetTaowaNum": ""
     },
     "4700": {
-        "id": 4700,
         "targetType": "Target-3",
         "targetPos": "1.3,0,93",
         "targetScale": 1,
@@ -6291,7 +6032,6 @@
         "targetTaowaNum": ""
     },
     "4701": {
-        "id": 4701,
         "targetType": "Target-3",
         "targetPos": "1.3,0,80",
         "targetScale": "",
@@ -6318,7 +6058,6 @@
         "targetTaowaNum": ""
     },
     "4702": {
-        "id": 4702,
         "targetType": "Target-3",
         "targetPos": "1.3,0,85",
         "targetScale": "",
@@ -6345,7 +6084,6 @@
         "targetTaowaNum": ""
     },
     "91": {
-        "id": 91,
         "targetType": "Target-7",
         "targetPos": "1.3,0,75",
         "targetScale": 0.8,
@@ -6372,7 +6110,6 @@
         "targetTaowaNum": ""
     },
     "92": {
-        "id": 92,
         "targetType": "Target-7",
         "targetPos": "2,0,78",
         "targetScale": 0.8,
@@ -6399,7 +6136,6 @@
         "targetTaowaNum": ""
     },
     "93": {
-        "id": 93,
         "targetType": "Target-7",
         "targetPos": "0.6,0,80",
         "targetScale": 0.8,
@@ -6426,7 +6162,6 @@
         "targetTaowaNum": ""
     },
     "160": {
-        "id": 160,
         "targetType": "Target-7",
         "targetPos": "1.3,0,87",
         "targetScale": 0.8,
@@ -6453,7 +6188,6 @@
         "targetTaowaNum": ""
     },
     "161": {
-        "id": 161,
         "targetType": "Target-7",
         "targetPos": "2,0,88",
         "targetScale": 0.8,
@@ -6480,7 +6214,6 @@
         "targetTaowaNum": ""
     },
     "162": {
-        "id": 162,
         "targetType": "Target-7",
         "targetPos": "0.6,0,90",
         "targetScale": 0.8,
@@ -6507,7 +6240,6 @@
         "targetTaowaNum": ""
     },
     "4800": {
-        "id": 4800,
         "targetType": "Target-7",
         "targetPos": "1.3,0,97",
         "targetScale": 0.8,
@@ -6534,7 +6266,6 @@
         "targetTaowaNum": ""
     },
     "4801": {
-        "id": 4801,
         "targetType": "Target-7",
         "targetPos": "2,0,95",
         "targetScale": 0.8,
@@ -6561,7 +6292,6 @@
         "targetTaowaNum": ""
     },
     "4802": {
-        "id": 4802,
         "targetType": "Target-7",
         "targetPos": "0.6,0,100",
         "targetScale": 0.8,
@@ -6588,7 +6318,6 @@
         "targetTaowaNum": ""
     },
     "131": {
-        "id": 131,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,75",
         "targetScale": 1,
@@ -6615,7 +6344,6 @@
         "targetTaowaNum": ""
     },
     "4900": {
-        "id": 4900,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,93",
         "targetScale": 1,
@@ -6642,7 +6370,6 @@
         "targetTaowaNum": ""
     },
     "4901": {
-        "id": 4901,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,100",
         "targetScale": 1,
@@ -6669,7 +6396,6 @@
         "targetTaowaNum": ""
     },
     "133": {
-        "id": 133,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,80",
         "targetScale": 1,
@@ -6696,7 +6422,6 @@
         "targetTaowaNum": ""
     },
     "140": {
-        "id": 140,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,90",
         "targetScale": 1,
@@ -6723,7 +6448,6 @@
         "targetTaowaNum": ""
     },
     "4920": {
-        "id": 4920,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,100",
         "targetScale": 1,
@@ -6750,7 +6474,6 @@
         "targetTaowaNum": ""
     },
     "166": {
-        "id": 166,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,90",
         "targetScale": 1,
@@ -6777,7 +6500,6 @@
         "targetTaowaNum": ""
     },
     "167": {
-        "id": 167,
         "targetType": "Target-18",
         "targetPos": "5.8,-1,88",
         "targetScale": 1,
@@ -6804,7 +6526,6 @@
         "targetTaowaNum": ""
     },
     "4950": {
-        "id": 4950,
         "targetType": "Target-19",
         "targetPos": "1.3,-1,100",
         "targetScale": 1,
@@ -6831,7 +6552,6 @@
         "targetTaowaNum": ""
     },
     "4951": {
-        "id": 4951,
         "targetType": "Target-18",
         "targetPos": "5.8,-1,98",
         "targetScale": 1,
@@ -6858,7 +6578,6 @@
         "targetTaowaNum": ""
     },
     "4980": {
-        "id": 4980,
         "targetType": "Target-20",
         "targetPos": "1.3,-1,95",
         "targetScale": 1,
@@ -6885,7 +6604,6 @@
         "targetTaowaNum": ""
     },
     "4981": {
-        "id": 4981,
         "targetType": "Target-18",
         "targetPos": "5.8,-1,93",
         "targetScale": 1,
@@ -6912,7 +6630,6 @@
         "targetTaowaNum": ""
     },
     "73": {
-        "id": 73,
         "targetType": "Target-4",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -6939,7 +6656,6 @@
         "targetTaowaNum": ""
     },
     "75": {
-        "id": 75,
         "targetType": "Target-4",
         "targetPos": "1.3,0,71",
         "targetScale": 1,
@@ -6966,7 +6682,6 @@
         "targetTaowaNum": ""
     },
     "76": {
-        "id": 76,
         "targetType": "Target-4",
         "targetPos": "3.8,0,75",
         "targetScale": 1,
@@ -6993,7 +6708,6 @@
         "targetTaowaNum": ""
     },
     "77": {
-        "id": 77,
         "targetType": "Target-4",
         "targetPos": "-1.2,0,75",
         "targetScale": 1,
@@ -7020,7 +6734,6 @@
         "targetTaowaNum": ""
     },
     "78": {
-        "id": 78,
         "targetType": "Target-4",
         "targetPos": "6.3,0,80",
         "targetScale": 1,
@@ -7047,7 +6760,6 @@
         "targetTaowaNum": ""
     },
     "79": {
-        "id": 79,
         "targetType": "Target-4",
         "targetPos": "-3.7,0,80",
         "targetScale": 1,
@@ -7074,7 +6786,6 @@
         "targetTaowaNum": ""
     },
     "5010": {
-        "id": 5010,
         "targetType": "Target-4",
         "targetPos": "1.3,0,71",
         "targetScale": 1,
@@ -7101,7 +6812,6 @@
         "targetTaowaNum": ""
     },
     "5011": {
-        "id": 5011,
         "targetType": "Target-4",
         "targetPos": "2,0,73",
         "targetScale": 1,
@@ -7128,7 +6838,6 @@
         "targetTaowaNum": ""
     },
     "5012": {
-        "id": 5012,
         "targetType": "Target-4",
         "targetPos": "0.6,0,75",
         "targetScale": 1,
@@ -7155,7 +6864,6 @@
         "targetTaowaNum": ""
     },
     "5013": {
-        "id": 5013,
         "targetType": "Target-4",
         "targetPos": "2.7,0,78",
         "targetScale": 1,
@@ -7182,7 +6890,6 @@
         "targetTaowaNum": ""
     },
     "5014": {
-        "id": 5014,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,80",
         "targetScale": 1,
@@ -7209,7 +6916,6 @@
         "targetTaowaNum": ""
     },
     "80": {
-        "id": 80,
         "targetType": "Target-4",
         "targetPos": "1.3,0,71",
         "targetScale": 1,
@@ -7236,7 +6942,6 @@
         "targetTaowaNum": ""
     },
     "81": {
-        "id": 81,
         "targetType": "Target-4",
         "targetPos": "2,0,73",
         "targetScale": 1,
@@ -7263,7 +6968,6 @@
         "targetTaowaNum": ""
     },
     "82": {
-        "id": 82,
         "targetType": "Target-4",
         "targetPos": "0.6,0,75",
         "targetScale": 1,
@@ -7290,7 +6994,6 @@
         "targetTaowaNum": ""
     },
     "83": {
-        "id": 83,
         "targetType": "Target-4",
         "targetPos": "2.7,0,78",
         "targetScale": 1,
@@ -7317,7 +7020,6 @@
         "targetTaowaNum": ""
     },
     "84": {
-        "id": 84,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,80",
         "targetScale": 1,
@@ -7344,7 +7046,6 @@
         "targetTaowaNum": ""
     },
     "142": {
-        "id": 142,
         "targetType": "Target-4",
         "targetPos": "1.3,0,87",
         "targetScale": 1,
@@ -7371,7 +7072,6 @@
         "targetTaowaNum": ""
     },
     "143": {
-        "id": 143,
         "targetType": "Target-4",
         "targetPos": "2,0,89",
         "targetScale": 1,
@@ -7398,7 +7098,6 @@
         "targetTaowaNum": ""
     },
     "144": {
-        "id": 144,
         "targetType": "Target-4",
         "targetPos": "0.6,0,91",
         "targetScale": 1,
@@ -7425,7 +7124,6 @@
         "targetTaowaNum": ""
     },
     "145": {
-        "id": 145,
         "targetType": "Target-4",
         "targetPos": "2.7,0,93",
         "targetScale": 1,
@@ -7452,7 +7150,6 @@
         "targetTaowaNum": ""
     },
     "146": {
-        "id": 146,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,95",
         "targetScale": 1,
@@ -7479,7 +7176,6 @@
         "targetTaowaNum": ""
     },
     "5100": {
-        "id": 5100,
         "targetType": "Target-4",
         "targetPos": "1.3,0,92",
         "targetScale": 1,
@@ -7506,7 +7202,6 @@
         "targetTaowaNum": ""
     },
     "5101": {
-        "id": 5101,
         "targetType": "Target-4",
         "targetPos": "2,0,94",
         "targetScale": 1,
@@ -7533,7 +7228,6 @@
         "targetTaowaNum": ""
     },
     "5102": {
-        "id": 5102,
         "targetType": "Target-4",
         "targetPos": "0.6,0,96",
         "targetScale": 1,
@@ -7560,7 +7254,6 @@
         "targetTaowaNum": ""
     },
     "5103": {
-        "id": 5103,
         "targetType": "Target-4",
         "targetPos": "2.7,0,98",
         "targetScale": 1,
@@ -7587,7 +7280,6 @@
         "targetTaowaNum": ""
     },
     "5104": {
-        "id": 5104,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,100",
         "targetScale": 1,
@@ -7614,7 +7306,6 @@
         "targetTaowaNum": ""
     },
     "119": {
-        "id": 119,
         "targetType": "Target-6",
         "targetPos": "2.5,0,75",
         "targetScale": 1,
@@ -7641,7 +7332,6 @@
         "targetTaowaNum": ""
     },
     "120": {
-        "id": 120,
         "targetType": "Target-6",
         "targetPos": "1.7,0,75",
         "targetScale": 1,
@@ -7668,7 +7358,6 @@
         "targetTaowaNum": ""
     },
     "121": {
-        "id": 121,
         "targetType": "Target-6",
         "targetPos": "0.9,0,75",
         "targetScale": 1,
@@ -7695,7 +7384,6 @@
         "targetTaowaNum": ""
     },
     "122": {
-        "id": 122,
         "targetType": "Target-6",
         "targetPos": "0.1,0,75",
         "targetScale": 1,
@@ -7722,7 +7410,6 @@
         "targetTaowaNum": ""
     },
     "86": {
-        "id": 86,
         "targetType": "Target-4",
         "targetPos": "2,0,78",
         "targetScale": 1,
@@ -7749,7 +7436,6 @@
         "targetTaowaNum": ""
     },
     "87": {
-        "id": 87,
         "targetType": "Target-4",
         "targetPos": "0.6,0,78",
         "targetScale": 1,
@@ -7776,7 +7462,6 @@
         "targetTaowaNum": ""
     },
     "88": {
-        "id": 88,
         "targetType": "Target-4",
         "targetPos": "2.7,0,80",
         "targetScale": 1,
@@ -7803,7 +7488,6 @@
         "targetTaowaNum": ""
     },
     "89": {
-        "id": 89,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,80",
         "targetScale": 1,
@@ -7830,7 +7514,6 @@
         "targetTaowaNum": ""
     },
     "152": {
-        "id": 152,
         "targetType": "Target-6",
         "targetPos": "2.5,0,85",
         "targetScale": 1,
@@ -7857,7 +7540,6 @@
         "targetTaowaNum": ""
     },
     "153": {
-        "id": 153,
         "targetType": "Target-6",
         "targetPos": "1.7,0,85",
         "targetScale": 1,
@@ -7884,7 +7566,6 @@
         "targetTaowaNum": ""
     },
     "154": {
-        "id": 154,
         "targetType": "Target-6",
         "targetPos": "0.9,0,85",
         "targetScale": 1,
@@ -7911,7 +7592,6 @@
         "targetTaowaNum": ""
     },
     "155": {
-        "id": 155,
         "targetType": "Target-6",
         "targetPos": "0.1,0,85",
         "targetScale": 1,
@@ -7938,7 +7618,6 @@
         "targetTaowaNum": ""
     },
     "156": {
-        "id": 156,
         "targetType": "Target-4",
         "targetPos": "2,0,88",
         "targetScale": 1,
@@ -7965,7 +7644,6 @@
         "targetTaowaNum": ""
     },
     "157": {
-        "id": 157,
         "targetType": "Target-4",
         "targetPos": "0.6,0,88",
         "targetScale": 1,
@@ -7992,7 +7670,6 @@
         "targetTaowaNum": ""
     },
     "158": {
-        "id": 158,
         "targetType": "Target-4",
         "targetPos": "2.7,0,90",
         "targetScale": 1,
@@ -8019,7 +7696,6 @@
         "targetTaowaNum": ""
     },
     "159": {
-        "id": 159,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,90",
         "targetScale": 1,
@@ -8046,7 +7722,6 @@
         "targetTaowaNum": ""
     },
     "5300": {
-        "id": 5300,
         "targetType": "Target-6",
         "targetPos": "2.5,0,90",
         "targetScale": 1,
@@ -8073,7 +7748,6 @@
         "targetTaowaNum": ""
     },
     "5301": {
-        "id": 5301,
         "targetType": "Target-6",
         "targetPos": "1.7,0,90",
         "targetScale": 1,
@@ -8100,7 +7774,6 @@
         "targetTaowaNum": ""
     },
     "5302": {
-        "id": 5302,
         "targetType": "Target-6",
         "targetPos": "0.9,0,90",
         "targetScale": 1,
@@ -8127,7 +7800,6 @@
         "targetTaowaNum": ""
     },
     "5303": {
-        "id": 5303,
         "targetType": "Target-6",
         "targetPos": "0.1,0,90",
         "targetScale": 1,
@@ -8154,7 +7826,6 @@
         "targetTaowaNum": ""
     },
     "5304": {
-        "id": 5304,
         "targetType": "Target-4",
         "targetPos": "2,0,93",
         "targetScale": 1,
@@ -8181,7 +7852,6 @@
         "targetTaowaNum": ""
     },
     "5305": {
-        "id": 5305,
         "targetType": "Target-4",
         "targetPos": "0.6,0,93",
         "targetScale": 1,
@@ -8208,7 +7878,6 @@
         "targetTaowaNum": ""
     },
     "5306": {
-        "id": 5306,
         "targetType": "Target-4",
         "targetPos": "2.7,0,95",
         "targetScale": 1,
@@ -8235,7 +7904,6 @@
         "targetTaowaNum": ""
     },
     "5307": {
-        "id": 5307,
         "targetType": "Target-4",
         "targetPos": "-0.1,0,95",
         "targetScale": 1,
@@ -8262,7 +7930,6 @@
         "targetTaowaNum": ""
     },
     "103": {
-        "id": 103,
         "targetType": "Target-12",
         "targetPos": "1.3,0,75",
         "targetScale": 0.5,
@@ -8289,7 +7956,6 @@
         "targetTaowaNum": ""
     },
     "141": {
-        "id": 141,
         "targetType": "Target-12",
         "targetPos": "1.3,0,85",
         "targetScale": 0.4,
@@ -8316,7 +7982,6 @@
         "targetTaowaNum": ""
     },
     "5600": {
-        "id": 5600,
         "targetType": "Target-12",
         "targetPos": "1.3,0,100",
         "targetScale": 0.4,
@@ -8343,7 +8008,6 @@
         "targetTaowaNum": ""
     },
     "111": {
-        "id": 111,
         "targetType": "Target-15",
         "targetPos": "4.3,0,76",
         "targetScale": 1,
@@ -8370,7 +8034,6 @@
         "targetTaowaNum": ""
     },
     "112": {
-        "id": 112,
         "targetType": "Target-15",
         "targetPos": "1.3,0,79",
         "targetScale": 1,
@@ -8397,7 +8060,6 @@
         "targetTaowaNum": ""
     },
     "113": {
-        "id": 113,
         "targetType": "Target-15",
         "targetPos": "-1.7,0,82",
         "targetScale": 1,
@@ -8424,7 +8086,6 @@
         "targetTaowaNum": ""
     },
     "163": {
-        "id": 163,
         "targetType": "Target-15",
         "targetPos": "4.3,0,86",
         "targetScale": 1,
@@ -8451,7 +8112,6 @@
         "targetTaowaNum": ""
     },
     "164": {
-        "id": 164,
         "targetType": "Target-15",
         "targetPos": "1.3,0,89",
         "targetScale": 1,
@@ -8478,7 +8138,6 @@
         "targetTaowaNum": ""
     },
     "165": {
-        "id": 165,
         "targetType": "Target-15",
         "targetPos": "-1.7,0,92",
         "targetScale": 1,
@@ -8505,7 +8164,6 @@
         "targetTaowaNum": ""
     },
     "104": {
-        "id": 104,
         "targetType": "Target-11",
         "targetPos": "-1.7,0,73",
         "targetScale": 1,
@@ -8532,7 +8190,6 @@
         "targetTaowaNum": ""
     },
     "105": {
-        "id": 105,
         "targetType": "Target-11",
         "targetPos": "3.3,0,75",
         "targetScale": 1,
@@ -8559,7 +8216,6 @@
         "targetTaowaNum": ""
     },
     "106": {
-        "id": 106,
         "targetType": "Target-9",
         "targetPos": "1.3,0,71",
         "targetScale": 1,
@@ -8586,7 +8242,6 @@
         "targetTaowaNum": ""
     },
     "107": {
-        "id": 107,
         "targetType": "Target-9",
         "targetPos": "2.5,0,72",
         "targetScale": 1,
@@ -8613,7 +8268,6 @@
         "targetTaowaNum": ""
     },
     "108": {
-        "id": 108,
         "targetType": "Target-9",
         "targetPos": "-2.7,0,74",
         "targetScale": 1,
@@ -8640,7 +8294,6 @@
         "targetTaowaNum": ""
     },
     "147": {
-        "id": 147,
         "targetType": "Target-11",
         "targetPos": "-1.7,0,93",
         "targetScale": 1,
@@ -8667,7 +8320,6 @@
         "targetTaowaNum": ""
     },
     "148": {
-        "id": 148,
         "targetType": "Target-11",
         "targetPos": "3.3,0,95",
         "targetScale": 1,
@@ -8694,7 +8346,6 @@
         "targetTaowaNum": ""
     },
     "149": {
-        "id": 149,
         "targetType": "Target-9",
         "targetPos": "1.3,0,90",
         "targetScale": 1,
@@ -8721,7 +8372,6 @@
         "targetTaowaNum": ""
     },
     "150": {
-        "id": 150,
         "targetType": "Target-9",
         "targetPos": "2.5,0,91",
         "targetScale": 1,
@@ -8748,7 +8398,6 @@
         "targetTaowaNum": ""
     },
     "151": {
-        "id": 151,
         "targetType": "Target-9",
         "targetPos": "-2.7,0,94",
         "targetScale": 1,
@@ -8775,7 +8424,6 @@
         "targetTaowaNum": ""
     },
     "168": {
-        "id": 168,
         "targetType": "Target-9",
         "targetPos": "1.3,0,77",
         "targetScale": 1,
@@ -8802,7 +8450,6 @@
         "targetTaowaNum": ""
     },
     "169": {
-        "id": 169,
         "targetType": "Target-9",
         "targetPos": "2.5,0,78",
         "targetScale": 1,
@@ -8829,7 +8476,6 @@
         "targetTaowaNum": ""
     },
     "170": {
-        "id": 170,
         "targetType": "Target-9",
         "targetPos": "-2.7,0,80",
         "targetScale": 1,
@@ -8856,7 +8502,6 @@
         "targetTaowaNum": ""
     },
     "171": {
-        "id": 171,
         "targetType": "Target-8",
         "targetPos": "2.5,8,80",
         "targetScale": 1,
@@ -8883,7 +8528,6 @@
         "targetTaowaNum": ""
     },
     "172": {
-        "id": 172,
         "targetType": "Target-8",
         "targetPos": "-2.7,6,86",
         "targetScale": 1,
@@ -8910,7 +8554,6 @@
         "targetTaowaNum": ""
     },
     "95": {
-        "id": 95,
         "targetType": "Target-10",
         "targetPos": "1.3,-1,70",
         "targetScale": 1,
@@ -8937,7 +8580,6 @@
         "targetTaowaNum": ""
     },
     "96": {
-        "id": 96,
         "targetType": "Target-11",
         "targetPos": "-1.7,0,75",
         "targetScale": 1,
@@ -8964,7 +8606,6 @@
         "targetTaowaNum": ""
     },
     "97": {
-        "id": 97,
         "targetType": "Target-11",
         "targetPos": "3.3,0,78",
         "targetScale": 1,
@@ -8991,7 +8632,6 @@
         "targetTaowaNum": ""
     },
     "6060": {
-        "id": 6060,
         "targetType": "Target-10",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -9018,7 +8658,6 @@
         "targetTaowaNum": ""
     },
     "6061": {
-        "id": 6061,
         "targetType": "Target-10",
         "targetPos": "3.6,0,60",
         "targetScale": 1,
@@ -9045,7 +8684,6 @@
         "targetTaowaNum": ""
     },
     "6062": {
-        "id": 6062,
         "targetType": "Target-10",
         "targetPos": "-1.7,0,70",
         "targetScale": 1,
@@ -9072,7 +8710,6 @@
         "targetTaowaNum": ""
     },
     "6063": {
-        "id": 6063,
         "targetType": "Target-10",
         "targetPos": "1.3,0,65",
         "targetScale": 1,
@@ -9099,7 +8736,6 @@
         "targetTaowaNum": ""
     },
     "6064": {
-        "id": 6064,
         "targetType": "Target-10",
         "targetPos": "3.6,0,60",
         "targetScale": 1,
@@ -9126,7 +8762,6 @@
         "targetTaowaNum": ""
     },
     "6065": {
-        "id": 6065,
         "targetType": "Target-10",
         "targetPos": "-1.9,0,70",
         "targetScale": 1,
@@ -9153,7 +8788,6 @@
         "targetTaowaNum": ""
     },
     "123": {
-        "id": 123,
         "targetType": "Target-7",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -9180,7 +8814,6 @@
         "targetTaowaNum": ""
     },
     "124": {
-        "id": 124,
         "targetType": "Target-7",
         "targetPos": "3.3,0,85",
         "targetScale": 1,
@@ -9207,7 +8840,6 @@
         "targetTaowaNum": ""
     },
     "125": {
-        "id": 125,
         "targetType": "Target-7",
         "targetPos": "-0.7,0,85",
         "targetScale": 1,
@@ -9234,7 +8866,6 @@
         "targetTaowaNum": ""
     },
     "126": {
-        "id": 126,
         "targetType": "Target-7",
         "targetPos": "1.3,0,85",
         "targetScale": 1,
@@ -9261,7 +8892,6 @@
         "targetTaowaNum": ""
     },
     "127": {
-        "id": 127,
         "targetType": "Target-7",
         "targetPos": "3.3,0,80",
         "targetScale": 1,
@@ -9288,7 +8918,6 @@
         "targetTaowaNum": ""
     },
     "128": {
-        "id": 128,
         "targetType": "Target-7",
         "targetPos": "-0.7,0,83",
         "targetScale": 1,
@@ -9315,7 +8944,6 @@
         "targetTaowaNum": ""
     },
     "6200": {
-        "id": 6200,
         "targetType": "Target-21",
         "targetPos": "-1.7,-1,95",
         "targetScale": 1,
@@ -9342,7 +8970,6 @@
         "targetTaowaNum": ""
     },
     "6201": {
-        "id": 6201,
         "targetType": "Target-15",
         "targetPos": "-1.7,0,95.5",
         "targetScale": 1,
@@ -9369,7 +8996,6 @@
         "targetTaowaNum": ""
     },
     "6300": {
-        "id": 6300,
         "targetType": "Target-15",
         "targetPos": "4.3,0,96",
         "targetScale": 1,
@@ -9396,7 +9022,6 @@
         "targetTaowaNum": ""
     },
     "6301": {
-        "id": 6301,
         "targetType": "Target-15",
         "targetPos": "1.3,0,98",
         "targetScale": 1,
@@ -9423,7 +9048,6 @@
         "targetTaowaNum": ""
     },
     "6302": {
-        "id": 6302,
         "targetType": "Target-15",
         "targetPos": "-1.7,0,99",
         "targetScale": 1,
@@ -9450,7 +9074,6 @@
         "targetTaowaNum": ""
     },
     "6303": {
-        "id": 6303,
         "targetType": "Target-21",
         "targetPos": "2.5,-1,90",
         "targetScale": 1,
@@ -9477,7 +9100,6 @@
         "targetTaowaNum": ""
     },
     "6304": {
-        "id": 6304,
         "targetType": "Target-21",
         "targetPos": "0.5,-1,95",
         "targetScale": 1,
@@ -9504,7 +9126,6 @@
         "targetTaowaNum": ""
     },
     "6400": {
-        "id": 6400,
         "targetType": "Target-11",
         "targetPos": "-1.7,0,98",
         "targetScale": 1,
@@ -9531,7 +9152,6 @@
         "targetTaowaNum": ""
     },
     "6401": {
-        "id": 6401,
         "targetType": "Target-11",
         "targetPos": "3.3,0,100",
         "targetScale": 1,
@@ -9558,7 +9178,6 @@
         "targetTaowaNum": ""
     },
     "6402": {
-        "id": 6402,
         "targetType": "Target-9",
         "targetPos": "-2.7,0,90",
         "targetScale": 1,
@@ -9585,7 +9204,6 @@
         "targetTaowaNum": ""
     },
     "6403": {
-        "id": 6403,
         "targetType": "Target-8",
         "targetPos": "2.5,8,92",
         "targetScale": 1,
@@ -9612,7 +9230,6 @@
         "targetTaowaNum": ""
     },
     "6404": {
-        "id": 6404,
         "targetType": "Target-8",
         "targetPos": "-2.7,6,96",
         "targetScale": 1,
@@ -9639,7 +9256,6 @@
         "targetTaowaNum": ""
     },
     "6500": {
-        "id": 6500,
         "targetType": "Target-17",
         "targetPos": "1.3,30,98",
         "targetScale": 1,
