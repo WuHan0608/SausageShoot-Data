@@ -508,6 +508,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
+        "target1TaowaState": 1,
         "targetArr": "103",
         "gravity": 20,
         "starLimit": 20,
