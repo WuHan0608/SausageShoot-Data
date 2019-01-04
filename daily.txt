@@ -1,0 +1,250 @@
+{
+   "mission": {
+      "daily_login": {
+         "name": "daily_login",
+         "level": [
+            1
+         ],
+         "item": {
+            "1": {
+               "must": 1,
+               "box": 1
+            }
+         }
+      },
+      "daily_pve": {
+         "name": "daily_pve",
+         "level": [
+            3
+         ],
+         "item": {
+            "3": {
+               "must": 3,
+               "box": 2
+            }
+         }
+      },
+      "daily_pvp": {
+         "name": "daily_pvp",
+         "level": [
+            3
+         ],
+         "item": {
+            "3": {
+               "must": 3,
+               "box": 3
+            }
+         }
+      },
+      "daily_game_share": {
+         "name": "daily_game_share",
+         "level": [
+            2
+         ],
+         "item": {
+            "2": {
+               "must": 2,
+               "box": 4
+            }
+         }
+      },
+      "daily_box_open": {
+         "name": "daily_box_open",
+         "level": [
+            1
+         ],
+         "item": {
+            "1": {
+               "must": 1,
+               "box": 5
+            }
+         }
+      },
+      "daily_high_score": {
+         "name": "daily_high_score",
+         "level": [
+            5,
+            10
+         ],
+         "item": {
+            "5": {
+               "must": 5,
+               "box": 6
+            },
+            "10": {
+               "must": 10,
+               "box": 7
+            }
+         }
+      },
+      "daily_active": {
+         "name": "daily_active",
+         "level": [
+            30,
+            60,
+            100
+         ],
+         "item": {
+            "30": {
+               "must": 30,
+               "box": 8
+            },
+            "60": {
+               "must": 60,
+               "box": 9
+            },
+            "100": {
+               "must": 100,
+               "box": 10
+            }
+         }
+      }
+   },
+   "box": {
+      "1": [
+         {
+            "type": "Gold",
+            "number": 500,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 10,
+            "weight": -1
+         }
+      ],
+      "2": [
+         {
+            "type": "Gold",
+            "number": 1000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 10,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 30,
+            "weight": -1
+         }
+      ],
+      "3": [
+         {
+            "type": "Gold",
+            "number": 1000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 10,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 30,
+            "weight": -1
+         }
+      ],
+      "4": [
+         {
+            "type": "Diamond",
+            "number": 10,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 30,
+            "weight": -1
+         }
+      ],
+      "5": [
+         {
+            "type": "TreasureFragment",
+            "number": 15,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 20,
+            "weight": -1
+         }
+      ],
+      "6": [
+         {
+            "type": "Gold",
+            "number": 1000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 10,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 10,
+            "weight": -1
+         }
+      ],
+      "7": [
+         {
+            "type": "Gold",
+            "number": 1000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 10,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 10,
+            "weight": -1
+         }
+      ],
+      "8": [
+         {
+            "type": "Gold",
+            "number": 1000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 10,
+            "weight": -1
+         }
+      ],
+      "9": [
+         {
+            "type": "Gold",
+            "number": 2000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 10,
+            "weight": -1
+         }
+      ],
+      "10": [
+         {
+            "type": "Gold",
+            "number": 5000,
+            "weight": -1
+         },
+         {
+            "type": "Exp",
+            "number": 20,
+            "weight": -1
+         },
+         {
+            "type": "LegendFragment",
+            "number": 15,
+            "weight": -1
+         }
+      ]
+   }
+}
