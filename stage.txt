@@ -1150,11 +1150,11 @@
         "scene": 1,
         "UiShowDistance": 40,
         "picId": "2",
-        "target1Type": "Target-13",
+        "target1Type": "Target-2",
         "target1Pos": [
             1.3,
             0,
-            70
+            85
         ],
         "target1Scale": [
             1
@@ -1164,9 +1164,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1RotationDirect": 2,
-        "target1RotationPeriod": 12,
-        "targetArr": "4202",
+        "targetArr": "6601",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
