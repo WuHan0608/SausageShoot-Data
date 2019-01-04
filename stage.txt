@@ -1510,7 +1510,7 @@
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
         "target5FallDownType": 1,
-        "target5PathTime": "1###6.3,2,4.3,2@@",
+        "target5PathTime": "1###6.3,2,1.3,2@@",
         "target6Type": "Target-15",
         "target6Pos": [
             1.3,
