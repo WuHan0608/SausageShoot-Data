@@ -1300,7 +1300,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1IniPosInPole": 0.5,
+        "target1IniPosInPole": 0.7,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 2,
         "target1PoleRotationRange": 180,
