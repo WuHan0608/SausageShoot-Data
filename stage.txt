@@ -3888,7 +3888,7 @@
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
-        "missionCoef": 5000,
+        "missionCoef": 30,
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
@@ -3900,7 +3900,7 @@
         "achieveThreeStarDiamond": 0,
         "achieveOneStarCondition": 30,
         "achieveTwoStarCondition": 40,
-        "achieveThreeStarCondition": 50,
+        "achieveThreeStarCondition": 500,
         "achieveOneStarExperience": 17,
         "achieveTwoStarExperience": 17,
         "achieveThreeStarExperience": 17,
@@ -6719,7 +6719,7 @@
         "target7Type": "Target-17",
         "target7Pos": [
             -5,
-            47,
+            52,
             75.1
         ],
         "target7Scale": [
@@ -6932,7 +6932,7 @@
         "target13Type": "Target-17",
         "target13Pos": [
             -5,
-            47,
+            52,
             75.1
         ],
         "target13Scale": [
