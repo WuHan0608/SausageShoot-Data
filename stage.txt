@@ -510,7 +510,7 @@
         "target1FallDownType": 1,
         "target1TaowaNum": 2,
         "target1TaowaState": 1,
-        "target1TaowaRange": 2,
+        "target1TaowaRange": 3,
         "targetArr": "103",
         "gravity": 20,
         "starLimit": 20,
@@ -1038,7 +1038,7 @@
         "target1Euler": "45,-90,-90",
         "target2Type": "Target-18",
         "target2Pos": [
-            1.3,
+            1,
             0,
             73
         ],
@@ -1245,21 +1245,49 @@
         "scene": 1,
         "UiShowDistance": 30,
         "picId": "7",
-        "target1Type": "Target-19",
+        "target1Type": "Target-15",
         "target1Pos": [
             1.3,
-            -1,
-            75
+            0,
+            70
         ],
         "target1Scale": [
             1
         ],
-        "target1MoveType": 0,
-        "target1MovePeriod": -1,
-        "target1MoveDistance1": 0,
-        "target1MoveDistance2": 0,
-        "target1FallDownType": 1,
-        "targetArr": "131",
+        "target1MoveType": 4,
+        "target1MovePeriod": 20,
+        "target1MoveDistance1": 2,
+        "target1MoveDistance2": 4,
+        "target1FallDownType": 3,
+        "target2Type": "Target-15",
+        "target2Pos": [
+            1.3,
+            0,
+            75
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 3,
+        "target2MovePeriod": 20,
+        "target2MoveDistance1": 2,
+        "target2MoveDistance2": 4,
+        "target2FallDownType": 3,
+        "target3Type": "Target-15",
+        "target3Pos": [
+            1.3,
+            0,
+            80
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 4,
+        "target3MovePeriod": 20,
+        "target3MoveDistance1": 2,
+        "target3MoveDistance2": 4,
+        "target3FallDownType": 3,
+        "targetArr": "5701,5702,5703",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
