@@ -2783,7 +2783,22 @@
         "target3FallDownType": 3,
         "target3FallDownPeriod": 5,
         "target3PathTime": "1###0,0,0,0@@60,1",
-        "targetArr": "6100,6101,6102",
+        "target4Type": "Target-7",
+        "target4Pos": [
+            -2.3,
+            0,
+            81
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 3,
+        "target4PathTime": "1###-2,0.5,2,0.5@@60,1",
+        "targetArr": "6100,6101,6102,6103",
         "gravity": 20,
         "starLimit": 90,
         "missionType": 3,
