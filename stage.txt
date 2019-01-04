@@ -1441,7 +1441,7 @@
         "picId": "7",
         "target1Type": "Target-21",
         "target1Pos": [
-            -2.3,
+            -4.3,
             -1,
             80
         ],
@@ -1469,7 +1469,7 @@
         "target2FallDownType": 1,
         "target3Type": "Target-21",
         "target3Pos": [
-            4.3,
+            6.3,
             -1,
             80
         ],
@@ -1495,7 +1495,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4PathTime": "1###-2.3,2,1.3,2@@",
+        "target4PathTime": "1###-4.3,2,1.3,2@@",
         "target5Type": "Target-18",
         "target5Pos": [
             2.3,
@@ -1510,7 +1510,7 @@
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
         "target5FallDownType": 1,
-        "target5PathTime": "1###1.3,2,4.3,2@@",
+        "target5PathTime": "1###6.3,2,4.3,2@@",
         "target6Type": "Target-15",
         "target6Pos": [
             1.3,
@@ -1525,7 +1525,7 @@
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
         "target6FallDownType": 1,
-        "target6PathTime": "1###-2.3,1,1.3,1@@",
+        "target6PathTime": "1###-4.3,1,1.3,1@@",
         "target7Type": "Target-14",
         "target7Pos": [
             1.3,
@@ -1540,7 +1540,7 @@
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
-        "target7PathTime": "1###4.3,1,1.3,1@@",
+        "target7PathTime": "1###6.3,1,1.3,1@@",
         "target8Type": "Target-17",
         "target8Pos": [
             1.3,
@@ -1555,7 +1555,7 @@
         "target8MoveDistance1": 0,
         "target8MoveDistance2": 0,
         "target8FallDownType": 1,
-        "target8PathTime": "1###-2.3,1,3.3,1@@",
+        "target8PathTime": "1#-4.3,4,83,1@6.3,4,83,1",
         "targetArr": "5707,5708,5709,5710,5711,5712,5713,5714",
         "gravity": 20,
         "starLimit": 0,
