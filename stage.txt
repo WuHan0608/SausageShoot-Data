@@ -509,6 +509,7 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1TaowaNum": 2,
+        "target1TaowaState": 1,
         "target1TaowaRange": 2,
         "targetArr": "103",
         "gravity": 20,
@@ -5121,13 +5122,13 @@
         "level": "Mission-1-76",
         "id": 76,
         "scene": 1,
-        "UiShowDistance": 40,
+        "UiShowDistance": 50,
         "picId": "10",
         "target1Type": "Target-3",
         "target1Pos": [
             1.3,
             0,
-            85
+            95
         ],
         "target1Scale": [
             1
@@ -6122,7 +6123,7 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1RotationDirect": 2,
-        "target1RotationPeriod": 15,
+        "target1RotationPeriod": 10,
         "target1MaskPole": "0.175,-0.175,0#1,1,1",
         "targetArr": "1088",
         "gravity": 20,
@@ -6169,7 +6170,7 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1RotationDirect": 2,
-        "target1RotationPeriod": 10,
+        "target1RotationPeriod": 15,
         "target1MaskPole": "0.175,-0.175,0#1.05,1.05,1.05",
         "targetArr": "1089",
         "gravity": 20,
