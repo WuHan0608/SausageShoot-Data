@@ -6918,7 +6918,35 @@
         "target12MoveDistance1": 0,
         "target12MoveDistance2": 0,
         "target12FallDownType": 1,
-        "targetArr": "1092,1093,1094,1095,1096,1097,1098,1099,1100,1101,1102,1103",
+        "target13Type": "Target-17",
+        "target13Pos": [
+            -5,
+            47,
+            75.1
+        ],
+        "target13Scale": [
+            1
+        ],
+        "target13MoveType": 0,
+        "target13MovePeriod": -1,
+        "target13MoveDistance1": 0,
+        "target13MoveDistance2": 0,
+        "target13FallDownType": 1,
+        "target14Type": "Target-18",
+        "target14Pos": [
+            -5,
+            0,
+            75
+        ],
+        "target14Scale": [
+            1
+        ],
+        "target14MoveType": 0,
+        "target14MovePeriod": -1,
+        "target14MoveDistance1": 0,
+        "target14MoveDistance2": 0,
+        "target14FallDownType": 1,
+        "targetArr": "1092,1093,1094,1095,1096,1097,1098,1099,1100,1101,1102,1103,1104,1105",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
