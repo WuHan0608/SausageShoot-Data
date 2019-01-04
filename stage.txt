@@ -282,7 +282,7 @@
         "scene": 1,
         "UiShowDistance": 25,
         "picId": "2",
-        "target1Type": "Target-13",
+        "target1Type": "Target-2",
         "target1Pos": [
             1.3,
             0,
@@ -296,9 +296,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1RotationDirect": 1,
-        "target1RotationPeriod": 0,
-        "targetArr": "4201",
+        "targetArr": "6600",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
@@ -3651,12 +3649,6 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "target2PathTime": "1#-1.7,0,95.5,6@-1.7,0,95.6,6#1,2,5",
-        "target3Pos": [
-            null
-        ],
-        "target3Scale": [
-            null
-        ],
         "targetArr": "6200,6201",
         "gravity": 20,
         "starLimit": 0,
