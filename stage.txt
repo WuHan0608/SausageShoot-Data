@@ -6637,7 +6637,7 @@
         "target1Type": "Target-17",
         "target1Pos": [
             3.7,
-            35,
+            30,
             75.1
         ],
         "target1Scale": [
@@ -6652,7 +6652,7 @@
         "target2Type": "Target-17",
         "target2Pos": [
             -1.5,
-            25,
+            20,
             75.1
         ],
         "target2Scale": [
@@ -6666,7 +6666,7 @@
         "target3Type": "Target-17",
         "target3Pos": [
             5.4,
-            30,
+            25,
             75.1
         ],
         "target3Scale": [
@@ -6680,7 +6680,7 @@
         "target4Type": "Target-17",
         "target4Pos": [
             0.3,
-            40,
+            35,
             75.1
         ],
         "target4Scale": [
@@ -6694,7 +6694,7 @@
         "target5Type": "Target-17",
         "target5Pos": [
             2,
-            45,
+            40,
             75.1
         ],
         "target5Scale": [
@@ -6708,7 +6708,7 @@
         "target6Type": "Target-17",
         "target6Pos": [
             -3.3,
-            50,
+            45,
             75.1
         ],
         "target6Scale": [
@@ -6752,7 +6752,7 @@
         "target1Type": "Target-17",
         "target1Pos": [
             3.7,
-            35,
+            30,
             75.1
         ],
         "target1Scale": [
@@ -6767,7 +6767,7 @@
         "target2Type": "Target-17",
         "target2Pos": [
             -1.5,
-            25,
+            20,
             75.1
         ],
         "target2Scale": [
@@ -6781,7 +6781,7 @@
         "target3Type": "Target-17",
         "target3Pos": [
             5.4,
-            30,
+            25,
             75.1
         ],
         "target3Scale": [
@@ -6795,7 +6795,7 @@
         "target4Type": "Target-17",
         "target4Pos": [
             0.3,
-            40,
+            35,
             75.1
         ],
         "target4Scale": [
@@ -6809,7 +6809,7 @@
         "target5Type": "Target-17",
         "target5Pos": [
             2,
-            45,
+            40,
             75.1
         ],
         "target5Scale": [
@@ -6823,7 +6823,7 @@
         "target6Type": "Target-17",
         "target6Pos": [
             -3.3,
-            50,
+            45,
             75.1
         ],
         "target6Scale": [
