@@ -5927,7 +5927,7 @@
         "target1Type": "Target-20",
         "target1Pos": [
             1.3,
-            -1,
+            0,
             135
         ],
         "target1Scale": [
@@ -5943,8 +5943,8 @@
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "target2Type": "Target-18",
         "target2Pos": [
-            3.2,
-            0,
+            5,
+            1,
             134
         ],
         "target2Scale": [
@@ -5957,7 +5957,7 @@
         "target2FallDownType": 1,
         "target3Type": "Target-18",
         "target3Pos": [
-            -0.6,
+            -2.5,
             0,
             134
         ],
