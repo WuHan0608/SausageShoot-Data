@@ -3359,7 +3359,7 @@
         "target1FallDownType": 1,
         "target2Type": "Taget-22",
         "target2Pos": [
-            1.5,
+            3.5,
             2,
             80
         ],
