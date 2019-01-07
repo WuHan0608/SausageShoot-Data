@@ -1047,7 +1047,21 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "targetArr": "4503,4504",
+        "target3Type": "Target-22",
+        "target3Pos": [
+            1.3,
+            1.2,
+            70
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "targetArr": "4503,4504,4507",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
@@ -1151,7 +1165,7 @@
         "id": 21,
         "scene": 1,
         "UiShowDistance": 30,
-        "picId": "2",
+        "picId": "7",
         "target1Type": "Target-13",
         "target1Pos": [
             1.3,
@@ -1196,7 +1210,7 @@
         "level": "Mission-1-22",
         "id": 22,
         "scene": 1,
-        "UiShowDistance": 35,
+        "UiShowDistance": 25,
         "picId": "7",
         "target1Type": "Target-15",
         "target1Pos": [
@@ -1240,7 +1254,7 @@
         "level": "Mission-1-23",
         "id": 23,
         "scene": 1,
-        "UiShowDistance": 30,
+        "UiShowDistance": 25,
         "picId": "7",
         "target1Type": "Target-15",
         "target1Pos": [
