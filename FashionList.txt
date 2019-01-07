@@ -1,0 +1,1842 @@
+{
+    "101": {
+        "id": 101,
+        "type": 1,
+        "name": "黑",
+        "mark": "Complexion_1",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "102": {
+        "id": 102,
+        "type": 1,
+        "name": "白",
+        "mark": "Complexion_2",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "103": {
+        "id": 103,
+        "type": 1,
+        "name": "黄",
+        "mark": "Complexion_3",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "201": {
+        "id": 201,
+        "type": 2,
+        "name": "原味香肠",
+        "mark": "Hair_1",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.1,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "202": {
+        "id": 202,
+        "type": 2,
+        "name": "橙色马尾",
+        "mark": "Hair_3",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "203": {
+        "id": 203,
+        "type": 2,
+        "name": "胖虎",
+        "mark": "Hair_4",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "204": {
+        "id": 204,
+        "type": 2,
+        "name": "文艺青年",
+        "mark": "Hair_5",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "205": {
+        "id": 205,
+        "type": 2,
+        "name": "蘑菇",
+        "mark": "Hair_7",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "206": {
+        "id": 206,
+        "type": 2,
+        "name": "妩媚热浪",
+        "mark": "Hair_9",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.3,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "207": {
+        "id": 207,
+        "type": 2,
+        "name": "霸哥的牛仔帽",
+        "mark": "Hair_16",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.5,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "208": {
+        "id": 208,
+        "type": 2,
+        "name": "萌妹的小高鞭",
+        "mark": "Hair_17",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "209": {
+        "id": 209,
+        "type": 2,
+        "name": "瓦特的烦恼",
+        "mark": "Hair_18",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "210": {
+        "id": 210,
+        "type": 2,
+        "name": "马可波的嘻哈",
+        "mark": "Hair_19",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.3,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "211": {
+        "id": 211,
+        "type": 2,
+        "name": "女仆双马尾",
+        "mark": "Hair_20",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.5,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "212": {
+        "id": 212,
+        "type": 2,
+        "name": "新鲜柠檬",
+        "mark": "Hair_21",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.3,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "213": {
+        "id": 213,
+        "type": 2,
+        "name": "白色流星",
+        "mark": "Hair_22",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.3,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "214": {
+        "id": 214,
+        "type": 2,
+        "name": "热血格斗",
+        "mark": "Hair_23",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "215": {
+        "id": 215,
+        "type": 2,
+        "name": "爆炸",
+        "mark": "Hair_24",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "216": {
+        "id": 216,
+        "type": 2,
+        "name": "快乐打嗝",
+        "mark": "Hair_27",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.4,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "217": {
+        "id": 217,
+        "type": 2,
+        "name": "摇摆松鼠尾",
+        "mark": "Hair_36",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.3,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "218": {
+        "id": 218,
+        "type": 2,
+        "name": "反转魅力",
+        "mark": "Hair_37",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.4,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "219": {
+        "id": 219,
+        "type": 2,
+        "name": "活力四射",
+        "mark": "Hair_38",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.5,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "220": {
+        "id": 220,
+        "type": 2,
+        "name": "音浪脏辫",
+        "mark": "Hair_39",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.4,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "221": {
+        "id": 221,
+        "type": 2,
+        "name": "坏蛋紫毛",
+        "mark": "Hair_40",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.4,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "222": {
+        "id": 222,
+        "type": 2,
+        "name": "街舞启动",
+        "mark": "Hair_41",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.4,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "223": {
+        "id": 223,
+        "type": 2,
+        "name": "电音少女",
+        "mark": "Hair_42",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0.5,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "301": {
+        "id": 301,
+        "type": 3,
+        "name": "呆萌",
+        "mark": "Countenance_1",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.01
+        }
+    },
+    "302": {
+        "id": 302,
+        "type": 3,
+        "name": "阿呆",
+        "mark": "Countenance_2",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "303": {
+        "id": 303,
+        "type": 3,
+        "name": "乖巧",
+        "mark": "Countenance_3",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "304": {
+        "id": 304,
+        "type": 3,
+        "name": "拒绝直视",
+        "mark": "Countenance_4",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "305": {
+        "id": 305,
+        "type": 3,
+        "name": "面无表情",
+        "mark": "Countenance_5",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "306": {
+        "id": 306,
+        "type": 3,
+        "name": "不关我的事",
+        "mark": "Countenance_6",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "307": {
+        "id": 307,
+        "type": 3,
+        "name": "沉思",
+        "mark": "Countenance_7",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.04
+        }
+    },
+    "308": {
+        "id": 308,
+        "type": 3,
+        "name": "呵",
+        "mark": "Countenance_8",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "309": {
+        "id": 309,
+        "type": 3,
+        "name": "好辣",
+        "mark": "Countenance_12",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "310": {
+        "id": 310,
+        "type": 3,
+        "name": "哇塞哇塞",
+        "mark": "Countenance_30",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.05
+        }
+    },
+    "311": {
+        "id": 311,
+        "type": 3,
+        "name": "噢吼吼吼",
+        "mark": "Countenance_33",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.05
+        }
+    },
+    "312": {
+        "id": 312,
+        "type": 3,
+        "name": "装逼莫属",
+        "mark": "Countenance_35",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.04
+        }
+    },
+    "313": {
+        "id": 313,
+        "type": 3,
+        "name": "吃肠啦你",
+        "mark": "Countenance_36",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.05
+        }
+    },
+    "314": {
+        "id": 314,
+        "type": 3,
+        "name": "永远的王",
+        "mark": "Countenance_38",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.05
+        }
+    },
+    "315": {
+        "id": 315,
+        "type": 3,
+        "name": "日常晕3D",
+        "mark": "Countenance_39",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "316": {
+        "id": 316,
+        "type": 3,
+        "name": "娇羞炸鸡块",
+        "mark": "Countenance_40",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.04
+        }
+    },
+    "317": {
+        "id": 317,
+        "type": 3,
+        "name": "紧张",
+        "mark": "Countenance_41",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.02
+        }
+    },
+    "318": {
+        "id": 318,
+        "type": 3,
+        "name": "滑稽",
+        "mark": "Countenance_32",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.04
+        }
+    },
+    "319": {
+        "id": 319,
+        "type": 3,
+        "name": "是坏人没错",
+        "mark": "Countenance_15",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "320": {
+        "id": 320,
+        "type": 3,
+        "name": "赤瞳",
+        "mark": "Countenance_23",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "321": {
+        "id": 321,
+        "type": 3,
+        "name": "嫌弃到变形",
+        "mark": "Countenance_24",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "322": {
+        "id": 322,
+        "type": 3,
+        "name": "汪汪小虎牙",
+        "mark": "Countenance_28",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.04
+        }
+    },
+    "323": {
+        "id": 323,
+        "type": 3,
+        "name": "僵僵",
+        "mark": "Countenance_25",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "324": {
+        "id": 324,
+        "type": 3,
+        "name": "百变",
+        "mark": "Countenance_26",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.04
+        }
+    },
+    "325": {
+        "id": 325,
+        "type": 3,
+        "name": "艾诺艾诺",
+        "mark": "Countenance_31",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.03
+        }
+    },
+    "401": {
+        "id": 401,
+        "type": 4,
+        "name": "女仆套装",
+        "mark": "Suit_1",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.05,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "402": {
+        "id": 402,
+        "type": 4,
+        "name": "萌妹的连衣裙",
+        "mark": "Suit_2",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.04,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "403": {
+        "id": 403,
+        "type": 4,
+        "name": "超防化战衣",
+        "mark": "Coat_3",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.03,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "404": {
+        "id": 404,
+        "type": 4,
+        "name": " 攀登者外套",
+        "mark": "Coat_1",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.03,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "405": {
+        "id": 405,
+        "type": 4,
+        "name": "探险者外套",
+        "mark": "Coat_2",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.02,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "406": {
+        "id": 406,
+        "type": 4,
+        "name": "贵族校服西装",
+        "mark": "Coat_4",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.02,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "407": {
+        "id": 407,
+        "type": 4,
+        "name": "街头大魔王",
+        "mark": "Coat_7",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.02,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "408": {
+        "id": 408,
+        "type": 4,
+        "name": "暖心姜饼人",
+        "mark": "Coat_10",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.02,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "409": {
+        "id": 409,
+        "type": 4,
+        "name": "叮叮当",
+        "mark": "Coat_11",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.04,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "410": {
+        "id": 410,
+        "type": 4,
+        "name": "热血街舞",
+        "mark": "Suit_10",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.03,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "411": {
+        "id": 411,
+        "type": 4,
+        "name": "地面冲浪者",
+        "mark": "Suit_9",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.05,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "412": {
+        "id": 412,
+        "type": 4,
+        "name": "电音小可爱",
+        "mark": "Suit_11",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.03,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "413": {
+        "id": 413,
+        "type": 4,
+        "name": "圣诞礼裙",
+        "mark": "Suit_12",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0.04,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "501": {
+        "id": 501,
+        "type": 5,
+        "name": "原味T恤",
+        "mark": "Shirt_2",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.01,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "502": {
+        "id": 502,
+        "type": 5,
+        "name": "堆堆雪人",
+        "mark": "Shirt_42",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "503": {
+        "id": 503,
+        "type": 5,
+        "name": "SoFunny",
+        "mark": "Shirt_6",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "504": {
+        "id": 504,
+        "type": 5,
+        "name": "TapTAP",
+        "mark": "Shirt_7",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "505": {
+        "id": 505,
+        "type": 5,
+        "name": "领结衬衫",
+        "mark": "Shirt_9",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "506": {
+        "id": 506,
+        "type": 5,
+        "name": "领带衬衫",
+        "mark": "Shirt_11",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "507": {
+        "id": 507,
+        "type": 5,
+        "name": "胖虎标配",
+        "mark": "Shirt_12",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "508": {
+        "id": 508,
+        "type": 5,
+        "name": "假日海滩",
+        "mark": "Shirt_13",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "509": {
+        "id": 509,
+        "type": 5,
+        "name": "点亮黑夜",
+        "mark": "Shirt_14",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "510": {
+        "id": 510,
+        "type": 5,
+        "name": "霸哥的红领巾",
+        "mark": "Shirt_15",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "511": {
+        "id": 511,
+        "type": 5,
+        "name": "瓦特的运动服",
+        "mark": "Shirt_17",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "512": {
+        "id": 512,
+        "type": 5,
+        "name": "马可波的假正经",
+        "mark": "Shirt_18",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "513": {
+        "id": 513,
+        "type": 5,
+        "name": "粉色心跳",
+        "mark": "Shirt_20",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "514": {
+        "id": 514,
+        "type": 5,
+        "name": "彩虹乐园",
+        "mark": "Shirt_21",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "515": {
+        "id": 515,
+        "type": 5,
+        "name": "脏脏",
+        "mark": "Shirt_22",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "516": {
+        "id": 516,
+        "type": 5,
+        "name": "囚服",
+        "mark": "Shirt_23",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "517": {
+        "id": 517,
+        "type": 5,
+        "name": "格斗上衣",
+        "mark": "Shirt_24",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "518": {
+        "id": 518,
+        "type": 5,
+        "name": "热身派对衫",
+        "mark": "Shirt_27",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.03,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "519": {
+        "id": 519,
+        "type": 5,
+        "name": "安全小狮子服",
+        "mark": "Shirt_29",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "520": {
+        "id": 520,
+        "type": 5,
+        "name": "DJ上线",
+        "mark": "Shirt_34",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.05,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "521": {
+        "id": 521,
+        "type": 5,
+        "name": "即兴发挥",
+        "mark": "Shirt_35",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "522": {
+        "id": 522,
+        "type": 5,
+        "name": "Hip-Hop",
+        "mark": "Shirt_36",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.05,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "523": {
+        "id": 523,
+        "type": 5,
+        "name": "66号卫衣",
+        "mark": "Shirt_37",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "524": {
+        "id": 524,
+        "type": 5,
+        "name": "圣诞快乐",
+        "mark": "Shirt_40",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "525": {
+        "id": 525,
+        "type": 5,
+        "name": "圣诞驯鹿服",
+        "mark": "Shirt_41",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.05,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "526": {
+        "id": 526,
+        "type": 5,
+        "name": "堆堆雪人",
+        "mark": "Shirt_42",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.05,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "601": {
+        "id": 601,
+        "type": 6,
+        "name": "圣诞驯鹿裤",
+        "mark": "Bottoms_43",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "602": {
+        "id": 602,
+        "type": 6,
+        "name": "卡其短裤",
+        "mark": "Bottoms_2",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "603": {
+        "id": 603,
+        "type": 6,
+        "name": "不洗牛仔裤",
+        "mark": "Bottoms_4",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "604": {
+        "id": 604,
+        "type": 6,
+        "name": "牛仔短裤",
+        "mark": "Bottoms_5",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "605": {
+        "id": 605,
+        "type": 6,
+        "name": "校服西裤",
+        "mark": "Bottoms_6",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "606": {
+        "id": 606,
+        "type": 6,
+        "name": "校服短裙",
+        "mark": "Bottoms_8",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.04,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "607": {
+        "id": 607,
+        "type": 6,
+        "name": "蓝色条纹胖次",
+        "mark": "Bottoms_9",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "608": {
+        "id": 608,
+        "type": 6,
+        "name": "霸哥的战斗裤",
+        "mark": "Bottoms_10",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "609": {
+        "id": 609,
+        "type": 6,
+        "name": "瓦特的运动裤",
+        "mark": "Bottoms_13",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "610": {
+        "id": 610,
+        "type": 6,
+        "name": "马可波的运动裤",
+        "mark": "Bottoms_14",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "611": {
+        "id": 611,
+        "type": 6,
+        "name": "囚裤",
+        "mark": "Bottoms_16",
+        "quality": 2,
+        "to_normal_fragment": 10,
+        "to_legend_fragment": 2,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.02,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "612": {
+        "id": 612,
+        "type": 6,
+        "name": "格斗裤",
+        "mark": "Bottoms_17",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "613": {
+        "id": 613,
+        "type": 6,
+        "name": "热身派对裤",
+        "mark": "Bottoms_22",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "614": {
+        "id": 614,
+        "type": 6,
+        "name": "DJ卷腿裤",
+        "mark": "Bottoms_31",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.04,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "615": {
+        "id": 615,
+        "type": 6,
+        "name": "涂鸦短裤",
+        "mark": "Bottoms_32",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.04,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "616": {
+        "id": 616,
+        "type": 6,
+        "name": "嘻哈短裤",
+        "mark": "Bottoms_33",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "617": {
+        "id": 617,
+        "type": 6,
+        "name": "机车短裤",
+        "mark": "Bottoms_34",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.04,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "618": {
+        "id": 618,
+        "type": 6,
+        "name": "街舞短裤",
+        "mark": "Bottoms_35",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "619": {
+        "id": 619,
+        "type": 6,
+        "name": "青春波浪裙                                                                                                                                                                         ",
+        "mark": "Bottoms_36",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.05,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "620": {
+        "id": 620,
+        "type": 6,
+        "name": "拼接牛仔裙",
+        "mark": "Bottoms_37",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.05,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "621": {
+        "id": 621,
+        "type": 6,
+        "name": "运动短裤",
+        "mark": "Bottoms_40",
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.03,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "622": {
+        "id": 622,
+        "type": 6,
+        "name": "大树成精",
+        "mark": "Bottoms_41",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.04,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "623": {
+        "id": 623,
+        "type": 6,
+        "name": "姜饼腿",
+        "mark": "Bottoms_42",
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.04,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "624": {
+        "id": 624,
+        "type": 6,
+        "name": "圣诞驯鹿裤",
+        "mark": "Bottoms_43",
+        "quality": 5,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 50,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.05,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "625": {
+        "id": 625,
+        "type": 6,
+        "name": "原味内裤",
+        "mark": "Bottoms_1",
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.01,
+            "gunBufferReloadSpeed": 0
+        }
+    }
+}
