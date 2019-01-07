@@ -5747,8 +5747,8 @@
         "target3FallDownType": 1,
         "target4Type": "Target-18",
         "target4Pos": [
-            4,
-            7,
+            4.7,
+            0,
             110
         ],
         "target4Scale": [
@@ -5762,6 +5762,7 @@
         "target5Type": "Target-18",
         "target5Pos": [
             -0.4,
+            0,
             110
         ],
         "target5Scale": [
@@ -5775,6 +5776,7 @@
         "target6Type": "Target-18",
         "target6Pos": [
             -2.1,
+            0,
             110
         ],
         "target6Scale": [
