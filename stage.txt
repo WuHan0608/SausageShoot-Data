@@ -6761,7 +6761,7 @@
         "target1Pos": [
             1.3,
             0,
-            95.1
+            115.1
         ],
         "target1Scale": [
             1
@@ -6774,9 +6774,9 @@
         "target1PathTime": "1###-3.7,1,6.3,1@@",
         "target2Type": "Target-18",
         "target2Pos": [
-            -1.2,
-            -1,
-            95
+            -2.5,
+            0,
+            115
         ],
         "target2Scale": [
             1
@@ -6788,9 +6788,9 @@
         "target2FallDownType": 1,
         "target3Type": "Target-18",
         "target3Pos": [
-            3.8,
-            -1,
-            95
+            5.1,
+            0,
+            115
         ],
         "target3Scale": [
             1
@@ -6800,11 +6800,11 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target4Type": "Target-17",
+        "target4Type": "Target-18",
         "target4Pos": [
-            0.3,
-            37,
-            75.1
+            1.3,
+            0,
+            115
         ],
         "target4Scale": [
             1
@@ -6816,9 +6816,9 @@
         "target4FallDownType": 1,
         "target5Type": "Target-17",
         "target5Pos": [
-            2,
-            42,
-            75.1
+            1.3,
+            37,
+            115.1
         ],
         "target5Scale": [
             1
@@ -6830,9 +6830,9 @@
         "target5FallDownType": 1,
         "target6Type": "Target-17",
         "target6Pos": [
-            -3.3,
-            47,
-            75.1
+            -2.5,
+            45,
+            115.1
         ],
         "target6Scale": [
             1
@@ -6844,9 +6844,9 @@
         "target6FallDownType": 1,
         "target7Type": "Target-17",
         "target7Pos": [
-            -5,
+            5.1,
             52,
-            75.1
+            115.1
         ],
         "target7Scale": [
             1
@@ -6856,7 +6856,7 @@
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
-        "targetArr": "1069,1070,1072,1116,1117,1118,1119",
+        "targetArr": "1132,1133,1134,1135,1136,1137,1138",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
