@@ -2093,8 +2093,8 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 53,
-        "achieveTwoStarCondition": 57,
+        "achieveOneStarCondition": 45,
+        "achieveTwoStarCondition": 50,
         "achieveThreeStarCondition": 60,
         "achieveOneStarExperience": 22,
         "achieveTwoStarExperience": 22,
@@ -2412,7 +2412,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 75,
+        "achieveOneStarCondition": 70,
         "achieveTwoStarCondition": 80,
         "achieveThreeStarCondition": 84,
         "achieveOneStarExperience": 24,
@@ -3059,9 +3059,9 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 40,
-        "achieveTwoStarCondition": 42,
-        "achieveThreeStarCondition": 45,
+        "achieveOneStarCondition": 32,
+        "achieveTwoStarCondition": 36,
+        "achieveThreeStarCondition": 40,
         "achieveOneStarExperience": 13,
         "achieveTwoStarExperience": 13,
         "achieveThreeStarExperience": 13,
@@ -3176,9 +3176,9 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 42,
-        "achieveTwoStarCondition": 45,
-        "achieveThreeStarCondition": 48,
+        "achieveOneStarCondition": 30,
+        "achieveTwoStarCondition": 40,
+        "achieveThreeStarCondition": 45,
         "achieveOneStarExperience": 28,
         "achieveTwoStarExperience": 28,
         "achieveThreeStarExperience": 28,
@@ -3340,8 +3340,8 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 40,
-        "achieveTwoStarCondition": 43,
+        "achieveOneStarCondition": 30,
+        "achieveTwoStarCondition": 40,
         "achieveThreeStarCondition": 45,
         "achieveOneStarExperience": 14,
         "achieveTwoStarExperience": 14,
@@ -3363,7 +3363,7 @@
             60
         ],
         "target1Scale": [
-            1
+            1.2
         ],
         "target1MoveType": 0,
         "target1MovePeriod": -1,
@@ -3373,11 +3373,11 @@
         "target2Type": "Target-22",
         "target2Pos": [
             1.5,
-            1.2,
+            1.44,
             60
         ],
         "target2Scale": [
-            1
+            1.2
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
@@ -3388,7 +3388,7 @@
         "target3Pos": [
             -1.5,
             0,
-            60
+            70
         ],
         "target3Scale": [
             1
@@ -3482,8 +3482,8 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 60,
-        "achieveTwoStarCondition": 70,
+        "achieveOneStarCondition": 45,
+        "achieveTwoStarCondition": 60,
         "achieveThreeStarCondition": 75,
         "achieveOneStarExperience": 28,
         "achieveTwoStarExperience": 28,
@@ -3702,7 +3702,7 @@
         "target1Type": "Target-17",
         "target1Pos": [
             1.3,
-            30,
+            25,
             90
         ],
         "target1Scale": [
@@ -3716,7 +3716,7 @@
         "target2Type": "Target-17",
         "target2Pos": [
             -3.3,
-            40,
+            35,
             90
         ],
         "target2Scale": [
@@ -3730,7 +3730,7 @@
         "target3Type": "Target-17",
         "target3Pos": [
             5.3,
-            50,
+            45,
             90
         ],
         "target3Scale": [
@@ -3963,8 +3963,8 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 70,
-        "achieveTwoStarCondition": 72,
+        "achieveOneStarCondition": 73,
+        "achieveTwoStarCondition": 74,
         "achieveThreeStarCondition": 75,
         "achieveOneStarExperience": 16,
         "achieveTwoStarExperience": 16,
