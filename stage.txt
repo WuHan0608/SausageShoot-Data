@@ -2997,7 +2997,7 @@
             84
         ],
         "target1Scale": [
-            1
+            1.5
         ],
         "target1MoveType": 0,
         "target1MovePeriod": -1,
@@ -3011,7 +3011,7 @@
             84
         ],
         "target2Scale": [
-            1
+            1.5
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
@@ -3114,7 +3114,7 @@
             84
         ],
         "target1Scale": [
-            1
+            1.5
         ],
         "target1MoveType": 0,
         "target1MovePeriod": -1,
@@ -3128,7 +3128,7 @@
             84
         ],
         "target2Scale": [
-            1
+            1.5
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
