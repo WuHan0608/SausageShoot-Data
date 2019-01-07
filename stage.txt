@@ -970,11 +970,11 @@
         "target1MovePeriodInPole": 10,
         "target1PoleRotationDirect": 1,
         "target1PoleRotationRange": 0,
-        "target2Type": "Target-22",
+        "target2Type": "Target-18",
         "target2Pos": [
             1.3,
             0,
-            63
+            73
         ],
         "target2Scale": [
             1
@@ -1037,7 +1037,7 @@
         "target2Pos": [
             1.3,
             0,
-            63
+            70
         ],
         "target2Scale": [
             1
@@ -1538,22 +1538,7 @@
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
         "target7PathTime": "1###6.3,1,1.3,1@@",
-        "target8Type": "Target-17",
-        "target8Pos": [
-            1.3,
-            3,
-            83
-        ],
-        "target8Scale": [
-            1
-        ],
-        "target8MoveType": 0,
-        "target8MovePeriod": -1,
-        "target8MoveDistance1": 0,
-        "target8MoveDistance2": 0,
-        "target8FallDownType": 1,
-        "target8PathTime": "1#-4.3,4,83,1@6.3,4,83,1",
-        "targetArr": "5707,5708,5709,5710,5711,5712,5713,5714",
+        "targetArr": "5707,5708,5709,5710,5711,5712,5713",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
@@ -1630,13 +1615,13 @@
         "level": "Mission-1-28",
         "id": 28,
         "scene": 1,
-        "UiShowDistance": 35,
+        "UiShowDistance": 40,
         "picId": "10",
         "target1Type": "Target-3",
         "target1Pos": [
             1.3,
             0,
-            80
+            85
         ],
         "target1Scale": [
             1
@@ -1646,12 +1631,13 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1IniPosInPole": 0,
+        "target1IniPosInPole": 1,
         "target1MovePeriodInPole": 10,
-        "target1PoleRotationDirect": 3,
-        "target1PoleRotationRange": 180,
+        "target1PoleRotationDirect": 4,
+        "target1PoleRotationRange": 360,
         "target1PoleRotationPeriod": 30,
-        "targetArr": "4701",
+        "target1Euler": "0,-90,-90",
+        "targetArr": "4702",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
@@ -1659,18 +1645,18 @@
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "用5颗子弹达成目标！",
-        "achieveOneStarGold": 370,
-        "achieveTwoStarGold": 555,
-        "achieveThreeStarGold": 740,
+        "achieveOneStarGold": 410,
+        "achieveTwoStarGold": 615,
+        "achieveThreeStarGold": 820,
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
         "achieveOneStarCondition": 44,
         "achieveTwoStarCondition": 46,
         "achieveThreeStarCondition": 48,
-        "achieveOneStarExperience": 10,
-        "achieveTwoStarExperience": 10,
-        "achieveThreeStarExperience": 10,
+        "achieveOneStarExperience": 11,
+        "achieveTwoStarExperience": 11,
+        "achieveThreeStarExperience": 11,
         "achieveOneStarEndurance": 0,
         "achieveTwoStarEndurance": 0,
         "achieveThreeStarEndurance": 0
@@ -1962,21 +1948,21 @@
         "starLimit": 0,
         "missionType": 1,
         "missionCoef": 5,
-        "enduranceCost": 2,
-        "missionDifficulty": 1,
+        "enduranceCost": 1,
+        "missionDifficulty": 0,
         "missionDescription": "用5颗子弹达成目标！",
-        "achieveOneStarGold": 820,
-        "achieveTwoStarGold": 1230,
-        "achieveThreeStarGold": 1640,
+        "achieveOneStarGold": 410,
+        "achieveTwoStarGold": 615,
+        "achieveThreeStarGold": 820,
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
         "achieveOneStarCondition": 46,
         "achieveTwoStarCondition": 48,
         "achieveThreeStarCondition": 50,
-        "achieveOneStarExperience": 22,
-        "achieveTwoStarExperience": 22,
-        "achieveThreeStarExperience": 22,
+        "achieveOneStarExperience": 11,
+        "achieveTwoStarExperience": 11,
+        "achieveThreeStarExperience": 11,
         "achieveOneStarEndurance": 0,
         "achieveTwoStarEndurance": 0,
         "achieveThreeStarEndurance": 0
@@ -2071,21 +2057,21 @@
         "starLimit": 0,
         "missionType": 1,
         "missionCoef": 5,
-        "enduranceCost": 1,
-        "missionDifficulty": 0,
+        "enduranceCost": 2,
+        "missionDifficulty": 1,
         "missionDescription": "用5颗子弹达成目标！",
-        "achieveOneStarGold": 420,
-        "achieveTwoStarGold": 630,
-        "achieveThreeStarGold": 840,
+        "achieveOneStarGold": 840,
+        "achieveTwoStarGold": 1260,
+        "achieveThreeStarGold": 1680,
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
         "achieveOneStarCondition": 53,
         "achieveTwoStarCondition": 57,
         "achieveThreeStarCondition": 60,
-        "achieveOneStarExperience": 11,
-        "achieveTwoStarExperience": 11,
-        "achieveThreeStarExperience": 11,
+        "achieveOneStarExperience": 22,
+        "achieveTwoStarExperience": 22,
+        "achieveThreeStarExperience": 22,
         "achieveOneStarEndurance": 0,
         "achieveTwoStarEndurance": 0,
         "achieveThreeStarEndurance": 0
@@ -5225,10 +5211,10 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 8,
+        "target1MovePeriodInPole": 6,
         "target1PoleRotationDirect": 1,
         "target1PoleRotationRange": 0,
-        "target1Euler": "0,-90,-90",
+        "target1Euler": "135,-90,-90",
         "targetArr": "1038",
         "gravity": 20,
         "starLimit": 0,
@@ -5323,10 +5309,10 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 10,
+        "target1MovePeriodInPole": 6,
         "target1PoleRotationDirect": 2,
         "target1PoleRotationRange": 180,
-        "target1PoleRotationPeriod": 15,
+        "target1PoleRotationPeriod": 10,
         "target1Euler": "0,-90,-90",
         "target1MaskPole": "0,0.325,0#1.1,1.1,1.1",
         "targetArr": "1042",
@@ -5373,8 +5359,8 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1RotationDirect": 1,
-        "target1RotationPeriod": 12,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
         "target1PoleRotationDirect": 4,
@@ -5599,6 +5585,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 2,
         "target2FallDownPeriod": 3,
+        "target2PathTime": "1###-0.7,1,6.2.3@@",
         "targetArr": "1046,1128",
         "gravity": 20,
         "starLimit": 0,
@@ -6764,8 +6751,8 @@
         "target1Type": "Target-15",
         "target1Pos": [
             1.3,
-            0,
-            115.1
+            1,
+            115.2
         ],
         "target1Scale": [
             1
@@ -6821,8 +6808,8 @@
         "target5Type": "Target-17",
         "target5Pos": [
             1.3,
-            37,
-            115.1
+            42,
+            115.5
         ],
         "target5Scale": [
             1
@@ -6835,8 +6822,8 @@
         "target6Type": "Target-17",
         "target6Pos": [
             -2.5,
-            45,
-            115.1
+            47,
+            115.5
         ],
         "target6Scale": [
             1
@@ -6850,7 +6837,7 @@
         "target7Pos": [
             5.1,
             52,
-            115.1
+            115.5
         ],
         "target7Scale": [
             1
@@ -7699,10 +7686,10 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 8,
+        "target1MovePeriodInPole": 6,
         "target1PoleRotationDirect": 1,
         "target1PoleRotationRange": 0,
-        "target1Euler": "0,-90,-90",
+        "target1Euler": "135,-90,-90",
         "targetArr": "1038",
         "gravity": 20,
         "starLimit": 0,
@@ -7797,10 +7784,10 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 10,
+        "target1MovePeriodInPole": 6,
         "target1PoleRotationDirect": 2,
         "target1PoleRotationRange": 180,
-        "target1PoleRotationPeriod": 15,
+        "target1PoleRotationPeriod": 10,
         "target1Euler": "0,-90,-90",
         "target1MaskPole": "0,0.325,0#1.1,1.1,1.1",
         "targetArr": "1042",
@@ -7847,8 +7834,8 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1RotationDirect": 1,
-        "target1RotationPeriod": 12,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 10,
         "target1PoleRotationDirect": 4,
