@@ -383,22 +383,6 @@
             "gunBufferReloadSpeed": 0
         }
     },
-    "222": {
-        "id": 222,
-        "type": 2,
-        "name": "街舞启动",
-        "mark": "Hair_41",
-        "quality": 4,
-        "to_normal_fragment": 50,
-        "to_legend_fragment": 20,
-        "buffer": {
-            "gunBufferBulletSpeed": 0,
-            "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.4,
-            "gunBufferAim": 0,
-            "gunBufferReloadSpeed": 0
-        }
-    },
     "223": {
         "id": 223,
         "type": 2,
@@ -719,22 +703,6 @@
             "gunBufferReloadSpeed": 0.03
         }
     },
-    "320": {
-        "id": 320,
-        "type": 3,
-        "name": "赤瞳",
-        "mark": "Countenance_23",
-        "quality": 3,
-        "to_normal_fragment": 20,
-        "to_legend_fragment": 4,
-        "buffer": {
-            "gunBufferBulletSpeed": 0,
-            "gunBufferStablity": 0,
-            "gunBufferMagnify": 0,
-            "gunBufferAim": 0,
-            "gunBufferReloadSpeed": 0.03
-        }
-    },
     "321": {
         "id": 321,
         "type": 3,
@@ -916,11 +884,11 @@
         "type": 4,
         "name": "街头大魔王",
         "mark": "Coat_7",
-        "quality": 2,
-        "to_normal_fragment": 10,
-        "to_legend_fragment": 2,
+        "quality": 4,
+        "to_normal_fragment": 50,
+        "to_legend_fragment": 20,
         "buffer": {
-            "gunBufferBulletSpeed": 0.02,
+            "gunBufferBulletSpeed": 0.04,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1042,8 +1010,8 @@
     "502": {
         "id": 502,
         "type": 5,
-        "name": "堆堆雪人",
-        "mark": "Shirt_42",
+        "name": "酷帅嘻哈",
+        "mark": "Shirt_32",
         "quality": 4,
         "to_normal_fragment": 50,
         "to_legend_fragment": 20,
@@ -1338,22 +1306,6 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0.05,
-            "gunBufferMagnify": 0,
-            "gunBufferAim": 0,
-            "gunBufferReloadSpeed": 0
-        }
-    },
-    "521": {
-        "id": 521,
-        "type": 5,
-        "name": "即兴发挥",
-        "mark": "Shirt_35",
-        "quality": 4,
-        "to_normal_fragment": 50,
-        "to_legend_fragment": 20,
-        "buffer": {
-            "gunBufferBulletSpeed": 0,
-            "gunBufferStablity": 0.04,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
