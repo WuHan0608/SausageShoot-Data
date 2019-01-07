@@ -5577,7 +5577,7 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 90,
+        "target1PoleRotationRange": 45,
         "target1PoleRotationPeriod": 6,
         "target1Euler": "135,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
@@ -5588,7 +5588,7 @@
             134
         ],
         "target2Scale": [
-            1
+            0.75
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
@@ -8005,7 +8005,7 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 90,
+        "target1PoleRotationRange": 45,
         "target1PoleRotationPeriod": 6,
         "target1Euler": "135,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
