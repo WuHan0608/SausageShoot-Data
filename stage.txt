@@ -3395,9 +3395,9 @@
             0.8
         ],
         "target4MoveType": 4,
-        "target4MovePeriod": 16,
-        "target4MoveDistance1": 2,
-        "target4MoveDistance2": 2,
+        "target4MovePeriod": 24,
+        "target4MoveDistance1": 3,
+        "target4MoveDistance2": 3,
         "target4FallDownType": 3,
         "target5Type": "Target-7",
         "target5Pos": [
@@ -3409,9 +3409,9 @@
             0.8
         ],
         "target5MoveType": 3,
-        "target5MovePeriod": 16,
-        "target5MoveDistance1": 2,
-        "target5MoveDistance2": 2,
+        "target5MovePeriod": 24,
+        "target5MoveDistance1": 3,
+        "target5MoveDistance2": 3,
         "target5FallDownType": 3,
         "target6Type": "Target-7",
         "target6Pos": [
@@ -3423,9 +3423,9 @@
             0.8
         ],
         "target6MoveType": 4,
-        "target6MovePeriod": 16,
-        "target6MoveDistance1": 1.5,
-        "target6MoveDistance2": 2.5,
+        "target6MovePeriod": 24,
+        "target6MoveDistance1": 2.5,
+        "target6MoveDistance2": 3.5,
         "target6FallDownType": 3,
         "target7Type": "Target-7",
         "target7Pos": [
@@ -3437,9 +3437,9 @@
             0.8
         ],
         "target7MoveType": 4,
-        "target7MovePeriod": 16,
-        "target7MoveDistance1": 2,
-        "target7MoveDistance2": 2,
+        "target7MovePeriod": 24,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 3,
         "target7FallDownType": 3,
         "target8Type": "Target-7",
         "target8Pos": [
@@ -3451,9 +3451,9 @@
             0.8
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 16,
-        "target8MoveDistance1": 2.5,
-        "target8MoveDistance2": 1.5,
+        "target8MovePeriod": 24,
+        "target8MoveDistance1": 3.5,
+        "target8MoveDistance2": 2.5,
         "target8FallDownType": 3,
         "targetArr": "4806,4807,4808,4809,4810,4811,4812,4813",
         "gravity": 20,
@@ -5577,9 +5577,9 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 120,
+        "target1PoleRotationRange": 90,
         "target1PoleRotationPeriod": 6,
-        "target1Euler": "180,-90,-90",
+        "target1Euler": "135,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "target2Type": "Target-18",
         "target2Pos": [
@@ -8005,9 +8005,9 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 120,
+        "target1PoleRotationRange": 90,
         "target1PoleRotationPeriod": 6,
-        "target1Euler": "180,-90,-90",
+        "target1Euler": "135,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": "1046",
         "gravity": 20,
