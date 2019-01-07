@@ -3350,7 +3350,7 @@
             60
         ],
         "target1Scale": [
-            1.5
+            1
         ],
         "target1MoveType": 0,
         "target1MovePeriod": -1,
@@ -3360,11 +3360,11 @@
         "target2Type": "Target-22",
         "target2Pos": [
             1.5,
-            1.8,
+            1.2,
             60
         ],
         "target2Scale": [
-            1.5
+            1
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
@@ -3373,12 +3373,12 @@
         "target2FallDownType": 1,
         "target3Type": "Target-22",
         "target3Pos": [
-            -0.5,
+            -1.5,
             0,
             60
         ],
         "target3Scale": [
-            1.5
+            1
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
