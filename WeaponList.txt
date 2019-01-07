@@ -1,0 +1,1123 @@
+{
+    "101": {
+        "id": 101,
+        "type": 1,
+        "mark": "gun_98k_01",
+        "name": "基础",
+        "level": 1,
+        "quality": 1,
+        "price": {
+            "Gold": 0,
+            "Diamond": 0
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.02,
+            "gunBufferStablity": 0.02,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "102": {
+        "id": 102,
+        "type": 1,
+        "mark": "gun_98k_02",
+        "name": "木纹",
+        "level": 3,
+        "quality": 1,
+        "price": {
+            "Gold": 1000,
+            "Diamond": 100
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.04,
+            "gunBufferStablity": 0.04,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "103": {
+        "id": 103,
+        "type": 1,
+        "mark": "gun_98k_03",
+        "name": "嫣粉",
+        "level": 10,
+        "quality": 1,
+        "price": {
+            "Gold": 3500,
+            "Diamond": 150
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.06,
+            "gunBufferStablity": 0.06,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "104": {
+        "id": 104,
+        "type": 1,
+        "mark": "gun_98k_04",
+        "name": "赭红",
+        "level": 15,
+        "quality": 2,
+        "price": {
+            "Gold": 10000,
+            "Diamond": 200
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.08,
+            "gunBufferStablity": 0.08,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "105": {
+        "id": 105,
+        "type": 1,
+        "mark": "gun_98k_05",
+        "name": "紫罗兰",
+        "level": 17,
+        "quality": 2,
+        "price": {
+            "Gold": 20000,
+            "Diamond": 300
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.1,
+            "gunBufferStablity": 0.1,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "106": {
+        "id": 106,
+        "type": 1,
+        "mark": "gun_98k_06",
+        "name": "钴蓝",
+        "level": 21,
+        "quality": 2,
+        "price": {
+            "Gold": 45000,
+            "Diamond": 500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.12,
+            "gunBufferStablity": 0.12,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "107": {
+        "id": 107,
+        "type": 1,
+        "mark": "gun_98k_09",
+        "name": "迷彩",
+        "level": 25,
+        "quality": 2,
+        "price": {
+            "Gold": 110000,
+            "Diamond": 750
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.14,
+            "gunBufferStablity": 0.14,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "108": {
+        "id": 108,
+        "type": 1,
+        "mark": "gun_98k_09",
+        "name": "丛林",
+        "level": 30,
+        "quality": 3,
+        "price": {
+            "Gold": 250000,
+            "Diamond": 1000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.16,
+            "gunBufferStablity": 0.16,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "109": {
+        "id": 109,
+        "type": 1,
+        "mark": "gun_98k_11",
+        "name": "薄荷",
+        "level": 35,
+        "quality": 3,
+        "price": {
+            "Gold": 450000,
+            "Diamond": 1250
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.18,
+            "gunBufferStablity": 0.18,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "110": {
+        "id": 110,
+        "type": 1,
+        "mark": "gun_98k_12",
+        "name": "恶魔",
+        "level": 40,
+        "quality": 3,
+        "price": {
+            "Gold": 700000,
+            "Diamond": 1500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.2,
+            "gunBufferStablity": 0.2,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "111": {
+        "id": 111,
+        "type": 1,
+        "mark": "gun_98k_13",
+        "name": "冰蓝",
+        "level": 45,
+        "quality": 4,
+        "price": {
+            "Gold": 1200000,
+            "Diamond": 2000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.22,
+            "gunBufferStablity": 0.22,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "112": {
+        "id": 112,
+        "type": 1,
+        "mark": "gun_98k_15",
+        "name": "粉红迷彩",
+        "level": 50,
+        "quality": 4,
+        "price": {
+            "Gold": 2000000,
+            "Diamond": 2500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.24,
+            "gunBufferStablity": 0.24,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "113": {
+        "id": 113,
+        "type": 1,
+        "mark": "gun_98k_16",
+        "name": "丛林迷彩",
+        "level": 54,
+        "quality": 4,
+        "price": {
+            "Gold": 3100000,
+            "Diamond": 3000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.26,
+            "gunBufferStablity": 0.26,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "114": {
+        "id": 114,
+        "type": 1,
+        "mark": "gun_98k_08",
+        "name": "黄金",
+        "level": 57,
+        "quality": 5,
+        "price": {
+            "Gold": 5200000,
+            "Diamond": 4000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.28,
+            "gunBufferStablity": 0.28,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "115": {
+        "id": 115,
+        "type": 1,
+        "mark": "gun_98k_20",
+        "name": "彩虹",
+        "level": 60,
+        "quality": 5,
+        "price": {
+            "Gold": 8000000,
+            "Diamond": 5000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.3,
+            "gunBufferStablity": 0.3,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "201": {
+        "id": 201,
+        "type": 2,
+        "mark": "2_bei_jing",
+        "name": "2倍瞄准镜",
+        "level": 1,
+        "quality": 1,
+        "price": {
+            "Gold": 0,
+            "Diamond": 0
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 2,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "202": {
+        "id": 202,
+        "type": 2,
+        "mark": "3_bei_jing",
+        "name": "3倍瞄准镜",
+        "level": 11,
+        "quality": 2,
+        "price": {
+            "Gold": 2000,
+            "Diamond": 100
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 3,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "203": {
+        "id": 203,
+        "type": 2,
+        "mark": "4_bei_jing",
+        "name": "4倍瞄准镜",
+        "level": 20,
+        "quality": 2,
+        "price": {
+            "Gold": 20000,
+            "Diamond": 200
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 4,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "204": {
+        "id": 204,
+        "type": 2,
+        "mark": "5_bei_jing",
+        "name": "5倍瞄准镜",
+        "level": 28,
+        "quality": 3,
+        "price": {
+            "Gold": 150000,
+            "Diamond": 400
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 5,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "205": {
+        "id": 205,
+        "type": 2,
+        "mark": "6_bei_jing",
+        "name": "6倍瞄准镜",
+        "level": 37,
+        "quality": 3,
+        "price": {
+            "Gold": 350000,
+            "Diamond": 600
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 6,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "206": {
+        "id": 206,
+        "type": 2,
+        "mark": "7_bei_jing",
+        "name": "7倍瞄准镜",
+        "level": 44,
+        "quality": 4,
+        "price": {
+            "Gold": 800000,
+            "Diamond": 1000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 7,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "207": {
+        "id": 207,
+        "type": 2,
+        "mark": "8_bei_jing",
+        "name": "8倍瞄准镜",
+        "level": 53,
+        "quality": 5,
+        "price": {
+            "Gold": 1500000,
+            "Diamond": 1500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 8,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "301": {
+        "id": 301,
+        "type": 4,
+        "mark": "ru_men_zi_dan_dai_lv1",
+        "name": "入门子弹袋 Lv.1",
+        "level": 1,
+        "quality": 1,
+        "price": {
+            "Gold": 0,
+            "Diamond": 0
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.05
+        }
+    },
+    "302": {
+        "id": 302,
+        "type": 4,
+        "mark": "ru_men_tuo_sai_ban_lv1",
+        "name": "入门托腮板 Lv.1",
+        "level": 1,
+        "quality": 1,
+        "price": {
+            "Gold": 0,
+            "Diamond": 0
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.05,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "303": {
+        "id": 303,
+        "type": 4,
+        "mark": "ru_men_tuo_sai_ban_lv2",
+        "name": "入门子弹袋 Lv.2",
+        "level": 5,
+        "quality": 1,
+        "price": {
+            "Gold": 1000,
+            "Diamond": 50
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.1
+        }
+    },
+    "304": {
+        "id": 304,
+        "type": 4,
+        "mark": "ru_men_zi_dan_dai_lv3",
+        "name": "入门托腮板 Lv.2",
+        "level": 12,
+        "quality": 2,
+        "price": {
+            "Gold": 3000,
+            "Diamond": 100
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.15,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "305": {
+        "id": 305,
+        "type": 4,
+        "mark": "chu_ji_tuo_sai_ban_lv1",
+        "name": "入门子弹袋 Lv.3",
+        "level": 16,
+        "quality": 2,
+        "price": {
+            "Gold": 10000,
+            "Diamond": 150
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.2
+        }
+    },
+    "306": {
+        "id": 306,
+        "type": 4,
+        "mark": "chu_ji_zi_dan_dai_lv2",
+        "name": "初级托腮板 Lv.1",
+        "level": 22,
+        "quality": 2,
+        "price": {
+            "Gold": 25000,
+            "Diamond": 200
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.25,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "307": {
+        "id": 307,
+        "type": 4,
+        "mark": "chu_ji_tuo_sai_ban_lv3",
+        "name": "初级子弹袋 Lv.2",
+        "level": 26,
+        "quality": 3,
+        "price": {
+            "Gold": 60000,
+            "Diamond": 300
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.30000000000000004
+        }
+    },
+    "308": {
+        "id": 308,
+        "type": 4,
+        "mark": "zhong_ji_zi_dan_dai_lv1",
+        "name": "初级托腮板 Lv.3",
+        "level": 31,
+        "quality": 3,
+        "price": {
+            "Gold": 100000,
+            "Diamond": 400
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.35,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "309": {
+        "id": 309,
+        "type": 4,
+        "mark": "zhong_ji_tuo_sai_ban_lv2",
+        "name": "中级子弹袋 Lv.1",
+        "level": 36,
+        "quality": 3,
+        "price": {
+            "Gold": 190000,
+            "Diamond": 600
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.4
+        }
+    },
+    "310": {
+        "id": 310,
+        "type": 4,
+        "mark": "zhong_ji_zi_dan_dai_lv3",
+        "name": "中级托腮板 Lv.2",
+        "level": 41,
+        "quality": 4,
+        "price": {
+            "Gold": 300000,
+            "Diamond": 800
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.44999999999999996,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "311": {
+        "id": 311,
+        "type": 4,
+        "mark": "gao_ji_tuo_sai_ban_lv1",
+        "name": "中级子弹袋 Lv.3",
+        "level": 46,
+        "quality": 4,
+        "price": {
+            "Gold": 500000,
+            "Diamond": 1000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.5
+        }
+    },
+    "312": {
+        "id": 312,
+        "type": 4,
+        "mark": "gao_ji_zi_dan_dai_lv2",
+        "name": "高级托腮板 Lv.1",
+        "level": 51,
+        "quality": 4,
+        "price": {
+            "Gold": 1000000,
+            "Diamond": 1300
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0.5499999999999999,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "313": {
+        "id": 313,
+        "type": 4,
+        "mark": "gao_ji_tuo_sai_ban_lv3",
+        "name": "高级子弹袋 Lv.2",
+        "level": 56,
+        "quality": 5,
+        "price": {
+            "Gold": 1700000,
+            "Diamond": 1600
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0.6
+        }
+    },
+    "401": {
+        "id": 401,
+        "type": 3,
+        "mark": "ru_men_yi_zhi_qi_lv1",
+        "name": "入门枪口抑制器 Lv.1",
+        "level": 1,
+        "quality": 1,
+        "price": {
+            "Gold": 0,
+            "Diamond": 0
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.05,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "402": {
+        "id": 402,
+        "type": 3,
+        "mark": "ru_men_yi_zhi_qi_lv2",
+        "name": "入门枪口抑制器 Lv.2",
+        "level": 7,
+        "quality": 1,
+        "price": {
+            "Gold": 1200,
+            "Diamond": 100
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.1,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "403": {
+        "id": 403,
+        "type": 3,
+        "mark": "ru_men_yi_zhi_qi_lv3",
+        "name": "入门枪口抑制器 Lv.3",
+        "level": 13,
+        "quality": 2,
+        "price": {
+            "Gold": 4000,
+            "Diamond": 150
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.14,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "404": {
+        "id": 404,
+        "type": 3,
+        "mark": "chu_ji_yi_zhi_qi_lv1",
+        "name": "初级枪口抑制器 Lv.1",
+        "level": 18,
+        "quality": 2,
+        "price": {
+            "Gold": 15000,
+            "Diamond": 200
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.18,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "405": {
+        "id": 405,
+        "type": 3,
+        "mark": "chu_ji_yi_zhi_qi_lv2",
+        "name": "初级枪口抑制器 Lv.2",
+        "level": 23,
+        "quality": 2,
+        "price": {
+            "Gold": 50000,
+            "Diamond": 400
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.22,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "406": {
+        "id": 406,
+        "type": 3,
+        "mark": "chu_ji_yi_zhi_qi_lv3",
+        "name": "初级枪口抑制器 Lv.3",
+        "level": 27,
+        "quality": 3,
+        "price": {
+            "Gold": 120000,
+            "Diamond": 700
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.26,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "407": {
+        "id": 407,
+        "type": 3,
+        "mark": "zhong_ji_yi_zhi_qi_lv1",
+        "name": "中级枪口抑制器 Lv.1",
+        "level": 33,
+        "quality": 3,
+        "price": {
+            "Gold": 200000,
+            "Diamond": 1000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.3,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "408": {
+        "id": 408,
+        "type": 3,
+        "mark": "zhong_ji_yi_zhi_qi_lv2",
+        "name": "中级枪口抑制器 Lv.2",
+        "level": 38,
+        "quality": 3,
+        "price": {
+            "Gold": 410000,
+            "Diamond": 1300
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.34,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "409": {
+        "id": 409,
+        "type": 3,
+        "mark": "zhong_ji_yi_zhi_qi_lv3",
+        "name": "中级枪口抑制器 Lv.3",
+        "level": 42,
+        "quality": 4,
+        "price": {
+            "Gold": 650000,
+            "Diamond": 1600
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.38,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "410": {
+        "id": 410,
+        "type": 3,
+        "mark": "gao_ji_yi_zhi_qi_lv1",
+        "name": "高级枪口抑制器 Lv.1",
+        "level": 47,
+        "quality": 4,
+        "price": {
+            "Gold": 1000000,
+            "Diamond": 1900
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.42,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "411": {
+        "id": 411,
+        "type": 3,
+        "mark": "gao_ji_yi_zhi_qi_lv2",
+        "name": "高级枪口抑制器 Lv.2",
+        "level": 52,
+        "quality": 4,
+        "price": {
+            "Gold": 1800000,
+            "Diamond": 2200
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.46,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "412": {
+        "id": 412,
+        "type": 3,
+        "mark": "gao_ji_yi_zhi_qi_lv3",
+        "name": "高级枪口抑制器 Lv.3",
+        "level": 58,
+        "quality": 5,
+        "price": {
+            "Gold": 3699999.9999999995,
+            "Diamond": 2500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0,
+            "gunBufferStablity": 0.5,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "501": {
+        "id": 501,
+        "type": 5,
+        "mark": "ru_men_zi_dan_lv1",
+        "name": "入门子弹 Lv.1",
+        "level": 1,
+        "quality": 1,
+        "price": {
+            "Gold": 0,
+            "Diamond": 0
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.02,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "502": {
+        "id": 502,
+        "type": 5,
+        "mark": "ru_men_zi_dan_lv2",
+        "name": "入门子弹 Lv.2",
+        "level": 9,
+        "quality": 1,
+        "price": {
+            "Gold": 2000,
+            "Diamond": 100
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.05,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "503": {
+        "id": 503,
+        "type": 5,
+        "mark": "ru_men_zi_dan_lv3",
+        "name": "入门子弹 Lv.3",
+        "level": 14,
+        "quality": 2,
+        "price": {
+            "Gold": 8000,
+            "Diamond": 200
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.1,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "504": {
+        "id": 504,
+        "type": 5,
+        "mark": "chu_ji_zi_dan_lv1",
+        "name": "初级子弹 Lv.1",
+        "level": 19,
+        "quality": 2,
+        "price": {
+            "Gold": 35000,
+            "Diamond": 400
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.15,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "505": {
+        "id": 505,
+        "type": 5,
+        "mark": "chu_ji_zi_dan_lv2",
+        "name": "初级子弹 Lv.2",
+        "level": 24,
+        "quality": 2,
+        "price": {
+            "Gold": 97000,
+            "Diamond": 700
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.2,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "506": {
+        "id": 506,
+        "type": 5,
+        "mark": "chu_ji_zi_dan_lv3",
+        "name": "初级子弹 Lv.3",
+        "level": 29,
+        "quality": 3,
+        "price": {
+            "Gold": 200000,
+            "Diamond": 1000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.25,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "507": {
+        "id": 507,
+        "type": 5,
+        "mark": "zhong_ji_zi_dan_lv1",
+        "name": "中级子弹 Lv.1",
+        "level": 34,
+        "quality": 3,
+        "price": {
+            "Gold": 360000,
+            "Diamond": 1500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.3,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "508": {
+        "id": 508,
+        "type": 5,
+        "mark": "zhong_ji_zi_dan_lv2",
+        "name": "中级子弹 Lv.2",
+        "level": 39,
+        "quality": 3,
+        "price": {
+            "Gold": 560000,
+            "Diamond": 2000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.35,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "509": {
+        "id": 509,
+        "type": 5,
+        "mark": "zhong_ji_zi_dan_lv3",
+        "name": "中级子弹 Lv.3",
+        "level": 43,
+        "quality": 4,
+        "price": {
+            "Gold": 880000,
+            "Diamond": 2500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.4,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "510": {
+        "id": 510,
+        "type": 5,
+        "mark": "gao_ji_zi_dan_lv1",
+        "name": "高级子弹 Lv.1",
+        "level": 49,
+        "quality": 4,
+        "price": {
+            "Gold": 1599999.9999999998,
+            "Diamond": 3000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.45,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "511": {
+        "id": 511,
+        "type": 5,
+        "mark": "gao_ji_zi_dan_lv2",
+        "name": "高级子弹 Lv.2",
+        "level": 55,
+        "quality": 4,
+        "price": {
+            "Gold": 2999999.9999999995,
+            "Diamond": 3500
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.5,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    },
+    "512": {
+        "id": 512,
+        "type": 5,
+        "mark": "gao_ji_zi_dan_lv3",
+        "name": "高级子弹 Lv.3",
+        "level": 59,
+        "quality": 5,
+        "price": {
+            "Gold": 5200000,
+            "Diamond": 4000
+        },
+        "buffer": {
+            "gunBufferBulletSpeed": 0.55,
+            "gunBufferStablity": 0,
+            "gunBufferMagnify": 0,
+            "gunBufferAim": 0,
+            "gunBufferReloadSpeed": 0
+        }
+    }
+}
