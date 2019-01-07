@@ -881,7 +881,7 @@
         "level": 58,
         "quality": 5,
         "price": {
-            "Gold": 3699999.9999999995,
+            "Gold": 3700000,
             "Diamond": 2500
         },
         "buffer": {
@@ -1071,7 +1071,7 @@
         "level": 49,
         "quality": 4,
         "price": {
-            "Gold": 1599999.9999999998,
+            "Gold": 1600000,
             "Diamond": 3000
         },
         "buffer": {
@@ -1090,7 +1090,7 @@
         "level": 55,
         "quality": 4,
         "price": {
-            "Gold": 2999999.9999999995,
+            "Gold": 3000000,
             "Diamond": 3500
         },
         "buffer": {
