@@ -1,0 +1,2185 @@
+{
+    "101": {
+        "id": 101,
+        "level": [
+            1
+        ],
+        "shootScore": 80,
+        "missionDescription": "平移竞技靶1_回合",
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-2",
+        "target1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "targetArr": {}
+    },
+    "102": {
+        "id": 102,
+        "level": [
+            2
+        ],
+        "shootScore": 80,
+        "missionDescription": "平移竞技靶2_回合",
+        "UiShowDistance": 60,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-2",
+        "target1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "targetArr": {}
+    },
+    "103": {
+        "id": 103,
+        "level": [
+            3
+        ],
+        "shootScore": 80,
+        "missionDescription": "平移竞技靶3_回合",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-2",
+        "target1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "201": {
+        "id": 201,
+        "level": [
+            1
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子1_限时",
+        "UiShowDistance": 30,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            75
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 6,
+        "target1PoleRotationDirect": 1,
+        "target1PoleRotationRange": 0,
+        "target1Euler": "0,-90,-90",
+        "targetArr": {}
+    },
+    "202": {
+        "id": 202,
+        "level": [
+            2
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子2_限时",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 0,
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 180,
+        "target1PoleRotationPeriod": 10,
+        "targetArr": {}
+    },
+    "203": {
+        "id": 203,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子3_限时",
+        "UiShowDistance": 60,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 180,
+        "target1PoleRotationPeriod": 15,
+        "target1Euler": "0,-90,-90",
+        "targetArr": {}
+    },
+    "204": {
+        "id": 204,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子4_限时",
+        "UiShowDistance": 70,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 4,
+        "target1PoleRotationRange": 90,
+        "target1PoleRotationPeriod": 10,
+        "target1Euler": "45,-90,-90",
+        "targetArr": {}
+    },
+    "205": {
+        "id": 205,
+        "level": [
+            5
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子5_限时",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 1,
+        "target1PoleRotationRange": 0,
+        "target1PoleRotationPeriod": 0,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "206": {
+        "id": 206,
+        "level": [
+            6
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子6_限时",
+        "UiShowDistance": 90,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            135
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 360,
+        "target1PoleRotationPeriod": 15,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "207": {
+        "id": 207,
+        "level": [
+            7
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子7_限时",
+        "UiShowDistance": 100,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            145
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            135
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1IniPosInPole": 1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 4,
+        "target1PoleRotationRange": 90,
+        "target1PoleRotationPeriod": 10,
+        "target1Euler": "45,-90,-90",
+        "target1MaskPole": "0.15,-0.15,0#1,1,1",
+        "targetArr": {}
+    },
+    "208": {
+        "id": 208,
+        "level": [
+            1
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子1_回合",
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            75
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 6,
+        "target1PoleRotationDirect": 1,
+        "target1PoleRotationRange": 0,
+        "target1Euler": "0,-90,-90",
+        "targetArr": {}
+    },
+    "209": {
+        "id": 209,
+        "level": [
+            2
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子2_回合",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 0,
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 180,
+        "target1PoleRotationPeriod": 10,
+        "targetArr": {}
+    },
+    "210": {
+        "id": 210,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子3_回合",
+        "UiShowDistance": 60,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 180,
+        "target1PoleRotationPeriod": 15,
+        "target1Euler": "0,-90,-90",
+        "targetArr": {}
+    },
+    "211": {
+        "id": 211,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子4_回合",
+        "UiShowDistance": 70,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 4,
+        "target1PoleRotationRange": 90,
+        "target1PoleRotationPeriod": 10,
+        "target1Euler": "45,-90,-90",
+        "targetArr": {}
+    },
+    "212": {
+        "id": 212,
+        "level": [
+            5
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子5_回合",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 1,
+        "target1PoleRotationRange": 0,
+        "target1PoleRotationPeriod": 0,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "213": {
+        "id": 213,
+        "level": [
+            6
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子6_回合",
+        "UiShowDistance": 90,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            135
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 2,
+        "target1PoleRotationRange": 360,
+        "target1PoleRotationPeriod": 15,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "214": {
+        "id": 214,
+        "level": [
+            7
+        ],
+        "shootScore": 0,
+        "missionDescription": "Target-3靶子7_回合",
+        "UiShowDistance": 100,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            145
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-3",
+        "target1Pos": [
+            1.3,
+            0,
+            135
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "target1IniPosInPole": 1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 4,
+        "target1PoleRotationRange": 90,
+        "target1PoleRotationPeriod": 10,
+        "target1Euler": "45,-90,-90",
+        "target1MaskPole": "0.15,-0.15,0#1,1,1",
+        "targetArr": {}
+    },
+    "301": {
+        "id": 301,
+        "level": [
+            1
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡1_限时",
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "targetArr": {}
+    },
+    "302": {
+        "id": 302,
+        "level": [
+            2
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡2_限时",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            6.3,
+            0,
+            85
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 12,
+        "target1PathTime": "1#-3.7,0,95,10@6.3,0,95,10",
+        "targetArr": {}
+    },
+    "303": {
+        "id": 303,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡3_限时",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            6.3,
+            0,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1PathTime": "1#-3.7,0,105,10@6.3,0,105,10",
+        "targetArr": {}
+    },
+    "304": {
+        "id": 304,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡4_限时",
+        "UiShowDistance": 100,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            6.3,
+            0,
+            115
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1PathTime": "1#-3.7,0,115,10@6.3,0,115,10",
+        "targetArr": {}
+    },
+    "305": {
+        "id": 305,
+        "level": [
+            1
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡1_回合",
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
+        "targetArr": {}
+    },
+    "306": {
+        "id": 306,
+        "level": [
+            2
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡2_回合",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            6.3,
+            0,
+            85
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 12,
+        "target1PathTime": "1#-3.7,0,95,10@6.3,0,95,10",
+        "targetArr": {}
+    },
+    "307": {
+        "id": 307,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡3_回合",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            6.3,
+            0,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1PathTime": "1#-3.7,0,105,10@6.3,0,105,10",
+        "targetArr": {}
+    },
+    "308": {
+        "id": 308,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "独角兽关卡4_回合",
+        "UiShowDistance": 100,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-13",
+        "target1Pos": [
+            6.3,
+            0,
+            115
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1PathTime": "1#-3.7,0,115,10@6.3,0,115,10",
+        "target2Type": "Target-18",
+        "target2Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "targetArr": {}
+    },
+    "501": {
+        "id": 501,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板1_限时",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-19",
+        "target1Pos": [
+            1.3,
+            -1,
+            95
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "502": {
+        "id": 502,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板2_限时",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-19",
+        "target1Pos": [
+            1.3,
+            -1,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "503": {
+        "id": 503,
+        "level": [
+            5
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板3_限时",
+        "UiShowDistance": 60,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-20",
+        "target1Pos": [
+            1.3,
+            -1,
+            115
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
+        "target1MaskPole": "0.175,-0.175,0#1.05,1.05,1.05",
+        "targetArr": {}
+    },
+    "504": {
+        "id": 504,
+        "level": [
+            6
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板4_限时",
+        "UiShowDistance": 70,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-20",
+        "target1Pos": [
+            1.3,
+            -1,
+            125
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1MaskPole": "0.175,-0.175,0#1.15,1.15,1.15",
+        "targetArr": {}
+    },
+    "505": {
+        "id": 505,
+        "level": [
+            7
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板5_限时",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-20",
+        "target1Pos": [
+            1.3,
+            -1,
+            135
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1MaskPole": "0.2,-0.2,0#1.25,1.25,1.25",
+        "targetArr": {}
+    },
+    "506": {
+        "id": 506,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板1_回合",
+        "UiShowDistance": 40,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-19",
+        "target1Pos": [
+            1.3,
+            -1,
+            95
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "507": {
+        "id": 507,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板2_回合",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-19",
+        "target1Pos": [
+            1.3,
+            -1,
+            105
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "targetArr": {}
+    },
+    "508": {
+        "id": 508,
+        "level": [
+            5
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板3_回合",
+        "UiShowDistance": 60,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-20",
+        "target1Pos": [
+            1.3,
+            -1,
+            115
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 15,
+        "target1MaskPole": "0.175,-0.175,0#1.05,1.05,1.05",
+        "targetArr": {}
+    },
+    "509": {
+        "id": 509,
+        "level": [
+            6
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板4_回合",
+        "UiShowDistance": 70,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-20",
+        "target1Pos": [
+            1.3,
+            -1,
+            125
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1MaskPole": "0.175,-0.175,0#1.15,1.15,1.15",
+        "targetArr": {}
+    },
+    "510": {
+        "id": 510,
+        "level": [
+            7
+        ],
+        "shootScore": 0,
+        "missionDescription": "跷跷板5_回合",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 1,
+        "pvpMissionTypeDetail": 3,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-20",
+        "target1Pos": [
+            1.3,
+            -1,
+            135
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 10,
+        "target1MaskPole": "0.2,-0.2,0#1.25,1.25,1.25",
+        "targetArr": {}
+    },
+    "601": {
+        "id": 601,
+        "level": [
+            2
+        ],
+        "shootScore": 0,
+        "missionDescription": "扭头香肠人1_限时",
+        "UiShowDistance": 30,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-21",
+        "target1Pos": [
+            0.6,
+            -1,
+            75
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target2Type": "Target-15",
+        "target2Pos": [
+            0.6,
+            0,
+            75.5
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target2PathTime": "1#0.6,0,75.6,4@0.6,0,75.5,4#1,2,4",
+        "targetArr": {}
+    },
+    "602": {
+        "id": 602,
+        "level": [
+            3
+        ],
+        "shootScore": 0,
+        "missionDescription": "扭头香肠人2_限时",
+        "UiShowDistance": 50,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            95
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-21",
+        "target1Pos": [
+            -1.7,
+            -1,
+            75
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target2Type": "Target-15",
+        "target2Pos": [
+            -1.58,
+            0,
+            75.5
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target2PathTime": "1#-1.58,0,75.6,4@-1.58,0,75.5,4#2,3,4",
+        "target3Type": "Target-21",
+        "target3Pos": [
+            4.3,
+            -1,
+            75
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "target4Type": "Target-15",
+        "target4Pos": [
+            4.3,
+            0,
+            75.5
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 1,
+        "target4PathTime": "1#4.3,0,75.6,4@4.3,0,75.5,4#1,1,2",
+        "targetArr": {}
+    },
+    "603": {
+        "id": 603,
+        "level": [
+            4
+        ],
+        "shootScore": 0,
+        "missionDescription": "扭头香肠人3_限时",
+        "UiShowDistance": 60,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            105
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-15",
+        "target1Pos": [
+            1.3,
+            0,
+            95.1
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1PathTime": "1###-3.7,1,6.3,1@@",
+        "target2Type": "Target-18",
+        "target2Pos": [
+            -1.2,
+            -1,
+            95
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target3Type": "Target-18",
+        "target3Pos": [
+            3.8,
+            -1,
+            95
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "targetArr": {}
+    },
+    "604": {
+        "id": 604,
+        "level": [
+            5
+        ],
+        "shootScore": 0,
+        "missionDescription": "扭头香肠人4_限时",
+        "UiShowDistance": 70,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            115
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-15",
+        "target1Pos": [
+            1.3,
+            0,
+            105.1
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1PathTime": "1###-3.7,1.5,6.3,1.5@@",
+        "target2Type": "Target-6",
+        "target2Pos": [
+            -1.2,
+            -1,
+            105
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 2,
+        "target2FallDownPeriod": 5,
+        "target3Type": "Target-7",
+        "target3Pos": [
+            1.3,
+            -1,
+            105
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 2,
+        "target3FallDownPeriod": 6,
+        "target4Type": "Target-4",
+        "target4Pos": [
+            3.8,
+            -1,
+            105
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 2,
+        "target4FallDownPeriod": 8,
+        "targetArr": {}
+    },
+    "605": {
+        "id": 605,
+        "level": [
+            6
+        ],
+        "shootScore": 0,
+        "missionDescription": "扭头香肠人5_限时",
+        "UiShowDistance": 80,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-15",
+        "target1Pos": [
+            1.3,
+            0,
+            105.5
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target1PathTime": "1###-3.7,1.5,6.3,1.5@@",
+        "target2Type": "Target-6",
+        "target2Pos": [
+            -1.2,
+            -1,
+            105
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 2,
+        "target2FallDownPeriod": 4,
+        "target3Type": "Target-6",
+        "target3Pos": [
+            1.3,
+            -1,
+            105
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 2,
+        "target3FallDownPeriod": 3,
+        "target4Type": "Target-6",
+        "target4Pos": [
+            3.8,
+            -1,
+            105
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 2,
+        "target4FallDownPeriod": 2.5,
+        "targetArr": {}
+    },
+    "606": {
+        "id": 606,
+        "level": [
+            7
+        ],
+        "shootScore": 0,
+        "missionDescription": "扭头香肠人6_限时",
+        "UiShowDistance": 100,
+        "scene": 1,
+        "gravity": 20,
+        "pvpMissionType": 0,
+        "pvpMissionTypeDetail": 30,
+        "targetExtra1Type": "Target-2",
+        "targetExtra1Pos": [
+            1.3,
+            0,
+            135
+        ],
+        "targetExtra1Scale": [
+            1
+        ],
+        "targetExtra1MoveType": 0,
+        "targetExtra1MovePeriod": -1,
+        "targetExtra1MoveDistance1": 0,
+        "targetExtra1MoveDistance2": 0,
+        "targetExtra1FallDownType": 1,
+        "pvpExtraTimetargetArr": {},
+        "target1Type": "Target-21",
+        "target1Pos": [
+            -2.4,
+            -1,
+            75
+        ],
+        "target1Scale": [
+            1
+        ],
+        "target1MoveType": 0,
+        "target1MovePeriod": -1,
+        "target1MoveDistance1": 0,
+        "target1MoveDistance2": 0,
+        "target1FallDownType": 1,
+        "target2Type": "Target-15",
+        "target2Pos": [
+            -2.5,
+            0,
+            75.5
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target2PathTime": "1#-2.5,0,75.6,4@-2.5,0,75.5,4#1,1,2",
+        "target3Type": "Target-21",
+        "target3Pos": [
+            5,
+            -1,
+            75
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "target4Type": "Target-15",
+        "target4Pos": [
+            5.2,
+            0,
+            75.5
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 1,
+        "target4PathTime": "1#5.2,0,75.5,4@5.2,0,75.5,4#2,3,4",
+        "target5Type": "Target-6",
+        "target5Pos": [
+            -2.4,
+            -1,
+            75.2
+        ],
+        "target5Scale": [
+            1
+        ],
+        "target5MoveType": 0,
+        "target5MovePeriod": -1,
+        "target5MoveDistance1": 0,
+        "target5MoveDistance2": 0,
+        "target5FallDownType": 1,
+        "target5PathTime": "1#-2.4,-1,75.2,5@-2.7,-1,75.2,0.25@-2.7,-1,75.2,0.5@-2.4,-1,75.2,0.25@-2.4,-1,75.2,2",
+        "target6Type": "Target-6",
+        "target6Pos": [
+            4.9,
+            -1,
+            75.2
+        ],
+        "target6Scale": [
+            1
+        ],
+        "target6MoveType": 0,
+        "target6MovePeriod": -1,
+        "target6MoveDistance1": 0,
+        "target6MoveDistance2": 0,
+        "target6FallDownType": 1,
+        "target6PathTime": "1#4.9,-1,75.2,3@5.3,-1,75.2,0.25@5.3,-1,75.2,0.5@4.9,-1,75.2,0.25@4.9,-1,75.2,4",
+        "targetArr": {}
+    }
+}
