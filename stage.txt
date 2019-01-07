@@ -5609,7 +5609,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1###-0.2,1,6.1.8@@",
+        "target2PathTime": "1###-0.2,1,2.7,1@@",
         "targetArr": "1046,1128",
         "gravity": 20,
         "starLimit": 0,
