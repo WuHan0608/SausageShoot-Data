@@ -1,19 +1,8 @@
 {
    "mission": {
-      "daily_login": {
-         "name": "daily_login",
-         "level": [
-            1
-         ],
-         "item": {
-            "1": {
-               "must": 1,
-               "box": 1
-            }
-         }
-      },
       "daily_pve": {
          "name": "daily_pve",
+         "show": "每日PVE挑战",
          "level": [
             3
          ],
@@ -26,6 +15,7 @@
       },
       "daily_pvp": {
          "name": "daily_pvp",
+         "show": "每日PVP挑战",
          "level": [
             3
          ],
@@ -38,6 +28,7 @@
       },
       "daily_game_share": {
          "name": "daily_game_share",
+         "show": "分享游戏",
          "level": [
             2
          ],
@@ -50,6 +41,7 @@
       },
       "daily_box_open": {
          "name": "daily_box_open",
+         "show": "打开宝箱",
          "level": [
             1
          ],
@@ -62,6 +54,7 @@
       },
       "daily_high_score": {
          "name": "daily_high_score",
+         "show": "射击高手",
          "level": [
             5,
             10
@@ -79,6 +72,7 @@
       },
       "daily_active": {
          "name": "daily_active",
+         "show": "活跃宝箱",
          "level": [
             30,
             60,
@@ -101,27 +95,10 @@
       }
    },
    "box": {
-      "1": [
-         {
-            "type": "Gold",
-            "number": 500,
-            "weight": -1
-         },
-         {
-            "type": "Activation",
-            "number": 10,
-            "weight": -1
-         }
-      ],
       "2": [
          {
             "type": "Gold",
             "number": 1000,
-            "weight": -1
-         },
-         {
-            "type": "Exp",
-            "number": 10,
             "weight": -1
          },
          {
@@ -134,11 +111,6 @@
          {
             "type": "Gold",
             "number": 1000,
-            "weight": -1
-         },
-         {
-            "type": "Exp",
-            "number": 10,
             "weight": -1
          },
          {
@@ -178,11 +150,6 @@
             "weight": -1
          },
          {
-            "type": "Exp",
-            "number": 10,
-            "weight": -1
-         },
-         {
             "type": "Activation",
             "number": 10,
             "weight": -1
@@ -192,11 +159,6 @@
          {
             "type": "Gold",
             "number": 1000,
-            "weight": -1
-         },
-         {
-            "type": "Exp",
-            "number": 10,
             "weight": -1
          },
          {
@@ -210,11 +172,6 @@
             "type": "Gold",
             "number": 1000,
             "weight": -1
-         },
-         {
-            "type": "Exp",
-            "number": 10,
-            "weight": -1
          }
       ],
       "9": [
@@ -222,22 +179,12 @@
             "type": "Gold",
             "number": 2000,
             "weight": -1
-         },
-         {
-            "type": "Exp",
-            "number": 10,
-            "weight": -1
          }
       ],
       "10": [
          {
             "type": "Gold",
             "number": 5000,
-            "weight": -1
-         },
-         {
-            "type": "Exp",
-            "number": 20,
             "weight": -1
          },
          {
