@@ -3360,7 +3360,7 @@
         "target2Type": "Target-22",
         "target2Pos": [
             1.5,
-            1.75,
+            1.8,
             60
         ],
         "target2Scale": [
