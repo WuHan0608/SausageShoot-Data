@@ -3341,6 +3341,12 @@
         "target55Scale": [
             null
         ],
+        "target56Pos": [
+            null
+        ],
+        "target56Scale": [
+            null
+        ],
         "targetArr": "4901,,4902,4903",
         "gravity": 20,
         "starLimit": 0,
@@ -3385,7 +3391,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1MaskPole": "0.23,-0.23,0.23#1.1,1.1,1.1",
         "targetArr": "4003",
         "gravity": 20,
         "starLimit": 0,
@@ -3769,6 +3775,12 @@
             null
         ],
         "target55Scale": [
+            null
+        ],
+        "target56Pos": [
+            null
+        ],
+        "target56Scale": [
             null
         ],
         "targetArr": "4904,,4905,4906",
