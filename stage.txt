@@ -3403,7 +3403,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1MaskPole": "0.175,-0.175,0#1,1,1",
+        "target1MaskPole": "0.25,-0.25,0#1,1,1",
         "targetArr": "4003",
         "gravity": 20,
         "starLimit": 0,
