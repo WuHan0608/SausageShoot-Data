@@ -2986,9 +2986,9 @@
         "picId": "6",
         "target1Type": "Target-22",
         "target1Pos": [
-            1.3,
+            -1.3,
             -1,
-            86
+            84
         ],
         "target1Scale": [
             1
@@ -3001,9 +3001,9 @@
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "target2Type": "Target-22",
         "target2Pos": [
-            1.3,
+            3.3,
             -1,
-            86
+            84
         ],
         "target2Scale": [
             1
@@ -3104,9 +3104,9 @@
         "picId": "6",
         "target1Type": "Target-22",
         "target1Pos": [
-            1.3,
+            -1.3,
             -1,
-            86
+            84
         ],
         "target1Scale": [
             1
@@ -3118,9 +3118,9 @@
         "target1FallDownType": 1,
         "target2Type": "Target-22",
         "target2Pos": [
-            1.3,
+            3.3,
             -1,
-            86
+            84
         ],
         "target2Scale": [
             1
@@ -5669,7 +5669,7 @@
         "target1FallDownType": 1,
         "target1RotationDirect": 2,
         "target1RotationPeriod": 10,
-        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "target1PathTime": "1###-3.7,0.6,6.3,0.6@@",
         "targetArr": "1048",
         "gravity": 20,
         "starLimit": 0,
@@ -5716,12 +5716,12 @@
         "target1FallDownType": 1,
         "target1RotationDirect": 2,
         "target1RotationPeriod": 10,
-        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "target1PathTime": "1###-3.7,0.65,6.3,0.65@@",
         "target2Type": "Target-18",
         "target2Pos": [
             1.3,
             0,
-            115
+            110
         ],
         "target2Scale": [
             1
@@ -5731,7 +5731,61 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "targetArr": "1049,1050",
+        "target3Type": "Target-18",
+        "target3Pos": [
+            3,
+            0,
+            110
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "target4Type": "Target-18",
+        "target4Pos": [
+            4,
+            7,
+            110
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 1,
+        "target5Type": "Target-18",
+        "target5Pos": [
+            -0.4,
+            110
+        ],
+        "target5Scale": [
+            1
+        ],
+        "target5MoveType": 0,
+        "target5MovePeriod": -1,
+        "target5MoveDistance1": 0,
+        "target5MoveDistance2": 0,
+        "target5FallDownType": 1,
+        "target6Type": "Target-18",
+        "target6Pos": [
+            -2.1,
+            110
+        ],
+        "target6Scale": [
+            1
+        ],
+        "target6MoveType": 0,
+        "target6MovePeriod": -1,
+        "target6MoveDistance1": 0,
+        "target6MoveDistance2": 0,
+        "target6FallDownType": 1,
+        "targetArr": "1049,1050,1120,1121,1122,1123",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -7904,7 +7958,7 @@
         "target1FallDownType": 1,
         "target1RotationDirect": 2,
         "target1RotationPeriod": 10,
-        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "target1PathTime": "1###-3.7,0.6,6.3,0.6@@",
         "targetArr": "1048",
         "gravity": 20,
         "starLimit": 0,
@@ -7951,12 +8005,12 @@
         "target1FallDownType": 1,
         "target1RotationDirect": 2,
         "target1RotationPeriod": 10,
-        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
+        "target1PathTime": "1###-3.7,0.65,6.3,0.65@@",
         "target2Type": "Target-18",
         "target2Pos": [
             1.3,
             0,
-            115
+            110
         ],
         "target2Scale": [
             1
