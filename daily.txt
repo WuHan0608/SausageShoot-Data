@@ -2,7 +2,7 @@
    "mission": {
       "daily_pve": {
          "name": "daily_pve",
-         "show": "每日PVE挑战",
+         "show": "通过***次关卡",
          "level": [
             3
          ],
@@ -15,7 +15,7 @@
       },
       "daily_pvp": {
          "name": "daily_pvp",
-         "show": "每日PVP挑战",
+         "show": "竞技场对战***次",
          "level": [
             3
          ],
@@ -28,7 +28,7 @@
       },
       "daily_game_share": {
          "name": "daily_game_share",
-         "show": "分享游戏",
+         "show": "分享游戏***次",
          "level": [
             2
          ],
@@ -41,7 +41,7 @@
       },
       "daily_box_open": {
          "name": "daily_box_open",
-         "show": "打开宝箱",
+         "show": "打开任意宝箱***次",
          "level": [
             1
          ],
@@ -54,7 +54,7 @@
       },
       "daily_high_score": {
          "name": "daily_high_score",
-         "show": "射击高手",
+         "show": "命中分数达到10分或以上***次",
          "level": [
             5,
             10
