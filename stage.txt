@@ -4964,7 +4964,7 @@
         "target4FallDownPeriod": "6,3,1",
         "target5Type": "Target-6",
         "target5Pos": [
-            0.6,
+            -2.3,
             0,
             80
         ],
@@ -5201,7 +5201,7 @@
         "target1FallDownPeriod": "6,3,1",
         "target2Type": "Target-6",
         "target2Pos": [
-            1.3,
+            -1.3,
             0,
             80
         ],
@@ -10567,7 +10567,7 @@
         "target1FallDownPeriod": "6,3,1",
         "target2Type": "Target-6",
         "target2Pos": [
-            1.3,
+            -1.3,
             0,
             80
         ],
@@ -10918,7 +10918,7 @@
         "target4FallDownPeriod": "6,3,1",
         "target5Type": "Target-6",
         "target5Pos": [
-            0.6,
+            -2.3,
             0,
             80
         ],
