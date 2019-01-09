@@ -5508,7 +5508,7 @@
         "target4Type": "Target-22",
         "target4Pos": [
             3.3,
-            1.8,
+            1.2,
             90
         ],
         "target4Scale": [
@@ -5522,7 +5522,7 @@
         "target5Type": "Target-22",
         "target5Pos": [
             4.5,
-            -0.1,
+            0,
             90
         ],
         "target5Scale": [
@@ -5547,7 +5547,7 @@
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
         "target6FallDownType": 1,
-        "target6PathTime": "1#4.5,0,90.5,0.5@4.5,0,90.5,2@3.3,0,90.5,2@3.3,0,90.5,2",
+        "target6PathTime": "1#4.5,0,90.5,2@4.5,0,90.5,2@3.3,0,90.5,0.5@3.3,0,90.5,2",
         "target7Type": "Target-15",
         "target7Pos": [
             1.3,
