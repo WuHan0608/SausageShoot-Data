@@ -3122,7 +3122,7 @@
         "picId": "6",
         "target1Type": "Target-22",
         "target1Pos": [
-            -2.5,
+            -2.2,
             -1,
             84
         ],
