@@ -5480,7 +5480,7 @@
         "target2Type": "Target-22",
         "target2Pos": [
             1.3,
-            0,
+            0.5,
             100
         ],
         "target2Scale": [
@@ -5508,7 +5508,7 @@
         "target4Type": "Target-22",
         "target4Pos": [
             3.3,
-            0,
+            0.5,
             90
         ],
         "target4Scale": [
@@ -5521,7 +5521,7 @@
         "target4FallDownType": 1,
         "target5Type": "Target-22",
         "target5Pos": [
-            4.3,
+            4.8,
             -1,
             90
         ],
@@ -5537,7 +5537,7 @@
         "target6Pos": [
             3.3,
             0,
-            90.1
+            90.5
         ],
         "target6Scale": [
             1
@@ -5552,7 +5552,7 @@
         "target7Pos": [
             1.3,
             0,
-            100.1
+            100.5
         ],
         "target7Scale": [
             1
