@@ -106,7 +106,7 @@
             ]
         }
     ],
-    "SpecialReward": [
+    "SpecReward": [
         {
             "Season": 1,
             "Reward": [
