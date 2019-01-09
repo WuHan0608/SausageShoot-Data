@@ -1,0 +1,188 @@
+{
+    "BaseReward": [
+        {
+            "Grade": "青铜",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 100000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 50,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Grade": "白银",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 150000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 75,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Grade": "黄金",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 200000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 100,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Grade": "铂金",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 250000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 150,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Grade": "钻石",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 300000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 200,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Grade": "大师",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 400000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 300,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Grade": "王者",
+            "Reward": [
+                {
+                    "Type": "Gold",
+                    "Number": 500000,
+                    "Weight": -1
+                },
+                {
+                    "Type": "Diamond",
+                    "Number": 400,
+                    "Weight": -1
+                }
+            ]
+        }
+    ],
+    "SpecialReward": [
+        {
+            "Season": 1,
+            "Reward": [
+                {
+                    "Type": "Fashion",
+                    "Number": 222,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Season": 2,
+            "Reward": [
+                {
+                    "Type": "Fashion",
+                    "Number": 320,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Season": 3,
+            "Reward": [
+                {
+                    "Type": "Fashion",
+                    "Number": 407,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Season": 4,
+            "Reward": [
+                {
+                    "Type": "Fashion",
+                    "Number": 521,
+                    "Weight": -1
+                }
+            ]
+        },
+        {
+            "Season": 5,
+            "Reward": [
+                {
+                    "Type": "Fashion",
+                    "Number": 614,
+                    "Weight": -1
+                }
+            ]
+        }
+    ],
+    "SeasonTime": [
+        {
+            "Season": 1,
+            "StartTime": 20190106,
+            "EndTime": 20190131
+        },
+        {
+            "Season": 2,
+            "StartTime": 20190201,
+            "EndTime": 20190228
+        },
+        {
+            "Season": 3,
+            "StartTime": 20190301,
+            "EndTime": 20190331
+        },
+        {
+            "Season": 4,
+            "StartTime": 20190401,
+            "EndTime": 20190430
+        },
+        {
+            "Season": 5,
+            "StartTime": 20190501,
+            "EndTime": 20190531
+        }
+    ]
+}
