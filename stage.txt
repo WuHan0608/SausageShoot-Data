@@ -5470,7 +5470,7 @@
             100
         ],
         "target1Scale": [
-            1
+            1.5
         ],
         "target1MoveType": 0,
         "target1MovePeriod": -1,
@@ -5484,7 +5484,7 @@
             100
         ],
         "target2Scale": [
-            1
+            1.5
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
@@ -5498,7 +5498,7 @@
             90
         ],
         "target3Scale": [
-            1
+            1.5
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
