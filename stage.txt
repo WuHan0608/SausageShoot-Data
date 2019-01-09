@@ -3122,7 +3122,7 @@
         "picId": "6",
         "target1Type": "Target-22",
         "target1Pos": [
-            -3.3,
+            -2.3,
             -1,
             84
         ],
@@ -3136,7 +3136,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-22",
         "target2Pos": [
-            5.3,
+            4.3,
             -1,
             84
         ],
