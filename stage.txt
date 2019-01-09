@@ -5537,7 +5537,7 @@
         "target6Pos": [
             3.3,
             0,
-            91
+            90.1
         ],
         "target6Scale": [
             1
@@ -5548,12 +5548,11 @@
         "target6MoveDistance2": 0,
         "target6FallDownType": 1,
         "target6PathTime": "1#4.3,0,91,1@4.3,0,91,2@3.3,0,91,1@3.3,0,91,2",
-        "target6Hp": 200,
         "target7Type": "Target-15",
         "target7Pos": [
             1.3,
             0,
-            101
+            100.1
         ],
         "target7Scale": [
             1
@@ -5564,7 +5563,6 @@
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
         "target7PathTime": "1###0.3,1,2.3@@",
-        "target7Hp": 200,
         "targetArr": "6305,6306,6307,6308,6309,6310,6311",
         "gravity": 20,
         "starLimit": 0,
