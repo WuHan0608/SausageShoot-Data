@@ -1,7 +1,7 @@
 {
     "BaseReward": [
         {
-            "Grade": "青铜",
+            "Grade": 1,
             "Reward": [
                 {
                     "Type": "Gold",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "Grade": "白银",
+            "Grade": 2,
             "Reward": [
                 {
                     "Type": "Gold",
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "Grade": "黄金",
+            "Grade": 3,
             "Reward": [
                 {
                     "Type": "Gold",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "Grade": "铂金",
+            "Grade": 4,
             "Reward": [
                 {
                     "Type": "Gold",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "Grade": "钻石",
+            "Grade": 5,
             "Reward": [
                 {
                     "Type": "Gold",
@@ -76,7 +76,7 @@
             ]
         },
         {
-            "Grade": "大师",
+            "Grade": 6,
             "Reward": [
                 {
                     "Type": "Gold",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "Grade": "王者",
+            "Grade": 7,
             "Reward": [
                 {
                     "Type": "Gold",
