@@ -7388,7 +7388,7 @@
         "target2Pos": [
             3.8,
             3.2,
-            150
+            130
         ],
         "target2Scale": [
             1
@@ -7398,7 +7398,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-1.2,3.2,150,10@3.8,3.2,150,10",
+        "target2PathTime": "1#-1.2,3.2,130,10@3.8,3.2,130,10",
         "targetArr": "6502,6503",
         "gravity": 20,
         "starLimit": 0,
