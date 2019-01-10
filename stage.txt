@@ -7386,7 +7386,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            3.8,
+            6.8,
             3.5,
             122
         ],
@@ -7398,7 +7398,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-1.2,3.5,122,10@3.8,3.5,122,10",
+        "target2PathTime": "1#-1.2,3.5,122,15@6.8,3.5,122,15",
         "targetArr": "6502,6503",
         "gravity": 20,
         "starLimit": 0,
