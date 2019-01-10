@@ -184,5 +184,123 @@
             "StartTime": 20190501,
             "EndTime": 20190531
         }
+    ],
+    "InheritScore": [
+        {
+            "Score": 0,
+            "InheritScore": 1000
+        },
+        {
+            "Score": 1166,
+            "InheritScore": 1166
+        },
+        {
+            "Score": 1333,
+            "InheritScore": 1333
+        },
+        {
+            "Score": 1500,
+            "InheritScore": 1500
+        },
+        {
+            "Score": 1666,
+            "InheritScore": 1666
+        },
+        {
+            "Score": 1833,
+            "InheritScore": 1833
+        },
+        {
+            "Score": 2000,
+            "InheritScore": 2000
+        },
+        {
+            "Score": 2125,
+            "InheritScore": 2000
+        },
+        {
+            "Score": 2250,
+            "InheritScore": 2125
+        },
+        {
+            "Score": 2375,
+            "InheritScore": 2250
+        },
+        {
+            "Score": 2500,
+            "InheritScore": 2375
+        },
+        {
+            "Score": 2625,
+            "InheritScore": 2500
+        },
+        {
+            "Score": 2750,
+            "InheritScore": 2500
+        },
+        {
+            "Score": 2875,
+            "InheritScore": 2625
+        },
+        {
+            "Score": 3000,
+            "InheritScore": 2750
+        },
+        {
+            "Score": 3100,
+            "InheritScore": 2750
+        },
+        {
+            "Score": 3200,
+            "InheritScore": 2875
+        },
+        {
+            "Score": 3300,
+            "InheritScore": 2875
+        },
+        {
+            "Score": 3400,
+            "InheritScore": 3000
+        },
+        {
+            "Score": 3500,
+            "InheritScore": 3000
+        },
+        {
+            "Score": 3600,
+            "InheritScore": 3100
+        },
+        {
+            "Score": 3700,
+            "InheritScore": 3100
+        },
+        {
+            "Score": 3800,
+            "InheritScore": 3200
+        },
+        {
+            "Score": 3900,
+            "InheritScore": 3200
+        },
+        {
+            "Score": 4000,
+            "InheritScore": 3300
+        },
+        {
+            "Score": 4200,
+            "InheritScore": 3400
+        },
+        {
+            "Score": 4400,
+            "InheritScore": 3500
+        },
+        {
+            "Score": 5000,
+            "InheritScore": 3600
+        },
+        {
+            "Score": 6000,
+            "InheritScore": 3700
+        }
     ]
 }
