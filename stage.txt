@@ -7384,7 +7384,21 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "targetArr": "6502",
+        "target2Type": "Target-15",
+        "target2Pos": [
+            1.3,
+            5,
+            80
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": 24,
+        "target2MoveDistance1": 2,
+        "target2MoveDistance2": 4,
+        "target2FallDownType": 1,
+        "targetArr": "6502,6503",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
