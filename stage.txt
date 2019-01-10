@@ -4232,7 +4232,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            0.6,
+            0.7,
             0,
             90.5
         ],
@@ -6322,7 +6322,7 @@
         "target2Type": "Target-21",
         "target2Pos": [
             4.3,
-            -1,
+            0,
             75
         ],
         "target2Scale": [
@@ -6396,7 +6396,7 @@
         "target2Type": "Target-21",
         "target2Pos": [
             1.3,
-            -1,
+            0,
             80
         ],
         "target2Scale": [
@@ -6844,7 +6844,7 @@
         "target1Type": "Target-21",
         "target1Pos": [
             0.6,
-            -1,
+            0,
             75
         ],
         "target1Scale": [
@@ -7388,7 +7388,7 @@
         "target2Pos": [
             3.8,
             3.2,
-            121
+            150
         ],
         "target2Scale": [
             1
@@ -7398,7 +7398,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-1.2,3.2,121,10@3.8,3.2,121,10",
+        "target2PathTime": "1#-1.2,3.2,150,10@3.8,3.2,150,10",
         "targetArr": "6502,6503",
         "gravity": 20,
         "starLimit": 0,
@@ -8463,7 +8463,7 @@
         "target2Type": "Target-21",
         "target2Pos": [
             4.3,
-            -1,
+            0,
             75
         ],
         "target2Scale": [
@@ -8537,7 +8537,7 @@
         "target2Type": "Target-21",
         "target2Pos": [
             1.3,
-            -1,
+            0,
             80
         ],
         "target2Scale": [
@@ -8985,7 +8985,7 @@
         "target1Type": "Target-21",
         "target1Pos": [
             0.6,
-            -1,
+            0,
             75
         ],
         "target1Scale": [
@@ -10101,7 +10101,7 @@
         "target1Type": "Target-21",
         "target1Pos": [
             0.6,
-            -1,
+            0,
             75
         ],
         "target1Scale": [
@@ -12287,7 +12287,7 @@
         "target1Type": "Target-21",
         "target1Pos": [
             0.6,
-            -1,
+            0,
             75
         ],
         "target1Scale": [
