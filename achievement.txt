@@ -2,7 +2,7 @@
    "mission": {
       "pvp_num": {
          "name": "pvp_num",
-         "show": "射击老手",
+         "show": "竞技场中累计对战***场",
          "level": [
             10,
             20,
@@ -65,7 +65,7 @@
       },
       "pvp_num_win": {
          "name": "pvp_num_win",
-         "show": "突击高手",
+         "show": "竞技场累计获胜***场",
          "level": [
             10,
             20,
@@ -118,7 +118,7 @@
       },
       "winning_streak": {
          "name": "winning_streak",
-         "show": "连战连胜！",
+         "show": "白金等级或以上时竞技场中连续获胜***场",
          "level": [
             3,
             5,
@@ -141,7 +141,7 @@
       },
       "pvp_round_win": {
          "name": "pvp_round_win",
-         "show": "回合制大师",
+         "show": "竞技场的回合模式中累计获胜***场",
          "level": [
             7,
             15,
@@ -199,7 +199,7 @@
       },
       "pvp_time_win": {
          "name": "pvp_time_win",
-         "show": "即时制大师",
+         "show": "竞技场的即时模式中累计获胜***场",
          "level": [
             7,
             15,
@@ -257,7 +257,7 @@
       },
       "pvp_ot_win": {
          "name": "pvp_ot_win",
-         "show": "加时赛大师",
+         "show": "竞技场的加时赛中累计获胜***场",
          "level": [
             5,
             10,
@@ -305,7 +305,7 @@
       },
       "pve_star_num": {
          "name": "pve_star_num",
-         "show": "闯关达人",
+         "show": "单人闯关中累计总星数达***星",
          "level": [
             6,
             15,
@@ -398,7 +398,7 @@
       },
       "pve_fullstar_num": {
          "name": "pve_fullstar_num",
-         "show": "高端玩家！",
+         "show": "单人闯关中累计***个满星关卡",
          "level": [
             3,
             6,
@@ -501,7 +501,7 @@
       },
       "box_open": {
          "name": "box_open",
-         "show": "开箱有喜",
+         "show": "累计打开宝箱***次",
          "level": [
             10,
             20,
@@ -549,7 +549,7 @@
       },
       "box_legendary_equipment": {
          "name": "box_legendary_equipment",
-         "show": "人品不错哟",
+         "show": "累计从宝箱中获得传说时装***次",
          "level": [
             1,
             2,
@@ -592,7 +592,7 @@
       },
       "game_share": {
          "name": "game_share",
-         "show": "分享游戏",
+         "show": "累计分享游戏***天",
          "level": [
             2,
             5,
@@ -625,7 +625,7 @@
       },
       "battle_bullseye": {
          "name": "battle_bullseye",
-         "show": "精准射击手",
+         "show": "命中分数达到10分或以上累计***次",
          "level": [
             20,
             50,
