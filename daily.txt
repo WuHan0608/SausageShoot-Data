@@ -1,5 +1,18 @@
 {
    "mission": {
+      "daily_login": {
+         "name": "daily_login",
+         "show": "每日登录",
+         "level": [
+            0
+         ],
+         "item": {
+            "0": {
+               "must": 0,
+               "box": 1
+            }
+         }
+      },
       "daily_pve": {
          "name": "daily_pve",
          "show": "通过***次关卡",
@@ -95,6 +108,18 @@
       }
    },
    "box": {
+      "1": [
+         {
+            "type": "Gold",
+            "number": 500,
+            "weight": -1
+         },
+         {
+            "type": "Activation",
+            "number": 10,
+            "weight": -1
+         }
+      ],
       "2": [
          {
             "type": "Gold",
