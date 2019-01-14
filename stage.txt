@@ -12818,7 +12818,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1###@@135,6,105,6",
+        "target1PathTime": "1###-3.7,0.5,6.3,0.5@@135,6,105,6",
         "targetArr": "1140",
         "gravity": 20,
         "starLimit": 0,
