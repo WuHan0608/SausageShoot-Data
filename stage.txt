@@ -6221,7 +6221,7 @@
         "target1Pos": [
             1.3,
             0,
-            165
+            65
         ],
         "target1Scale": [
             1
@@ -6235,7 +6235,7 @@
         "target2Pos": [
             -1.3,
             0,
-            166
+            66
         ],
         "target2Scale": [
             1
@@ -6252,7 +6252,7 @@
         "target3Pos": [
             1.3,
             0,
-            166
+            66
         ],
         "target3Scale": [
             1
@@ -6269,7 +6269,7 @@
         "target4Pos": [
             3.3,
             0,
-            166
+            66
         ],
         "target4Scale": [
             1
