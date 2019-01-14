@@ -6238,7 +6238,7 @@
             76
         ],
         "target2Scale": [
-            1.4
+            2
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
