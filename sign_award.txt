@@ -1,0 +1,37 @@
+[
+    {
+        "date": 1,
+        "type": "Gold",
+        "number": 1000
+    },
+    {
+        "date": 2,
+        "type": "Diamond",
+        "number": 20
+    },
+    {
+        "date": 3,
+        "type": "TreasureFragment",
+        "number": 25
+    },
+    {
+        "date": 4,
+        "type": "Gold",
+        "number": 5000
+    },
+    {
+        "date": 5,
+        "type": "Gold",
+        "number": 10000
+    },
+    {
+        "date": 6,
+        "type": "LegendFragment",
+        "number": 15
+    },
+    {
+        "date": 7,
+        "type": "Diamond",
+        "number": 50
+    }
+]
