@@ -13265,7 +13265,7 @@
         "target2Type": "Target-22",
         "target2Pos": [
             1.3,
-            0.3,
+            0,
             144
         ],
         "target2Scale": [
