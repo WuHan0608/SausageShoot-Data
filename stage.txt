@@ -8476,7 +8476,7 @@
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
-        "target1PoleRotationDirect": 1,
+        "target1PoleRotationDirect": 3,
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 10,
         "targetArr": "1039",
@@ -11065,7 +11065,7 @@
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
-        "target1PoleRotationDirect": 1,
+        "target1PoleRotationDirect": 3,
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 10,
         "targetArr": "1039",
@@ -12934,7 +12934,7 @@
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
-        "target1PoleRotationDirect": 1,
+        "target1PoleRotationDirect": 3,
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 10,
         "targetArr": "1039",
@@ -13286,18 +13286,18 @@
         "target1FallDownType": 1,
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
-        "target1PoleRotationDirect": 1,
+        "target1PoleRotationDirect": 3,
         "target1PoleRotationRange": 360,
         "target1PoleRotationPeriod": 10,
         "target1Euler": "-135,-90,-90",
         "target2Type": "Target-22",
         "target2Pos": [
             1.3,
-            0,
-            145
+            0.3,
+            144
         ],
         "target2Scale": [
-            1
+            1.5
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
