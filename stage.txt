@@ -6221,7 +6221,7 @@
         "target1Pos": [
             1.3,
             0,
-            85
+            75
         ],
         "target1Scale": [
             1
@@ -6235,7 +6235,7 @@
         "target2Pos": [
             -1.3,
             0,
-            86
+            76
         ],
         "target2Scale": [
             1
@@ -6245,14 +6245,14 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1###@1,1,0,0.5,20;1.2,1,0,1,100@",
+        "target2PathTime": "1###@1,0.5,0,0.25,20;1.2,0.5,0,0.5,100@",
         "target2FaceInfo": "34,100,10",
-        "target2MoveDelay": "@1,4,0,0;1,4,2,4@",
+        "target2MoveDelay": "@1,2,0,0;1,2,1,1@",
         "target3Type": "Target-15",
         "target3Pos": [
             1.3,
             0,
-            86
+            76
         ],
         "target3Scale": [
             1
@@ -6262,14 +6262,14 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3PathTime": "1###@1,1,0,0.5,20;1.2,1,0,1,100@",
+        "target3PathTime": "1###@1,0.5,0,0.25,20;1.2,0.5,0,0.5,100@",
         "target3FaceInfo": "34,100,10",
-        "target3MoveDelay": "@1,4,0,0;1,4,2,4@",
+        "target3MoveDelay": "@1,2,0,0;1,2,1,1@",
         "target4Type": "Target-15",
         "target4Pos": [
             3.3,
             0,
-            86
+            76
         ],
         "target4Scale": [
             1
@@ -6279,9 +6279,9 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4PathTime": "1###@1,1,0,0.5,20;1.2,1,0,1,100@",
+        "target4PathTime": "1###@1,0.5,0,0.25,20;1.2,0.5,0,0.5,100@",
         "target4FaceInfo": "34,100,10",
-        "target4MoveDelay": "@1,4,0,0;1,4,2,4@",
+        "target4MoveDelay": "@1,2,0,0;1,2,1,1@",
         "targetArr": "6800,6801,6802,6803",
         "gravity": 20,
         "starLimit": 0,
@@ -10776,7 +10776,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1###-2.3,1@4.3,1",
+        "target1PathTime": "1#4.3,0,105,3@4.3,10,105,3",
         "targetArr": "1229",
         "gravity": 20,
         "starLimit": 0,
