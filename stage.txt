@@ -13283,7 +13283,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "0#-8.7,0,95,6.7@10.3,0,95,6.7",
+        "target2PathTime": "0#-8.7,10,95,6.7@10.3,0,95,6.7",
         "target3Type": "Target-17",
         "target3Pos": [
             -8.7,
@@ -13298,7 +13298,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3PathTime": "0#10.3,0,95,9.3@-8.7,0,95.9.3",
+        "target3PathTime": "0#10.3,14,95,9.3@-8.7,0,95.9.3",
         "targetArr": "1144,1145,1146",
         "gravity": 20,
         "starLimit": 0,
