@@ -1123,7 +1123,7 @@
         "target2Type": "Target-26",
         "target2Pos": [
             1.7,
-            0,
+            1,
             121
         ],
         "target2Scale": [
@@ -1138,7 +1138,7 @@
         "target3Type": "Target-26",
         "target3Pos": [
             -4.3,
-            0,
+            1,
             122
         ],
         "target3Scale": [
@@ -2844,11 +2844,11 @@
         "scene": 1,
         "UiShowDistance": 70,
         "picId": "14",
-        "target1Type": "Target-7",
+        "target1Type": "Target-26",
         "target1Pos": [
             1.3,
-            0,
-            125
+            1,
+            120
         ],
         "target1Scale": [
             1
@@ -2858,12 +2858,12 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 3,
-        "target1PathTime": "1###0,0,0,0@@60,1",
-        "target2Type": "Target-7",
+        "target1PathTime": "1###-0.7,0.8,3.3,0.8@@60,2",
+        "target2Type": "Target-28",
         "target2Pos": [
-            3.3,
+            -3.7,
             0,
-            115
+            121
         ],
         "target2Scale": [
             1
@@ -2873,10 +2873,10 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 3,
-        "target2PathTime": "1###-2,0.5,2,0.5@@60,1.5",
-        "target3Type": "Target-7",
+        "target2PathTime": "1###0,0,0,0@@60,2",
+        "target3Type": "Target-28",
         "target3Pos": [
-            -0.7,
+            6.3,
             0,
             125
         ],
@@ -2888,13 +2888,12 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 3,
-        "target3FallDownPeriod": 5,
-        "target3PathTime": "1###0,0,0,0@@60,1",
-        "target4Type": "Target-7",
+        "target3PathTime": "1###0,0,0,0@@60,2",
+        "target4Type": "Target-27",
         "target4Pos": [
-            -2.3,
+            6.3,
             0,
-            117
+            121
         ],
         "target4Scale": [
             1
@@ -2904,6 +2903,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 3,
+        "target4FallDownPeriod": 5,
         "target4PathTime": "1###-2,0.5,2,0.5@@60,1",
         "targetArr": "6100,6101,6102,6103",
         "gravity": 20,
@@ -5757,6 +5757,7 @@
         "target6FallDownType": 1,
         "target6PathTime": "1###-4.3,1,1.3,1@@",
         "target6Hp": 200,
+        "target6EquipInfo": "1@1@1",
         "target7Type": "Target-15",
         "target7Pos": [
             1.3,
@@ -15902,13 +15903,13 @@
         "target75Scale": [
             null
         ],
-        "target75PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target76Pos": [
             null
         ],
         "target76Scale": [
             null
         ],
+        "target76PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target77Pos": [
             null
         ],
@@ -15961,6 +15962,12 @@
             null
         ],
         "target85Scale": [
+            null
+        ],
+        "target86Pos": [
+            null
+        ],
+        "target86Scale": [
             null
         ],
         "targetArr": "",
@@ -16448,13 +16455,13 @@
         "target75Scale": [
             null
         ],
-        "target75PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target76Pos": [
             null
         ],
         "target76Scale": [
             null
         ],
+        "target76PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target77Pos": [
             null
         ],
@@ -16507,6 +16514,12 @@
             null
         ],
         "target85Scale": [
+            null
+        ],
+        "target86Pos": [
+            null
+        ],
+        "target86Scale": [
             null
         ],
         "targetArr": "",
@@ -17372,13 +17385,13 @@
         "target75Scale": [
             null
         ],
-        "target75PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target76Pos": [
             null
         ],
         "target76Scale": [
             null
         ],
+        "target76PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target77Pos": [
             null
         ],
@@ -17431,6 +17444,12 @@
             null
         ],
         "target85Scale": [
+            null
+        ],
+        "target86Pos": [
+            null
+        ],
+        "target86Scale": [
             null
         ],
         "targetArr": "",
@@ -17918,13 +17937,13 @@
         "target75Scale": [
             null
         ],
-        "target75PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target76Pos": [
             null
         ],
         "target76Scale": [
             null
         ],
+        "target76PathTime": "1#3,15,95,8@-3,0,93,8#0,2,7",
         "target77Pos": [
             null
         ],
@@ -17977,6 +17996,12 @@
             null
         ],
         "target85Scale": [
+            null
+        ],
+        "target86Pos": [
+            null
+        ],
+        "target86Scale": [
             null
         ],
         "targetArr": "",
