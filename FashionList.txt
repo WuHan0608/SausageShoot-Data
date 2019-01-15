@@ -2,7 +2,7 @@
     "101": {
         "id": 101,
         "type": 1,
-        "name": "黑",
+        "name": "黄",
         "mark": "Complexion_1",
         "quality": 1,
         "to_normal_fragment": 0,
@@ -34,7 +34,7 @@
     "103": {
         "id": 103,
         "type": 1,
-        "name": "黄",
+        "name": "黑",
         "mark": "Complexion_3",
         "quality": 1,
         "to_normal_fragment": 0,
@@ -138,7 +138,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.3,
+            "gunBufferMagnify": 0.4,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -154,7 +154,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.5,
+            "gunBufferMagnify": 0.8,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -202,7 +202,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.3,
+            "gunBufferMagnify": 0.4,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -218,7 +218,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.5,
+            "gunBufferMagnify": 0.8,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -234,7 +234,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.3,
+            "gunBufferMagnify": 0.4,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -250,7 +250,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.3,
+            "gunBufferMagnify": 0.4,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -298,23 +298,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.4,
-            "gunBufferAim": 0,
-            "gunBufferReloadSpeed": 0
-        }
-    },
-    "217": {
-        "id": 217,
-        "type": 2,
-        "name": "摇摆松鼠尾",
-        "mark": "Hair_36",
-        "quality": 3,
-        "to_normal_fragment": 20,
-        "to_legend_fragment": 4,
-        "buffer": {
-            "gunBufferBulletSpeed": 0,
-            "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.3,
+            "gunBufferMagnify": 0.6,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -324,9 +308,9 @@
         "type": 2,
         "name": "反转魅力",
         "mark": "Hair_37",
-        "quality": 4,
-        "to_normal_fragment": 50,
-        "to_legend_fragment": 20,
+        "quality": 3,
+        "to_normal_fragment": 20,
+        "to_legend_fragment": 4,
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
@@ -346,7 +330,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.5,
+            "gunBufferMagnify": 0.8,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -362,7 +346,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.4,
+            "gunBufferMagnify": 0.6,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -378,7 +362,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.4,
+            "gunBufferMagnify": 0.6,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -394,7 +378,7 @@
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
-            "gunBufferMagnify": 0.5,
+            "gunBufferMagnify": 0.8,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
         }
@@ -1028,12 +1012,12 @@
         "type": 5,
         "name": "SoFunny",
         "mark": "Shirt_6",
-        "quality": 2,
-        "to_normal_fragment": 10,
-        "to_legend_fragment": 2,
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
         "buffer": {
             "gunBufferBulletSpeed": 0,
-            "gunBufferStablity": 0.02,
+            "gunBufferStablity": 0.01,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
             "gunBufferReloadSpeed": 0
@@ -1394,8 +1378,8 @@
     "601": {
         "id": 601,
         "type": 6,
-        "name": "圣诞驯鹿裤",
-        "mark": "Bottoms_43",
+        "name": "红色喇叭裤",
+        "mark": "Bottoms_26",
         "quality": 2,
         "to_normal_fragment": 10,
         "to_legend_fragment": 2,
@@ -1444,14 +1428,14 @@
         "type": 6,
         "name": "牛仔短裤",
         "mark": "Bottoms_5",
-        "quality": 2,
-        "to_normal_fragment": 10,
-        "to_legend_fragment": 2,
+        "quality": 1,
+        "to_normal_fragment": 0,
+        "to_legend_fragment": 0,
         "buffer": {
             "gunBufferBulletSpeed": 0,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
-            "gunBufferAim": 0.02,
+            "gunBufferAim": 0.01,
             "gunBufferReloadSpeed": 0
         }
     },
