@@ -860,7 +860,7 @@
         "target2PathTime": "1###-0,0,0,0@@60,3",
         "target3Type": "Target-28",
         "target3Pos": [
-            -8.7,
+            -3.7,
             0,
             122
         ],
