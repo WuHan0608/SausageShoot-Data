@@ -1256,6 +1256,7 @@
         "target2MoveDistance2": 4,
         "target2FallDownType": 1,
         "target2Hp": 100,
+        "target2EquipInfo": "1@1@1",
         "targetArr": "5700,5732",
         "gravity": 20,
         "starLimit": 0,
