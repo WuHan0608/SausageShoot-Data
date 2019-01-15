@@ -7803,7 +7803,23 @@
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
         "target1TaowaState": 2,
-        "targetArr": "5617,56188",
+        "target2Type": "Target-12",
+        "target2Pos": [
+            1.3,
+            0,
+            195
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target2TaowaState": 1,
+        "target2TaowaRange": 3,
+        "targetArr": "5617,5618",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
