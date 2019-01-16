@@ -14272,7 +14272,77 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "targetArr": "1263,1264,1265,1266",
+        "target5Type": "Target-22",
+        "target5Pos": [
+            1.3,
+            0,
+            125
+        ],
+        "target5Scale": [
+            1
+        ],
+        "target5MoveType": 0,
+        "target5MovePeriod": -1,
+        "target5MoveDistance1": 0,
+        "target5MoveDistance2": 0,
+        "target5FallDownType": 1,
+        "target6Type": "Target-22",
+        "target6Pos": [
+            0.1,
+            0,
+            125
+        ],
+        "target6Scale": [
+            1
+        ],
+        "target6MoveType": 0,
+        "target6MovePeriod": -1,
+        "target6MoveDistance1": 0,
+        "target6MoveDistance2": 0,
+        "target6FallDownType": 1,
+        "target7Type": "Target-22",
+        "target7Pos": [
+            2.5,
+            0,
+            125
+        ],
+        "target7Scale": [
+            1
+        ],
+        "target7MoveType": 0,
+        "target7MovePeriod": -1,
+        "target7MoveDistance1": 0,
+        "target7MoveDistance2": 0,
+        "target7FallDownType": 1,
+        "target8Type": "Target-22",
+        "target8Pos": [
+            -8.9,
+            0,
+            125
+        ],
+        "target8Scale": [
+            2
+        ],
+        "target8MoveType": 0,
+        "target8MovePeriod": -1,
+        "target8MoveDistance1": 0,
+        "target8MoveDistance2": 0,
+        "target8FallDownType": 1,
+        "target9Type": "Target-22",
+        "target9Pos": [
+            -6.5,
+            0,
+            125
+        ],
+        "target9Scale": [
+            2
+        ],
+        "target9MoveType": 0,
+        "target9MovePeriod": -1,
+        "target9MoveDistance1": 0,
+        "target9MoveDistance2": 0,
+        "target9FallDownType": 1,
+        "targetArr": "1263,1264,1265,1266,1267,1268,1269,1270,1271",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
