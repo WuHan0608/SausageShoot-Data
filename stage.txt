@@ -13442,7 +13442,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1#7.3,10,95,3@-3.7,",
+        "target1PathTime": "1#-4.7,10,95,5@1.3,5,95,5@1.3,15,95,1.075@7.3,10,95,5@1.3,5,95,5@1.3,15,95,1.075",
         "target2Type": "Target-22",
         "target2Pos": [
             7.3,
