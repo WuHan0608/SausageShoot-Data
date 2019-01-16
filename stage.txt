@@ -12976,13 +12976,13 @@
         "level": "Mission-1-167",
         "id": 167,
         "scene": 1,
-        "UiShowDistance": 50,
+        "UiShowDistance": 60,
         "picId": "1",
         "target1Type": "Target-1",
         "target1Pos": [
             1.3,
             0,
-            95
+            105
         ],
         "target1Scale": [
             1
@@ -12991,64 +12991,11 @@
         "target1MovePeriod": -1,
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
-        "target1FallDownType": "2@8",
-        "target2Type": "Target-1",
-        "target2Pos": [
-            2.3,
-            0,
-            100
-        ],
-        "target2Scale": [
-            1
-        ],
-        "target2MoveType": 0,
-        "target2MovePeriod": -1,
-        "target2MoveDistance1": 0,
-        "target2MoveDistance2": 0,
-        "target2FallDownType": "2@8",
-        "target3Type": "Target-1",
-        "target3Pos": [
-            0.3,
-            0,
-            100
-        ],
-        "target3Scale": [
-            1
-        ],
-        "target3MoveType": 0,
-        "target3MovePeriod": -1,
-        "target3MoveDistance1": 0,
-        "target3MoveDistance2": 0,
-        "target3FallDownType": "2@8",
-        "target4Type": "Target-1",
-        "target4Pos": [
-            3.3,
-            0,
-            105
-        ],
-        "target4Scale": [
-            1
-        ],
-        "target4MoveType": 0,
-        "target4MovePeriod": -1,
-        "target4MoveDistance1": 0,
-        "target4MoveDistance2": 0,
-        "target4FallDownType": "2@8",
-        "target5Type": "Target-1",
-        "target5Pos": [
-            -0.7,
-            0,
-            105
-        ],
-        "target5Scale": [
-            1
-        ],
-        "target5MoveType": 0,
-        "target5MovePeriod": -1,
-        "target5MoveDistance1": 0,
-        "target5MoveDistance2": 0,
-        "target5FallDownType": "2@8",
-        "targetArr": "1258,1259,1260,1261,1262",
+        "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 12,
+        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "targetArr": "1140",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
