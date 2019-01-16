@@ -8656,7 +8656,7 @@
         "target1Pos": [
             1.3,
             0,
-            165
+            145
         ],
         "target1Scale": [
             1
@@ -11720,7 +11720,7 @@
         "target1Pos": [
             1.3,
             0,
-            165
+            145
         ],
         "target1Scale": [
             1
@@ -14397,7 +14397,7 @@
         "level": "Mission-1-185",
         "id": 185,
         "scene": 1,
-        "UiShowDistance": 80,
+        "UiShowDistance": 100,
         "picId": "1",
         "target1Type": "Target-1",
         "target1Pos": [
@@ -14577,7 +14577,7 @@
         "level": "Mission-1-186",
         "id": 186,
         "scene": 1,
-        "UiShowDistance": 70,
+        "UiShowDistance": 100,
         "picId": "1",
         "target1Type": "Target-1",
         "target1Pos": [
@@ -14682,7 +14682,7 @@
         "level": "Mission-1-187",
         "id": 187,
         "scene": 1,
-        "UiShowDistance": 140,
+        "UiShowDistance": 100,
         "picId": "10",
         "target1Type": "Target-3",
         "target1Pos": [
@@ -14733,13 +14733,13 @@
         "level": "Mission-1-188",
         "id": 188,
         "scene": 1,
-        "UiShowDistance": 120,
+        "UiShowDistance": 100,
         "picId": "10",
         "target1Type": "Target-3",
         "target1Pos": [
             1.3,
             0,
-            165
+            145
         ],
         "target1Scale": [
             1
@@ -14800,13 +14800,13 @@
         "level": "Mission-1-189",
         "id": 189,
         "scene": 1,
-        "UiShowDistance": 60,
+        "UiShowDistance": 90,
         "picId": "7",
         "target1Type": "Target-6",
         "target1Pos": [
             2.5,
             0,
-            95
+            125
         ],
         "target1Scale": [
             1
@@ -14821,7 +14821,7 @@
         "target2Pos": [
             1.3,
             0,
-            95
+            125
         ],
         "target2Scale": [
             1
@@ -14836,7 +14836,7 @@
         "target3Pos": [
             0.1,
             0,
-            95
+            125
         ],
         "target3Scale": [
             1
@@ -14851,7 +14851,7 @@
         "target4Pos": [
             1.3,
             0,
-            105
+            135
         ],
         "target4Scale": [
             1
@@ -14860,12 +14860,12 @@
         "target4MovePeriod": 20,
         "target4MoveDistance1": 2,
         "target4MoveDistance2": 2,
-        "target4FallDownType": 3,
+        "target4FallDownType": "2@8",
         "target5Type": "Target-4",
         "target5Pos": [
             2,
             0,
-            109
+            139
         ],
         "target5Scale": [
             1
@@ -14874,12 +14874,12 @@
         "target5MovePeriod": 20,
         "target5MoveDistance1": 1.5,
         "target5MoveDistance2": 2.5,
-        "target5FallDownType": 3,
+        "target5FallDownType": "2@8",
         "target6Type": "Target-4",
         "target6Pos": [
             0.6,
             0,
-            113
+            143
         ],
         "target6Scale": [
             1
@@ -14888,12 +14888,12 @@
         "target6MovePeriod": 20,
         "target6MoveDistance1": 2.5,
         "target6MoveDistance2": 1.5,
-        "target6FallDownType": 3,
+        "target6FallDownType": "2@8",
         "target7Type": "Target-4",
         "target7Pos": [
             2.7,
             0,
-            119
+            149
         ],
         "target7Scale": [
             1
@@ -14902,12 +14902,12 @@
         "target7MovePeriod": 30,
         "target7MoveDistance1": 4,
         "target7MoveDistance2": 2,
-        "target7FallDownType": 3,
+        "target7FallDownType": "2@8",
         "target8Type": "Target-4",
         "target8Pos": [
             -0.1,
             0,
-            125
+            155
         ],
         "target8Scale": [
             1
@@ -14916,7 +14916,7 @@
         "target8MovePeriod": 30,
         "target8MoveDistance1": 2,
         "target8MoveDistance2": 4,
-        "target8FallDownType": 3,
+        "target8FallDownType": "2@8",
         "targetArr": "1174,1175,1176,1177,1178,1179,1180,1181",
         "gravity": 20,
         "starLimit": 0,
@@ -14945,13 +14945,13 @@
         "level": "Mission-1-190",
         "id": 190,
         "scene": 1,
-        "UiShowDistance": 60,
+        "UiShowDistance": 90,
         "picId": "7",
         "target1Type": "Target-6",
         "target1Pos": [
             2.5,
             0,
-            95
+            125
         ],
         "target1Scale": [
             1
@@ -14966,7 +14966,7 @@
         "target2Pos": [
             1.3,
             0,
-            95
+            125
         ],
         "target2Scale": [
             1
@@ -14981,7 +14981,7 @@
         "target3Pos": [
             0.1,
             0,
-            95
+            125
         ],
         "target3Scale": [
             1
@@ -14996,7 +14996,7 @@
         "target4Pos": [
             1.3,
             0,
-            105
+            135
         ],
         "target4Scale": [
             1
@@ -15010,7 +15010,7 @@
         "target5Pos": [
             2,
             0,
-            109
+            139
         ],
         "target5Scale": [
             1
@@ -15024,7 +15024,7 @@
         "target6Pos": [
             0.6,
             0,
-            113
+            143
         ],
         "target6Scale": [
             1
@@ -15038,7 +15038,7 @@
         "target7Pos": [
             2.7,
             0,
-            119
+            149
         ],
         "target7Scale": [
             1
@@ -15052,7 +15052,7 @@
         "target8Pos": [
             -0.1,
             0,
-            125
+            155
         ],
         "target8Scale": [
             1
