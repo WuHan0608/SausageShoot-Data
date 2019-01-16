@@ -14247,7 +14247,7 @@
         "target3Type": "Target-29",
         "target3Pos": [
             1.3,
-            0,
+            1.2,
             125
         ],
         "target3Scale": [
@@ -14261,7 +14261,7 @@
         "target4Type": "Target-29",
         "target4Pos": [
             -7.7,
-            0,
+            2.4,
             125
         ],
         "target4Scale": [
