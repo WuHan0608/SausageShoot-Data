@@ -5028,6 +5028,7 @@
         "target5FallDownType": 1,
         "target5PathTime": "1###-1.3,1,3.3,1@@",
         "target5Hp": 200,
+        "target5EquipInfo": "1@0@1",
         "target6Type": "Target-14",
         "target6Pos": [
             6.3,
@@ -5926,7 +5927,8 @@
         "target6MoveDistance2": 0,
         "target6FallDownType": 1,
         "target6PathTime": "1#4.5,0,162,2@4.5,0,162,2@3.3,0,162,0.5@3.3,0,162,2",
-        "target6Hp": 200,
+        "target6Hp": 100,
+        "target6EquipInfo": "1@1@1",
         "target7Type": "Target-15",
         "target7Pos": [
             1.3,
@@ -5942,7 +5944,8 @@
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
         "target7PathTime": "1###0.3,1,2.3,1@@",
-        "target7Hp": 200,
+        "target7Hp": 100,
+        "target7EquipInfo": "0@1@1",
         "targetArr": "6305,6306,6307,6308,6309,6310,6311",
         "gravity": 20,
         "starLimit": 0,
