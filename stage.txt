@@ -6309,7 +6309,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            -1.3,
+            -0.7,
             -1,
             76
         ],
@@ -16123,7 +16123,7 @@
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
-        "missionCoef": 45,
+        "missionCoef": 4500,
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
