@@ -3398,16 +3398,16 @@
         "level": "Mission-1-49",
         "id": 49,
         "scene": 1,
-        "UiShowDistance": 84,
+        "UiShowDistance": 74,
         "picId": "4",
         "target1Type": "Target-7",
         "target1Pos": [
             1.3,
             0,
-            129
+            119
         ],
         "target1Scale": [
-            0.8
+            1
         ],
         "target1MoveType": 3,
         "target1MovePeriod": 16,
@@ -3418,10 +3418,10 @@
         "target2Pos": [
             2,
             0,
-            131
+            121
         ],
         "target2Scale": [
-            0.8
+            1
         ],
         "target2MoveType": 4,
         "target2MovePeriod": 16,
@@ -3432,10 +3432,10 @@
         "target3Pos": [
             0.6,
             0,
-            135
+            125
         ],
         "target3Scale": [
-            0.8
+            1
         ],
         "target3MoveType": 3,
         "target3MovePeriod": 16,
@@ -3470,7 +3470,7 @@
         "level": "Mission-1-50",
         "id": 50,
         "scene": 1,
-        "UiShowDistance": 80,
+        "UiShowDistance": 70,
         "picId": "4",
         "target1Type": "Target-22",
         "target1Pos": [
@@ -3518,10 +3518,10 @@
         "target4Pos": [
             1.3,
             0,
-            125
+            115
         ],
         "target4Scale": [
-            0.8
+            1
         ],
         "target4MoveType": 4,
         "target4MovePeriod": 12,
@@ -3532,10 +3532,10 @@
         "target5Pos": [
             1.9,
             0,
-            129
+            119
         ],
         "target5Scale": [
-            0.8
+            1
         ],
         "target5MoveType": 3,
         "target5MovePeriod": 12,
@@ -3546,10 +3546,10 @@
         "target6Pos": [
             3.8,
             0,
-            145
+            125
         ],
         "target6Scale": [
-            0.8
+            1
         ],
         "target6MoveType": 4,
         "target6MovePeriod": 12,
@@ -3560,10 +3560,10 @@
         "target7Pos": [
             -0.6,
             0,
-            139
+            121
         ],
         "target7Scale": [
-            0.8
+            1
         ],
         "target7MoveType": 4,
         "target7MovePeriod": 12,
@@ -3574,10 +3574,10 @@
         "target8Pos": [
             -2.3,
             0,
-            135
+            123
         ],
         "target8Scale": [
-            0.8
+            1
         ],
         "target8MoveType": 3,
         "target8MovePeriod": 12,
@@ -5190,7 +5190,7 @@
             135
         ],
         "target4Scale": [
-            0.8
+            1
         ],
         "target4MoveType": 4,
         "target4MovePeriod": 12,
@@ -5204,7 +5204,7 @@
             139
         ],
         "target5Scale": [
-            0.8
+            1
         ],
         "target5MoveType": 3,
         "target5MovePeriod": 12,
@@ -5218,7 +5218,7 @@
             155
         ],
         "target6Scale": [
-            0.8
+            1
         ],
         "target6MoveType": 4,
         "target6MovePeriod": 12,
@@ -5232,7 +5232,7 @@
             149
         ],
         "target7Scale": [
-            0.8
+            1
         ],
         "target7MoveType": 4,
         "target7MovePeriod": 12,
@@ -5246,7 +5246,7 @@
             145
         ],
         "target8Scale": [
-            0.8
+            1
         ],
         "target8MoveType": 3,
         "target8MovePeriod": 12,
@@ -5363,7 +5363,7 @@
             155
         ],
         "target6Scale": [
-            0.8
+            1
         ],
         "target6MoveType": 4,
         "target6MovePeriod": 12,
@@ -5377,7 +5377,7 @@
             149
         ],
         "target7Scale": [
-            0.8
+            1
         ],
         "target7MoveType": 4,
         "target7MovePeriod": 12,
@@ -5391,7 +5391,7 @@
             145
         ],
         "target8Scale": [
-            0.8
+            1
         ],
         "target8MoveType": 3,
         "target8MovePeriod": 12,
@@ -5614,7 +5614,7 @@
             135
         ],
         "target7Scale": [
-            0.8
+            1
         ],
         "target7MoveType": 4,
         "target7MovePeriod": 12,
@@ -5628,7 +5628,7 @@
             139
         ],
         "target8Scale": [
-            0.8
+            1
         ],
         "target8MoveType": 3,
         "target8MovePeriod": 12,
@@ -5642,7 +5642,7 @@
             155
         ],
         "target9Scale": [
-            0.8
+            1
         ],
         "target9MoveType": 4,
         "target9MovePeriod": 12,
@@ -5656,7 +5656,7 @@
             149
         ],
         "target10Scale": [
-            0.8
+            1
         ],
         "target10MoveType": 4,
         "target10MovePeriod": 12,
@@ -5670,7 +5670,7 @@
             145
         ],
         "target11Scale": [
-            0.8
+            1
         ],
         "target11MoveType": 3,
         "target11MovePeriod": 12,
@@ -7169,7 +7169,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            -0.7,
+            -1.7,
             0,
             76
         ],
@@ -7186,7 +7186,7 @@
         "target2MoveDelay": "@2,2,1,1@",
         "target3Type": "Target-15",
         "target3Pos": [
-            0.3,
+            -0.2,
             0,
             76
         ],
@@ -7220,7 +7220,7 @@
         "target4MoveDelay": "@2,2,1,1@",
         "target5Type": "Target-15",
         "target5Pos": [
-            2.3,
+            2.8,
             0,
             76
         ],
@@ -7237,7 +7237,7 @@
         "target5MoveDelay": "@2,2,1,1@",
         "target6Type": "Target-15",
         "target6Pos": [
-            3.3,
+            4.3,
             0,
             76
         ],
@@ -8065,7 +8065,7 @@
             135
         ],
         "target7Scale": [
-            0.8
+            1
         ],
         "target7MoveType": 4,
         "target7MovePeriod": 12,
@@ -8079,7 +8079,7 @@
             139
         ],
         "target8Scale": [
-            0.8
+            1
         ],
         "target8MoveType": 3,
         "target8MovePeriod": 12,
@@ -8093,7 +8093,7 @@
             155
         ],
         "target9Scale": [
-            0.8
+            1
         ],
         "target9MoveType": 4,
         "target9MovePeriod": 12,
@@ -8107,7 +8107,7 @@
             149
         ],
         "target10Scale": [
-            0.8
+            1
         ],
         "target10MoveType": 4,
         "target10MovePeriod": 12,
@@ -8121,7 +8121,7 @@
             145
         ],
         "target11Scale": [
-            0.8
+            1
         ],
         "target11MoveType": 3,
         "target11MovePeriod": 12,
