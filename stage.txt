@@ -524,7 +524,7 @@
         "achieveThreeStarDiamond": 0,
         "achieveOneStarCondition": 35,
         "achieveTwoStarCondition": 45,
-        "achieveThreeStarCondition": 55,
+        "achieveThreeStarCondition": 53,
         "achieveOneStarExperience": 6,
         "achieveTwoStarExperience": 6,
         "achieveThreeStarExperience": 6,
