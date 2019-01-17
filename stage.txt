@@ -8664,7 +8664,7 @@
         "target1RotationDirect": 2,
         "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 10,
+        "target1MovePeriodInPole": 8,
         "target1PoleRotationDirect": 4,
         "target1PoleRotationRange": 90,
         "target1PoleRotationPeriod": 10,
@@ -8718,7 +8718,7 @@
         "target1Pos": [
             1.3,
             0,
-            185
+            145
         ],
         "target1Scale": [
             1
@@ -8733,15 +8733,15 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 180,
+        "target1PoleRotationRange": 150,
         "target1PoleRotationPeriod": 8,
         "target1Euler": "180,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
-        "target2Type": "Target-18",
+        "target2Type": "Target-22",
         "target2Pos": [
             3.2,
             0,
-            175
+            145
         ],
         "target2Scale": [
             1
@@ -9143,11 +9143,11 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target3Type": "Target-18",
+        "target3Type": "Target-22",
         "target3Pos": [
             3.2,
             0,
-            175
+            145
         ],
         "target3Scale": [
             1
@@ -9157,11 +9157,11 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target4Type": "Target-18",
+        "target4Type": "Target-22",
         "target4Pos": [
             5.1,
             0,
-            175
+            145
         ],
         "target4Scale": [
             1
@@ -11464,7 +11464,7 @@
         "target1RotationDirect": 2,
         "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 10,
+        "target1MovePeriodInPole": 8,
         "target1PoleRotationDirect": 4,
         "target1PoleRotationRange": 90,
         "target1PoleRotationPeriod": 10,
@@ -11545,11 +11545,11 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target3Type": "Target-18",
+        "target3Type": "Target-22",
         "target3Pos": [
             3.2,
             0,
-            175
+            145
         ],
         "target3Scale": [
             1
@@ -11559,11 +11559,11 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target4Type": "Target-18",
+        "target4Type": "Target-22",
         "target4Pos": [
             5.1,
             0,
-            175
+            145
         ],
         "target4Scale": [
             1
@@ -11775,7 +11775,7 @@
         "target1Pos": [
             1.3,
             0,
-            185
+            145
         ],
         "target1Scale": [
             1
@@ -11790,15 +11790,15 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 180,
+        "target1PoleRotationRange": 150,
         "target1PoleRotationPeriod": 8,
         "target1Euler": "180,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
-        "target2Type": "Target-18",
+        "target2Type": "Target-22",
         "target2Pos": [
             3.2,
             0,
-            175
+            145
         ],
         "target2Scale": [
             1
@@ -14254,8 +14254,8 @@
         "targetArr": "1254,1255,1256,1257",
         "gravity": 20,
         "starLimit": 0,
-        "missionType": 2,
-        "missionCoef": 45,
+        "missionType": 1,
+        "missionCoef": 3,
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
@@ -14295,18 +14295,48 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
+        "target1RotationDirect": 2,
+        "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 6,
-        "target1PoleRotationDirect": 2,
-        "target1PoleRotationRange": 180,
-        "target1PoleRotationPeriod": 10,
-        "target1Euler": "0,-90,-90",
-        "target1MaskPole": "0,0.325,0#1.1,1.1,1.1",
-        "targetArr": "1042",
+        "target1MovePeriodInPole": 0,
+        "target1PoleRotationDirect": 4,
+        "target1PoleRotationRange": 150,
+        "target1PoleRotationPeriod": 8,
+        "target1Euler": "180,-90,-90",
+        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target2Type": "Target-22",
+        "target2Pos": [
+            3.2,
+            0,
+            145
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target3Type": "Target-18",
+        "target3Pos": [
+            -0.6,
+            0,
+            175
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "targetArr": "1044,1120,1122",
         "gravity": 20,
         "starLimit": 0,
-        "missionType": 2,
-        "missionCoef": 45,
+        "missionType": 1,
+        "missionCoef": 3,
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
@@ -14349,7 +14379,7 @@
         "target1RotationDirect": 2,
         "target1RotationPeriod": 8,
         "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 10,
+        "target1MovePeriodInPole": 8,
         "target1PoleRotationDirect": 4,
         "target1PoleRotationRange": 90,
         "target1PoleRotationPeriod": 10,
@@ -14372,8 +14402,8 @@
         "targetArr": "1043,1139",
         "gravity": 20,
         "starLimit": 0,
-        "missionType": 2,
-        "missionCoef": 45,
+        "missionType": 1,
+        "missionCoef": 3,
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
@@ -15087,7 +15117,7 @@
         "target1Pos": [
             1.3,
             0,
-            185
+            145
         ],
         "target1Scale": [
             1
@@ -15102,15 +15132,15 @@
         "target1IniPosInPole": -1,
         "target1MovePeriodInPole": 0,
         "target1PoleRotationDirect": 4,
-        "target1PoleRotationRange": 180,
+        "target1PoleRotationRange": 150,
         "target1PoleRotationPeriod": 8,
         "target1Euler": "180,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
-        "target2Type": "Target-18",
+        "target2Type": "Target-22",
         "target2Pos": [
             3.2,
             0,
-            175
+            145
         ],
         "target2Scale": [
             1
