@@ -2770,10 +2770,10 @@
         "target5Scale": [
             1
         ],
-        "target5MoveType": 3,
+        "target5MoveType": 4,
         "target5MovePeriod": 20,
-        "target5MoveDistance1": 1.5,
-        "target5MoveDistance2": 2.5,
+        "target5MoveDistance1": 2.5,
+        "target5MoveDistance2": 1.5,
         "target5FallDownType": 3,
         "target6Type": "Target-4",
         "target6Pos": [
@@ -2784,7 +2784,7 @@
         "target6Scale": [
             1
         ],
-        "target6MoveType": 4,
+        "target6MoveType": 3,
         "target6MovePeriod": 20,
         "target6MoveDistance1": 2.5,
         "target6MoveDistance2": 1.5,
@@ -2798,10 +2798,10 @@
         "target7Scale": [
             1
         ],
-        "target7MoveType": 3,
-        "target7MovePeriod": 30,
-        "target7MoveDistance1": 4,
-        "target7MoveDistance2": 2,
+        "target7MoveType": 4,
+        "target7MovePeriod": 20,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 1,
         "target7FallDownType": 3,
         "target8Type": "Target-4",
         "target8Pos": [
@@ -2813,9 +2813,9 @@
             1
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 30,
-        "target8MoveDistance1": 2,
-        "target8MoveDistance2": 4,
+        "target8MovePeriod": 20,
+        "target8MoveDistance1": 3,
+        "target8MoveDistance2": 1,
         "target8FallDownType": 3,
         "targetArr": "5313,5314,5315,5316,5317,5318,5319,5320",
         "gravity": 20,
@@ -7186,7 +7186,7 @@
         "target2MoveDelay": "@2,2,1,1@",
         "target3Type": "Target-15",
         "target3Pos": [
-            -0.7,
+            0.3,
             0,
             76
         ],
@@ -7220,7 +7220,7 @@
         "target4MoveDelay": "@2,2,1,1@",
         "target5Type": "Target-15",
         "target5Pos": [
-            3.3,
+            2.3,
             0,
             76
         ],
@@ -7237,7 +7237,7 @@
         "target5MoveDelay": "@2,2,1,1@",
         "target6Type": "Target-15",
         "target6Pos": [
-            5.3,
+            3.3,
             0,
             76
         ],
