@@ -1033,11 +1033,11 @@
         "target1PoleRotationDirect": 1,
         "target1PoleRotationRange": 0,
         "target1Euler": "45,-90,-90",
-        "target2Type": "Target-18",
+        "target2Type": "Target-6",
         "target2Pos": [
             1.3,
             0,
-            100
+            85
         ],
         "target2Scale": [
             1
