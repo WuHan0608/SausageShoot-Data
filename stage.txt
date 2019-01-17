@@ -8362,7 +8362,7 @@
     "Mission-1-105": {
         "level": "Mission-1-105",
         "id": 105,
-        "scene": 1,
+        "scene": 5,
         "UiShowDistance": 50,
         "picId": "1",
         "target1Type": "Target-1",
@@ -8406,14 +8406,14 @@
     "Mission-1-106": {
         "level": "Mission-1-106",
         "id": 106,
-        "scene": 1,
+        "scene": 6,
         "UiShowDistance": 100,
         "picId": "1",
         "target1Type": "Target-1",
         "target1Pos": [
             1.3,
             0,
-            145
+            125
         ],
         "target1Scale": [
             1
@@ -8423,8 +8423,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1###-3.7,0.75,6.3,0.75@@",
-        "targetArr": "1040",
+        "targetArr": "129",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -8451,14 +8450,14 @@
     "Mission-1-107": {
         "level": "Mission-1-107",
         "id": 107,
-        "scene": 1,
+        "scene": 7,
         "UiShowDistance": 120,
         "picId": "1",
         "target1Type": "Target-1",
         "target1Pos": [
             1.3,
             0,
-            165
+            125
         ],
         "target1Scale": [
             1
@@ -8468,9 +8467,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1###-3.7,0.75,6.3,0.75@@",
-        "target1MaskPole": "0,0.325,0#1.1,1.1,1.1",
-        "targetArr": "1041",
+        "targetArr": "129",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -8497,14 +8494,14 @@
     "Mission-1-108": {
         "level": "Mission-1-108",
         "id": 108,
-        "scene": 1,
+        "scene": 8,
         "UiShowDistance": 80,
         "picId": "10",
-        "target1Type": "Target-3",
+        "target1Type": "Target-1",
         "target1Pos": [
             1.3,
             0,
-            105
+            125
         ],
         "target1Scale": [
             1
@@ -8514,10 +8511,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1IniPosInPole": 1,
-        "target1MovePeriodInPole": 6,
-        "target1Euler": "135,-90,-90",
-        "targetArr": "1038",
+        "targetArr": "129",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -8544,14 +8538,14 @@
     "Mission-1-109": {
         "level": "Mission-1-109",
         "id": 109,
-        "scene": 1,
+        "scene": 9,
         "UiShowDistance": 100,
         "picId": "10",
-        "target1Type": "Target-3",
+        "target1Type": "Target-1",
         "target1Pos": [
             1.3,
             0,
-            95
+            125
         ],
         "target1Scale": [
             1
@@ -8561,12 +8555,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 0,
-        "target1PoleRotationDirect": 3,
-        "target1PoleRotationRange": 180,
-        "target1PoleRotationPeriod": 15,
-        "targetArr": "1039",
+        "targetArr": "129",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -8593,14 +8582,14 @@
     "Mission-1-110": {
         "level": "Mission-1-110",
         "id": 110,
-        "scene": 1,
+        "scene": 10,
         "UiShowDistance": 100,
         "picId": "10",
-        "target1Type": "Target-3",
+        "target1Type": "Target-1",
         "target1Pos": [
             1.3,
             0,
-            145
+            125
         ],
         "target1Scale": [
             1
@@ -8610,14 +8599,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1IniPosInPole": -1,
-        "target1MovePeriodInPole": 6,
-        "target1PoleRotationDirect": 2,
-        "target1PoleRotationRange": 180,
-        "target1PoleRotationPeriod": 10,
-        "target1Euler": "0,-90,-90",
-        "target1MaskPole": "0,0.325,0#1.1,1.1,1.1",
-        "targetArr": "1042",
+        "targetArr": "129",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
