@@ -4219,7 +4219,7 @@
         "target1Pos": [
             1.3,
             0,
-            115
+            95
         ],
         "target1Scale": [
             1
@@ -4263,7 +4263,7 @@
         "target1Pos": [
             1.3,
             0,
-            145
+            135
         ],
         "target1Scale": [
             1
@@ -4430,7 +4430,7 @@
         "target1Pos": [
             1.3,
             0,
-            105
+            95
         ],
         "target1Scale": [
             1
@@ -4444,7 +4444,7 @@
         "target2Pos": [
             1.3,
             0,
-            125
+            115
         ],
         "target2Scale": [
             1
@@ -4458,7 +4458,7 @@
         "target3Pos": [
             1.3,
             0,
-            145
+            135
         ],
         "target3Scale": [
             1
@@ -4577,7 +4577,7 @@
         "target1Pos": [
             1.3,
             0,
-            135
+            105
         ],
         "target1Scale": [
             1
@@ -4587,7 +4587,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1#1.3,0,165,10@1.3,0,165,5@1.3,0,135,10",
+        "target1PathTime": "1#1.3,0,135,10@1.3,0,135,5@1.3,0,105,10",
         "targetArr": "6606",
         "gravity": 20,
         "starLimit": 0,
@@ -4622,7 +4622,7 @@
         "target1Pos": [
             1.3,
             0,
-            145
+            135
         ],
         "target1Scale": [
             1
@@ -4774,7 +4774,7 @@
         "target1Pos": [
             -1.2,
             0,
-            135
+            105
         ],
         "target1Scale": [
             1
@@ -4784,7 +4784,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1#3.8,0,145,10@-1.2,0,155,10@3.8,0,165,10@-1.2,0,135,15",
+        "target1PathTime": "1#3.8,0,115,10@-1.2,0,125,10@3.8,0,135,10@-1.2,0,105,15",
         "targetArr": "6609",
         "gravity": 20,
         "starLimit": 0,
@@ -8736,7 +8736,7 @@
         "target1PoleRotationRange": 120,
         "target1PoleRotationPeriod": 6,
         "target1Euler": "180,-90,-90",
-        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1MaskPole": "0.325,-0.325,0#1.1,1.1,1.1",
         "target2Type": "Target-22",
         "target2Pos": [
             3.2,
@@ -11793,7 +11793,7 @@
         "target1PoleRotationRange": 120,
         "target1PoleRotationPeriod": 6,
         "target1Euler": "180,-90,-90",
-        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1MaskPole": "0.325,-0.325,0#1.1,1.1,1.1",
         "target2Type": "Target-22",
         "target2Pos": [
             3.2,
@@ -13672,6 +13672,7 @@
         "target4MoveDistance1": 2,
         "target4MoveDistance2": 2,
         "target4FallDownType": 3,
+        "target4FallDownPeriod": "6,3,1",
         "target5Type": "Target-6",
         "target5Pos": [
             3.5,
@@ -13686,6 +13687,7 @@
         "target5MoveDistance1": 2,
         "target5MoveDistance2": 2,
         "target5FallDownType": 3,
+        "target5FallDownPeriod": "5,3,2",
         "target6Type": "Target-6",
         "target6Pos": [
             -0.9,
@@ -13700,6 +13702,7 @@
         "target6MoveDistance1": 2,
         "target6MoveDistance2": 2,
         "target6FallDownType": 3,
+        "target6FallDownPeriod": "5,3,3",
         "targetArr": "1184,1185,1186,1171,1172,1173",
         "gravity": 20,
         "starLimit": 0,
@@ -14303,7 +14306,7 @@
         "target1PoleRotationRange": 120,
         "target1PoleRotationPeriod": 6,
         "target1Euler": "180,-90,-90",
-        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1MaskPole": "0.325,-0.325,0#1.1,1.1,1.1",
         "target2Type": "Target-22",
         "target2Pos": [
             3.2,
@@ -14588,7 +14591,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1FallDownPeriod": "4,2,1",
+        "target1FallDownPeriod": "5,3,2",
         "target2Type": "Target-6",
         "target2Pos": [
             1.3,
@@ -14603,7 +14606,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2FallDownPeriod": "4,2,2",
+        "target2FallDownPeriod": "6,3,1",
         "target3Type": "Target-6",
         "target3Pos": [
             0.1,
@@ -14618,7 +14621,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3FallDownPeriod": "4,2,3",
+        "target3FallDownPeriod": "5,3,3",
         "target4Type": "Target-4",
         "target4Pos": [
             1.3,
@@ -15135,7 +15138,7 @@
         "target1PoleRotationRange": 120,
         "target1PoleRotationPeriod": 6,
         "target1Euler": "180,-90,-90",
-        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1MaskPole": "0.325,-0.325,0#1.1,1.1,1.1",
         "target2Type": "Target-22",
         "target2Pos": [
             3.2,
