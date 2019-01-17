@@ -1035,7 +1035,7 @@
         "target1Euler": "45,-90,-90",
         "target2Type": "Target-6",
         "target2Pos": [
-            1.8,
+            2,
             0,
             85
         ],
@@ -1048,7 +1048,22 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "target2FallDownPeriod": "4,2,1",
-        "targetArr": "4503,4504",
+        "target3Type": "Target-6",
+        "target3Pos": [
+            0.6,
+            0,
+            85
+        ],
+        "target3Scale": [
+            1.5
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "target3FallDownPeriod": "4,2,3",
+        "targetArr": "4503,4504,4507",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 1,
