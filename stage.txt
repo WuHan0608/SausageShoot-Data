@@ -3524,9 +3524,9 @@
             1
         ],
         "target4MoveType": 4,
-        "target4MovePeriod": 12,
-        "target4MoveDistance1": 2,
-        "target4MoveDistance2": 2,
+        "target4MovePeriod": 24,
+        "target4MoveDistance1": 3,
+        "target4MoveDistance2": 3,
         "target4FallDownType": 3,
         "target5Type": "Target-7",
         "target5Pos": [
@@ -3538,9 +3538,9 @@
             1
         ],
         "target5MoveType": 3,
-        "target5MovePeriod": 12,
-        "target5MoveDistance1": 2,
-        "target5MoveDistance2": 2,
+        "target5MovePeriod": 24,
+        "target5MoveDistance1": 3,
+        "target5MoveDistance2": 3,
         "target5FallDownType": 3,
         "target6Type": "Target-7",
         "target6Pos": [
@@ -3552,9 +3552,9 @@
             1
         ],
         "target6MoveType": 4,
-        "target6MovePeriod": 12,
-        "target6MoveDistance1": 1.5,
-        "target6MoveDistance2": 2.5,
+        "target6MovePeriod": 24,
+        "target6MoveDistance1": 2,
+        "target6MoveDistance2": 4,
         "target6FallDownType": 3,
         "target7Type": "Target-7",
         "target7Pos": [
@@ -3566,9 +3566,9 @@
             1
         ],
         "target7MoveType": 4,
-        "target7MovePeriod": 12,
-        "target7MoveDistance1": 2,
-        "target7MoveDistance2": 2,
+        "target7MovePeriod": 24,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 3,
         "target7FallDownType": 3,
         "target8Type": "Target-7",
         "target8Pos": [
@@ -3580,9 +3580,9 @@
             1
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 12,
-        "target8MoveDistance1": 2.5,
-        "target8MoveDistance2": 1.5,
+        "target8MovePeriod": 24,
+        "target8MoveDistance1": 4,
+        "target8MoveDistance2": 2,
         "target8FallDownType": 3,
         "targetArr": "4806,4807,4808,4809,4810,4811,4812,4813",
         "gravity": 20,
@@ -5193,9 +5193,9 @@
             1
         ],
         "target4MoveType": 4,
-        "target4MovePeriod": 12,
-        "target4MoveDistance1": 2,
-        "target4MoveDistance2": 2,
+        "target4MovePeriod": 24,
+        "target4MoveDistance1": 3,
+        "target4MoveDistance2": 3,
         "target4FallDownType": 3,
         "target5Type": "Target-7",
         "target5Pos": [
@@ -5207,9 +5207,9 @@
             1
         ],
         "target5MoveType": 3,
-        "target5MovePeriod": 12,
-        "target5MoveDistance1": 2,
-        "target5MoveDistance2": 2,
+        "target5MovePeriod": 24,
+        "target5MoveDistance1": 3,
+        "target5MoveDistance2": 3,
         "target5FallDownType": 3,
         "target6Type": "Target-7",
         "target6Pos": [
@@ -5221,9 +5221,9 @@
             1
         ],
         "target6MoveType": 4,
-        "target6MovePeriod": 12,
-        "target6MoveDistance1": 1.5,
-        "target6MoveDistance2": 2.5,
+        "target6MovePeriod": 24,
+        "target6MoveDistance1": 2,
+        "target6MoveDistance2": 4,
         "target6FallDownType": 3,
         "target7Type": "Target-7",
         "target7Pos": [
@@ -5235,9 +5235,9 @@
             1
         ],
         "target7MoveType": 4,
-        "target7MovePeriod": 12,
-        "target7MoveDistance1": 2,
-        "target7MoveDistance2": 2,
+        "target7MovePeriod": 24,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 3,
         "target7FallDownType": 3,
         "target8Type": "Target-7",
         "target8Pos": [
@@ -5249,9 +5249,9 @@
             1
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 12,
-        "target8MoveDistance1": 2.5,
-        "target8MoveDistance2": 1.5,
+        "target8MovePeriod": 24,
+        "target8MoveDistance1": 4,
+        "target8MoveDistance2": 2,
         "target8FallDownType": 3,
         "targetArr": "4814,4815,4816,4817,4818,4819,4820,4821",
         "gravity": 20,
@@ -5338,9 +5338,9 @@
             1
         ],
         "target4MoveType": 4,
-        "target4MovePeriod": 12,
-        "target4MoveDistance1": 2,
-        "target4MoveDistance2": 2,
+        "target4MovePeriod": 24,
+        "target4MoveDistance1": 3,
+        "target4MoveDistance2": 3,
         "target4FallDownType": 3,
         "target5Type": "Target-4",
         "target5Pos": [
@@ -5352,9 +5352,9 @@
             1
         ],
         "target5MoveType": 3,
-        "target5MovePeriod": 12,
-        "target5MoveDistance1": 2,
-        "target5MoveDistance2": 2,
+        "target5MovePeriod": 24,
+        "target5MoveDistance1": 3,
+        "target5MoveDistance2": 3,
         "target5FallDownType": 3,
         "target6Type": "Target-7",
         "target6Pos": [
@@ -5366,9 +5366,9 @@
             1
         ],
         "target6MoveType": 4,
-        "target6MovePeriod": 12,
-        "target6MoveDistance1": 1.5,
-        "target6MoveDistance2": 2.5,
+        "target6MovePeriod": 24,
+        "target6MoveDistance1": 2,
+        "target6MoveDistance2": 4,
         "target6FallDownType": 3,
         "target7Type": "Target-7",
         "target7Pos": [
@@ -5380,9 +5380,9 @@
             1
         ],
         "target7MoveType": 4,
-        "target7MovePeriod": 12,
-        "target7MoveDistance1": 2,
-        "target7MoveDistance2": 2,
+        "target7MovePeriod": 24,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 3,
         "target7FallDownType": 3,
         "target8Type": "Target-7",
         "target8Pos": [
@@ -5394,9 +5394,9 @@
             1
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 12,
-        "target8MoveDistance1": 2.5,
-        "target8MoveDistance2": 1.5,
+        "target8MovePeriod": 24,
+        "target8MoveDistance1": 4,
+        "target8MoveDistance2": 2,
         "target8FallDownType": 3,
         "targetArr": "4833,4834,4835,4836,4837,4838,4839,4840",
         "gravity": 20,
@@ -5617,9 +5617,9 @@
             1
         ],
         "target7MoveType": 4,
-        "target7MovePeriod": 12,
-        "target7MoveDistance1": 2,
-        "target7MoveDistance2": 2,
+        "target7MovePeriod": 24,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 3,
         "target7FallDownType": 3,
         "target8Type": "Target-7",
         "target8Pos": [
@@ -5631,9 +5631,9 @@
             1
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 12,
-        "target8MoveDistance1": 2,
-        "target8MoveDistance2": 2,
+        "target8MovePeriod": 24,
+        "target8MoveDistance1": 3,
+        "target8MoveDistance2": 3,
         "target8FallDownType": 3,
         "target9Type": "Target-7",
         "target9Pos": [
@@ -5645,9 +5645,9 @@
             1
         ],
         "target9MoveType": 4,
-        "target9MovePeriod": 12,
-        "target9MoveDistance1": 1.5,
-        "target9MoveDistance2": 2.5,
+        "target9MovePeriod": 24,
+        "target9MoveDistance1": 2,
+        "target9MoveDistance2": 4,
         "target9FallDownType": 3,
         "target10Type": "Target-7",
         "target10Pos": [
@@ -5659,9 +5659,9 @@
             1
         ],
         "target10MoveType": 4,
-        "target10MovePeriod": 12,
-        "target10MoveDistance1": 2,
-        "target10MoveDistance2": 2,
+        "target10MovePeriod": 24,
+        "target10MoveDistance1": 3,
+        "target10MoveDistance2": 3,
         "target10FallDownType": 3,
         "target11Type": "Target-7",
         "target11Pos": [
@@ -5673,9 +5673,9 @@
             1
         ],
         "target11MoveType": 3,
-        "target11MovePeriod": 12,
-        "target11MoveDistance1": 2.5,
-        "target11MoveDistance2": 1.5,
+        "target11MovePeriod": 24,
+        "target11MoveDistance1": 4,
+        "target11MoveDistance2": 2,
         "target11FallDownType": 3,
         "targetArr": "4822,4823,4824,4825,4826,4827,4828,4829,4830,4831,4832",
         "gravity": 20,
@@ -7183,7 +7183,7 @@
         "target2FallDownType": 1,
         "target2PathTime": "1###@1.5,3,0,3,100@",
         "target2FaceInfo": "34,50,10@3,100,-3",
-        "target2MoveDelay": "@2,2,1,1@",
+        "target2MoveDelay": "@2,2,2,2@",
         "target3Type": "Target-15",
         "target3Pos": [
             -0.2,
@@ -7200,7 +7200,7 @@
         "target3FallDownType": 1,
         "target3PathTime": "1###@1.5,3,0,3,100@",
         "target3FaceInfo": "34,50,10@3,100,-3",
-        "target3MoveDelay": "@2,2,1,1@",
+        "target3MoveDelay": "@2,2,2,2@",
         "target4Type": "Target-15",
         "target4Pos": [
             1.3,
@@ -7217,7 +7217,7 @@
         "target4FallDownType": 1,
         "target4PathTime": "1###@1.5,3,0,3,100@",
         "target4FaceInfo": "34,50,10@3,100,-3",
-        "target4MoveDelay": "@2,2,1,1@",
+        "target4MoveDelay": "@2,2,2,2@",
         "target5Type": "Target-15",
         "target5Pos": [
             2.8,
@@ -7234,7 +7234,7 @@
         "target5FallDownType": 1,
         "target5PathTime": "1###@1.5,3,0,3,100@",
         "target5FaceInfo": "34,50,10@3,100,-3",
-        "target5MoveDelay": "@2,2,1,1@",
+        "target5MoveDelay": "@2,2,2,2@",
         "target6Type": "Target-15",
         "target6Pos": [
             4.3,
@@ -7251,7 +7251,7 @@
         "target6FallDownType": 1,
         "target6PathTime": "1###@1.5,3,0,3,100@",
         "target6FaceInfo": "34,50,10@3,100,-3",
-        "target6MoveDelay": "@2,2,1,1@",
+        "target6MoveDelay": "@2,2,2,2@",
         "targetArr": "6810,6811,6812,6813,6814,6815",
         "gravity": 20,
         "starLimit": 0,
@@ -7289,7 +7289,7 @@
             75
         ],
         "target1Scale": [
-            1
+            1.5
         ],
         "target1MoveType": 0,
         "target1MovePeriod": 0,
@@ -7298,7 +7298,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            -3.3,
+            -1.7,
             0,
             76
         ],
@@ -7310,12 +7310,12 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1###@-0.3,0.5,-1,3,20;0,3,-1,3,100@",
+        "target2PathTime": "1###@1.3,0.5,0,3,20;1.5,3,0,3,100@",
         "target2FaceInfo": "34,50,10@3,100,-3",
         "target2MoveDelay": "@1,4,0,0;2,2,2,2@",
         "target3Type": "Target-15",
         "target3Pos": [
-            -1.3,
+            -0.2,
             0,
             76
         ],
@@ -7327,7 +7327,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3PathTime": "1###@-0.3,0.5,-1,3,20;0,3,-1,3,100@",
+        "target3PathTime": "1###@1.3,0.5,0,3,20;1.5,3,0,3,100@",
         "target3FaceInfo": "34,50,10@3,100,-3",
         "target3MoveDelay": "@1,4,0,0;2,2,2,2@",
         "target4Type": "Target-15",
@@ -7344,12 +7344,12 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4PathTime": "1###@-0.3,0.5,-1,3,20;0,3,-1,3,100@",
+        "target4PathTime": "1###@1.3,0.5,0,3,20;1.5,3,0,3,100@",
         "target4FaceInfo": "34,50,10@3,100,-3",
         "target4MoveDelay": "@1,4,0,0;2,2,2,2@",
         "target5Type": "Target-15",
         "target5Pos": [
-            3.3,
+            2.8,
             0,
             76
         ],
@@ -7361,12 +7361,12 @@
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
         "target5FallDownType": 1,
-        "target5PathTime": "1###@-0.3,0.5,-1,3,20;0,3,-1,3,100@",
+        "target5PathTime": "1###@1.3,0.5,0,3,20;1.5,3,0,3,100@",
         "target5FaceInfo": "34,50,10@3,100,-3",
         "target5MoveDelay": "@1,4,0,0;2,2,2,2@",
         "target6Type": "Target-15",
         "target6Pos": [
-            5.3,
+            4.3,
             0,
             76
         ],
@@ -7378,7 +7378,7 @@
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
         "target6FallDownType": 1,
-        "target6PathTime": "1###@-0.3,0.5,-1,3,20;0,3,-1,3,100@",
+        "target6PathTime": "1###@1.3,0.5,0,3,20;1.5,3,0,3,100@",
         "target6FaceInfo": "34,50,10@3,100,-3",
         "target6MoveDelay": "@1,4,0,0;2,2,2,2@",
         "targetArr": "6816,6817,6818,6819,6820,6821",
@@ -8068,9 +8068,9 @@
             1
         ],
         "target7MoveType": 4,
-        "target7MovePeriod": 12,
-        "target7MoveDistance1": 2,
-        "target7MoveDistance2": 2,
+        "target7MovePeriod": 24,
+        "target7MoveDistance1": 3,
+        "target7MoveDistance2": 3,
         "target7FallDownType": 3,
         "target8Type": "Target-7",
         "target8Pos": [
@@ -8082,9 +8082,9 @@
             1
         ],
         "target8MoveType": 3,
-        "target8MovePeriod": 12,
-        "target8MoveDistance1": 2,
-        "target8MoveDistance2": 2,
+        "target8MovePeriod": 24,
+        "target8MoveDistance1": 3,
+        "target8MoveDistance2": 3,
         "target8FallDownType": 3,
         "target9Type": "Target-7",
         "target9Pos": [
@@ -8096,9 +8096,9 @@
             1
         ],
         "target9MoveType": 4,
-        "target9MovePeriod": 12,
-        "target9MoveDistance1": 1.5,
-        "target9MoveDistance2": 2.5,
+        "target9MovePeriod": 24,
+        "target9MoveDistance1": 2,
+        "target9MoveDistance2": 4,
         "target9FallDownType": 3,
         "target10Type": "Target-7",
         "target10Pos": [
@@ -8110,9 +8110,9 @@
             1
         ],
         "target10MoveType": 4,
-        "target10MovePeriod": 12,
-        "target10MoveDistance1": 2,
-        "target10MoveDistance2": 2,
+        "target10MovePeriod": 24,
+        "target10MoveDistance1": 3,
+        "target10MoveDistance2": 3,
         "target10FallDownType": 3,
         "target11Type": "Target-7",
         "target11Pos": [
@@ -8124,9 +8124,9 @@
             1
         ],
         "target11MoveType": 3,
-        "target11MovePeriod": 12,
-        "target11MoveDistance1": 2.5,
-        "target11MoveDistance2": 1.5,
+        "target11MovePeriod": 24,
+        "target11MoveDistance1": 4,
+        "target11MoveDistance2": 2,
         "target11FallDownType": 3,
         "targetArr": "4841,4842,4843,4844,4845,4846,4847,4848,4849,4850,4851",
         "gravity": 20,
