@@ -54,17 +54,17 @@
         "box": [
             {
                 "type": "Fashion",
-                "number": 101,
-                "weight": -1
-            },
-            {
-                "type": "Fashion",
                 "number": 102,
                 "weight": -1
             },
             {
                 "type": "Fashion",
                 "number": 103,
+                "weight": -1
+            },
+            {
+                "type": "Fashion",
+                "number": 101,
                 "weight": -1
             },
             {
