@@ -7806,11 +7806,11 @@
         "targetArr": "6822,6823,6824,6825,6826,6827",
         "gravity": 20,
         "starLimit": 0,
-        "missionType": 1,
-        "missionCoef": 5,
+        "missionType": 2,
+        "missionCoef": 10,
         "enduranceCost": 1,
         "missionDifficulty": 0,
-        "missionDescription": "用5颗子弹达成目标！",
+        "missionDescription": "10秒内达成星级目标！",
         "achieveOneStarGold": 1060,
         "achieveTwoStarGold": 1590,
         "achieveThreeStarGold": 2120,
@@ -8741,24 +8741,24 @@
         "target2Pos": [
             3.2,
             0,
-            145
+            143
         ],
         "target2Scale": [
-            1
+            2
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target3Type": "Target-18",
+        "target3Type": "Target-22",
         "target3Pos": [
             -0.6,
             0,
-            175
+            143
         ],
         "target3Scale": [
-            1
+            2
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
@@ -9147,10 +9147,10 @@
         "target3Pos": [
             3.2,
             0,
-            145
+            143
         ],
         "target3Scale": [
-            1
+            2
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
@@ -9171,14 +9171,14 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target5Type": "Target-18",
+        "target5Type": "Target-22",
         "target5Pos": [
             -0.6,
             0,
-            175
+            143
         ],
         "target5Scale": [
-            1
+            2
         ],
         "target5MoveType": 0,
         "target5MovePeriod": -1,
@@ -11549,10 +11549,10 @@
         "target3Pos": [
             3.2,
             0,
-            145
+            143
         ],
         "target3Scale": [
-            1
+            2
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
@@ -11573,14 +11573,14 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target5Type": "Target-18",
+        "target5Type": "Target-22",
         "target5Pos": [
             -0.6,
             0,
-            175
+            143
         ],
         "target5Scale": [
-            1
+            2
         ],
         "target5MoveType": 0,
         "target5MovePeriod": -1,
@@ -11798,24 +11798,24 @@
         "target2Pos": [
             3.2,
             0,
-            145
+            143
         ],
         "target2Scale": [
-            1
+            2
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target3Type": "Target-18",
+        "target3Type": "Target-22",
         "target3Pos": [
             -0.6,
             0,
-            175
+            143
         ],
         "target3Scale": [
-            1
+            2
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
@@ -14308,24 +14308,24 @@
         "target2Pos": [
             3.2,
             0,
-            145
+            143
         ],
         "target2Scale": [
-            1
+            2
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target3Type": "Target-18",
+        "target3Type": "Target-22",
         "target3Pos": [
             -0.6,
             0,
-            175
+            143
         ],
         "target3Scale": [
-            1
+            2
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
@@ -15140,24 +15140,24 @@
         "target2Pos": [
             3.2,
             0,
-            145
+            143
         ],
         "target2Scale": [
-            1
+            2
         ],
         "target2MoveType": 0,
         "target2MovePeriod": -1,
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target3Type": "Target-18",
+        "target3Type": "Target-22",
         "target3Pos": [
             -0.6,
             0,
-            175
+            143
         ],
         "target3Scale": [
-            1
+            2
         ],
         "target3MoveType": 0,
         "target3MovePeriod": -1,
