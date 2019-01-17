@@ -1047,7 +1047,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2FallDownPeriod": "3,1.5,1",
+        "target2FallDownPeriod": "2.5,1.5,0.5",
         "target3Type": "Target-6",
         "target3Pos": [
             0.6,
@@ -1062,7 +1062,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3FallDownPeriod": "3,1.5,2",
+        "target3FallDownPeriod": "2.5,1.5,1.5",
         "targetArr": "4503,4504,4507",
         "gravity": 20,
         "starLimit": 0,
