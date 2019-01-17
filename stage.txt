@@ -6300,7 +6300,7 @@
             75
         ],
         "target1Scale": [
-            2
+            1.5
         ],
         "target1MoveType": 0,
         "target1MovePeriod": 0,
@@ -6321,7 +6321,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1###@2.5,3,0,3,100@",
+        "target2PathTime": "1###@1.5,3,0,3,100@",
         "target2FaceInfo": "34,100,10",
         "target2MoveDelay": "@1,2,1,2@",
         "target3Type": "Target-15",
@@ -6338,7 +6338,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3PathTime": "1###@2.5,3,0,3,100@",
+        "target3PathTime": "1###@1.5,3,0,3,100@",
         "target3FaceInfo": "34,100,10",
         "target3MoveDelay": "@1,2,1,2@",
         "target4Type": "Target-15",
@@ -6355,7 +6355,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4PathTime": "1###@2.5,3,0,3,100@",
+        "target4PathTime": "1###@1.5,3,0,3,100@",
         "target4FaceInfo": "34,100,10",
         "target4MoveDelay": "@1,2,1,2@",
         "targetArr": "6800,6801,6802,6803",
