@@ -567,9 +567,9 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 36,
-        "achieveTwoStarCondition": 38,
-        "achieveThreeStarCondition": 40,
+        "achieveOneStarCondition": 40,
+        "achieveTwoStarCondition": 45,
+        "achieveThreeStarCondition": 50,
         "achieveOneStarExperience": 14,
         "achieveTwoStarExperience": 14,
         "achieveThreeStarExperience": 14,
@@ -887,7 +887,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 30,
+        "achieveOneStarCondition": 24,
         "achieveTwoStarCondition": 44,
         "achieveThreeStarCondition": 45,
         "achieveOneStarExperience": 8,
@@ -1164,7 +1164,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 38,
+        "achieveOneStarCondition": 24,
         "achieveTwoStarCondition": 44,
         "achieveThreeStarCondition": 45,
         "achieveOneStarExperience": 8,
@@ -2938,7 +2938,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 48,
+        "achieveOneStarCondition": 40,
         "achieveTwoStarCondition": 74,
         "achieveThreeStarCondition": 75,
         "achieveOneStarExperience": 24,
@@ -4109,7 +4109,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 56,
+        "achieveOneStarCondition": 48,
         "achieveTwoStarCondition": 89,
         "achieveThreeStarCondition": 90,
         "achieveOneStarExperience": 16,
@@ -6171,7 +6171,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 76,
+        "achieveOneStarCondition": 64,
         "achieveTwoStarCondition": 119,
         "achieveThreeStarCondition": 120,
         "achieveOneStarExperience": 17,
@@ -7149,7 +7149,7 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 96,
+        "achieveOneStarCondition": 80,
         "achieveTwoStarCondition": 149,
         "achieveThreeStarCondition": 150,
         "achieveOneStarExperience": 17,
@@ -13281,7 +13281,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": "2@5",
-        "target2PathTime": "1#-1.7,0,111,10.5@0,180,0,1,2@4.3,0,65,18@0,0,0,1,2@1.8,0,111,7.5",
+        "target2PathTime": "1#-1.7,0,111,10.5@0,180,0,1,2@4.3,0,111,18@0,0,0,1,2@1.8,0,111,7.5",
         "target3Type": "Target-11",
         "target3Pos": [
             -1.7,
@@ -13997,7 +13997,7 @@
         "picId": "11",
         "target1Type": "Target-21",
         "target1Pos": [
-            -2.4,
+            -1.4,
             0,
             95
         ],
@@ -14011,7 +14011,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            -2.6,
+            -1.6,
             0,
             96
         ],
@@ -14023,10 +14023,10 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-2.6,0,96,23#1,1,2@1,4,2@1,16,3@1,20,2",
+        "target2PathTime": "1#-1.6,0,96,23#1,1,2@1,4,2@1,16,3@1,20,2",
         "target3Type": "Target-21",
         "target3Pos": [
-            5,
+            4,
             0,
             95
         ],
@@ -14040,7 +14040,7 @@
         "target3FallDownType": 1,
         "target4Type": "Target-15",
         "target4Pos": [
-            5.2,
+            4.2,
             0,
             96
         ],
@@ -14052,7 +14052,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4PathTime": "1#5.2,0,96,23#2,3,2@2,8,3@2,12,2@2,20,3",
+        "target4PathTime": "1#4.2,0,96,23#2,3,2@2,8,3@2,12,2@2,20,3",
         "targetArr": "1077,1078,1079,1080",
         "gravity": 20,
         "starLimit": 0,
@@ -15901,7 +15901,7 @@
         "picId": "11",
         "target1Type": "Target-21",
         "target1Pos": [
-            -2.4,
+            -1.4,
             0,
             95
         ],
@@ -15915,7 +15915,7 @@
         "target1FallDownType": 1,
         "target2Type": "Target-15",
         "target2Pos": [
-            -2.6,
+            -1.6,
             0,
             96
         ],
@@ -15927,10 +15927,10 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2PathTime": "1#-2.6,0,96,23#1,1,2@1,4,2@1,16,3@1,20,2",
+        "target2PathTime": "1#-1.6,0,96,23#1,1,2@1,4,2@1,16,3@1,20,2",
         "target3Type": "Target-21",
         "target3Pos": [
-            5,
+            4,
             0,
             95
         ],
@@ -15944,7 +15944,7 @@
         "target3FallDownType": 1,
         "target4Type": "Target-15",
         "target4Pos": [
-            5.2,
+            4.2,
             0,
             96
         ],
@@ -15956,7 +15956,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4PathTime": "1#5.2,0,96,23#2,3,2@2,8,3@2,12,2@2,20,3",
+        "target4PathTime": "1#4.2,0,96,23#2,3,2@2,8,3@2,12,2@2,20,3",
         "target5Type": "Target-6",
         "target5Pos": [
             -2.4,
