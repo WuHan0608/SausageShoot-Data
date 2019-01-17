@@ -14207,7 +14207,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 3,
-        "target1FallDownPeriod": "2,1,0.1",
+        "target1FallDownPeriod": "2,2,4",
         "target2Type": "Target-22",
         "target2Pos": [
             -0.6,
