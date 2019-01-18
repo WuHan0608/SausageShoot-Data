@@ -1,0 +1,52 @@
+{
+   "1": {
+      "id": 1,
+      "title": "全服邮件",
+      "content": "测试全服邮件.",
+      "icon": 0,
+      "award": [
+         {
+            "type": "Gold",
+            "number": 10,
+            "weight": -1
+         },
+         {
+            "type": -1,
+            "number": "Diamond",
+            "weight": -1
+         },
+         {
+            "type": 5,
+            "number": -1,
+            "weight": -1
+         }
+      ],
+      "created_at": 1547792426,
+      "indate": 1548051626
+   },
+   "2": {
+      "id": 2,
+      "title": "全服邮件2",
+      "content": "测试全服邮件2.",
+      "icon": 0,
+      "award": [
+         {
+            "type": "Gold",
+            "number": 20,
+            "weight": -1
+         },
+         {
+            "type": -1,
+            "number": "Diamond",
+            "weight": -1
+         },
+         {
+            "type": 10,
+            "number": -1,
+            "weight": -1
+         }
+      ],
+      "created_at": 1547793103,
+      "indate": 1548484303
+   }
+}
