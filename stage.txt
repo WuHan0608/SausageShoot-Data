@@ -46,7 +46,7 @@
     "Mission-1-2": {
         "level": "Mission-1-2",
         "id": 2,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 45,
         "picId": "3",
         "target1Type": "Target-10",
@@ -326,7 +326,7 @@
     "Mission-1-7": {
         "level": "Mission-1-7",
         "id": 7,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 45,
         "picId": "3",
         "target1Type": "Target-10",
@@ -1431,7 +1431,7 @@
         "target3Pos": [
             1.3,
             0,
-            105.5
+            106
         ],
         "target3Scale": [
             1
@@ -1448,7 +1448,7 @@
         "target4Pos": [
             1.3,
             0,
-            106
+            106.5
         ],
         "target4Scale": [
             1
@@ -1770,7 +1770,7 @@
     "Mission-1-30": {
         "level": "Mission-1-30",
         "id": 30,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 60,
         "picId": "3",
         "target1Type": "Target-11",
@@ -1846,7 +1846,7 @@
     "Mission-1-31": {
         "level": "Mission-1-31",
         "id": 31,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 50,
         "picId": "3",
         "target1Type": "Target-10",
@@ -2085,7 +2085,7 @@
     "Mission-1-33": {
         "level": "Mission-1-33",
         "id": 33,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 66,
         "picId": "3",
         "target1Type": "Target-9",
@@ -2266,7 +2266,7 @@
     "Mission-1-35": {
         "level": "Mission-1-35",
         "id": 35,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 60,
         "picId": "3",
         "target1Type": "Target-11",
@@ -2374,7 +2374,7 @@
     "Mission-1-36": {
         "level": "Mission-1-36",
         "id": 36,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 50,
         "picId": "3",
         "target1Type": "Target-10",
@@ -4659,7 +4659,7 @@
     "Mission-1-68": {
         "level": "Mission-1-68",
         "id": 68,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 90,
         "picId": "3",
         "target1Type": "Target-11",
@@ -4812,7 +4812,7 @@
     "Mission-1-70": {
         "level": "Mission-1-70",
         "id": 70,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 80,
         "picId": "3",
         "target1Type": "Target-11",
@@ -6677,7 +6677,7 @@
     "Mission-1-88": {
         "level": "Mission-1-88",
         "id": 88,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 120,
         "picId": "3",
         "target1Type": "Target-8",
@@ -6753,7 +6753,7 @@
     "Mission-1-89": {
         "level": "Mission-1-89",
         "id": 89,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 120,
         "picId": "3",
         "target1Type": "Target-11",
@@ -6860,7 +6860,7 @@
     "Mission-1-90": {
         "level": "Mission-1-90",
         "id": 90,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 120,
         "picId": "3",
         "target1Type": "Target-9",
@@ -7469,7 +7469,7 @@
     "Mission-1-95": {
         "level": "Mission-1-95",
         "id": 95,
-        "scene": 80,
+        "scene": 8,
         "UiShowDistance": 120,
         "picId": "3",
         "target1Type": "Target-11",
