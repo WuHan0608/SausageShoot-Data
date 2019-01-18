@@ -14560,7 +14560,7 @@
         "picId": "7",
         "target1Type": "Target-6",
         "target1Pos": [
-            3.7,
+            4.9,
             0,
             125
         ],
@@ -14572,10 +14572,10 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1FallDownPeriod": "2,3,2,1",
+        "target1FallDownPeriod": "2,3,3,1",
         "target2Type": "Target-6",
         "target2Pos": [
-            -1.1,
+            -2.3,
             0,
             125
         ],
@@ -14587,10 +14587,10 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2FallDownPeriod": "2,3,2,1",
+        "target2FallDownPeriod": "2,3,3,1",
         "target3Type": "Target-6",
         "target3Pos": [
-            2.5,
+            3.7,
             0,
             125
         ],
@@ -14602,10 +14602,10 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3FallDownPeriod": "2,3,1,1",
+        "target3FallDownPeriod": "2,3,2,1",
         "target4Type": "Target-6",
         "target4Pos": [
-            1.3,
+            -1.1,
             0,
             125
         ],
@@ -14617,10 +14617,10 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4FallDownPeriod": "2,3,0.1,1",
+        "target4FallDownPeriod": "2,3,2,1",
         "target5Type": "Target-6",
         "target5Pos": [
-            0.1,
+            2.5,
             0,
             125
         ],
@@ -14633,11 +14633,11 @@
         "target5MoveDistance2": 0,
         "target5FallDownType": 1,
         "target5FallDownPeriod": "2,3,1,1",
-        "target6Type": "Target-4",
+        "target6Type": "Target-6",
         "target6Pos": [
-            -2.9,
+            1.3,
             0,
-            145
+            125
         ],
         "target6Scale": [
             1
@@ -14646,64 +14646,94 @@
         "target6MovePeriod": -1,
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
-        "target6FallDownType": "2@8",
-        "target6PathTime": "1###-0.9,0.5,-2.9,0.5@@",
-        "target7Type": "Target-4",
+        "target6FallDownType": 1,
+        "target6FallDownPeriod": "2,3,0.1,1",
+        "target7Type": "Target-6",
         "target7Pos": [
-            2,
+            0.1,
             0,
-            139
+            125
         ],
         "target7Scale": [
             1
         ],
-        "target7MoveType": 3,
-        "target7MovePeriod": 20,
-        "target7MoveDistance1": 1.5,
-        "target7MoveDistance2": 2.5,
-        "target7FallDownType": "2@8",
+        "target7MoveType": 0,
+        "target7MovePeriod": -1,
+        "target7MoveDistance1": 0,
+        "target7MoveDistance2": 0,
+        "target7FallDownType": 1,
+        "target7FallDownPeriod": "2,3,1,1",
         "target8Type": "Target-4",
         "target8Pos": [
-            0.6,
+            -2.9,
             0,
-            143
+            145
         ],
         "target8Scale": [
             1
         ],
-        "target8MoveType": 4,
-        "target8MovePeriod": 20,
-        "target8MoveDistance1": 2.5,
-        "target8MoveDistance2": 1.5,
+        "target8MoveType": 0,
+        "target8MovePeriod": -1,
+        "target8MoveDistance1": 0,
+        "target8MoveDistance2": 0,
         "target8FallDownType": "2@8",
+        "target8PathTime": "1###-0.9,0.5,-2.9,0.5@@",
         "target9Type": "Target-4",
         "target9Pos": [
-            2.7,
+            2,
             0,
-            149
+            139
         ],
         "target9Scale": [
             1
         ],
         "target9MoveType": 3,
-        "target9MovePeriod": 30,
-        "target9MoveDistance1": 4,
-        "target9MoveDistance2": 2,
+        "target9MovePeriod": 20,
+        "target9MoveDistance1": 1.5,
+        "target9MoveDistance2": 2.5,
         "target9FallDownType": "2@8",
         "target10Type": "Target-4",
         "target10Pos": [
-            -0.1,
+            0.6,
             0,
-            155
+            143
         ],
         "target10Scale": [
             1
         ],
         "target10MoveType": 4,
-        "target10MovePeriod": 30,
-        "target10MoveDistance1": 2,
-        "target10MoveDistance2": 4,
+        "target10MovePeriod": 20,
+        "target10MoveDistance1": 2.5,
+        "target10MoveDistance2": 1.5,
         "target10FallDownType": "2@8",
+        "target11Type": "Target-4",
+        "target11Pos": [
+            2.7,
+            0,
+            149
+        ],
+        "target11Scale": [
+            1
+        ],
+        "target11MoveType": 3,
+        "target11MovePeriod": 30,
+        "target11MoveDistance1": 4,
+        "target11MoveDistance2": 2,
+        "target11FallDownType": "2@8",
+        "target12Type": "Target-4",
+        "target12Pos": [
+            -0.1,
+            0,
+            155
+        ],
+        "target12Scale": [
+            1
+        ],
+        "target12MoveType": 4,
+        "target12MovePeriod": 30,
+        "target12MoveDistance1": 2,
+        "target12MoveDistance2": 4,
+        "target12FallDownType": "2@8",
         "targetArr": "1187,1188,1189,1191,1190,1192,1193,1194",
         "gravity": 20,
         "starLimit": 0,
