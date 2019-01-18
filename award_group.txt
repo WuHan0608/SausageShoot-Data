@@ -140,22 +140,22 @@
             {
                 "type": "Box",
                 "number": 5002,
-                "weight": 88
+                "weight": 6000
             },
             {
                 "type": "Box",
                 "number": 5003,
-                "weight": 412
-            },
-            {
-                "type": "Box",
-                "number": 5004,
                 "weight": 3500
             },
             {
                 "type": "Box",
+                "number": 5004,
+                "weight": 412
+            },
+            {
+                "type": "Box",
                 "number": 5005,
-                "weight": 6000
+                "weight": 88
             }
         ]
     },
@@ -170,22 +170,22 @@
             {
                 "type": "Box",
                 "number": 5002,
-                "weight": 1000
+                "weight": 2000
             },
             {
                 "type": "Box",
                 "number": 5003,
-                "weight": 3000
-            },
-            {
-                "type": "Box",
-                "number": 5004,
                 "weight": 4000
             },
             {
                 "type": "Box",
+                "number": 5004,
+                "weight": 3000
+            },
+            {
+                "type": "Box",
                 "number": 5005,
-                "weight": 2000
+                "weight": 1000
             }
         ]
     },
