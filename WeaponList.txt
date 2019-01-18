@@ -780,7 +780,7 @@
         "id": 403,
         "type": 3,
         "mark": "ru_men_yi_zhi_qi_lv3",
-        "name": "入门补偿器器 Lv.3",
+        "name": "入门补偿器 Lv.3",
         "level": 12,
         "star": 0,
         "cup": 0,
