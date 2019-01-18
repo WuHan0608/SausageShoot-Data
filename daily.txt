@@ -208,11 +208,6 @@
       ],
       "10": [
          {
-            "type": "Gold",
-            "number": 5000,
-            "weight": -1
-         },
-         {
             "type": "LegendFragment",
             "number": 15,
             "weight": -1
