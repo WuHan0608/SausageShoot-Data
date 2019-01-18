@@ -448,7 +448,7 @@
         "level": 1,
         "star": 410,
         "cup": 3500,
-        "quality": 5,
+        "quality": 4,
         "price": {
             "Gold": 1500000,
             "Diamond": 1500
@@ -532,7 +532,7 @@
         "level": 11,
         "star": 0,
         "cup": 0,
-        "quality": 2,
+        "quality": 1,
         "price": {
             "Gold": 3000,
             "Diamond": 100
@@ -553,7 +553,7 @@
         "level": 16,
         "star": 0,
         "cup": 0,
-        "quality": 2,
+        "quality": 1,
         "price": {
             "Gold": 10000,
             "Diamond": 150
@@ -595,7 +595,7 @@
         "level": 26,
         "star": 0,
         "cup": 0,
-        "quality": 3,
+        "quality": 2,
         "price": {
             "Gold": 60000,
             "Diamond": 300
@@ -616,7 +616,7 @@
         "level": 31,
         "star": 0,
         "cup": 0,
-        "quality": 3,
+        "quality": 2,
         "price": {
             "Gold": 100000,
             "Diamond": 400
@@ -637,7 +637,7 @@
         "level": 36,
         "star": 0,
         "cup": 0,
-        "quality": 3,
+        "quality": 4,
         "price": {
             "Gold": 190000,
             "Diamond": 600
@@ -721,7 +721,7 @@
         "level": 56,
         "star": 0,
         "cup": 0,
-        "quality": 5,
+        "quality": 4,
         "price": {
             "Gold": 1700000,
             "Diamond": 1600
@@ -784,7 +784,7 @@
         "level": 12,
         "star": 0,
         "cup": 0,
-        "quality": 2,
+        "quality": 1,
         "price": {
             "Gold": 4000,
             "Diamond": 150
@@ -847,7 +847,7 @@
         "level": 27,
         "star": 0,
         "cup": 0,
-        "quality": 3,
+        "quality": 2,
         "price": {
             "Gold": 120000,
             "Diamond": 700
@@ -910,7 +910,7 @@
         "level": 42,
         "star": 0,
         "cup": 0,
-        "quality": 4,
+        "quality": 3,
         "price": {
             "Gold": 650000,
             "Diamond": 1600
@@ -973,7 +973,7 @@
         "level": 58,
         "star": 0,
         "cup": 0,
-        "quality": 5,
+        "quality": 4,
         "price": {
             "Gold": 3700000,
             "Diamond": 2500
@@ -1036,7 +1036,7 @@
         "level": 13,
         "star": 0,
         "cup": 0,
-        "quality": 2,
+        "quality": 1,
         "price": {
             "Gold": 8000,
             "Diamond": 200
@@ -1099,7 +1099,7 @@
         "level": 29,
         "star": 0,
         "cup": 0,
-        "quality": 3,
+        "quality": 2,
         "price": {
             "Gold": 200000,
             "Diamond": 1000
@@ -1162,7 +1162,7 @@
         "level": 43,
         "star": 0,
         "cup": 0,
-        "quality": 4,
+        "quality": 3,
         "price": {
             "Gold": 880000,
             "Diamond": 2500
@@ -1225,7 +1225,7 @@
         "level": 59,
         "star": 0,
         "cup": 0,
-        "quality": 5,
+        "quality": 4,
         "price": {
             "Gold": 5200000,
             "Diamond": 4000
