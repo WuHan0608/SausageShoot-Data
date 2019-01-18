@@ -1,5 +1,5 @@
 {
-    "APPID": "wxe8ab4299110af110",
+    "APPID": "wx4ff859cf9a413470",
     "CUP_SEASON": "1",
     "GM_REPO_URL": "https://hub000.xindong.com/api/v3/repos/SausageShoot/sausage-gmdata/contents",
     "MIN_RES_VERSION": "0.3",
@@ -8,7 +8,7 @@
     "REDIS_ADDR": "172.26.32.13:6379,172.26.32.14:6379",
     "REDIS_PASS": "",
     "REFRESH_TIME": "4",
-    "SECRET": "983bdc3f6779906cd7e8f310e120fcd5",
+    "SECRET": "f3d23fbb1958483eeed73a1e741a3003",
     "MYSQL_ADDR": "172.26.32.12",
     "MYSQL_USER": "sausage",
     "MYSQL_PASS": "sausage_shooter",
