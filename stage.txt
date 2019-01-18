@@ -825,7 +825,7 @@
     "Mission-1-16": {
         "level": "Mission-1-16",
         "id": 16,
-        "scene": 1,
+        "scene": 2,
         "UiShowDistance": 60,
         "picId": "14",
         "target1Type": "Target-28",
