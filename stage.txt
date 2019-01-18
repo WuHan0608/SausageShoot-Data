@@ -10516,7 +10516,7 @@
         "target1Pos": [
             1.3,
             0,
-            65
+            105
         ],
         "target1Scale": [
             1
@@ -10526,7 +10526,22 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "targetArr": "6510",
+        "target2Type": "Target-18",
+        "target2Pos": [
+            1.3,
+            0,
+            85
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target2FallDownPeriod": "4,2,1",
+        "targetArr": "6510,6511",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
