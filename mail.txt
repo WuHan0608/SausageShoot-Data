@@ -11,13 +11,13 @@
             "weight": -1
          },
          {
-            "type": -1,
-            "number": "Diamond",
+            "type": "Diamond",
+            "number": 5,
             "weight": -1
          },
          {
-            "type": 5,
-            "number": -1,
+            "type": "Exp",
+            "number": 1,
             "weight": -1
          }
       ],
@@ -36,13 +36,8 @@
             "weight": -1
          },
          {
-            "type": -1,
-            "number": "Diamond",
-            "weight": -1
-         },
-         {
-            "type": 10,
-            "number": -1,
+            "type": "Diamond",
+            "number": 10,
             "weight": -1
          }
       ],
