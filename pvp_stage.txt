@@ -99,13 +99,7 @@
         "target1RotationPeriod": 12,
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "103": {
         "id": 103,
@@ -183,13 +177,7 @@
         "target3FallDownType": 1,
         "target3PathTime": "1#2.5,0,142,2@2.5,0,142,0.5@3.4,0,142,2@3.4,0,142,0.5",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "104": {
         "id": 104,
@@ -278,13 +266,7 @@
         "target4FallDownType": 1,
         "target4PathTime": "1###3.3,1,-0.7,1@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "105": {
         "id": 105,
@@ -331,13 +313,7 @@
         "target1FallDownType": 1,
         "target1PathTime": "1###-3.7,0.6,6.3,0.6@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "106": {
         "id": 106,
@@ -386,13 +362,7 @@
         "target1RotationPeriod": 12,
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "107": {
         "id": 107,
@@ -470,13 +440,7 @@
         "target3FallDownType": 1,
         "target3PathTime": "1#2.5,0,142,2@2.5,0,142,0.5@3.4,0,142,2@3.4,0,142,0.5",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "108": {
         "id": 108,
@@ -565,13 +529,7 @@
         "target4FallDownType": 1,
         "target4PathTime": "1###3.3,1,-0.7,1@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "201": {
         "id": 201,
@@ -620,13 +578,7 @@
         "target1MovePeriodInPole": 6,
         "target1Euler": "135,-90,-90",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "202": {
         "id": 202,
@@ -677,13 +629,7 @@
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 15,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "203": {
         "id": 203,
@@ -776,13 +722,7 @@
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "204": {
         "id": 204,
@@ -834,13 +774,7 @@
         "target1Euler": "-135,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "205": {
         "id": 205,
@@ -922,13 +856,7 @@
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "206": {
         "id": 206,
@@ -996,13 +924,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "207": {
         "id": 207,
@@ -1057,13 +979,7 @@
         "target1Euler": "180,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "208": {
         "id": 208,
@@ -1112,13 +1028,7 @@
         "target1MovePeriodInPole": 6,
         "target1Euler": "135,-90,-90",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "209": {
         "id": 209,
@@ -1169,13 +1079,7 @@
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 15,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "210": {
         "id": 210,
@@ -1268,13 +1172,7 @@
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "211": {
         "id": 211,
@@ -1326,13 +1224,7 @@
         "target1Euler": "-135,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "212": {
         "id": 212,
@@ -1414,13 +1306,7 @@
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "213": {
         "id": 213,
@@ -1488,13 +1374,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "214": {
         "id": 214,
@@ -1549,13 +1429,7 @@
         "target1Euler": "180,-90,-90",
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "301": {
         "id": 301,
@@ -1603,13 +1477,7 @@
         "target1RotationDirect": 2,
         "target1RotationPeriod": 12,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "302": {
         "id": 302,
@@ -1658,13 +1526,7 @@
         "target1RotationPeriod": 18,
         "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "303": {
         "id": 303,
@@ -1712,13 +1574,7 @@
         "target1RotationPeriod": 10,
         "target1PathTime": "1###-3.7,0.6,6.3,0.6@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "304": {
         "id": 304,
@@ -1781,13 +1637,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "305": {
         "id": 305,
@@ -1835,13 +1685,7 @@
         "target1RotationDirect": 2,
         "target1RotationPeriod": 12,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "306": {
         "id": 306,
@@ -1890,13 +1734,7 @@
         "target1RotationPeriod": 18,
         "target1PathTime": "1###-3.7,0.5,6.3,0.5@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "307": {
         "id": 307,
@@ -1944,13 +1782,7 @@
         "target1RotationPeriod": 10,
         "target1PathTime": "1###-3.7,0.6,6.3,0.6@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "308": {
         "id": 308,
@@ -2013,13 +1845,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "501": {
         "id": 501,
@@ -2097,13 +1923,7 @@
         "target3OriginDir": 2,
         "target3PathTime": "1#3.1,0,95,15@0,180,0,1,2@-1.9,0,95,15@0,0,0,1,2",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "502": {
         "id": 502,
@@ -2211,13 +2031,7 @@
         "target5FallDownType": 1,
         "target5PathTime": "1#-1.7,0,125,6@-1.7,0,125,2@0,180,0,0.5,2@4.3,0,125,12@4.3,0,125,2@0,0,0,0.5,2@1.3,0,125,6@1.3,0,125,2",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "503": {
         "id": 503,
@@ -2325,13 +2139,7 @@
         "target5OriginDir": 2,
         "target5PathTime": "1#3.3,0,125,6@3.3,0,125,3@0,180,0,0.5,2@-2.7,0,125,6@-2.7,0,125,3@0,0,0,0.5,2",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "504": {
         "id": 504,
@@ -2474,13 +2282,7 @@
         "target7OriginDir": 2,
         "target7PathTime": "1#3.3,0,125,6@3.3,0,125,3@0,180,0,0.5,2@-2.7,0,125,6@-2.7,0,125,3@0,0,0,0.5,2",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "505": {
         "id": 505,
@@ -2528,13 +2330,7 @@
         "target1RotationPeriod": 10,
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "506": {
         "id": 506,
@@ -2655,13 +2451,7 @@
         "target6FallDownType": 3,
         "target6FallDownPeriod": "5,3,3",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "507": {
         "id": 507,
@@ -2670,7 +2460,7 @@
         ],
         "shootScore": 1,
         "missionDescription": "人形2_限时",
-        "UiShowDistance": 60,
+        "UiShowDistance": 70,
         "pvpExtraUiShowDistance": 80,
         "scene": 1,
         "gravity": 20,
@@ -2764,13 +2554,7 @@
         "target5MoveDistance2": 0,
         "target5FallDownType": 2,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "508": {
         "id": 508,
@@ -2838,13 +2622,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "509": {
         "id": 509,
@@ -2920,7 +2698,7 @@
         "target4Pos": [
             1.3,
             0,
-            135
+            138
         ],
         "target4Scale": [
             1
@@ -2929,8 +2707,8 @@
         "target4MovePeriod": -1,
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
-        "target4FallDownType": "2@8",
-        "target4PathTime": "1#2.3,0,135,1@2.3,0,135,2@1.3,0,135,1@1.3,0,135,2",
+        "target4FallDownType": "2@15",
+        "target4PathTime": "1#2.3,0,138,1@2.3,0,138,2@1.3,0,138,1@1.3,0,138,2",
         "target5Type": "Target-4",
         "target5Pos": [
             0.3,
@@ -2944,7 +2722,7 @@
         "target5MovePeriod": -1,
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
-        "target5FallDownType": "2@8",
+        "target5FallDownType": "2@15",
         "target5PathTime": "1#0.3,0,139,2@1.3,0,139,1@1.3,0,139,2@0.3,0,139,1",
         "target6Type": "Target-4",
         "target6Pos": [
@@ -2959,8 +2737,8 @@
         "target6MovePeriod": -1,
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
-        "target6FallDownType": "2@8",
-        "target6PathTime": "1#4.5,0,145,1@4.5,0,145,3@3.5,0,145,1@3.5,0,145,3",
+        "target6FallDownType": "2@12",
+        "target6PathTime": "1#4.5,0,145,1@4.5,0,145,4@3.5,0,145,1@3.5,0,145,4",
         "target7Type": "Target-4",
         "target7Pos": [
             3.5,
@@ -2974,8 +2752,8 @@
         "target7MovePeriod": -1,
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
-        "target7FallDownType": "2@8",
-        "target7PathTime": "1#2.5,0,145,1@2.5,0,145,3@3.5,0,145,1@3.5,0,145,3",
+        "target7FallDownType": "2@12",
+        "target7PathTime": "1#2.5,0,145,1@2.5,0,145,4@3.5,0,145,1@3.5,0,145,4",
         "target8Type": "Target-4",
         "target8Pos": [
             -0.9,
@@ -2989,8 +2767,7 @@
         "target8MovePeriod": -1,
         "target8MoveDistance1": 0,
         "target8MoveDistance2": 0,
-        "target8FallDownType": "2@8",
-        "target8FallDownPeriod": "5,3,0",
+        "target8FallDownType": "2@10",
         "target8PathTime": "1###-2.9,0.5,-0.9,0.5@@",
         "target9Type": "Target-4",
         "target9Pos": [
@@ -3006,16 +2783,9 @@
         "target9MoveDistance1": 0,
         "target9MoveDistance2": 0,
         "target9FallDownType": "2@8",
-        "target9FallDownPeriod": "5,3,0",
-        "target9PathTime": "1###-0.9,0,5,-2.9,0.5@@",
+        "target9PathTime": "1###-0.9,0.5,-2.9,0.5@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "510": {
         "id": 510,
@@ -3064,13 +2834,7 @@
         "target1RotationPeriod": 10,
         "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "601": {
         "id": 601,
@@ -3160,13 +2924,7 @@
         "target4FallDownType": 1,
         "target4PathTime": "1#4.22,0,106,23#1,1,2@1,7,2@1,10,3@1,19,3",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "602": {
         "id": 602,
@@ -3227,13 +2985,7 @@
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "603": {
         "id": 603,
@@ -3307,13 +3059,7 @@
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "604": {
         "id": 604,
@@ -3407,13 +3153,7 @@
         "target4FallDownPeriod": "4,3,0",
         "target4PathTime": "1###6.3,0.5,3.8,0.5@@",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "605": {
         "id": 605,
@@ -3502,13 +3242,7 @@
         "target4FallDownType": 1,
         "target4PathTime": "1#4.2,0,96,23#2,3,2@2,8,3@2,12,2@2,20,3",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     },
     "606": {
         "id": 606,
@@ -3628,12 +3362,6 @@
         "target6FallDownType": 1,
         "target6PathTime": "1#4.9,0,95.4,3@5.3,0,95.4,0.25@5.3,0,95.4,1@4.9,0,95.4,0.25@4.9,0,95.4,4",
         "targetArr": {},
-        "rangeScore": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        "rangeScore": []
     }
 }
