@@ -14755,7 +14755,7 @@
         "target1TaowaState": 2,
         "target2Type": "Target-12",
         "target2Pos": [
-            1,
+            0.3,
             0,
             145
         ],
@@ -14767,12 +14767,12 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2TaowaNum": 10,
+        "target2TaowaNum": 7,
         "target2TaowaState": 1,
-        "target2TaowaRange": 4.2,
+        "target2TaowaRange": 3.5,
         "target3Type": "Target-12",
         "target3Pos": [
-            1.6,
+            2.3,
             0,
             145
         ],
@@ -14784,9 +14784,26 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3TaowaNum": 10,
+        "target3TaowaNum": 7,
         "target3TaowaState": 1,
-        "target3TaowaRange": 4.2,
+        "target3TaowaRange": 3.5,
+        "target4Type": "Target-12",
+        "target4Pos": [
+            1.3,
+            0,
+            145
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 1,
+        "target4TaowaNum": 7,
+        "target4TaowaState": 1,
+        "target4TaowaRange": 4.5,
         "targetArr": "1195,1196,1197",
         "gravity": 20,
         "starLimit": 0,
