@@ -8635,7 +8635,7 @@
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
         "target5FallDownType": 3,
-        "target5PathTime": "1###-0.7,0.2,3.3,0.2@@",
+        "target5PathTime": "1#-0.7,10,185,4@-0.7,10,185,2@3.3,10,185,4@3.3,10,185,2",
         "target6Type": "Target-22",
         "target6Pos": [
             -3.7,
@@ -11211,7 +11211,7 @@
     "Mission-1-142": {
         "level": "Mission-1-142",
         "id": 142,
-        "scene": 1,
+        "scene": 2,
         "UiShowDistance": 80,
         "picId": "1",
         "target1Type": "Target-21",
@@ -11270,7 +11270,7 @@
     "Mission-1-143": {
         "level": "Mission-1-143",
         "id": 143,
-        "scene": 1,
+        "scene": 3,
         "UiShowDistance": 100,
         "picId": "1",
         "target1Type": "Target-1",
@@ -11315,7 +11315,7 @@
     "Mission-1-144": {
         "level": "Mission-1-144",
         "id": 144,
-        "scene": 1,
+        "scene": 4,
         "UiShowDistance": 100,
         "picId": "10",
         "target1Type": "Target-3",
@@ -11364,7 +11364,7 @@
     "Mission-1-145": {
         "level": "Mission-1-145",
         "id": 145,
-        "scene": 1,
+        "scene": 5,
         "UiShowDistance": 100,
         "picId": "2",
         "target1Type": "Target-13",
@@ -11411,7 +11411,7 @@
     "Mission-1-146": {
         "level": "Mission-1-146",
         "id": 146,
-        "scene": 1,
+        "scene": 6,
         "UiShowDistance": 100,
         "picId": "6",
         "target1Type": "Target-19",
@@ -11455,7 +11455,7 @@
     "Mission-1-147": {
         "level": "Mission-1-147",
         "id": 147,
-        "scene": 1,
+        "scene": 7,
         "UiShowDistance": 100,
         "picId": "4",
         "target1Type": "Target-15",
@@ -11528,7 +11528,7 @@
     "Mission-1-148": {
         "level": "Mission-1-148",
         "id": 148,
-        "scene": 1,
+        "scene": 8,
         "UiShowDistance": 120,
         "picId": "1",
         "target1Type": "Target-1",
@@ -11574,7 +11574,7 @@
     "Mission-1-149": {
         "level": "Mission-1-149",
         "id": 149,
-        "scene": 1,
+        "scene": 9,
         "UiShowDistance": 140,
         "picId": "10",
         "target1Type": "Target-3",
@@ -11625,7 +11625,7 @@
     "Mission-1-150": {
         "level": "Mission-1-150",
         "id": 150,
-        "scene": 1,
+        "scene": 10,
         "UiShowDistance": 120,
         "picId": "2",
         "target1Type": "Target-13",
