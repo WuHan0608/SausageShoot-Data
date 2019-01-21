@@ -14966,6 +14966,36 @@
         "target6TaowaNum": 5,
         "target6TaowaState": 1,
         "target6TaowaRange": 4,
+        "target7Type": "Target-18",
+        "target7Pos": [
+            -5.3,
+            0,
+            154
+        ],
+        "target7Scale": [
+            1
+        ],
+        "target7MoveType": 0,
+        "target7MovePeriod": -1,
+        "target7MoveDistance1": 0,
+        "target7MoveDistance2": 0,
+        "target7FallDownType": 1,
+        "target7FallDownPeriod": "8,8,10,1",
+        "target8Type": "Target-18",
+        "target8Pos": [
+            7.3,
+            0,
+            134
+        ],
+        "target8Scale": [
+            1
+        ],
+        "target8MoveType": 0,
+        "target8MovePeriod": -1,
+        "target8MoveDistance1": 0,
+        "target8MoveDistance2": 0,
+        "target8FallDownType": 1,
+        "target8FallDownPeriod": "8,8,1,1",
         "targetArr": "1198,1199,1200,1201",
         "gravity": 20,
         "starLimit": 0,
