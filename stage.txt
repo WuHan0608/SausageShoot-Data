@@ -8575,23 +8575,114 @@
         "target1FallDownType": 3,
         "target1PathTime": "1###-0.7,0.5,3.3,0.5@10,2,20,4@",
         "target1Hp": 100,
-        "targetArr": "6711",
+        "target2Type": "Target-17",
+        "target2Pos": [
+            -3.7,
+            35,
+            185
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 3,
+        "target2PathTime": "1###-5.7,0.5,-1.7,0.5@10,2,20,4@",
+        "target2Hp": 100,
+        "target3Type": "Target-17",
+        "target3Pos": [
+            5.3,
+            45,
+            185
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 3,
+        "target3PathTime": "1###7.3,0.5,3.3,0.5@10,2,20,4@",
+        "target3Hp": 100,
+        "target4Type": "Target-29",
+        "target4Pos": [
+            1.3,
+            0,
+            185
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4FallDownType": 3,
+        "target5Type": "Target-22",
+        "target5Pos": [
+            1.3,
+            10,
+            185
+        ],
+        "target5Scale": [
+            1
+        ],
+        "target5MoveType": 0,
+        "target5MovePeriod": -1,
+        "target5MoveDistance1": 0,
+        "target5MoveDistance2": 0,
+        "target5FallDownType": 3,
+        "target5PathTime": "1###-0.7,0.2,3.3,0.2@@",
+        "target6Type": "Target-22",
+        "target6Pos": [
+            -3.7,
+            15,
+            185
+        ],
+        "target6Scale": [
+            1
+        ],
+        "target6MoveType": 0,
+        "target6MovePeriod": -1,
+        "target6MoveDistance1": 0,
+        "target6MoveDistance2": 0,
+        "target6FallDownType": 3,
+        "target6PathTime": "1###-5.7,0.5,-1.7,0.5@@",
+        "target7Type": "Target-22",
+        "target7Pos": [
+            5.3,
+            20,
+            185
+        ],
+        "target7Scale": [
+            1
+        ],
+        "target7MoveType": 0,
+        "target7MovePeriod": -1,
+        "target7MoveDistance1": 0,
+        "target7MoveDistance2": 0,
+        "target7FallDownType": 3,
+        "target7PathTime": "1###-0.7,0.2,3.3,0.2@@",
+        "targetArr": "6711,6712,6713,6714,6715,6716,6717",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
-        "missionCoef": 5000,
+        "missionCoef": 20,
         "enduranceCost": 1,
         "missionDifficulty": 0,
-        "missionDescription": "关卡描述",
+        "missionDescription": "20秒内达成星级目标！",
         "achieveOneStarGold": 1160,
         "achieveTwoStarGold": 1740,
         "achieveThreeStarGold": 2320,
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": "",
-        "achieveTwoStarCondition": "",
-        "achieveThreeStarCondition": "",
+        "achieveOneStarCondition": 20,
+        "achieveTwoStarCondition": 29,
+        "achieveThreeStarCondition": 30,
         "achieveOneStarExperience": 17,
         "achieveTwoStarExperience": 17,
         "achieveThreeStarExperience": 17,
@@ -8632,7 +8723,7 @@
         "missionCoef": 5000,
         "enduranceCost": 1,
         "missionDifficulty": 0,
-        "missionDescription": "关卡描述",
+        "missionDescription": "5000秒内达成星级目标！",
         "achieveOneStarGold": 1170,
         "achieveTwoStarGold": 1755,
         "achieveThreeStarGold": 2340,
