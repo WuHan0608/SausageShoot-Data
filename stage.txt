@@ -3862,11 +3862,14 @@
         ],
         "target5Type": "Target-17",
         "target5Pos": [
-            null
+            1.3,
+            25,
+            145
         ],
         "target5Scale": [
             null
         ],
+        "target5PathTime": "1###-3.3,1,5.3,1@0,2@",
         "targetArr": "6700,6701,6702,6706",
         "gravity": 20,
         "starLimit": 0,
@@ -14980,7 +14983,7 @@
             150
         ],
         "target7Scale": [
-            3
+            4
         ],
         "target7MoveType": 0,
         "target7MovePeriod": -1,
@@ -14995,7 +14998,7 @@
             130
         ],
         "target8Scale": [
-            3
+            4
         ],
         "target8MoveType": 0,
         "target8MovePeriod": -1,
@@ -15007,7 +15010,7 @@
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
-        "missionCoef": 40,
+        "missionCoef": 45,
         "enduranceCost": 3,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
