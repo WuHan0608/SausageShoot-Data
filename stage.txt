@@ -8512,6 +8512,7 @@
         "target5MoveDistance2": 0,
         "target5FallDownType": 3,
         "target5PathTime": "1###-0.7,0.5,3.3,0.5@10,2,20,4@",
+        "target5Hp": 100,
         "target6Type": "Target-17",
         "target6Pos": [
             -3.7,
@@ -8527,6 +8528,7 @@
         "target6MoveDistance2": 0,
         "target6FallDownType": 3,
         "target6PathTime": "1###-5.7,0.5,-1.7,0.5@10,2,20,4@",
+        "target6Hp": 100,
         "targetArr": "6707,6708,6709,6710,6711,6712",
         "gravity": 20,
         "starLimit": 0,
