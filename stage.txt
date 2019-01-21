@@ -14572,7 +14572,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1FallDownPeriod": "2,3,3,1",
+        "target1FallDownPeriod": "3,3,3,1",
         "target2Type": "Target-6",
         "target2Pos": [
             -2.3,
@@ -14587,7 +14587,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": 1,
-        "target2FallDownPeriod": "2,3,3,1",
+        "target2FallDownPeriod": "3,3,3,1",
         "target3Type": "Target-6",
         "target3Pos": [
             3.7,
@@ -14602,7 +14602,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": 1,
-        "target3FallDownPeriod": "2,3,2,1",
+        "target3FallDownPeriod": "3,3,2,1",
         "target4Type": "Target-6",
         "target4Pos": [
             -1.1,
@@ -14617,7 +14617,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": 1,
-        "target4FallDownPeriod": "2,3,2,1",
+        "target4FallDownPeriod": "3,3,2,1",
         "target5Type": "Target-6",
         "target5Pos": [
             2.5,
@@ -14632,7 +14632,7 @@
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
         "target5FallDownType": 1,
-        "target5FallDownPeriod": "2,3,1,1",
+        "target5FallDownPeriod": "3,3,1,1",
         "target6Type": "Target-6",
         "target6Pos": [
             1.3,
@@ -14647,7 +14647,7 @@
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
         "target6FallDownType": 1,
-        "target6FallDownPeriod": "2,3,0.1,1",
+        "target6FallDownPeriod": "3,3,0.1,1",
         "target7Type": "Target-6",
         "target7Pos": [
             0.1,
@@ -14662,7 +14662,7 @@
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
-        "target7FallDownPeriod": "2,3,1,1",
+        "target7FallDownPeriod": "3,3,1,1",
         "target8Type": "Target-4",
         "target8Pos": [
             -2.9,
@@ -14768,7 +14768,7 @@
         "target1Pos": [
             1.3,
             0,
-            125
+            145
         ],
         "target1Scale": [
             1
@@ -14781,9 +14781,9 @@
         "target1TaowaState": 2,
         "target2Type": "Target-12",
         "target2Pos": [
-            -1.3,
+            -0.95,
             0,
-            125
+            145
         ],
         "target2Scale": [
             1
@@ -14795,11 +14795,12 @@
         "target2FallDownType": 1,
         "target2TaowaNum": 5,
         "target2TaowaState": 1,
+        "target2TaowaRange": 2.25,
         "target3Type": "Target-12",
         "target3Pos": [
-            3.3,
+            3.55,
             0,
-            125
+            145
         ],
         "target3Scale": [
             1
@@ -14811,11 +14812,12 @@
         "target3FallDownType": 1,
         "target3TaowaNum": 5,
         "target3TaowaState": 1,
+        "target3TaowaRange": 2.25,
         "targetArr": "1195,1196,1197",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
-        "missionCoef": 4500,
+        "missionCoef": 30,
         "enduranceCost": 1,
         "missionDifficulty": 0,
         "missionDescription": "关卡描述",
@@ -14825,9 +14827,9 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 84,
-        "achieveTwoStarCondition": 91,
-        "achieveThreeStarCondition": 100,
+        "achieveOneStarCondition": 10,
+        "achieveTwoStarCondition": 20,
+        "achieveThreeStarCondition": 30,
         "achieveOneStarExperience": 17,
         "achieveTwoStarExperience": 17,
         "achieveThreeStarExperience": 17,
@@ -14887,6 +14889,7 @@
         "target3FallDownType": 1,
         "target3TaowaNum": 5,
         "target3TaowaState": 1,
+        "target3TaowaRange": 4.5,
         "target4Type": "Target-12",
         "target4Pos": [
             7.3,
@@ -14903,6 +14906,7 @@
         "target4FallDownType": 1,
         "target4TaowaNum": 5,
         "target4TaowaState": 1,
+        "target4TaowaRange": 4.5,
         "targetArr": "1198,1199,1200,1201",
         "gravity": 20,
         "starLimit": 0,
