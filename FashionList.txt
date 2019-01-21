@@ -769,7 +769,7 @@
     },
     "401": {
         "id": 401,
-        "type": 4,
+        "type": 7,
         "name": "女仆套装",
         "mark": "Suit_1",
         "quality": 5,
@@ -785,7 +785,7 @@
     },
     "402": {
         "id": 402,
-        "type": 4,
+        "type": 7,
         "name": "萌妹的连衣裙",
         "mark": "Suit_2",
         "quality": 4,
@@ -863,22 +863,6 @@
             "gunBufferReloadSpeed": 0
         }
     },
-    "407": {
-        "id": 407,
-        "type": 4,
-        "name": "街头大魔王",
-        "mark": "Coat_7",
-        "quality": 4,
-        "to_normal_fragment": 50,
-        "to_legend_fragment": 20,
-        "buffer": {
-            "gunBufferBulletSpeed": 0.04,
-            "gunBufferStablity": 0,
-            "gunBufferMagnify": 0,
-            "gunBufferAim": 0,
-            "gunBufferReloadSpeed": 0
-        }
-    },
     "408": {
         "id": 408,
         "type": 4,
@@ -913,7 +897,7 @@
     },
     "410": {
         "id": 410,
-        "type": 4,
+        "type": 7,
         "name": "热血街舞",
         "mark": "Suit_10",
         "quality": 3,
@@ -929,7 +913,7 @@
     },
     "411": {
         "id": 411,
-        "type": 4,
+        "type": 7,
         "name": "地面冲浪者",
         "mark": "Suit_9",
         "quality": 5,
@@ -945,7 +929,7 @@
     },
     "412": {
         "id": 412,
-        "type": 4,
+        "type": 7,
         "name": "电音小可爱",
         "mark": "Suit_11",
         "quality": 3,
@@ -961,7 +945,7 @@
     },
     "413": {
         "id": 413,
-        "type": 4,
+        "type": 7,
         "name": "圣诞礼裙",
         "mark": "Suit_12",
         "quality": 4,
