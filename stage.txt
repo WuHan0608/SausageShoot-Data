@@ -8209,7 +8209,7 @@
     "Mission-1-102": {
         "level": "Mission-1-102",
         "id": 102,
-        "scene": 2,
+        "scene": 1,
         "UiShowDistance": 200,
         "picId": "1",
         "target1Type": "Target-3",
@@ -8259,7 +8259,7 @@
     "Mission-1-103": {
         "level": "Mission-1-103",
         "id": 103,
-        "scene": 3,
+        "scene": 1,
         "UiShowDistance": 50,
         "picId": "1",
         "target1Type": "Target-13",
@@ -8332,7 +8332,7 @@
     "Mission-1-104": {
         "level": "Mission-1-104",
         "id": 104,
-        "scene": 4,
+        "scene": 1,
         "UiShowDistance": 50,
         "picId": "1",
         "target1Type": "Target-3",
@@ -8382,7 +8382,7 @@
     "Mission-1-105": {
         "level": "Mission-1-105",
         "id": 105,
-        "scene": 5,
+        "scene": 1,
         "UiShowDistance": 50,
         "picId": "1",
         "target1Type": "Target-3",
@@ -8432,7 +8432,7 @@
     "Mission-1-106": {
         "level": "Mission-1-106",
         "id": 106,
-        "scene": 6,
+        "scene": 1,
         "UiShowDistance": 140,
         "picId": "1",
         "target1Type": "Target-17",
@@ -8556,7 +8556,7 @@
     "Mission-1-107": {
         "level": "Mission-1-107",
         "id": 107,
-        "scene": 7,
+        "scene": 1,
         "UiShowDistance": 120,
         "picId": "1",
         "target1Type": "Target-17",
@@ -8693,7 +8693,7 @@
     "Mission-1-108": {
         "level": "Mission-1-108",
         "id": 108,
-        "scene": 8,
+        "scene": 1,
         "UiShowDistance": 80,
         "picId": "10",
         "target1Type": "Target-3",
@@ -8743,7 +8743,7 @@
     "Mission-1-109": {
         "level": "Mission-1-109",
         "id": 109,
-        "scene": 9,
+        "scene": 1,
         "UiShowDistance": 100,
         "picId": "10",
         "target1Type": "Target-3",
@@ -8808,7 +8808,7 @@
     "Mission-1-110": {
         "level": "Mission-1-110",
         "id": 110,
-        "scene": 10,
+        "scene": 1,
         "UiShowDistance": 100,
         "picId": "10",
         "target1Type": "Target-1",
@@ -15698,7 +15698,7 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": "2@15",
-        "target1FallDownPeriod": "1,2,2,1",
+        "target1FallDownPeriod": "2,2,2,1",
         "target1PathTime": "1###0,0,0,0@@75,2,145,2",
         "target2Type": "Target-27",
         "target2Pos": [
@@ -15714,7 +15714,7 @@
         "target2MoveDistance1": 0,
         "target2MoveDistance2": 0,
         "target2FallDownType": "2@15",
-        "target2FallDownPeriod": "1,2,0.1,1",
+        "target2FallDownPeriod": "2,2,0.1,1",
         "target2PathTime": "1###0,0,0,0@@75,2,145,2",
         "target3Type": "Target-28",
         "target3Pos": [
@@ -15730,7 +15730,7 @@
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
         "target3FallDownType": "2@15",
-        "target3FallDownPeriod": "1,2,2,1",
+        "target3FallDownPeriod": "2,2,2,1",
         "target3PathTime": "1###0,0,0,0@@75,2,145,2",
         "target4Type": "Target-27",
         "target4Pos": [
@@ -15746,7 +15746,7 @@
         "target4MoveDistance1": 0,
         "target4MoveDistance2": 0,
         "target4FallDownType": "2@15",
-        "target4FallDownPeriod": "1,2,0.1,1",
+        "target4FallDownPeriod": "2,2,0.1,1",
         "target4PathTime": "1###0,0,0,0@@75,2,145,2",
         "target5Type": "Target-28",
         "target5Pos": [
@@ -15762,7 +15762,7 @@
         "target5MoveDistance1": 0,
         "target5MoveDistance2": 0,
         "target5FallDownType": "2@15",
-        "target5FallDownPeriod": "1,2,2,1",
+        "target5FallDownPeriod": "2,2,2,1",
         "target5PathTime": "1###0,0,0,0@@75,2,145,2",
         "target6Type": "Target-27",
         "target6Pos": [
@@ -15778,7 +15778,7 @@
         "target6MoveDistance1": 0,
         "target6MoveDistance2": 0,
         "target6FallDownType": "2@15",
-        "target6FallDownPeriod": "1,2,0.1,1",
+        "target6FallDownPeriod": "2,2,0.1,1",
         "target6PathTime": "1###0,0,0,0@@75,2,145,2",
         "target7Type": "Target-28",
         "target7Pos": [
@@ -15794,7 +15794,7 @@
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
         "target7FallDownType": "2@15",
-        "target7FallDownPeriod": "1,2,2,1",
+        "target7FallDownPeriod": "2,2,2,1",
         "target7PathTime": "1###0,0,0,0@@75,2,145,2",
         "target8Type": "Target-27",
         "target8Pos": [
@@ -15810,7 +15810,7 @@
         "target8MoveDistance1": 0,
         "target8MoveDistance2": 0,
         "target8FallDownType": "2@15",
-        "target8FallDownPeriod": "1,2,0.1,1",
+        "target8FallDownPeriod": "2,2,0.1,1",
         "target8PathTime": "1###0,0,0,0@@75,2,145,2",
         "target9Type": "Target-28",
         "target9Pos": [
@@ -15826,7 +15826,7 @@
         "target9MoveDistance1": 0,
         "target9MoveDistance2": 0,
         "target9FallDownType": "2@15",
-        "target9FallDownPeriod": "1,2,2,1",
+        "target9FallDownPeriod": "2,2,2,1",
         "target9PathTime": "1###0,0,0,0@@75,2,145,2",
         "target10Type": "Target-27",
         "target10Pos": [
@@ -15842,7 +15842,7 @@
         "target10MoveDistance1": 0,
         "target10MoveDistance2": 0,
         "target10FallDownType": "2@15",
-        "target10FallDownPeriod": "1,2,0.1,1",
+        "target10FallDownPeriod": "2,2,0.1,1",
         "target10PathTime": "1###0,0,0,0@@75,2,145,2",
         "targetArr": "1212",
         "gravity": 20,
