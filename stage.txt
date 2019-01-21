@@ -8156,13 +8156,13 @@
         "level": "Mission-1-101",
         "id": 101,
         "scene": 1,
-        "UiShowDistance": 120,
+        "UiShowDistance": 140,
         "picId": "1",
-        "target1Type": "Target-28",
+        "target1Type": "Target-3",
         "target1Pos": [
-            -1.3,
+            1.3,
             0,
-            105
+            185
         ],
         "target1Scale": [
             1
@@ -8171,46 +8171,20 @@
         "target1MovePeriod": -1,
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
-        "target1FallDownType": 3,
-        "target1PathTime": "1###-0,0,0,0@@60,1.5",
-        "target2Type": "Target-28",
-        "target2Pos": [
-            4.7,
-            0,
-            106
-        ],
-        "target2Scale": [
-            1
-        ],
-        "target2MoveType": 0,
-        "target2MovePeriod": -1,
-        "target2MoveDistance1": 0,
-        "target2MoveDistance2": 0,
-        "target2FallDownType": 3,
-        "target2PathTime": "1###-0,0,0,0@@60,1.5",
-        "target3Type": "Target-28",
-        "target3Pos": [
-            -7.3,
-            0,
-            107
-        ],
-        "target3Scale": [
-            1
-        ],
-        "target3MoveType": 0,
-        "target3MovePeriod": -1,
-        "target3MoveDistance1": 0,
-        "target3MoveDistance2": 0,
-        "target3FallDownType": 3,
-        "target3PathTime": "1###-0,0,0,0@@60,1.5",
-        "targetArr": "123,124,125",
+        "target1FallDownType": 1,
+        "target1IniPosInPole": -1,
+        "target1MovePeriodInPole": 10,
+        "target1PoleRotationDirect": 1,
+        "target1PoleRotationRange": 0,
+        "target1PoleType": 4,
+        "targetArr": "4406",
         "gravity": 20,
         "starLimit": 0,
-        "missionType": 3,
-        "missionCoef": 0,
+        "missionType": 1,
+        "missionCoef": 5,
         "enduranceCost": 1,
         "missionDifficulty": 0,
-        "missionDescription": "关卡描述",
+        "missionDescription": "用5颗子弹达成目标！",
         "achieveOneStarGold": 1100,
         "achieveTwoStarGold": 1650,
         "achieveThreeStarGold": 2200,
