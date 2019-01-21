@@ -8559,11 +8559,11 @@
         "scene": 7,
         "UiShowDistance": 120,
         "picId": "1",
-        "target1Type": "Target-1",
+        "target1Type": "Target-17",
         "target1Pos": [
             1.3,
-            0,
-            125
+            25,
+            185
         ],
         "target1Scale": [
             1
@@ -8572,8 +8572,10 @@
         "target1MovePeriod": -1,
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
-        "target1FallDownType": 1,
-        "targetArr": "129",
+        "target1FallDownType": 3,
+        "target1PathTime": "1###-0.7,0.5,3.3,0.5@10,2,20,4@",
+        "target1Hp": 100,
+        "targetArr": "6711",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -15593,7 +15595,7 @@
         "picId": "14",
         "target1Type": "Target-28",
         "target1Pos": [
-            3.1,
+            3.8,
             0,
             145
         ],
@@ -15623,7 +15625,7 @@
         "target2PathTime": "1###0,0,0,0@@75,2,145,2",
         "target3Type": "Target-28",
         "target3Pos": [
-            4.9,
+            8.8,
             0,
             145
         ],
@@ -15638,7 +15640,7 @@
         "target3PathTime": "1###0,0,0,0@@75,2,145,2",
         "target4Type": "Target-27",
         "target4Pos": [
-            6.7,
+            6.3,
             0,
             145
         ],
@@ -15653,7 +15655,7 @@
         "target4PathTime": "1###0,0,0,0@@75,2,145,2",
         "target5Type": "Target-28",
         "target5Pos": [
-            -0.5,
+            13.8,
             0,
             145
         ],
@@ -15668,7 +15670,7 @@
         "target5PathTime": "1###0,0,0,0@@75,2,145,2",
         "target6Type": "Target-27",
         "target6Pos": [
-            -2.3,
+            11.3,
             0,
             145
         ],
@@ -15683,7 +15685,7 @@
         "target6PathTime": "1###0,0,0,0@@75,2,145,2",
         "target7Type": "Target-28",
         "target7Pos": [
-            8.5,
+            -1.2,
             0,
             145
         ],
@@ -15698,7 +15700,7 @@
         "target7PathTime": "1###0,0,0,0@@75,2,145,2",
         "target8Type": "Target-27",
         "target8Pos": [
-            10.3,
+            -3.7,
             0,
             145
         ],
@@ -15713,7 +15715,7 @@
         "target8PathTime": "1###0,0,0,0@@75,2,145,2",
         "target9Type": "Target-28",
         "target9Pos": [
-            -4.1,
+            -6.2,
             0,
             145
         ],
@@ -15728,7 +15730,7 @@
         "target9PathTime": "1###0,0,0,0@@75,2,145,2",
         "target10Type": "Target-27",
         "target10Pos": [
-            -5.9,
+            -8.7,
             0,
             145
         ],
