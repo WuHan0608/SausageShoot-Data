@@ -3869,7 +3869,7 @@
         "target5Scale": [
             null
         ],
-        "target5PathTime": "1###-3.3,1,5.3,1@0,2@",
+        "target5PathTime": "1###0.3,0.5,2.3,0.5@0,2@",
         "targetArr": "6700,6701,6702,6706",
         "gravity": 20,
         "starLimit": 0,
@@ -14990,7 +14990,7 @@
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
         "target7FallDownType": 1,
-        "target7FallDownPeriod": "8,8,8,1",
+        "target7FallDownPeriod": "8,10,8,1",
         "target8Type": "Target-18",
         "target8Pos": [
             7.3,
@@ -15005,7 +15005,7 @@
         "target8MoveDistance1": 0,
         "target8MoveDistance2": 0,
         "target8FallDownType": 1,
-        "target8FallDownPeriod": "8,8,0.1,1",
+        "target8FallDownPeriod": "8,10,0.1,1",
         "targetArr": "1198,1199,1200,1201",
         "gravity": 20,
         "starLimit": 0,
