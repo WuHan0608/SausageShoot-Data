@@ -14755,7 +14755,7 @@
         "target1TaowaState": 2,
         "target2Type": "Target-12",
         "target2Pos": [
-            1.1,
+            1,
             0,
             145
         ],
@@ -14769,10 +14769,10 @@
         "target2FallDownType": 1,
         "target2TaowaNum": 10,
         "target2TaowaState": 1,
-        "target2TaowaRange": 4.3,
+        "target2TaowaRange": 4.2,
         "target3Type": "Target-12",
         "target3Pos": [
-            1.5,
+            1.6,
             0,
             145
         ],
@@ -14786,7 +14786,7 @@
         "target3FallDownType": 1,
         "target3TaowaNum": 10,
         "target3TaowaState": 1,
-        "target3TaowaRange": 4.3,
+        "target3TaowaRange": 4.2,
         "targetArr": "1195,1196,1197",
         "gravity": 20,
         "starLimit": 0,
