@@ -1,4 +1,4 @@
-{
+﻿{
     "101": {
         "id": 101,
         "type": 1,
@@ -34,7 +34,7 @@
             "Diamond": 100
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.04,
+            "gunBufferBulletSpeed": 0.03,
             "gunBufferStablity": 0.02,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -55,7 +55,7 @@
             "Diamond": 150
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.06,
+            "gunBufferBulletSpeed": 0.04,
             "gunBufferStablity": 0.03,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -76,7 +76,7 @@
             "Diamond": 200
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.09,
+            "gunBufferBulletSpeed": 0.06,
             "gunBufferStablity": 0.04,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -97,7 +97,7 @@
             "Diamond": 300
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.12,
+            "gunBufferBulletSpeed": 0.08,
             "gunBufferStablity": 0.05,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -118,7 +118,7 @@
             "Diamond": 500
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.15,
+            "gunBufferBulletSpeed": 0.11,
             "gunBufferStablity": 0.06,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -139,7 +139,7 @@
             "Diamond": 750
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.19,
+            "gunBufferBulletSpeed": 0.14,
             "gunBufferStablity": 0.07,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -160,7 +160,7 @@
             "Diamond": 1000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.23,
+            "gunBufferBulletSpeed": 0.17,
             "gunBufferStablity": 0.08,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -181,7 +181,7 @@
             "Diamond": 1250
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.27,
+            "gunBufferBulletSpeed": 0.2,
             "gunBufferStablity": 0.1,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -202,7 +202,7 @@
             "Diamond": 1500
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.31,
+            "gunBufferBulletSpeed": 0.23,
             "gunBufferStablity": 0.12,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -223,7 +223,7 @@
             "Diamond": 2000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.35,
+            "gunBufferBulletSpeed": 0.26,
             "gunBufferStablity": 0.14,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -244,7 +244,7 @@
             "Diamond": 2500
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.4,
+            "gunBufferBulletSpeed": 0.3,
             "gunBufferStablity": 0.18,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -265,7 +265,7 @@
             "Diamond": 3000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.46,
+            "gunBufferBulletSpeed": 0.34,
             "gunBufferStablity": 0.2,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -286,7 +286,7 @@
             "Diamond": 4000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.53,
+            "gunBufferBulletSpeed": 0.39,
             "gunBufferStablity": 0.23,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -307,7 +307,7 @@
             "Diamond": 5000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.61,
+            "gunBufferBulletSpeed": 0.45,
             "gunBufferStablity": 0.27,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1021,7 +1021,7 @@
             "Diamond": 100
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.07,
+            "gunBufferBulletSpeed": 0.06,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1042,7 +1042,7 @@
             "Diamond": 200
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.11,
+            "gunBufferBulletSpeed": 0.09,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1063,7 +1063,7 @@
             "Diamond": 400
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.16,
+            "gunBufferBulletSpeed": 0.12,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1084,7 +1084,7 @@
             "Diamond": 700
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.22,
+            "gunBufferBulletSpeed": 0.16,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1105,7 +1105,7 @@
             "Diamond": 1000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.28,
+            "gunBufferBulletSpeed": 0.21,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1126,7 +1126,7 @@
             "Diamond": 1500
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.35,
+            "gunBufferBulletSpeed": 0.27,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1147,7 +1147,7 @@
             "Diamond": 2000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.42,
+            "gunBufferBulletSpeed": 0.32,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1168,7 +1168,7 @@
             "Diamond": 2500
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.5,
+            "gunBufferBulletSpeed": 0.38,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1189,7 +1189,7 @@
             "Diamond": 3000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.6,
+            "gunBufferBulletSpeed": 0.45,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1210,7 +1210,7 @@
             "Diamond": 3500
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.72,
+            "gunBufferBulletSpeed": 0.54,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
@@ -1231,7 +1231,7 @@
             "Diamond": 4000
         },
         "buffer": {
-            "gunBufferBulletSpeed": 0.85,
+            "gunBufferBulletSpeed": 0.65,
             "gunBufferStablity": 0,
             "gunBufferMagnify": 0,
             "gunBufferAim": 0,
