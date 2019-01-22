@@ -510,7 +510,7 @@
         "target1FallDownType": 1,
         "targetArr": "103",
         "gravity": 20,
-        "starLimit": 20,
+        "starLimit": 25,
         "missionType": 2,
         "missionCoef": 30,
         "enduranceCost": 1,
@@ -9115,7 +9115,7 @@
         "target1Type": "Target-23",
         "target1Pos": [
             -150,
-            45,
+            44,
             194
         ],
         "target1Scale": [
@@ -9129,7 +9129,7 @@
         "target2Type": "Target-23",
         "target2Pos": [
             150,
-            35,
+            34,
             179
         ],
         "target2Scale": [
@@ -9153,9 +9153,24 @@
         "target3MovePeriod": -1,
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
-        "target3PathTime": "0#-0.7,45,195,5@-2.7,37,195,4@-0.7,29,195,4@1.3,21,195,4@-0.7,13,195,4@-2.7,29,195,4@-0.7,21,195,4@1.3,13,195,4",
+        "target3PathTime": "0#-0.7,45,195,4.97@-2.7,37,195,4@-0.7,29,195,4@1.3,21,195,4@-0.7,13,195,4@-2.7,29,195,4@-0.7,21,195,4@1.3,13,195,4",
         "target3Hp": 100,
-        "targetArr": "6718,6719,6720",
+        "target4Type": "Target-17",
+        "target4Pos": [
+            -150,
+            45,
+            195
+        ],
+        "target4Scale": [
+            1
+        ],
+        "target4MoveType": 0,
+        "target4MovePeriod": -1,
+        "target4MoveDistance1": 0,
+        "target4MoveDistance2": 0,
+        "target4PathTime": "0#-4.7,45,195,4.84@-4.7,37,195,4@-6.7,29,195,4@-4.7,21,195,4@-2.7,13,195,4@-4.7,29,195,4@-6.7,21,195,4@-4.7,13,195,4",
+        "target4Hp": 100,
+        "targetArr": "6718,6719,6720,6721",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -9169,9 +9184,9 @@
         "achieveOneStarDiamond": 0,
         "achieveTwoStarDiamond": 0,
         "achieveThreeStarDiamond": 0,
-        "achieveOneStarCondition": 8,
-        "achieveTwoStarCondition": 9,
-        "achieveThreeStarCondition": 10,
+        "achieveOneStarCondition": 10,
+        "achieveTwoStarCondition": 19,
+        "achieveThreeStarCondition": 20,
         "achieveOneStarExperience": 17,
         "achieveTwoStarExperience": 17,
         "achieveThreeStarExperience": 17,
