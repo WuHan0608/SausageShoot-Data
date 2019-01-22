@@ -1,0 +1,72 @@
+[
+    {
+        "SnapGrade": 1,
+        "SnapWeight": [
+            0,
+            10,
+            20,
+            30,
+            40
+        ]
+    },
+    {
+        "SnapGrade": 2,
+        "SnapWeight": [
+            5,
+            15,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "SnapGrade": 3,
+        "SnapWeight": [
+            10,
+            20,
+            40,
+            20,
+            10
+        ]
+    },
+    {
+        "SnapGrade": 4,
+        "SnapWeight": [
+            15,
+            20,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "SnapGrade": 5,
+        "SnapWeight": [
+            15,
+            20,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "SnapGrade": 6,
+        "SnapWeight": [
+            15,
+            20,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "SnapGrade": 7,
+        "SnapWeight": [
+            15,
+            20,
+            30,
+            20,
+            10
+        ]
+    }
+]
