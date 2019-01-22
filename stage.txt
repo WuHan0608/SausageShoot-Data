@@ -11190,7 +11190,7 @@
         "scene": 1,
         "UiShowDistance": 80,
         "picId": "1",
-        "target1Type": "Target-1",
+        "target1Type": "Target-3",
         "target1Pos": [
             1.3,
             0,
@@ -11204,8 +11204,14 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "target1PathTime": "1###-3.7,0.6,6.3,0.6@@",
-        "targetArr": "1034",
+        "target1IniPosInPole": 1,
+        "target1MovePeriodInPole": 8,
+        "target1PoleRotationDirect": 3,
+        "target1PoleRotationRange": 180,
+        "target1PoleRotationPeriod": 30,
+        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1PoleType": 4,
+        "targetArr": "6512",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
@@ -16313,7 +16319,7 @@
         "target1Pos": [
             1.3,
             0,
-            105
+            165
         ],
         "target1Scale": [
             1
@@ -16323,7 +16329,35 @@
         "target1MoveDistance1": 0,
         "target1MoveDistance2": 0,
         "target1FallDownType": 1,
-        "targetArr": "1",
+        "target2Type": "Target-2",
+        "target2Pos": [
+            1.3,
+            0,
+            165
+        ],
+        "target2Scale": [
+            1
+        ],
+        "target2MoveType": 0,
+        "target2MovePeriod": -1,
+        "target2MoveDistance1": 0,
+        "target2MoveDistance2": 0,
+        "target2FallDownType": 1,
+        "target3Type": "Target-18",
+        "target3Pos": [
+            4.3,
+            0,
+            163
+        ],
+        "target3Scale": [
+            1
+        ],
+        "target3MoveType": 0,
+        "target3MovePeriod": -1,
+        "target3MoveDistance1": 0,
+        "target3MoveDistance2": 0,
+        "target3FallDownType": 1,
+        "targetArr": "1276",
         "gravity": 20,
         "starLimit": 0,
         "missionType": 2,
