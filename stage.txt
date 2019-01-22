@@ -9115,7 +9115,7 @@
         "target1Type": "Target-23",
         "target1Pos": [
             -150,
-            25,
+            45,
             194
         ],
         "target1Scale": [
@@ -9129,7 +9129,7 @@
         "target2Type": "Target-23",
         "target2Pos": [
             150,
-            25,
+            35,
             179
         ],
         "target2Scale": [
@@ -9143,7 +9143,7 @@
         "target3Type": "Target-17",
         "target3Pos": [
             -150,
-            25,
+            45,
             195
         ],
         "target3Scale": [
@@ -9153,7 +9153,7 @@
         "target3MovePeriod": -1,
         "target3MoveDistance1": 0,
         "target3MoveDistance2": 0,
-        "target3PathTime": "1#-0.7,25,195,5@-2.7,10,195,2@1.3,20,195,4@-2.7,10,195,2@1.3,20,195,4",
+        "target3PathTime": "1#-0.7,25,195,5@-2.7,10,195,@1.3,20,195,4@-2.7,10,195,2@1.3,20,195,4",
         "target3Hp": 100,
         "targetArr": "6718,6719,6720",
         "gravity": 20,
@@ -11209,7 +11209,7 @@
         "target1PoleRotationDirect": 3,
         "target1PoleRotationRange": 180,
         "target1PoleRotationPeriod": 30,
-        "target1MaskPole": "0.23,-0.23,0#1.1,1.1,1.1",
+        "target1MaskPole": "0.23,0.23,0#1.1,1.1,1.1",
         "target1PoleType": 4,
         "targetArr": "6512",
         "gravity": 20,
@@ -16319,7 +16319,7 @@
         "target1Pos": [
             -0.6,
             0,
-            142
+            162
         ],
         "target1Scale": [
             2
@@ -16333,7 +16333,7 @@
         "target2Pos": [
             3.2,
             0,
-            142
+            162
         ],
         "target2Scale": [
             2
@@ -16347,7 +16347,7 @@
         "target3Pos": [
             -0.6,
             2.4,
-            142
+            162
         ],
         "target3Scale": [
             2
@@ -16361,7 +16361,7 @@
         "target4Pos": [
             3.2,
             2.4,
-            142
+            162
         ],
         "target4Scale": [
             2
@@ -16375,7 +16375,7 @@
         "target5Pos": [
             -0.6,
             4.8,
-            142
+            162
         ],
         "target5Scale": [
             2
@@ -16389,7 +16389,7 @@
         "target6Pos": [
             3.2,
             4.8,
-            142
+            162
         ],
         "target6Scale": [
             2
@@ -16403,7 +16403,7 @@
         "target7Pos": [
             -0.6,
             7.2,
-            142
+            162
         ],
         "target7Scale": [
             2
@@ -16417,7 +16417,7 @@
         "target8Pos": [
             3.2,
             7.2,
-            142
+            162
         ],
         "target8Scale": [
             2
@@ -16431,7 +16431,7 @@
         "target9Pos": [
             -0.6,
             9.6,
-            142
+            162
         ],
         "target9Scale": [
             2
@@ -16445,7 +16445,7 @@
         "target10Pos": [
             3.2,
             9.6,
-            142
+            162
         ],
         "target10Scale": [
             2
@@ -16459,7 +16459,7 @@
         "target11Pos": [
             1.3,
             0,
-            145
+            165
         ],
         "target11Scale": [
             1
@@ -16469,7 +16469,7 @@
         "target11MoveDistance1": 0,
         "target11MoveDistance2": 0,
         "target11FallDownType": 1,
-        "target11PathTime": "1###3.3,1,-0.7,1@@",
+        "target11PathTime": "1###3.3,1,-0.7,1@10.5,1,1.5,1@",
         "targetArr": "1276",
         "gravity": 20,
         "starLimit": 0,
