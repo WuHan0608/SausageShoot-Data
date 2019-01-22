@@ -8808,7 +8808,7 @@
     "Mission-1-110": {
         "level": "Mission-1-110",
         "id": 110,
-        "scene": 1,
+        "scene": 2,
         "UiShowDistance": 100,
         "picId": "10",
         "target1Type": "Target-26",
