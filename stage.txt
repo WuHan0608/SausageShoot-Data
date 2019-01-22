@@ -1,3 +1,4 @@
+
 {
     "Mission-1-1": {
         "level": "Mission-1-1",
@@ -8814,7 +8815,7 @@
         "target1Type": "Target-26",
         "target1Pos": [
             -3.7,
-            10,
+            5,
             123
         ],
         "target1Scale": [
@@ -8829,7 +8830,7 @@
         "target2Type": "Target-26",
         "target2Pos": [
             1.3,
-            13,
+            6,
             122
         ],
         "target2Scale": [
@@ -8844,7 +8845,7 @@
         "target3Type": "Target-26",
         "target3Pos": [
             6.3,
-            15,
+            7,
             121
         ],
         "target3Scale": [
@@ -8859,7 +8860,7 @@
         "target4Type": "Target-27",
         "target4Pos": [
             -3.7,
-            -2,
+            -5,
             100
         ],
         "target4Scale": [
@@ -8871,11 +8872,11 @@
         "target4MoveDistance2": 0,
         "target4FallDownType": 3,
         "target4FallDownPeriod": "5,2,3",
-        "target4PathTime": "1#-3.7,-2,100,2@-3.7,0,100,1@-3.7,0,60,20",
+        "target4PathTime": "1#-3.7,-5,100,10@-3.7,0,100,1@-3.7,0,60,20",
         "target5Type": "Target-27",
         "target5Pos": [
             1.3,
-            -2,
+            -5,
             100
         ],
         "target5Scale": [
@@ -8887,11 +8888,11 @@
         "target5MoveDistance2": 0,
         "target5FallDownType": 3,
         "target5FallDownPeriod": "5,2,3",
-        "target5PathTime": "1#1.3,-2,100,2@1.3,0,100,1@1.3,0,60,20",
+        "target5PathTime": "1#1.3,-5,100,10@1.3,0,100,1@1.3,0,60,20",
         "target6Type": "Target-27",
         "target6Pos": [
             6.3,
-            -2,
+            -5,
             100
         ],
         "target6Scale": [
@@ -8903,11 +8904,11 @@
         "target6MoveDistance2": 0,
         "target6FallDownType": 3,
         "target6FallDownPeriod": "5,2,3",
-        "target6PathTime": "1#6.3,-2,100,2@6.3,0,100,1@6.3,0,60,20",
+        "target6PathTime": "1#6.3,-8,100,10@6.3,0,100,1@6.3,0,60,20",
         "target7Type": "Target-28",
         "target7Pos": [
             -3.7,
-            -2,
+            -8,
             80
         ],
         "target7Scale": [
@@ -8918,11 +8919,11 @@
         "target7MoveDistance1": 0,
         "target7MoveDistance2": 0,
         "target7FallDownType": 3,
-        "target7PathTime": "1#-3.7,-2,80,4@-3.7,0,80,1@-3.7,0,60,10",
+        "target7PathTime": "1#-3.7,-8,80,20@-3.7,0,80,1@-3.7,0,60,10",
         "target8Type": "Target-28",
         "target8Pos": [
             -0.7,
-            -2,
+            -8,
             80
         ],
         "target8Scale": [
@@ -8933,11 +8934,11 @@
         "target8MoveDistance1": 0,
         "target8MoveDistance2": 0,
         "target8FallDownType": 3,
-        "target8PathTime": "1#-0.7,-2,80,4@-0.7,0,80,1@-0.7,0,60,10",
+        "target8PathTime": "1#-0.7,-8,80,20@-0.7,0,80,1@-0.7,0,60,10",
         "target9Type": "Target-28",
         "target9Pos": [
             3.3,
-            -2,
+            -8,
             80
         ],
         "target9Scale": [
@@ -8948,11 +8949,11 @@
         "target9MoveDistance1": 0,
         "target9MoveDistance2": 0,
         "target9FallDownType": 3,
-        "target9PathTime": "1#-3.3,-2,80,4@3.3,0,80,1@3.3,0,60,10",
+        "target9PathTime": "1#3.3,-8,80,20@3.3,0,80,1@3.3,0,60,10",
         "target10Type": "Target-28",
         "target10Pos": [
             6.3,
-            -2,
+            -8,
             80
         ],
         "target10Scale": [
@@ -8963,7 +8964,7 @@
         "target10MoveDistance1": 0,
         "target10MoveDistance2": 0,
         "target10FallDownType": 3,
-        "target10PathTime": "1#6.3,-2,80,4@6.3,0,80,1@6.3,0,60,10",
+        "target10PathTime": "1#6.3,-8,80,20@6.3,0,80,1@6.3,0,60,10",
         "targetArr": "6129,6130,6131,6132,6133,6134,6135,6136,6137,6138",
         "gravity": 20,
         "starLimit": 0,
